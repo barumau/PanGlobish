@@ -1,7 +1,7 @@
 # The 10 Rules of Dunish
 
 Dunish is so simple that its basic grammar can be described in only ten rules,
-all of which can fit on a sheet of notepaper.
+all of which can fit on a sheet of paper.
 There are no exceptions.
 
 1. **World Words:**

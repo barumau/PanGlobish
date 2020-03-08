@@ -20,6 +20,7 @@ to get a hotel room, to order a taxi, to buy souvenirs and to do many other thin
 
 Dunish is much easier to learn than English or any other national language because it is regular and simple.
 There aren't unnecessary rules that you just have to know.
+Dunish is so simple that its basic grammar can be described in [only ten rules](100_baze_regule.md).
 Everybody can learn Dunish to a good level in a short period of time!
 Dunish is an excellent choice for the international language because it improves the quality of communication.
 It's better to speak good Dunish than bad English.

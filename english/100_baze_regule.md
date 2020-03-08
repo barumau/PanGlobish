@@ -1,5 +1,9 @@
 # The 10 Rules of Dunish
 
+Dunish is so simple that its basic grammar can be described in only ten rules,
+all of which can fit on a sheet of notepaper.
+There are no exceptions.
+
 1. **World Words:**
    Dunish is an evenly global language.
    International words are borrowed from all parts of the world to Dunish.
@@ -16,14 +20,27 @@
    Words don’t ever change.
 5. **Numerals:**
    The cardinal numbers are:
-   The cardinal numbers, when placed after a noun, become ordinal numbers.
+       - 0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sikes**,
+         7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.
+       - Greater than ten: 11 **ten un**, 12 **ten due**, 13 **ten tri**, etc.
+       - Tens: 20 **due ten**, 30 **tri ten**, 40 **for ten**, etc.
+       - Hundreds: 100 **un hunde**, 200 **due hunde**, 300 **tri hunde**, etc.
+       - Thousands: 1000 **un tauzen**, 2000 **due tauzen**, 3000 **tri tauzen**, etc.
+       - The cardinal numbers, when placed after a noun, become ordinal numbers.
 6. **Adjectives:**
    The adjective is always placed before the noun with the exception of the ordinal numbers.
-    - The comparative of equality is sam...as (as...as).
-    - The comparative of superiority is mor...dan (more...than).
-    - The comparative of inferiority is les...dan (less...than).
+    - The comparative of equality is sam...as (as...as_.
+    - The comparative of superiority is mor...dan (more...than_.
+    - The comparative of inferiority is les...dan (less...than_.
 7. **Pronouns:**
-   The personal pronouns are
+    - The personal pronouns are:
+     **mi** _I_, **tu** _you_ (sg.)_, **he** _he or she_,
+     **wi** _we_, **yu** _you_ (pl.), **de** _they_.
+    - The possessive pronouns are:
+      **mi's** _my_, **tu's** _your_, **he's** _his or her_,
+      **wi's** _our_, **yu's** _your_, **de's** _their_.
+     - The interrogative pronouns are: **wa** _what_, **hu** _who_, **hu's** _whose_.
+     - The demonstrative pronouns are: **di** _this or these_, **da** _that or those_.
 8. **Verbs:**
    The verb does not change in person, number and tense.
 9. **Word order:**

@@ -60,6 +60,8 @@ They are not used in any ordinary Dunish words.
 |:------:|:----:|:---------------------|
 | Kh     | /x/  | Voiceless velar fricative, like _ch_ in _Loch_ in Scottish. |
 | Gh     | /ɣ/  | Voiced velar fricative |
+| Ph     | /ɸ/  | Voiceless bilabial fricative |
+| Bh     | /β/  | Voiced bilabial fricative |
 | Q      | /q/  | Voiceless uvular stop |
 | Qh     | /χ/  | Voiceless uvular fricative |
 | Rh     |/ʀ~ʁ/ | Voiced uvular trill or fricative like _rh_ in _rhume_ in Parisian French. |

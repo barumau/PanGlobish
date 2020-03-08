@@ -1,0 +1,14 @@
+site_name: Dunish
+site_url: http://www.pandunia.info/dunish/english
+site_author: Risto Kupsala
+docs_dir: ../../english
+site_dir: ../../html/english
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - 'Grammar and Rules':
+        - 'The 10 rules': 100_baze_regule.md
+        - 'World Words': 101_dunia_worde.md
+        - 'Spelling and pronunciation': 102_ortografie.md
+        - 'Regular Accent': 103_aksente.md
+    - 'Dunish vs English': 201_Dunish_vs_English.md

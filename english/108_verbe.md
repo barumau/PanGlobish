@@ -1,5 +1,24 @@
 # Verbs
 
+Verbs are unchanging in Dunish.
+They don't change in person, number and time like in English.
+Verbs are not conjugated at all.
+
+## Person and number
+
+Person and number are indicated by a personal pronoun or a noun.
+
+**mi love tu.**
+– I love you.  
+**wi love yu.**
+– We love you.  
+**he love tu.**
+– He or she loves you.  
+**Jorje is love Mari.**
+– George loves Mary.  
+**tri siste is love un man.**
+– Three sisters love one man.
+
 ## Time
 
 Dunish does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
@@ -90,4 +109,34 @@ It is marked with **wil** before the verb.
 – We will speak Dunish.  
 **mi wil bi yu's frende.**
 – I will be your friend.
+
+## To be
+
+The verb **bi** (to be) is used mostly like in English.
+It is a regular verb with one exception:
+**is** is normally used instead of **is bi**.
+
+Naturally, there is only one form that is used in all persons.
+
+**mi is hapi.**
+– I am happy.  
+**wi is hapi.**
+– We are happy.  
+**tu is hapi.**
+– You are happy. (singular)  
+**yu is hapi.**
+– You are happy. (plural)  
+**he is hapi.**
+– He or she is happy.  
+**ze is hapi.**
+– They are happy.
+
+The aspect markers can be used with **bi** just like with other verbs.
+
+**he don bi un bebe.**
+– He was a baby.  
+**he has bi un boi.**
+– He has been a boy.  
+**he wil bi un man.**
+– He will be a man.
 

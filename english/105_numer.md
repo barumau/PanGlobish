@@ -61,3 +61,34 @@ It is normal to say, for example:
 | heto   | h      | 10²  |                               100 |
 | deca   | da     | 10¹  |                                10 |
 
+
+## Months
+
+The names of the months are:
+**Januari**
+– January  
+**Februari**
+– February  
+**Marte**
+– March  
+**April**
+– April  
+**Mai**
+– May  
+**June**
+– June  
+**Yuli**
+– July  
+**Auguste**
+– August  
+**Setembre**
+– September  
+**Otobre**
+– October  
+**Novembre**
+– November  
+**Desembre**
+– December
+
+In addition there is **Ramazan** (Ramadan), the holy ninth month of the Islamic lunar calendar.
+

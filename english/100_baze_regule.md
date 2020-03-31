@@ -34,7 +34,7 @@ There are no exceptions.
     - The comparative of inferiority is les...dan (less...than_.
 7. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.)_, **he** _he or she_,
+     **mi** _I_, **tu** _you_ (sg.), **he** _he or she_,
      **wi** _we_, **yu** _you_ (pl.), **de** _they_.
     - The possessive pronouns are:
       **mi's** _my_, **tu's** _your_, **he's** _his or her_,

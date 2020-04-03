@@ -115,8 +115,10 @@ It is marked with **wil** before the verb.
 The verb **bi** (to be) is used mostly like in English.
 It is a regular verb with one exception:
 **is** is normally used instead of **is bi**.
+So it is common to say **yu is hapi** (_You are happy_) instead of **yu is bi hapi**,
+but the latter is also correct.
 
-Naturally, there is only one form that is used in all persons.
+Only one form is used in all persons.
 
 **mi is hapi.**
 – I am happy.  
@@ -133,10 +135,12 @@ Naturally, there is only one form that is used in all persons.
 
 The aspect markers can be used with **bi** just like with other verbs.
 
-**he don bi un bebe.**
-– He was a baby.  
-**he has bi un boi.**
-– He has been a boy.  
-**he wil bi un man.**
-– He will be a man.
+**mi is hapi.**
+– I am happy.  
+**mi has bi hapi.**
+– I have been happy.  
+**mi don bi hapi.**
+– I was happy.  
+**mi wil bi hapi.**
+– I will be happy.
 

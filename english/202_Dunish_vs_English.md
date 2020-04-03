@@ -1,5 +1,14 @@
 # Dunish vs English
 
+In this page Dunish is compared to English.
+The goal is to show why Dunish would be a better global second language
+for people who don't have a common language.
+English is perfectly OK as a national language and as an international language
+between countries where it is already spoken.
+
+
+## Comparison in a Nutshell
+
 | English                                                 | vs | Dunish                            |
 |:------------------------------------------------------- |:--:|:----------------------------------|
 | Western                                                 |    | Global                            |
@@ -7,7 +16,7 @@
 | Very irregular spelling                                 |    | Regular spelling                  |
 | Irregular stress                                        |    | Regular stress                    |
 | 12 vowels and 24 consonants                             |    | 6 vowels and 21 consonants        |
-| Almost 200 irregular verbs                              |    | 1 irregular verb                  |
+| Almost 200 irregular verbs                              |    | Only regular verbs                |
 | Inflected verbs<br>e.g. speak, spoke, spoken            |    | Unchanging verbs                  |
 | Inflected nouns<br>e.g. one life, two lives             |    | Unchanging nouns                  |
 | Inflected adjectives<br>e.g. good, better, best         |    | Unchanging adjectives             |
@@ -17,7 +26,65 @@
 | Changing word order e.g. in questions                   |    | One fixed word order              |
 
 
-## Spelling
+## Why English is not a good world language?
+
+### English is not fair
+
+International communication should be a situation where everybody meets halfway.
+That's not the situation with English.
+Native English speakers don't need to make any effort,
+while the others have to spend years learning English in school or on their own.
+Native English speakers have an advantage over the others.
+They are in a dominant position.
+
+This is mostly a result of political history.
+Britain was successful at invading and submitting other territories in the age of colonialism
+and it imposed the English language on other peoples.
+Although the power of Britain waned eventually,
+its military, economic and cultural dominance was continued by another English speaking power, the USA, until today.
+
+Native English speakers always have an advantage over non-native speakers
+because they speak English fluently and they are aware of all the cultural nuances.
+Native English speakers speak English perfecty by definition,
+whereas non-native speakers speak it almost always with an accent
+– and it's their job to lose that accent!
+They also tend to make mistakes in grammar
+and they often select their words poorly
+because English vocabulary is huge, layered, and nuanced.
+
+### English is hard
+
+English is really a hard language to learn
+if you grow up in an environment where it's not the main language.
+This fact is evidenced by the huge number of mistakes
+that non-native speakers make when they try to speak or write it.
+Although non-native speakers can make themselves understood in English,
+they can rarely get to the same level where native English speakers are by birth.
+
+There are over 200 irregular verbs in English, like _go, went, gone_,
+but there should be none the world language.
+English has a lot of odd phrasal verbs that don't make any sense,
+and often they can mean many things.
+For example _to make up_ means:
+
+- to compensate (ex. _I will make up the time_),
+- to invent (ex. _He made up a story_),
+- to apply cosmetics (ex. _I make up my face_),
+- to resolve (ex. _I made up my mind_), and
+- to become friends again (ex. _They made up after the fight_).
+
+How can you learn all of them?
+Logic doesn't help, obviously, so you just have to memorize them one by one...
+And that's not a great method to learn a language!
+It should be the last resort when all else has failed,
+but you need to use the memorization method a lot when you are learning English.
+
+There are definitely some very difficult aspects in the English language.
+It's not exceptionally hard, though,
+but it is about as hard as other European languages.
+The main point is that it's much harder than what the world language needs to be!
+
+### English has chaotic spelling
 
 The English spelling is one of the hardest spellings in the world.
 It is complicated and often illogical.
@@ -43,25 +110,19 @@ Each letter (or combination of letters) is pronounced in the same way in every w
 If you hear a word, you can always spell it.
 If you read a word, you can always pronounce it.
 
-In addition, the Dunish spelling is more or less compatible with most of the other languages in the world
-that are written in the Latin alphabet.
-The following table lists letters that are pronounced similarly in Dunish and other languages.
+In addition, the Dunish spelling system is quite similar to other language.
+In fact, Dunish spelling is very much like the international norm.
 
-| Dunish          | A | B | C | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-|:----------------|---|---|---|----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|----|---|---|---|---|---|---|
-| German          | A | B | C |    | D | E | F | G | H | I |   | K | L | M | N | O | P | R | S |    | T | U | V |   |   |   |
-| French          | A | B |   |    | D | E | F | G |   | I |   | K | L | M | N | O | P | R | S |    | T | U | V |   | Y | Z |
-| Portuguese      | A | B |   |    | D | E | F | G |   | I |   | K | L | M | N | O | P | R | S |    | T | U | V |   |   | Z |
-| Spanish         | A | B |   | CH | D | E | F | G |   | I |   | K | L | M | N | O | P | R | S |    | T | U | V |   | Y |   |
-| Polish          | A | B | C |    | D | E | F | G | H | I |   | K | L | M | N | O | P | R | S |    | T | U |   |   |   | Z |
-| Indian Romaniz. | A | B |   | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-| Chinese Pinyin  | A | B | C | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U |   | W | Y |   |
-| Japanese Romaji | A | B |   | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-| Korean Romaja   | A | B | C | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U |   | W | Y |   |
-| Vietnamese      | A | B |   | CH | Ð | E |   | G | H | I |   | K | L | M | N | O | P | R | S |    | T | U | V |   | Y |   |
-| Malay           | A | B |   | C  | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S |    | T | U | V | W | Y | Z |
-| Hausa           | A | B | C |    | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-| Igbo            | A | B |   | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-| Oromo           | A | B |   | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
-| Swahili         | A | B |   | CH | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | SH | T | U | V | W | Y | Z |
+Let's compare the pronunciation of the word "nature" in selected European languages and Dunish.
+
+| Language   | Written form | Spoken form |
+|:-----------|:-------------|:------------|
+| English    | nature       | /neɪtʃə/ |
+| French     | nature       | /natyʁ/ |
+| Italian    | natura       | /natura/ |
+| Spanish    | naturaleza   | /natuɾalesa/ |
+| Portuguese | natureza     | /natuɾezɐ/ |
+| German     | Natur        | /natuʁ/ |
+| Polish     | natura       | /natura/ |
+| Dunish     | nature       | /naturə/ |
 

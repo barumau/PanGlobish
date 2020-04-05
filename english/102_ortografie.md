@@ -183,7 +183,7 @@ like for example **GULag**, which is an acronym of the Russian words "Glavnoye U
 Capital letters are also used in the standard international acronyms.
 For example:
 10 Mb (ten megabite),
-100 GB (hunde giga baite),
+100 GB (hunde gigabaite),
 2 mm (due milimetre),
 1 kJ (un kilojul).
 

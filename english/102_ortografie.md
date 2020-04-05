@@ -154,3 +154,38 @@ For example, family name _Smith_ may remain **Smith** in Dunish,
 although it is structurally more complex than common Dunish words, and
 it has the external TH sound.
 
+
+## Large and Small Letters
+
+Both large and small letters (i.e. upper-case and lower-case letters) are used in writing Dunish.
+
+Large letters are used in two situations:
+to begin a proper name,
+and to represent a name or another word with only the initial letter.
+
+#### Proper names
+
+Personal names and other proper names are capitalized mostly in the same way as in English.
+For example _Thomas Stearns Eliot_ is written **Tomas Sternz Eliot** in Dunish,
+and it can be abbreviated to initial letters variously
+**Tomas S Eliot**, **TS Eliot** and **TSE**.
+
+In titles of artistic works, like books, songs and films, every word begins with a large letter. For example,
+**Da Lorde Of Di Ring**
+(The Lord of the Rings).
+
+#### Acronyms
+
+Initialisms, like **ASEAN**, **EU**, **NAFTA** and **UN**, are always written in large letters.
+Other acronyms may use a mixture of large and small letters,
+like for example **GULag**, which is an acronym of the Russian words "Glavnoye Upravleniye Lagerey".
+
+Capital letters are also used in the standard international acronyms.
+For example:
+10 Mb (ten megabite),
+100 GB (hunde giga baite),
+2 mm (due milimetre),
+1 kJ (un kilojul).
+
+The first word in a sentence is not capitalized.
+

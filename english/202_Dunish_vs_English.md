@@ -7,7 +7,43 @@ English is perfectly OK as a national language and as an international language
 between countries where it is already spoken.
 
 
-## Comparison in a Nutshell
+## Is Dunish just a poor copy of English?
+
+Dunish is much more than just a copy of English.
+
+English is a Germanic language and therefore it is related to other Germanic languages,
+which are in many ways similar to English but they are independent, separate and definitely not copies of English.
+Take a look at this comparison
+(from [Quora](https://www.quora.com/Why-dont-all-the-continental-Germanic-languages-form-a-dialect-continuum-as-all-the-contiguous-Romance-languages-do))
+of the same sentence in English and other Germanic languages.
+
+| English   | I am the son of my father and my mother.         |
+|:----------|:-------------------------------------------------|
+| Scots     | A am the son o ma faither an ma mither.          |
+| Dutch     | Ik ben de zoon van mijn vader en mijn moeder.    |
+| Afrikaans | Ek is die seun van my pa en my ma.               |
+| German    | Ich bin der Sohn meines Vaters und meiner Mutter.|
+| Yiddish   | Ikh bin der zun fun mayn foter un mayn muter.    |
+| Danish    | Jeg er søn af min far og min mor.                |
+| Norwegian | Jeg er sønnen til faren min og moren min.        |
+| Swedish   | Jag är son till min far och min mor.             |
+| Icelandic | Ég er sonur föður míns og móður minnar.          |
+
+The same sentence in Dunish is also somewhat similar with _all Germanic languages_:  
+**mi is de man kide of mi's papa en mi's mama.**  
+So English is nothing special in this regard.
+
+Dunish is an independent language that bears significant similarity to
+Germanic languages like English, German and Dutch
+but also to Romance languages like Italian, Spanish, Portuguese and French
+and, to a lesser degree, also to many other languages.
+It is an independent language in the great global network of languages.
+
+Now that this issue is settled, let's continue comparing Dunish, the challenger,
+and English, the reigning world language.
+
+
+## Table of Comparison
 
 | English                                                 | vs | Dunish                            |
 |:------------------------------------------------------- |:--:|:----------------------------------|
@@ -124,5 +160,6 @@ Let's compare the pronunciation of the word "nature" in selected European langua
 | Portuguese | natureza     | /natuɾezɐ/ |
 | German     | Natur        | /natuʁ/ |
 | Polish     | natura       | /natura/ |
+| Russian    | натура       | /nɐturə/ |
 | Dunish     | nature       | /naturə/ |
 

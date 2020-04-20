@@ -43,7 +43,7 @@ Now that this issue is settled, let's continue comparing Dunish, the challenger,
 and English, the reigning world language.
 
 
-## Table of Comparison
+## Main Points of Comparison
 
 | English                                                 | vs | Dunish                            |
 |:------------------------------------------------------- |:--:|:----------------------------------|
@@ -151,7 +151,7 @@ In fact, Dunish spelling is very much like the international norm.
 
 Let's compare the pronunciation of the word "nature" in selected European languages and Dunish.
 
-| Language   | Written form | Spoken form |
+| Language   | Written word | Spoken word |
 |:-----------|:-------------|:------------|
 | English    | nature       | /neɪtʃə/ |
 | French     | nature       | /natyʁ/ |

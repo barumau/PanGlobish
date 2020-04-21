@@ -39,9 +39,9 @@ The personal pronouns are a good example of the regularity of Dunish.
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
-| **mi** (_I_)               | **wi** (_we_)              |
-| **tu** (_you_)             | **yu** (_you all_)         |
-| **he** (_he or she_)       | **de** (_they_)            |
+| **mi** – _I_               | **wi** – _we_              |
+| **tu** – _you_             | **yu** – _you all_         |
+| **he** – _he or she_       | **de** – _they_            |
 
 The personal pronouns, like all words in Dunish, never change.
 The same word form is used as the subject (i.e. the "doer") and as the object.
@@ -62,9 +62,9 @@ The possessive pronouns (_my_, _your_, etc.) are created regularly by adding the
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
-| **mi's** (_my_)            | **wi's** (_our_)           |
-| **tu's** (_your_)          | **yu's** (_your_)          |
-| **he's** (_his or her_)    | **de's** (_their_)         |
+| **mi's** – _my_            | **wi's** – _our_           |
+| **tu's** – _your_          | **yu's** – _your_          |
+| **he's** – _his or her_    | **de's** – _their_         |
 
 ### is = is/am/are
 
@@ -96,7 +96,27 @@ The word **name**, in the same single form, can refer to one name or many names.
 
 Dunish is free from all sorts of inflection, declination, conjugation or whatever it's called.
 Words don't change, period.
-It's as simple as that.
+It's as simple as that!
+
+
+## Exercises
+
+Try translating these sentences from English to Dunish.
+The correct answers are after the word list.
+
+1. His name is Adam.
+2. Her name is Maria.
+3. Their names are Adam and Maria.
+4. He is Adam.
+5. She is Maria.
+6. They are Adam and Maria.
+7. Adam and Maria are happy.
+8. What's your name?
+9. My name is _ _ _ _ _ _.
+10. I am _ _ _ _ _ _.
+11. I am happy.
+12. I am happy to meet you.
+
 
 ## Word List
 
@@ -104,6 +124,10 @@ It's as simple as that.
 – and  
 **halo**
 – hello  
+**he**
+– he or she, him or her  
+**he's**
+– his or her  
 **is**
 – is, am, are  
 **mi**
@@ -113,17 +137,40 @@ It's as simple as that.
 **hapi**
 – happy  
 **mite**
-– to meet  
+– to meet, meeting  
 **name**
 – name  
 **olso**
 – also, too  
 **to**
 – to (the tag for verbs)  
+**tu**
+– you, thou, thee  
+**tu's**
+– your, thine  
 **wa**
 – what  
+**wi**
+– we, us  
+**wi's**
+– our  
 **yu**
 – you  
 **yu's**
 – your  
+
+## Answers to the Exercises
+
+1. he's name is Adam.
+2. he's name is Maria.
+3. de's name is Adam en Maria.
+4. he is Adam.
+5. he is Maria.
+6. de is Adam en Maria.
+7. Adam en Maria is hapi.
+8. wa is yu's name.
+9. mi's name is _ _ _ _ _ _.
+10. mi is _ _ _ _ _ _.
+11. mi is hapi.
+12. wi is hapi to mite tu/yu.
 

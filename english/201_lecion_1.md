@@ -35,7 +35,7 @@ because Dunish is totally regular.
 
 ### Personal pronouns
 
-The personal pronouns are a good example of the regularity of Dunish.
+Here are the personal pronouns in Dunish:
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
@@ -66,7 +66,7 @@ The possessive pronouns (_my_, _your_, etc.) are created regularly by adding the
 | **tu's** – _your_          | **yu's** – _your_          |
 | **he's** – _his or her_    | **de's** – _their_         |
 
-### is = is/am/are
+### The same verb in all persons
 
 The verb for being is also regular and it's the same for all persons.
 

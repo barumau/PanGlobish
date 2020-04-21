@@ -26,3 +26,24 @@ In this regard it is similar to the real relatives of English
 and the children of English,
 (like Jamaican, Singaporean and Nigerian versions of English).
 
+
+## What Dunish should sound like?
+
+Dunish is spoken in the "continental" manner.
+It means that the Germanic part of Dunish sounds rather like German, Dutch and the Scandinavian languages,
+and the Romance part sounds like Spanish, Portuguese, Italian and French.
+
+https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English
+
+
+English: nation /neɪʃən/
+German: Nation /natsio:n/
+Dutch: natie /na:tsi/
+Russian: нация /natsiya/
+French: nation /nasyõ/
+Spanish: nación /nasyon/
+Portuguese: nação /nasãũ/
+
+
+[University Word List](http://jbauman.com/aboutUWL.html)
+

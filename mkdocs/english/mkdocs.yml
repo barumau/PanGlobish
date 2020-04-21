@@ -1,5 +1,6 @@
 site_name: Dunish
 site_url: http://www.pandunia.info/dunish/english
+repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
 docs_dir: ../../english
 site_dir: ../../html/english
@@ -17,5 +18,5 @@ nav:
         - Verbs: 108_verbe.md
         - 'Word building': 110_worde_kostrution.md
     - 'About Dunish':
-        - 'The idea': 201_idea_of_Dunish.md
-        - 'Dunish vs English': 202_Dunish_vs_English.md
+        - 'The idea': 301_idea_of_Dunish.md
+        - 'Dunish vs English': 302_Dunish_vs_English.md

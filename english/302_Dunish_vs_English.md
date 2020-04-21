@@ -52,13 +52,13 @@ and English, the reigning world language.
 | Very irregular spelling                                 |    | Regular spelling                  |
 | Irregular stress                                        |    | Regular stress                    |
 | 12 vowels and 24 consonants                             |    | 6 vowels and 21 consonants        |
-| Almost 200 irregular verbs                              |    | Only regular verbs                |
-| Inflected verbs<br>e.g. speak, spoke, spoken            |    | Unchanging verbs                  |
+| Almost 200 irregular verbs<br>e.g. speak, spoke, spoken |    | Only regular verbs                |
+| Inflected verbs<br>e.g. talk, talks, talked             |    | Unchanging verbs                  |
 | Inflected nouns<br>e.g. one life, two lives             |    | Unchanging nouns                  |
 | Inflected adjectives<br>e.g. good, better, best         |    | Unchanging adjectives             |
 | Huge vocabulary                                         |    | Small vocabulary                  |
 | Duplicate words from Germanic, Latinate and Greek roots |    | Few duplicate words               |
-| Complex and irregular word formation                    |    | Simple and regular word formation |
+| Complex and irregular word formation                    |    | Simple and regular word building  |
 | Changing word order e.g. in questions                   |    | One fixed word order              |
 
 

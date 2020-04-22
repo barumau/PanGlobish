@@ -2,27 +2,30 @@
 
 ## Dialog
 
-<big>🧔</big>
+![](http://www.pandunia.info/dunish/grafe/Freepik_halo.png)  
+[Designed by pikisuperstar / Freepik](http://www.freepik.com)
+
+<big>👨🏾</big>
 **halo!**
 – Hello!  
 <big>👩</big>
 **halo!**
 – Hello!  
-<big>🧔</big>
+<big>👨🏾</big>
 **wa is yu's name?**
 – What is your name?  
 <big>👩</big>
-**mi's name is Sara. en yu's?**
-– My name is Sarah. And your?  
-<big>🧔</big>
+**mi's name is Mari. en yu's?**
+– My name is Mari. And your?  
+<big>👨🏾</big>
 **mi is Yusef.**
 = I am Yusef.  
 <big>👩</big>
 **mi is hapi to mite yu, Yusef.**
 – I'm happy to meet you, Yusef.  
-<big>🧔</big>
-**mi olso, Sara.**
-– Me too, Sarah.
+<big>👨🏾</big>
+**mi olso, Mari.**
+– Me too, Mari.
 
 
 ## Grammar
@@ -87,12 +90,12 @@ So verbs don't change to indicate the person.
 And nouns don't change either!
 The word **name**, in the same single form, can refer to one name or many names.
 
-**he's name is Sara.**
-– Her name is Sarah.  
+**he's name is Mari.**
+– Her name is Mari.  
 **he's name is Yusef.**
 – His name is Yusef.  
-**de's name is Sara en Yusef.**
-– Their names are Sarah and Yusef.
+**de's name is Mari en Yusef.**
+– Their names are Mari and Yusef.
 
 Dunish is free from all sorts of inflection, declination, conjugation or whatever it's called.
 Words don't change, period.
@@ -105,12 +108,12 @@ Try translating these sentences from English to Dunish.
 The correct answers are after the word list.
 
 1. His name is Adam.
-2. Her name is Maria.
-3. Their names are Adam and Maria.
+2. Her name is Sara.
+3. Their names are Adam and Sara.
 4. He is Adam.
-5. She is Maria.
-6. They are Adam and Maria.
-7. Adam and Maria are happy.
+5. She is Sara.
+6. They are Adam and Sara.
+7. Adam and Sara are happy.
 8. What's your name?
 9. My name is _ _ _ _ _ _.
 10. I am _ _ _ _ _ _.
@@ -162,12 +165,12 @@ The correct answers are after the word list.
 ## Answers to the Exercises
 
 1. he's name is Adam.
-2. he's name is Maria.
-3. de's name is Adam en Maria.
+2. he's name is Sara.
+3. de's name is Adam en Sara.
 4. he is Adam.
-5. he is Maria.
-6. de is Adam en Maria.
-7. Adam en Maria is hapi.
+5. he is Sara.
+6. de is Adam en Sara.
+7. Adam en Sara is hapi.
 8. wa is yu's name.
 9. mi's name is _ _ _ _ _ _.
 10. mi is _ _ _ _ _ _.

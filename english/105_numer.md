@@ -11,7 +11,7 @@ However, greater numbers are arranged more logically in Dunish.
 | 3 tri   | 13 ten tri   | 23 due ten tri   | 33 tri ten tri   |
 | 4 for   | 14 ten for   | 24 due ten for   | 34 tri ten for   |
 | 5 faive | 15 ten faive | 25 due ten faive | 35 tri ten faive |
-| 6 sikse | 16 ten sikse | 26 due ten sikse | 36 tri ten sikse |
+| 6 sixe  | 16 ten sixe  | 26 due ten sixe  | 36 tri ten sixe  |
 | 7 seven | 17 ten seven | 27 due ten seven | 37 tri ten seven |
 | 8 eite  | 18 ten eite  | 28 due ten eite  | 38 tri ten eite  |
 | 9 nain  | 19 ten nain  | 29 due ten nain  | 39 tri ten nain  |
@@ -24,7 +24,7 @@ However, greater numbers are arranged more logically in Dunish.
 | 3 tri   | 30 tri ten   | 300 tri hunde   | 3000 tri tauzen   |
 | 4 for   | 40 for ten   | 400 for hunde   | 4000 for tauzen   |
 | 5 faive | 50 faive ten | 500 faive hunde | 5000 faive tauzen |
-| 6 sikse | 60 sikse ten | 600 sikse hunde | 6000 sikse tauzen |
+| 6 sixe  | 60 sixe ten  | 600 sixe hunde  | 6000 sixe tauzen  |
 | 7 seven | 70 seven ten | 700 seven hunde | 7000 seven tauzen |
 | 8 eite  | 80 eite ten  | 800 eite hunde  | 8000 eite tauzen  |
 | 9 nain  | 90 nain ten  | 900 nain hunde  | 9000 nain tauzen  |

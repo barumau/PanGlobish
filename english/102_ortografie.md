@@ -1,9 +1,10 @@
 # Spelling and pronunciation
 
-Dunish is fully phonetic in two directions:
+Dunish is phonetic in two directions:
 
-1. When you hear a word, you can always spell it.
-2. When you read a word, you can always pronounce it.
+1. When you read a word, you can always pronounce it.
+2. When you hear a word, you can normally spell it.
+   (Foreign names can be an exception.)
 
 ## Basic Latin Alphabet
 
@@ -11,7 +12,7 @@ Dunish is written in the basic Latin alphabet – the same as English!
 It doesn't have any of the accented letters, which are different from language to language.
 So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
 
-> A B C Ch D E F G H I J K L M N O P R S Sh T U V W Y Z
+> A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
 ## Sounds
 
@@ -28,7 +29,7 @@ where E represents both /e/ and /ə/.
 |:------:|:----:|:---------------------|
 | A      | /a/  | As in _father_. |
 | E      | /e/  | As in _bet_ when it is in accented syllable. |
-| E      | /ə/  | As in _happen_ when it is in unaccented syllable. |
+| E      | /ə/  | As in _happen_ when it is in unaccented syllables. |
 | I      | /i/  | As in _machine_. |
 | O      | /o/  | As in _or_. |
 | U      | /u/  | As in _rule_. |
@@ -63,6 +64,7 @@ They are represented in the writing system by 19 Latin letters and their combina
 | T      | /t/  | |
 | V      | /v/  | |
 | W      | /w/  | |
+| X      | /ks/ | |
 | Y      | /j/  | Like _y_ in _yes_. |
 | Z      | /z/  | |
 

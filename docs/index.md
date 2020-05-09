@@ -34,6 +34,27 @@ It's better to speak good Dunish than bad English.
 > wi kan toke Dunish!  
 > <small>(We can speak Dunish!)</small>
 
+## Grammar and Lessons
+
+- [The 10 rules](100_baze_regule.md)
+- [World Words](101_dunia_worde.md)
+- [Spelling and pronunciation](102_ortografie.md)
+- [Regular Accent](103_aksente.md)
+- [Nouns](104_nome.md)
+- [Numerals](105_numer.md)
+- [Pronouns](107_pronome.md)
+- [Verbs](108_verbe.md)
+- [Word building](110_worde_kostrution.md)
+
+### Lessons
+
+- [Lesson 1](201_lecion_1.md)
+
+### About Dunish
+
+- [The idea of Dunish](301_idea_of_Dunish.md)
+- [Dunish vs English](302_Dunish_vs_English.md)
+
 ## The Basics of Dunish
 
 Dunish is written in the English/Latin alphabet:  
@@ -141,26 +162,4 @@ So just start using Dunish now and let's make it together our common language!
 
 ![](http://www.pandunia.info/dunish/grafe/Freepik_pikisuperstar_2.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
-
-
-## Grammar and Lessons
-
-- [The 10 rules](100_baze_regule.md)
-- [World Words](101_dunia_worde.md)
-- [Spelling and pronunciation](102_ortografie.md)
-- [Regular Accent](103_aksente.md)
-- [Nouns](104_nome.md)
-- [Numerals](105_numer.md)
-- [Pronouns](107_pronome.md)
-- [Verbs](108_verbe.md)
-- [Word building](110_worde_kostrution.md)
-
-### Lessons
-
-[Lesson 1](201_lecion_1.md)
-
-### About Dunish
-
-- [The idea of Dunish](301_idea_of_Dunish.md)
-- [Dunish vs English](302_Dunish_vs_English.md)
 

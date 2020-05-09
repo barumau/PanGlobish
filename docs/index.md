@@ -148,7 +148,7 @@ So don't wait!
 Use it with your friends in everyday life or try it with strangers when you are traveling.
 It works!
 
-At the moment you can speak Dunish in [this group in Facebook](https://www.facebook.com/groups/DunishFB/) or in [this channel in Telegram](https://t.me/dunix_baxa).
+At the moment you can speak Dunish in [this group in Facebook](https://www.facebook.com/groups/DunishFB/) or in [this channel in Telegram](https://t.me/Dunish1).
 
 There aren't many speakers yet
 but if _you_ think Dunish is a good idea, then _others_ will think so too.

@@ -1,3 +1,4 @@
+title: Dunish
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,4 +7,9 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
+navigation:
+  - title: Home
+    url: docs/index.md
+  - title: The 10 rules
+    url: docs/100_baze_regule.md
 

@@ -117,7 +117,7 @@ Comparison is done with helping words:
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with helping verbs:
-**don**
+**was**
 – past events;
 **has**
 – past events that are still relevant;
@@ -126,7 +126,7 @@ Time is expressed with helping verbs:
 **wil**
 – future events.
 
-**di don ride mi's buke.**
+**di was ride mi's buke.**
 – They read my book.  
 **wi has ride meni buke.**
 – We have read many books.  

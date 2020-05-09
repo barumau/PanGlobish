@@ -173,7 +173,7 @@ and it can be abbreviated to initial letters variously
 **Tomas S Eliot**, **TS Eliot** and **TSE**.
 
 In titles of artistic works, like books, songs and films, every word begins with a large letter. For example,
-**Da Lorde Of Di Ring**
+**Da Senyer Of Di Ring**
 (The Lord of the Rings).
 
 #### Acronyms

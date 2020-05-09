@@ -20,7 +20,7 @@ Similarly,
 Nouns can be used as such like they were also adjectives, as is often the case also in English.
 
 Compound words – especially established ones – are frequently written together.
-For example, the word for _democracy_ is more commonly **demekratie** than **deme kratie**.
+For example, the word for _democracy_ is more commonly **demekrati** than **deme krati**.
 
 
 ## Affixation
@@ -46,6 +46,15 @@ toward, together:
 **kostrute**
 construct, put together.
 
+**non-**
+absence of:
+**nondeviste**
+atheist  
+**nonsence**
+nonsense  
+**nontabakiste**
+non-smoker  
+
 **re-**
 repetition, again:
 **redu**
@@ -60,9 +69,9 @@ national,
 **manual**
 manual, hand-.
 
-**-er**
+**re**
 doer, agent, -er:
-**helper**
+**helpere**
 – helper, assistant.
 
 **-eria**
@@ -132,6 +141,7 @@ language:
 adherent, -ist:
 **liberaliste**
 – liberalist.
+(alkoholiste, heroiniste, tabakiste)
 
 **-isme**
 ideology, -ism:

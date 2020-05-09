@@ -1,5 +1,25 @@
 # Ideas of Dunish
 
+## Useful in real life
+
+Dunish is meant to be a useful language in real life.
+What does it mean?
+It means that you can speak it immediately in hotels, shops, taxis, airports, train stations, etc...
+It means that you can understand road signs and signboards of hotels, bars and restaurants.
+It means that you can make yourself understood.
+
+Dunish is open.
+You are allowed to use words from other languages in Dunish.
+Use whatever is necessary to make yourself understood!
+You may say, for example, **mi wan gou do "fan dien"** in China,
+even though **restoran** is the normal word for restaurant in Dunish.
+It's more important to get to the restaurant than to speak perfect Dunish, isn't it?
+
+Dunish is not a secret language for a small club or a cult.
+It's more important to be able to communicate with everybody in practice
+than to protect "the purity of our language" on paper.
+
+
 ## Principles of Dunish
 
 Dunish is _evenly global_.
@@ -46,4 +66,10 @@ Portuguese: nação /nasãũ/
 
 
 [University Word List](http://jbauman.com/aboutUWL.html)
+
+## Minimalism?
+
+One of the goals of Dunish is to have less words to be memorized than English and other natural languages,
+but it's not meant to be minimal.
+
 

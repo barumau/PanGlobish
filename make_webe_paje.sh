@@ -1,4 +1,4 @@
-cd mkdocs
-cd english
 mkdocs build
+#cd mkdocs
+#cd english
 

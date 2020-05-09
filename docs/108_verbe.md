@@ -32,7 +32,7 @@ Aspects describe how an event can be viewed in relation to other events in time.
 - The progressive aspect (**is**) indicates an event that is ongoing.
 - The perfect aspects
     - The resultative aspect (**has**) indicates a completed event whose results have an effect on the present situation.
-    - The experiential aspect (**don**) indicates a completed event that has no connection to the present situation.
+    - The experiential aspect (**was**) indicates a completed event that has no connection to the present situation.
 - The future aspect (**wil**) indicates a situation that hasn't taken place yet.
 
 The figure below illustrates how the different aspects relate to the time under discussion i.e. the "present time" in the narrative.
@@ -40,7 +40,7 @@ The figure below illustrates how the different aspects relate to the time under 
     Figure. The aspects in relation to the narrative present.
     
          ┌─────────┐       │
-         │   don   │  ···  │
+         │   was   │  ···  │
          └─────────┘       │
          ┌─────────┐       │
          │   has   ├───────┤
@@ -59,7 +59,7 @@ The figure below illustrates how the different aspects relate to the time under 
 The progressive aspect indicates that an event is ongoing ("in progress") and incomplete at the time under consideration.
 It is marked with **is** before the verb.
 
-**Sara is vide de TV.**
+**Sara is vide da TV.**
 – Sara is watching the TV.  
 **wi is vizite yu's lande.**
 – We are visiting your land.
@@ -75,11 +75,11 @@ Note: Normally **is** can be used instead of **is bi**.
 ### Experiential aspect
 
 The experiential aspect describes a completed past situation that is not linked to a later time.
-It is marked with **don** before the verb.
+It is marked with **was** before the verb.
 
-**mi's mama don vizite de Kanada tri ves.**
+**mi's mama was vizite da Kanada tri ves.**
 – My mother visited Canada three times (but she won't go there anymore).  
-**mi don luze mi's chabi laste dei**
+**mi was luze mi's chabi laste dei**
 – I lost my keys yesterday (but I found them).  
 **Juli has bi mi's frende fo ten yer.**
 – Julie has been my friend for ten years. (And she still is.)
@@ -92,11 +92,11 @@ It is marked with **has** before the verb.
 
 **mi has nou Juli fo ten yer.**
 – I have known Julie for ten years. (I still know her).  
-**he has vizite de Kanada tri ves.**
+**he has vizite da Kanada tri ves.**
 – He has visited Canada three times. (He could go there again).  
 **mi has luze mi's chabi!**
 – I have lost my keys! (They are still missing.)  
-**Juli don bi mi's frende fo ten yer.**
+**Juli was bi mi's frende fo ten yer.**
 – Julie was my friend for ten years. (She's not anymore my friend.)
 
 
@@ -105,42 +105,49 @@ It is marked with **has** before the verb.
 The future aspect describes that the situation will probably take place after the time under consideration.
 It is marked with **wil** before the verb.
 
-**wi wil toke de Dunish.**
+**wi wil toke da Dunish.**
 – We will speak Dunish.  
 **mi wil bi yu's frende.**
 – I will be your friend.
 
 ## To be
 
-The verb **bi** (to be) is used mostly like in English.
-It is a regular verb with one exception:
-**is** is normally used instead of **is bi**.
-So it is common to say **yu is hapi** (_You are happy_) instead of **yu is bi hapi**,
-but the latter is also correct.
-
-Only one form is used in all persons.
-
-**mi is hapi.**
-– I am happy.  
-**wi is hapi.**
-– We are happy.  
-**tu is hapi.**
-– You are happy. (singular)  
-**yu is hapi.**
-– You are happy. (plural)  
-**he is hapi.**
-– He or she is happy.  
-**ze is hapi.**
-– They are happy.
+The verb **bi** (to be) is used mostly in the same situations as in English.
 
 The aspect markers can be used with **bi** just like with other verbs.
 
-**mi is hapi.**
-– I am happy.  
+**mi is bi hapi.**
+– I am happy. / I am being happy.  
 **mi has bi hapi.**
 – I have been happy.  
-**mi don bi hapi.**
+**mi was bi hapi.**
 – I was happy.  
 **mi wil bi hapi.**
 – I will be happy.
+
+It is common to leave **bi** out in the progressive and experiential aspects.
+So **is** is normally used instead of **is bi**
+and **was** instead of **was bi**.
+
+**mi is hapi.**
+– I am happy.  
+**mi was hapi.**
+– I was happy.  
+
+The form of **bi** doesn't change in persons.
+Only one form is used in all persons.
+
+**mi is (bi) hapi.**
+– I am happy.  
+**wi is (bi) hapi.**
+– We are happy.  
+**tu is (bi) hapi.**
+– You are happy. (singular)  
+**yu is (bi) hapi.**
+– You are happy. (plural)  
+**he is (bi) hapi.**
+– He or she is happy.  
+**di is (bi) hapi.**
+– They are happy.
+
 

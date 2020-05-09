@@ -30,7 +30,7 @@ of the same sentence in English and other Germanic languages.
 | Icelandic | Ég er sonur föður míns og móður minnar.          |
 
 The same sentence in Dunish is also somewhat similar with _all Germanic languages_:  
-**mi is de man kide of mi's papa en mi's mama.**  
+**mi is da boi of mi's papa en mi's mama.**  
 So English is nothing special in this regard.
 
 Dunish is an independent language that bears significant similarity to

@@ -34,13 +34,12 @@ There are no exceptions.
     - The comparative of inferiority is les...dan (less...than_.
 7. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.), **he** _he or she_,
-     **wi** _we_, **yu** _you_ (pl.), **de** _they_.
+     **mi** _I_, **tu** _you_ (sg.), **he** _he or she_, **da** _it_,
+     **wi** _we_, **yu** _you_ (pl.), **di** _they_.
     - The possessive pronouns are:
-      **mi's** _my_, **tu's** _your_, **he's** _his or her_,
-      **wi's** _our_, **yu's** _your_, **de's** _their_.
+      **mi's** _my_, **tu's** _your_, **he's** _his or her_, **da's** _its_
+      **wi's** _our_, **yu's** _your_, **di's** _their_.
      - The interrogative pronouns are: **wa** _what_, **hu** _who_, **hu's** _whose_.
-     - The demonstrative pronouns are: **di** _this or these_, **da** _that or those_.
 8. **Verbs:**
    The verb does not change in person, number and tense.
 9. **Word order:**

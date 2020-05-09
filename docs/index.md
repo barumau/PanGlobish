@@ -6,9 +6,6 @@
 Hello world!
 Welcome to learn about Dunish, the helping language for international business and friendship.
 
-**wi kan toke da Dunish!**
-– We can speak Dunish!
-
 ## What is Dunish?
 
 Dunish is a simple language that helps people to talk with each other
@@ -30,9 +27,6 @@ Dunish is so simple that its basic grammar can be described in [only ten rules](
 Everybody can learn Dunish to a good level in a short period of time!
 Dunish is an excellent choice for the international language because it improves the quality of communication.
 It's better to speak good Dunish than bad English.
-
-> wi kan toke Dunish!  
-> <small>(We can speak Dunish!)</small>
 
 ## Grammar and Lessons
 

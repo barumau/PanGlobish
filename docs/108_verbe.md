@@ -13,7 +13,10 @@ Person and number are indicated by a personal pronoun or a noun.
 **wi love yu.**
 – We love you.  
 **he love tu.**
-– He or she loves you.  
+– He or she loves you.
+
+There is normally a particle of time before the verb, when the subject is a noun (instead of a pronoun).
+
 **Jorje is love Mari.**
 – George loves Mary.  
 **tri siste is love un man.**
@@ -53,6 +56,7 @@ The figure below illustrates how the different aspects relate to the time under 
                            │       └─────────┘
     ◀──────────────────────┼──────────────────────▶
     earlier          at present               later
+
 
 ### Progressive aspect
 
@@ -112,9 +116,13 @@ It is marked with **wil** before the verb.
 
 ## To be
 
-The verb **bi** (to be) is used mostly in the same situations as in English.
+The verb **bi** (to be) is used for indicating
+identity or sameness (ex. "She _is_ Maria"),
+membership of a class (ex. "The cat _is_ an animal"),
+and properties (ex. "The sky _is_ blue").
 
-The aspect markers can be used with **bi** just like with other verbs.
+In Dunish, **bi** is a normal, unchanging verb.
+The aspect markers can be used together with **bi**.
 
 **mi is bi hapi.**
 – I am happy. / I am being happy.  

@@ -42,6 +42,10 @@ There are no exceptions.
      - The interrogative pronouns are: **wa** _what_, **hu** _who_, **hu's** _whose_.
 8. **Verbs:**
    The verb does not change in person, number and tense.
+    - **is** indicates an ongoing event.
+    - **has** indicates a completed event whose results have an effect on the present situation.
+    - **was** indicates a completed event that has no connection to the present situation.
+    - **wil** indicates a future event.
 9. **Word order:**
    The word order is subject – verb – object, in declarations and questions alike.
 10. **Word building:**

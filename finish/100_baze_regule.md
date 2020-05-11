@@ -44,7 +44,11 @@ Poikkeuksia ei ole.
      - Kysyvät pronominit ovat: **wa** _mikä_, **hu** _kuka_, **hu's** _kenen_.
 8. **Verbit:**
    Verbit ovat taipumattomia.
-   Ne eivät taivu persoona-, aika- ja tapamuodoissa.
+   Ne eivät taivu persoona-, aika- taikka tapamuodoissa.
+    - **is** ilmaisee kuluvaa toimintaa.
+    - **has** ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
+    - **was** ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
+    - **wil** ilmaisee tulevaa tapahtumaa.
 9. **Sanajärjestys:**
    Lauseen sanajärjestys on subjekti – verbi – objekti.
    Samaa sanajärjestystä käytetään kaikissa lauseissa mukaan lukien kysymyslauseet ja sivulauseet.

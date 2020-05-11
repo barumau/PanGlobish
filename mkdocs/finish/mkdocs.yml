@@ -1,0 +1,11 @@
+site_name: Dunish
+site_url: http://www.pandunia.info/dunish/finish
+repo_url: https://github.com/barumau/dunish/
+site_author: Risto Kupsala
+docs_dir: ../../finish
+site_dir: ../../html/finish
+theme: readthedocs
+nav:
+    - Kotisivu: 'index.md'
+    - '10 sääntöä': 100_baze_regule.md
+

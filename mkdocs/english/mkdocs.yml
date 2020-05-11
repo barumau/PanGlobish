@@ -2,7 +2,8 @@ site_name: Dunish
 site_url: http://www.pandunia.info/dunish/english
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
-site_dir: ./html/english
+docs_dir: ../../english
+site_dir: ../../html/english
 theme: readthedocs
 nav:
     - Home: 'index.md'

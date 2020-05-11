@@ -7,5 +7,8 @@ site_dir: ../../html/finish
 theme: readthedocs
 nav:
     - Kotisivu: 'index.md'
-    - '10 sääntöä': 100_baze_regule.md
+    - 'Kielioppi':
+        - '10 sääntöä': 100_baze_regule.md
+        - Lukusanat: 105_numer.md
+        - Pronominit: 107_pronome.md
 

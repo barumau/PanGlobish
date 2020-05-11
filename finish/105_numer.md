@@ -1,9 +1,9 @@
-# Numerals
+# Lukusanat
 
-The basic numbers sound almost the same in Dunish as in English.
-However, greater numbers are arranged more logically in Dunish.
+Perusluvut ovat kuulostavat dunishissa melkein samalta kuin englannissa.
+Sen sijaan kymmentä suuremmat luvut muodostetaan dunishissa itsenäisesti ja järjestelmällisesti.
 
-| Ones    | Ten and over | 20 and over      | 30 and over      |
+| Ykköset | 10 ja yli    | 20 ja yli        | 30 ja yli        |
 |:--------|:-------------|:-----------------|:-----------------|
 | 0 zero  | 10 (un) ten  | 20 due ten       | 30 tri ten       |
 | 1 un    | 11 ten un    | 21 due ten un    | 31 tri ten un    |
@@ -16,7 +16,7 @@ However, greater numbers are arranged more logically in Dunish.
 | 8 eite  | 18 ten eite  | 28 due ten eite  | 38 tri ten eite  |
 | 9 nain  | 19 ten nain  | 29 due ten nain  | 39 tri ten nain  |
 
-| Ones    |  Tens         | Hundreds        | Thousands        |
+| Ykköset | Kymmenet     | Sadat           | Tuhannet          |
 |:--------|:-------------|:----------------|:------------------|
 | 0 zero  |              |                 |                   |
 | 1 un    | 10 (un) ten  | 100 un hunde    | 1000 un tauzen    |
@@ -29,7 +29,7 @@ However, greater numbers are arranged more logically in Dunish.
 | 8 eite  | 80 eite ten  | 800 eite hunde  | 8000 eite tauzen  |
 | 9 nain  | 90 nain ten  | 900 nain hunde  | 9000 nain tauzen  |
 
-Greater numbers follow the same logic.
+Suuremmat luvut muodostetaan samalla periaatteella.
 
 10'000 un ten tauzen  
 100'000 un hunde tauzen  
@@ -38,17 +38,17 @@ Greater numbers follow the same logic.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Note: The words "billion" and "milliard" are not used in Dunish
-because their meanings are different from country to country.
-Instead, one should say **tauzen milion** (thousand millions) or **giga**.
+Huom! Sanoja **miliarde** ja **bilion** ei käytetä dunishissa,
+koska niiden merkitys vaihtelee eri maiden välillä.
+Sen sijaan käytetään sanoja **tauzen milion** (tuhat miljoonaa) tai sanaa **giga**.
 
-The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
-(SI) are used in common language in Dunish.
-It is normal to say, for example:  
+[Kansainvälisen yksikköjärjestelmän](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4)
+eli SI-järjestelmän etuliitteitä käytetään dunishissa ihan normaalisti.
+On siis ihan tavallista sanoa esimerkiksi:  
 **eite giga person is live in Dunia.**  
-– Eight billion (or _milliard_) people live on Earth.
+– Kahdeksan miljardia ihmistä asuu maapallolla.
 
-| Prefix | Symbol | Base 10 | Decimal                        |
+|Etuliite| Symboli| Potenssi| Desimaaliluku                  |
 |:-------|:------:|:-----|----------------------------------:|
 | yota   | Y      | 10²⁴ | 1 000 000 000 000 000 000 000 000 |
 | zeta   | Z      | 10²¹ |     1 000 000 000 000 000 000 000 | 
@@ -62,34 +62,32 @@ It is normal to say, for example:
 | desa   | da     | 10¹  |                                10 |
 
 
-## Months
-
-The names of the months are:
+## Kuukaudet
 
 1. **Januari**
-   – January
+– tammikuu
 2. **Februari**
-   – February
+– helmikuu
 3. **Marte**
-   – March
+– maaliskuu
 4. **April**
-   – April
+– huhtikuu
 5. **Mai**
-   – May
+– toukokuu
 6. **June**
-   – June
+– kesäkuu
 7. **Yuli**
-   – July
+– heinäkuu
 8. **Auguste**
-   – August
+– elokuu
 9. **Setembre**
-   – September
+– syyskuu
 10. **Otobre**
-   – October
+– lokakuu
 11. **Novembre**
-   – November
+– marraskuu
 12. **Desembre**
-   – December
+– joulukuu
 
-In addition there is **Ramazan** (Ramadan), the holy ninth month of the Islamic lunar calendar.
+Lisäksi on **Ramazan** (ramadan), islamilaisen kuukalenterin mukainen pyhä yhdeksäs kuukausi.
 

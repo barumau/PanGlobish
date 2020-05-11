@@ -40,7 +40,7 @@ Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 
 - **C** = ts kuten sanassa _metsä_.
 - **Sh** ääntyy kuten SH sanassa _shakki_.
-- **Ch** ääntyy kuten TSH sanan _tshekki_ alussa.
+- **Ch** ääntyy kuten TSH sanassa _tshekki_.
 - **J** on edellisen soinnillinen vastine kuten nimessä _Jack_.
 - **Y** ääntyy kuten suomen J.
 

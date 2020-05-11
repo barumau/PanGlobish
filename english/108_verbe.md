@@ -155,7 +155,7 @@ Only one form is used in all persons.
 – You are happy. (plural)  
 **he is (bi) hapi.**
 – He or she is happy.  
-**di is (bi) hapi.**
+**de is (bi) hapi.**
 – They are happy.
 
 

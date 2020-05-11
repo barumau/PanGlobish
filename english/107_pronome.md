@@ -6,7 +6,7 @@ The personal pronouns in Dunish are:
 |--------|----------------------|--------------------|
 | 1st    | **mi** (_I_)         | **wi** (_we_)      |
 | 2nd    | **tu** (_you_)       | **yu** (_you all_) |
-| 3rd    | **he** (_he or she_) | **di** (_they_)    |
+| 3rd    | **he** (_he or she_) | **de** (_they_)    |
 
 All personal pronouns are gender-neutral in Dunish.
 We don't differentiate the sexes in any of them.
@@ -31,7 +31,7 @@ with the possessive marker **'s**.
 |--------|-------------------------|----------------------|
 | 1st    | **mi's** (_my_)         | **wi's** (_our_)     |
 | 2nd    | **tu's** (_your_)       | **yu's** (_your_)    |
-| 3rd    | **he's** (_his or her_) | **di's** (_their_)   |
+| 3rd    | **he's** (_his or her_) | **de's** (_their_)   |
 
 
 ## Interrogative pronouns

@@ -29,16 +29,16 @@ There are no exceptions.
        - The cardinal numbers, when placed after a noun, become ordinal numbers.
 6. **Adjectives:**
    The adjective is always placed before the noun with the exception of the ordinal numbers.
-    - The comparative of equality is sam...as (as...as_.
-    - The comparative of superiority is mor...dan (more...than_.
-    - The comparative of inferiority is les...dan (less...than_.
+    - The comparative of equality is **as...as** (as...as).
+    - The comparative of superiority is **mor...dan** (more...than).
+    - The comparative of inferiority is **les...dan** (less...than).
 7. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.), **he** _he or she_, **da** _it_,
-     **wi** _we_, **yu** _you_ (pl.), **di** _they_.
+     **mi** _I_, **tu** _you_ (sg.), **he** _he or she_,
+     **wi** _we_, **yu** _you_ (pl.), **de** _they_.
     - The possessive pronouns are:
-      **mi's** _my_, **tu's** _your_, **he's** _his or her_, **da's** _its_
-      **wi's** _our_, **yu's** _your_, **di's** _their_.
+      **mi's** _my_, **tu's** _your_, **he's** _his or her_,
+      **wi's** _our_, **yu's** _your_, **de's** _their_.
      - The interrogative pronouns are: **wa** _what_, **hu** _who_, **hu's** _whose_.
 8. **Verbs:**
    The verb does not change in person, number and tense.

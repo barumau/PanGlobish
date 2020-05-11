@@ -44,7 +44,7 @@ Here are the personal pronouns in Dunish:
 |----------------------------|----------------------------|
 | **mi** – _I_               | **wi** – _we_              |
 | **tu** – _you_             | **yu** – _you all_         |
-| **he** – _he or she_       | **di** – _they_            |
+| **he** – _he or she_       | **de** – _they_            |
 
 The personal pronouns, like all words in Dunish, never change.
 The same word form is used as the subject (i.e. the "doer") and as the object.
@@ -54,7 +54,7 @@ So there aren't separate word forms like "I" and "me" or "we" and "us".
 – I meet you.  
 **yu mite mi.**
 – You meet me.  
-**wi mite di.**
+**wi mite de.**
 – We meet them.
 
 ### Possessive pronouns
@@ -65,7 +65,7 @@ The possessive pronouns (_my_, _your_, etc.) are created regularly by adding the
 |----------------------------|----------------------------|
 | **mi's** – _my_            | **wi's** – _our_           |
 | **tu's** – _your_          | **yu's** – _your_          |
-| **he's** – _his or her_    | **di's** – _their_         |
+| **he's** – _his or her_    | **de's** – _their_         |
 
 ### The same verb in all persons
 
@@ -81,7 +81,7 @@ The verb for being is also regular and it's the same for all persons.
 – we are  
 **yu is**
 – you are  
-**di is**
+**de is**
 – they are
 
 So verbs don't change to indicate the person.
@@ -92,7 +92,7 @@ The word **name**, in the same single form, can refer to one name or many names.
 – Her name is Mari.  
 **he's name is Yusef.**
 – His name is Yusef.  
-**di's name is Mari en Yusef.**
+**de's name is Mari en Yusef.**
 – Their names are Mari and Yusef.
 
 Dunish is free from all sorts of inflection, declination, conjugation or whatever it's called.
@@ -164,10 +164,10 @@ The correct answers are after the word list.
 
 1. he's name is Adam.
 2. he's name is Sara.
-3. di's name is Adam en Sara.
+3. de's name is Adam en Sara.
 4. he is Adam.
 5. he is Sara.
-6. di is Adam en Sara.
+6. de is Adam en Sara.
 7. Adam en Sara is hapi.
 8. wa is yu's name.
 9. mi's name is _ _ _ _ _ _.

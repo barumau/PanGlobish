@@ -96,7 +96,7 @@ Just pronounce the first letter and ignore the H.
 
 For example, the capital of Greece is called "Αθήνα" /aθina/ in the local language, Greek.
 The Dunish version of this name is "Athina".
-It can be pronounced in the same way
+It can be pronounced either /aθina/ (as the Greek do) or /atina/ (in the simplified international accent).
 We want to preserve the sound of this word as much as possible,
 but we can't use any of the non-Latin letters,
 so it becomes "Athina" in Dunish.

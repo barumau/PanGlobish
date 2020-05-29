@@ -85,8 +85,8 @@ It is marked with **was** before the verb.
 – My mother visited Canada three times (but she won't go there anymore).  
 **mi was luze mi's chabi laste dei**
 – I lost my keys yesterday (but I found them).  
-**Juli has bi mi's frende fo ten yer.**
-– Julie has been my friend for ten years. (And she still is.)
+**Juli was bi mi's frende fo ten yer.**
+– Julie was my friend for ten years. (She's not anymore my friend.)
 
 
 ### Resultative aspect
@@ -95,13 +95,13 @@ The resultative aspect describes a completed past situation whose consequences a
 It is marked with **has** before the verb.
 
 **mi has nou Juli fo ten yer.**
-– I have known Julie for ten years. (I still know her).  
-**he has vizite da Kanada tri ves.**
-– He has visited Canada three times. (He could go there again).  
+– I have known Julie for ten years. (I still know her.)  
+**he has safare do Kanada.**
+– He has traveled to Canada. (And he still is there.)  
 **mi has luze mi's chabi!**
 – I have lost my keys! (They are still missing.)  
-**Juli was bi mi's frende fo ten yer.**
-– Julie was my friend for ten years. (She's not anymore my friend.)
+**Juli has bi mi's frende fo ten yer.**
+– Julie has been my friend for ten years. (And she still is.)
 
 
 ### Future aspect

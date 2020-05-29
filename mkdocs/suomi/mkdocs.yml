@@ -2,8 +2,8 @@ site_name: Dunish
 site_url: http://www.pandunia.info/dunish/finish
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
-docs_dir: ../../finish
-site_dir: ../../html/finish
+docs_dir: ../../suomi
+site_dir: ../../html/suomi
 theme: readthedocs
 nav:
     - Kotisivu: 'index.md'

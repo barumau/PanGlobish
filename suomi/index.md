@@ -30,6 +30,7 @@ Kaikki voivat oppia dunishin alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää dunishia kuin huonoa englantia.
 
+![](http://www.pandunia.info/dunish/grafe/Dunish.png)
 
 ## Dunishin perusteet
 
@@ -38,10 +39,10 @@ A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
 Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 
-- **C** = ts kuten sanassa _metsä_.
-- **Sh** ääntyy kuten SH sanassa _shakki_.
-- **Ch** ääntyy kuten TSH sanassa _tshekki_.
-- **J** on edellisen soinnillinen vastine kuten nimessä _Jack_.
+- **C** ääntyy kuten _ts_ sanassa _metsä_.
+- **Sh** ääntyy kuten _sh_ sanassa _shakki_.
+- **Ch** ääntyy kuten _tsh_ sanassa _tshekki_.
+- **J** on edellisen soinnillinen vastine eli se ääntyy kuten nimessä _Jack_.
 - **Y** ääntyy kuten suomen J.
 
 Vokaalit äännetään kuten suomessa.
@@ -120,7 +121,7 @@ Aika ilmaistaan apusanoilla:
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
 esim. onko se toteamus, kysymys vai käsky.  
 **yu love da kafe, wa?**
-– Sinä rakastat kahvia, häh? (kysymys)  
+– Sinä rakastat kahvia, mitä? (kysymys)  
 **yu love da kafe, ye.**
 – Sinä rakakstat kahvia kyllä. (toteamus)  
 **yu love da kafe, or...**

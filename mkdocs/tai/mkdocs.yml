@@ -1,0 +1,23 @@
+site_name: Dunish
+site_url: http://www.pandunia.info/dunish/english
+repo_url: https://github.com/barumau/dunish/
+docs_dir: ../../tai
+site_dir: ../../html/tai
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - 'Grammar and Rules':
+        - 'The 10 rules': 100_baze_regule.md
+        - 'World Words': 101_dunia_worde.md
+        - 'Spelling and pronunciation': 102_ortografie.md
+        - 'Regular Accent': 103_aksente.md
+        - Nouns : 104_nome.md
+        - Numerals: 105_numer.md
+        - Pronouns: 107_pronome.md
+        - Verbs: 108_verbe.md
+        - 'Word building': 110_worde_kostrution.md
+    - Lessons:
+        - 'Lesson 1': 201_lecion_1.md
+    - 'About Dunish':
+        - 'The idea': 301_idea_of_Dunish.md
+        - 'Dunish vs English': 302_Dunish_vs_English.md

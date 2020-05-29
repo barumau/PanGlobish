@@ -1,6 +1,8 @@
 cd mkdocs
 cd english
 mkdocs build
-cd ../finish
+cd ../suomi
+mkdocs build
+cd ../tai
 mkdocs build
 

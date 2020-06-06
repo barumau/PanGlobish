@@ -1,5 +1,5 @@
 site_name: Dunish
-site_url: http://www.pandunia.info/dunish/english
+site_url: http://www.pandunia.info/dunish/tai
 repo_url: https://github.com/barumau/dunish/
 docs_dir: ../../tai
 site_dir: ../../html/tai
@@ -7,7 +7,7 @@ theme: readthedocs
 nav:
     - Home: 'index.md'
     - 'Grammar and Rules':
-        - 'The 10 rules': 100_baze_regule.md
+        - 'กฎ 10 ข้อของ Dunish': 100_baze_regule.md
         - 'World Words': 101_dunia_worde.md
         - 'Spelling and pronunciation': 102_ortografie.md
         - 'Regular Accent': 103_aksente.md

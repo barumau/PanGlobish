@@ -46,7 +46,7 @@ They are represented in the writing system by 19 Latin letters and their combina
 | Dunish | IPA  | Pronunciation advise |
 |:------:|:----:|:---------------------|
 | B      | /b/  | |
-| C      | /ts/ | Always like _ts_ in _bits_, even when it comes at the beginning of a word. |
+| C      | /ts/ | Like _ts_ in _bits_ or alternatively like _c_ in _city_. |
 | Ch     | /tʃ/ | Always like _ch_ in _chat_. |
 | D      | /d/  | |
 | F      | /f/  | |

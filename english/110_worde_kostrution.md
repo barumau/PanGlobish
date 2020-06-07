@@ -2,25 +2,22 @@
 
 ## Compound Words
 
-Compound words may be formed freely.
+Words can be combined freely in Dunish to express new concepts.
 The last element in the combination is the main one in determining the meaning,
 while the preceding element only modifies the meaning.
 
 For example, **eskribe meza** means a type of table (a writing table).
 Similarly,
-**vide punte**
-= viewpoint or point of view,
 **kristal klare**
 = crystal-clear,
 **love lete**
 = love letter,
-**cai kupe**
-= teacup.
+**kafe kupe**
+= coffeecup.
 
-Nouns can be used as such like they were also adjectives, as is often the case also in English.
-
-Compound words – especially established ones – are frequently written together.
-For example, the word for _democracy_ is more commonly **demekrati** than **deme krati**.
+Compound words may be written together or separately.
+Especially established compound words are usually written together.
+For example, the word for _democracy_ is more commonly **demekratie** than **deme kratie**.
 
 
 ## Affixation
@@ -32,141 +29,274 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 
 ### Prefixes
 
-**de-**
-apart, away from:
-**destrute**
-destruct, put apart,
+**an-** :
+opposite, un-, in-:  
+**hapi**
+(happy)
+→ **anhapi**
+(unhappy)  
+**juste**
+(just, fair)
+→ **anjuste**
+(injust, unfair)  
+**human**
+(human)
+→ **anhuman**
+(inhuman)
+
+**de-** :
+put apart:  
+**estrute**
+(structure)
+→ **destrute**
+(destruct)  
+**kode**
+(code, encode)
+→ **dekode**
 **dekode**
-decode, decipher,
+(decode, decipher)  
+**kovre**
+(cover)
+→ **dekovre**
 **dekovre**
-discover.
+(discover)
 
-**ko-**
+**ko-** :
 toward, together:
-**kostrute**
-construct, put together.
+**estrute**
+(structure)
+→ **kostrute**
+(construct, put together)
 
-**non-**
-absence of:
-**nondeviste**
-atheist  
-**nonsence**
-nonsense  
-**nontabakiste**
-non-smoker  
+**non-** :
+absence of:  
+**deviste**
+(theist)
+→ **nondeviste**
+(atheist)  
+**sence**
+(sense)
+→ **nonsence**
+(nonsense)  
+**tabakiste**
+(smoker)
+→ **nontabakiste**
+(non-smoker)  
 
-**re-**
-repetition, again:
-**redu**
-redo, do again.
+**re-** :
+back:  
+**returne**
+(turn back)
+
+**ri-** :
+repetition, again:  
+**du**
+(to do)
+→ **ridu**
+(redo, do again)
+
 
 ### Suffixes
 
-**-al**
+**-al** :
 relating to:
-**nacial**
-national,
-**manual**
-manual, hand-.
+**nacia**
+(nation)
+→ **nacial**
+(national)  
+**socia**
+(society)
+→ **social**
+(social)  
+**universe**
+(universe)
+→ **universal**
+(universal)
 
-**re**
-doer, agent, -er:
-**helpere**
-– helper, assistant.
+**-er** :
+doer, agent, -er:  
+**helpe**
+(help, assist)
+→ **helper**
+(helper, assistant)
 
 **-eria**
 workplace:
-**bekeria**
-bakery.
+**beker**
+(baker)
+→ **bekeria**
+(bakery)
 
-**-ete**
-diminutive, -ette, -let:
-**cigarete**
-cigarette.
+**-ete** :
+diminutive, -ette, -let:  
+**cigare**
+(cigar)
+→ **cigarete**
+(cigarette)
 
-**-ful**
-full of, -ful:
+**-ful** :
+full of, -ful:  
 **helpeful**
-– helpful.
+(– helpful)
 
-**-ia**
-country:
+**-ia** :
+some countries and regions:  
 **Arabia**
-– Arabia,
+(Arabia)  
 **Italia**
-– Italy,
+(Italy)  
 **Rusia**
-– Russia.
+(Russia)
 
-**-ian** or **-an**
+**-ian** or **-an** :
 inhabitant of:
 **Amerikan**
-– American,
+(American)  
 **Italian**
-– an Italian,
+(Italian)  
 **Rusian**
-– a Russian.
+(Russian)
 
-**-ife**
-to make, render or transform into:
-**petrife**
-petrify, to turn to stone.
+**-ie** :
+science:  
+**biolojie**
+(biology)  
+**filosofie**
+(philosophy)  
+**kemie**
+(chemistry)
+
+**-ife** :
+to make, render or transform into:  
+**petre**
+(stone)
+→ **petrife**
+(petrify, to turn to stone)
 
 **-ike**
 of the style or manner of, -ish, -esque:
-**fizike**
-– bodily, physical  
-**muzike**
-– of the muses, music,
-**novike**
-– novice, newbie
+**fize**
+(physis)
+→ **fizike**
+(physical)  
+**muze**
+(muse)
+→ **muzike**
+(of the muses, music)  
+**nuve**
+(uusi)
+→ **nuvike**
+(novice, newbie)
 
-**-ion**
-an action or process:
-**ation**
-– action, activity;
-**konsumion**
-consuming, consumption.
+**-ion** :
+an action or process:  
+**akte**
+(act, deed)
+→ **aktion**
+(action, activity)
+**konsume**
+(consume)
+→ **konsumion**
+(consuming, consumption)
 
-**-ish**
-language:
+**-ish** :
+some languages:
 **English**
-– the English language,
-**Espanish**
-– the Spanish language,
-**Rusish**
-– the Russian language.
+(the English language)  
+**Eskotish**
+(Scotch)  
+**Dunish**
+(world language, Dunish)
 
-**-iste**
-adherent, -ist:
-**liberaliste**
-– liberalist.
-(alkoholiste, heroiniste, tabakiste)
+**-iste** :
+adherent of a way of life, -ist:
+**alkohol**
+(alcohol)
+→ **alkoholiste**
+(alcoholist)  
+**komun**
+(common, shared)
+→ **komuniste**
+(communist, adherent of shared ownership)  
+**pacife**
+(pacify)
+→ **pacifiste**
+(pacifist)  
+**tabake**
+(tobacco)
+→ **tabakiste**
+(smoker)
 
-**-isme**
-ideology, -ism:
-**liberalisme**
-– liberalism.
+**-isme** :
+ideology, -ism:  
+**alkohol**
+(alcohol)
+→ **alkoholiste**
+(alcoholismi)  
+**komun**
+(common, shared)
+→ **komuniste**
+(communism)  
+**pacife**
+(pacify)
+→ **pacifisme**
+(pacifism)  
+**tabake**
+(tobacco)
+→ **tabakisme**
+(smoking)
 
-**-ite**
-quality, -ity, -ness:
-**sanite** health.
+**-ite** :
+quality, -ity, -ness:  
+**juste**
+(just, fair)
+→ **justite**
+(justice, fairness)  
+**sane**
+(healthy, sound)
+→ **sanite**
+(health)  
+**un**
+(one)
+→ **unite**
+(unity, oneness)
 
-**-ive**
-inclined to:
-**ative**
-– active, inclined to act.
+**-ive** :
+inclined to:  
+**akte**
+(act, perform)
+→ **aktive**
+(active, inclined to act)
 
 **-ize**
 to equip or provide with.
 
-**-lis**
-without, -less:
-**helpelis**
-– helpless.
+**-lis** :
+without, -less:  
+**helpe**
+(apu)
+→ **helpelis**
+(helpless)  
+**peni**
+(penny)
+→ **penilis**
+(penniless)
 
-**-os**
-plenty of, -ous:
-**poros**
+**-os** :
+plenty of, -ous:  
+**pore**
+(pore)
+→ **poros**
 – porous.
+
+**-ure** :
+a result or product:
+**korekte**
+(to correct)
+→ **korekture**
+(a correction)  
+**kulte**
+(cultivate a way of life)
+→ **kulture**
+(culture)
 

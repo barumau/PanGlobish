@@ -30,7 +30,7 @@ omistusliite **'s**.
 |--------|----------------------|----------------------|
 | 1.     | **mi's** (_minun_)   | **wi's** (_meidän_)  |
 | 2.     | **tu's** (_sinun_)   | **yu's** (_teidän_)  |
-| 3.     | **he's** (_hänen_)   | **de's** (heidän_)   |
+| 3.     | **he's** (_hänen_)   | **de's** (_heidän_)  |
 
 
 ## Interrogatiivipronominit

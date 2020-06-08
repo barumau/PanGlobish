@@ -39,7 +39,7 @@ It's better to speak good Dunish than bad English.
 - [Numerals](105_numer.md)
 - [Pronouns](107_pronome.md)
 - [Verbs](108_verbe.md)
-- [Word building](110_worde_kostrution.md)
+- [Word building](110_worde_kostruktion.md)
 
 ### Lessons
 

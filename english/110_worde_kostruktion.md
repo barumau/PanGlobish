@@ -46,9 +46,9 @@ opposite, un-, in-:
 
 **de-** :
 put apart:  
-**estrute**
+**estrukte**
 (structure)
-→ **destrute**
+→ **destrukte**
 (destruct)  
 **kode**
 (code, encode)
@@ -62,11 +62,15 @@ put apart:
 (discover)
 
 **ko-** :
-toward, together:
-**estrute**
+together:  
+**estrukte**
 (structure)
-→ **kostrute**
-(construct, put together)
+→ **kostrukte**
+(construct, put together)  
+**werke**
+(work)
+→ **kowerke**
+(work together, collaborate)
 
 **non-** :
 absence of:  
@@ -231,11 +235,11 @@ adherent of a way of life, -ist:
 ideology, -ism:  
 **alkohol**
 (alcohol)
-→ **alkoholiste**
+→ **alkoholisme**
 (alcoholismi)  
 **komun**
 (common, shared)
-→ **komuniste**
+→ **komunisme**
 (communism)  
 **pacife**
 (pacify)

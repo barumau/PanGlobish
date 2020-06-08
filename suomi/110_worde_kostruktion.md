@@ -46,9 +46,9 @@ vastakohta, epä-:
 
 **de-** :
 perua, hajottaa:  
-**estrute**
-(rakentua)
-→ **destrute**
+**estrukte**
+(rakentaa)
+→ **destrukte**
 (tuhota, purkaa)  
 **kode**
 (koodata)
@@ -61,10 +61,14 @@ perua, hajottaa:
 
 **ko-** :
 yhdistää:  
-**estrute**
-(rakentua)
-→ **kostrute**
-(rakentaa, panna kokoon)
+**estrukte**
+(rakentaa)
+→ **kostrukte**
+(rakentaa, panna kokoon)  
+**werke**
+(työskennellä)
+→ **kowerke**
+(tehdä yhteistyötä)
 
 **non-** :
 puute, ei-:  
@@ -230,11 +234,11 @@ ajattelu- tai elämäntavan edustaja:
 ajattelu- tai elämäntapa, -ismi:  
 **alkohol**
 (alkoholi)
-→ **alkoholiste**
+→ **alkoholisme**
 (alkoholismi, juoppous)  
 **komun**
 (yhteinen)
-→ **komuniste**
+→ **komunisme**
 (kommunismi, yhteisomistuksen aate)  
 **pacife**
 (rauhoittaa)

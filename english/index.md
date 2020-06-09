@@ -121,7 +121,7 @@ Time is expressed with helping verbs:
 **wil**
 – future events.
 
-**di was ride mi's buke.**
+**de was ride mi's buke.**
 – They read my book.  
 **wi has ride meni buke.**
 – We have read many books.  

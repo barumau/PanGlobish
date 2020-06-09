@@ -40,3 +40,26 @@ kaj la markilo de posedo **'s**.
 **hu** kiu  
 **hu's** kies
 
+## Montraj pronomoj
+
+La montraj pronomoj estas la samaj kiel la difinaj artikoloj:  
+**da**
+tiu  
+**di**
+tiuj
+
+Ĉar ili ne montras distancon, oni povas aldoni vortojn
+**hir**
+(_ĉi tie_) kaj
+**der**
+(_tie_).
+
+**da hir haus**
+= ĉi tiu domo  
+**di hir haus**
+= ĉi tiuj domoj  
+**da der haus**
+= tiu domo  
+**di der haus**
+= tiuj domoj
+

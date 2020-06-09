@@ -40,3 +40,27 @@ with the possessive marker **'s**.
 **hu** who  
 **hu's** whose
 
+
+## Demonstrative pronouns
+
+The demonstrative pronouns are the same as the definite articles:  
+**da**
+this, that  
+**di**
+these, those
+
+As they do not differentiate between near and far, they can be further qualified by adding
+**hir**
+(_here_) or
+**der**
+(_there_).
+
+**da hir haus**
+= this house  
+**di hir haus**
+= these houses  
+**da der haus**
+= that house  
+**di der haus**
+= those houses  
+

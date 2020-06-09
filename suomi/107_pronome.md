@@ -33,9 +33,34 @@ omistusliite **'s**.
 | 3.     | **he's** (_hänen_)   | **de's** (_heidän_)  |
 
 
-## Interrogatiivipronominit
+## Kysyvät pronominit
 
 **wa** mikä  
 **hu** kuka  
 **hu's** kenen
+
+
+## Osoittavat pronominit
+
+Määräisiä artikkeleita käytetään osoittavina pronomineina:  
+**da**
+tämä, tuo  
+**di**
+nämä, nuo
+
+Koska ne eivät erottele lähellä ja kaukana olevia kohteita,
+niitä voi tarkentaa sanoilla
+**hir**
+(_tässä_) ja
+**der**
+(_tuolla_).
+
+**da hir haus**
+= tämä talo (tässä)  
+**di hir haus**
+= nämä talot (tässä)  
+**da der haus**
+= tuo talo (tuolla)  
+**di der haus**
+= nuo talot (tuolla)
 

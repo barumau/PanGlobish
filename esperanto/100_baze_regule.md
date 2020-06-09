@@ -31,7 +31,7 @@ Duniŝo ne enhavas esceptojn.
        - La kvantaj nombrovortoj iĝas la ordajn kiam ili estas metita post la substantivo.
 6. **Adjektivoj:**
    La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
-    - La komparo de egaleco estas **as...as** (tiel...kiel).
+    - La komparo de egaleco estas **as...as** (tiom...kiel).
     - La komparo de plieco estas **mor...dan** (pli...ol).
     - La komparo de malplieco estas **les...dan** (malpli...ol).
 7. **Pronomoj:**

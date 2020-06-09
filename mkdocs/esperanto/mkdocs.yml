@@ -6,7 +6,7 @@ docs_dir: ../../esperanto
 site_dir: ../../html/esperanto
 theme: readthedocs
 nav:
-    - Hejmen: 'index.md'
+    - Hejmpaĝo: 'index.md'
     - 'Gramatiko':
         - 'La 10 reguloj': 100_baze_regule.md
         - 'Mondaj vortoj': 101_dunia_worde.md

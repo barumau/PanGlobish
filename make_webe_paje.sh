@@ -17,6 +17,7 @@ make_di_webe_paje() {
 make_ale() {
     make_di_webe_paje english
     make_di_webe_paje suomi
+    make_di_webe_paje esperanto
     make_di_webe_paje tai
 }
 

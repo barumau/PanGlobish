@@ -1,0 +1,24 @@
+site_name: Duniŝo
+site_url: http://www.pandunia.info/dunish/esperanto
+repo_url: https://github.com/barumau/dunish/
+site_author: Risto Kupsala
+docs_dir: ../../esperanto
+site_dir: ../../html/esperanto
+theme: readthedocs
+nav:
+    - Hejmen: 'index.md'
+    - 'Gramatiko':
+        - 'La 10 reguloj': 100_baze_regule.md
+        - 'Mondaj vortoj': 101_dunia_worde.md
+        - 'Prononcado kaj skribado': 102_ortografie.md
+        - 'Laŭregula akcento': 103_aksente.md
+        - Substantivoj : 104_nome.md
+        - Nombrovortoj: 105_numer.md
+        - Pronomoj: 107_pronome.md
+        - Verboj: 108_verbe.md
+        - Vortfarado: 110_worde_kostruktion.md
+    - Lecionoj:
+        - '1a leciono': 201_lecion_1.md
+    - 'Pri Duniŝo':
+        - 'La ideo': 301_idea_of_Dunish.md
+        - 'Duniŝo kontraŭ la angla': 302_Dunish_vs_English.md

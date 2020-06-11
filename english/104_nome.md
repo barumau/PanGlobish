@@ -29,7 +29,7 @@ In Dunish, the number of things is indicated with number words and other quantit
 **for haus**
 – four houses
 
-All number words can be found in the [chapter about numerals](105_numer.md).
+All number words can be found in the [chapter about numerals](105_numbe.md).
 
 Common words for indicating plurality include **som** (_some_), **meni** (_many_) and **muche** (_much, a lot_).
 

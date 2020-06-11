@@ -22,7 +22,7 @@ Sen sijaan luku ilmaistaan lukusanoilla ja muilla määrää ilmaisevilla sanoil
 **for haus**
 – neljä taloa
 
-Muut perusluvut on lueteltu [lukusanoja käsittelevässä luvussa](105_numer.md).
+Muut perusluvut on lueteltu [lukusanoja käsittelevässä luvussa](105_numbe.md).
 
 Muita yleisiä määrää ilmaisevia sanoja ovat **som** (_joitakin_), **meni** (_monta_) ja **muche** (_paljon_).
 

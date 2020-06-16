@@ -1,6 +1,6 @@
 # Lesson 1: Introducing yourself
 
-## Dialog
+## Dialog 1
 
 ![](http://www.pandunia.info/dunish/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
@@ -26,6 +26,28 @@
 <big>👨🏾</big>
 **mi olso, Mari.**
 – Me too, Mari.
+
+
+## Dialog 2
+
+<big>👨🏾</big>
+**halo!**
+– Hello!  
+<big>👩</big>
+**halo! hu is yu?**
+– Hello! Who are you?  
+<big>👨🏾</big>
+**mi is Yusef? en yu?**
+– I am Yusef. And you?  
+<big>👩</big>
+**mi is Mari.**
+– I am Mari.  
+<big>👨🏾</big>
+**mi is hapi to mite yu, Mari.**
+– I'm happy to meet you, Mari.  
+<big>👩</big>
+**mi olso, Yusef.**
+– Me too, Yusef.
 
 
 ## Grammar
@@ -129,6 +151,8 @@ The correct answers are after the word list.
 – he or she, him or her  
 **he's**
 – his or her  
+**hu**
+– who  
 **is**
 – is, am, are  
 **mi**

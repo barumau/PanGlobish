@@ -83,3 +83,75 @@ and **di** is used when we refer to _many_ things.
 **di haus**
 – the houses
 
+
+## Proper names
+
+### Adaptation to Dunish
+
+Proper names are typically adapted to the writing system of Dunish.
+For example, it is obviously better to use
+**Moskva** (Moscow) instead of "Москва",
+**Dilli** (Delhi) instead of "दिल्ली",
+and **Beijing** (Peking) instead of "北京"
+in the international language.
+Likewise it is probably better to use
+**Tuson** instead of "Tucson",
+**Marsei** instead of "Marseille", and
+**Kishineu** instead of "Chișinău"
+in order to ensure correct pronunciation.
+
+
+### Titles of respect
+
+Names of people can be tagged with titles of respect
+**sa**, **ma**, **pa**.
+They are meant to show respect and politeness.
+
+**sa**
+is the universal title of respect.
+It can be used in formal and informal situations and for all age groups, social groups and genders.
+The closest translation for it in English is _Mr or Ms_ or _Mx_.
+
+**ma**
+can be used when addressing any woman
+regardless of age, social status, and marital status.
+It translates to several titles in English including _Mrs_, _Miss_, _Ms_, _Madam_ and _Ma'am_.
+
+**pa**
+can be used when addressing any man
+regardless of age, social status, and marital status.
+It translates to several titles in English including _Mister_ and _Sir_.
+
+There are different customs concerning honorific titles in different cultures.
+In some cultures it is not polite to use someone's name without using a title of respect before it.
+Therefore it is advisable to use them always when you meet new people from different cultures.
+
+A title of respect can be used with a given name, a family name, or both.
+
+**sa Bili King**
+– Mx Billy King  
+**sa Bili**
+– Mx Billy  
+**sa King**
+– Mx King
+
+It is always polite to use the gender-neutral title.
+However, some people have are more accustomed to using the male and female titles.
+
+**pa Felipe Gonzales**
+– Mr Felipe Gonzales  
+**pa Felipe**
+– Mr Felipe  
+**pa Gonzales**
+– Mr Gonzales
+
+The order of the given name and the family name may be different in different cultures.
+For example in Chinese it is common to put the family name first.
+
+**ma Wang Lili**
+– Ms Lili Wang  
+**ma Lili**
+– Ms Lili  
+**ma Wang**
+– Ms Wang
+

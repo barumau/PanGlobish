@@ -34,7 +34,7 @@ Aspects describe how an event can be viewed in relation to other events in time.
 
 - The progressive aspect (**is**) indicates an event that is ongoing.
 - The perfect aspects
-    - The resultative aspect (**has**) indicates a completed event whose results have an effect on the present situation.
+    - The resultative aspect (**haf**) indicates a completed event whose results have an effect on the present situation.
     - The experiential aspect (**was**) indicates a completed event that has no connection to the present situation.
 - The future aspect (**wil**) indicates a situation that hasn't taken place yet.
 
@@ -46,7 +46,7 @@ The figure below illustrates how the different aspects relate to the time under 
          │   was   │  ···  │
          └─────────┘       │
          ┌─────────┐       │
-         │   has   ├───────┤
+         │   haf   ├───────┤
          └─────────┘       │
                       ┌────┴────┐
                       │   is    │
@@ -92,15 +92,15 @@ It is marked with **was** before the verb.
 ### Resultative aspect
 
 The resultative aspect describes a completed past situation whose consequences are relevant to the time under discussion.
-It is marked with **has** before the verb.
+It is marked with **haf** before the verb.
 
-**mi has nou Juli fo ten yer.**
+**mi haf nou Juli fo ten yer.**
 – I have known Julie for ten years. (I still know her.)  
-**he has safare do Kanada.**
+**he haf safare do Kanada.**
 – He has traveled to Canada. (And he still is there.)  
-**mi has luze mi's chabi!**
+**mi haf luze mi's chabi!**
 – I have lost my keys! (They are still missing.)  
-**Juli has bi mi's frende fo ten yer.**
+**Juli haf bi mi's frende fo ten yer.**
 – Julie has been my friend for ten years. (And she still is.)
 
 
@@ -126,7 +126,7 @@ The aspect markers can be used together with **bi**.
 
 **mi is bi hapi.**
 – I am happy. / I am being happy.  
-**mi has bi hapi.**
+**mi haf bi hapi.**
 – I have been happy.  
 **mi was bi hapi.**
 – I was happy.  

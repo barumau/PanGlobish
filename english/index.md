@@ -94,7 +94,7 @@ Comparison is done with helping words:
 Time is expressed with helping verbs:
 **was**
 – past events;
-**has**
+**haf**
 – past events that are still relevant;
 **is**
 – currently ongoing events; and
@@ -103,7 +103,7 @@ Time is expressed with helping verbs:
 
 **de was ride mi's buke.**
 – They read my book.  
-**wi has ride meni buke.**
+**wi haf ride meni buke.**
 – We have read many books.  
 **mi is ride un buke.**
 – I am reading one book.  

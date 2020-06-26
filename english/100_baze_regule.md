@@ -17,7 +17,9 @@ There are no exceptions.
    If the word has one or two syllables, the first syllable is accented.
    If the word has three or more syllables, the second syllable is accented.
 4. **Nouns:**
-   Words don’t ever change.
+   Nouns have only one form, always the same.
+   Number is indicated by number words and articles.
+   Case is indicated by prepositions.
 5. **Numerals:**
    The cardinal numbers are:
        - 0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sikse**,
@@ -43,7 +45,7 @@ There are no exceptions.
 8. **Verbs:**
    The verb does not change in person, number and tense.
     - **is** indicates an ongoing event.
-    - **has** indicates a completed event whose results have an effect on the present situation.
+    - **haf** indicates a completed event whose results have an effect on the present situation.
     - **was** indicates a completed event that has no connection to the present situation.
     - **wil** indicates a future event.
 9. **Word order:**

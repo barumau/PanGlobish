@@ -159,3 +159,63 @@ Only one form is used in all persons.
 – They are happy.
 
 
+## Infinitive
+
+An infinitive verb is a verb that can function as a noun.
+The particle **to** marks the following verb as an infinitive.
+
+**to bi**
+– to be  
+**to nou**
+– to know  
+**to love**
+– to love
+
+An infinitive verb can function as a subject or object.
+
+**mi love to yam.**
+– I love to eat.  
+**to yam is gude.**
+– To eat is good.  
+**to yam is to joy.**
+– To eat is to enjoy.
+
+An infinitive verb can take a noun complement.
+
+**to yam un apel**
+– to eat an apple  
+**to love un fem**
+– to love a woman
+
+The infinitive marker is not used with helping verbs.
+
+**mi wan gow.**
+– I want to go.  
+**mi kan gow.**
+– I can go.  
+**mi mus gow.**
+– I have to go. / I must go.
+
+Sometimes there are alternatives for using the infinitive.
+For example, adjectives that involve a verb can be formed with a plain verb or with an infinitive verb.
+
+**un pley izi gitare**
+– an easy playing guitar  
+**un izi to pley gitare**
+– an easy to play guitar
+
+
+## Verbs in series
+
+There can be two, three or even more verbs in a series,
+and all of them are about the same subject.
+
+**mi yam un pay.**
+– I eat a pay.  
+**mi gow yam un pay.**
+– I go to eat a pie.  
+**mi kan gow yam un pay.**
+– I can go to eat a pie.  
+**mi wan kan gow yam un pay.**
+– I want to can go to eat a pie.
+

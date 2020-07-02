@@ -36,10 +36,7 @@ Common words for indicating plurality include **som** (_some_), **meni** (_many_
 **som haus**
 – some houses  
 **meni haus**
-– many houses  
-**muche haus**
-– a lot of houses
-
+– many houses
 
 ## Definite and indefinite articles
 

@@ -3,6 +3,8 @@
 In this page Dunish is compared to English.
 The goal is to show why Dunish would be a better global second language
 for people who don't have a common language.
+We don't have anything against English as such,
+but we criticize its role as a global language.
 English is perfectly OK as a national language and as an international language
 between countries where it is already spoken.
 

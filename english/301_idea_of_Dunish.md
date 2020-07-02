@@ -10,7 +10,7 @@ Dunish is _practical_.
 It re-uses things that have already become international, including
 the basic Latin alphabet,
 basic words from English, and
-international words from Greek, Latin, Sanskrit, Chinese and Arabic.
+international words from Greek, Latin, Sanskrit, Chinese and Arabic, among others.
 That way Dunish can be used in real international communication right from the start.
 
 Dunish is _simple_.
@@ -20,7 +20,7 @@ So, let's keep it simple!
 
 Dunish feels _real_.
 It is like a lost relative of English
-that seems to be of the same kind as English and – at the same time – noticeably of its own kind.
+that seems to be of the same kind as English but that is at the same time distinctly its own kind.
 In this regard it is similar to the real relatives of English
 (like German, Dutch, Afrikaans and the Scandinavian languages)
 and the children of English,
@@ -29,49 +29,36 @@ and the children of English,
 
 ## Evenly global
 
-About 6500 languages are spoken in the world.
-Some languages are spoken by a lot of people in many different countries
-while others are spoken by only a few people in one geographic area.
+### Why all languages are not included?
 
-When native speakers of different langauges are added together going from the largest to the smalles language,
-the sum grows quickly at first
-but the growth gets slower and slower
-and finally it's hardly noticeable.
+The figure below shows cumulative distribution of the 50 most spoken native languages.
+The figure tells that:
 
-For example, when only native speakers are counted in,
+- 25 percent of the world population speaks the top-3 languages
+- 50 percent of the world speaks the top-13 languages
+- 75 percent of the world speaks the top-50 languages
 
-- 25 percent of the world population speaks the top-3 languages,
-- 50 percent of the world speaks the top-12 languages,
-- 75 percent of the world speaks the top-50 languages,
-- 85 percent of the world speaks the top-100 languages,
-- and finally 100 percent of the world speaks about 6500 languages.
+The remaining languages – there are over 6000 of them! – are outside the picture.
+The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
+which is spoken only by a handful of people.
+
+The figure indicates that _beyond a certain point_
+including one more language to the mix wouldn't make the interlanguage significantly more international.
+For example, if the top-50 languages were already included,
+adding the 51st language wouldn't make much of a difference,
+ecause it would increase the coverage from 75.07% to 75.43%.
+
+One can also question the practical implications of including 51 languages versus 50.
+The increase in coverage would be marginal, only 0.36%,
+and it would not help the remaining 24.24% of the world who speak other, smaller languages!
 
 ![](http://www.pandunia.info/dunish/grafe/kumule.png)  
 Figure. Percentage of world population by language by number of native speakers.
 
-| Language | Total speakers | Countries | International organizations         |
-|:-----------------|-------:|----------:|:------------------------------------|
-| English          |   1268 |        58 | UN, EU, AU, ASEAN, WTO, NAFTA, NATO |
-| Mandarin Chinese |   1120 |         3 | UN, ASEAN, SCO                      |
-| Hindi-Urdu       |    808 |         3 |                                     |
-| Spanish          |    538 |        20 | UN, EU, AU, WTO, NAFTA, Mercosur    |
-| French           |    277 |        29 | UN, EU, AU, WTO, NAFTA, NATO        |
-| Arabic           |    274 |        26 | UN, AL, AU                          |
-| Russian          |    258 |         4 | UN, CIS, SCO                        |
-| Portuguese       |    252 |        10 | EU, AU, Mercosur                    |
-| Malay-Indonesian |    199 |         4 | ASEAN                               |
-| German           |    132 |         6 | EU                                  |
-| Swahili          |     99 |         5 |                                     |
-| Japanese         |    126 |         1 |                                     |
-| Bengali          |    265 |         2 |                                     |
-| Korean           |     77 |         2 |                                     |
-
-References:
-
-- [List of languages by number of native speakers](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
-- [List of languages by total number of speakers](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers)
-- [List of languages by the number of countries in which they are recognized as an official language](https://en.wikipedia.org/wiki/List_of_languages_by_the_number_of_countries_in_which_they_are_recognized_as_an_official_language)
-- [List of official languages by institution](https://en.wikipedia.org/wiki/List_of_official_languages_by_institution)
+The vocabulary of Dunish is based on the most spoken languages.
+They cover all continents and all major modern cultures of the world.
+They also have a lot of _international words_ in common with less spoken languages.
+That's why Dunish-like words can be found also in smaller languages.
 
 
 ## Useful in real life

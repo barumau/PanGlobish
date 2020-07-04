@@ -18,15 +18,15 @@ or add mood to the meaning of the sentence.
 The word **wa** is used to turn a declarative sentence into a question.
 
 **yu wan yam som piza.**
-– You want to eat pizza.  
+– You want to eat some pizza.  
 **yu wan yam som pizza, wa?**
-– Do you want to eat pizza?
+– Do you want to eat some pizza?
 
 Another way to tag a question is to add the word **no** at the end of a sentence.
 The **no** can represent any English question tag, so depending on context it will translate as:
 "isn't it?", "aren't they?", "can't she?", "wouldn't they?", etc.
 
-**yu wan yam som pizza, no?**
+**yu wan yam som piza, no?**
 – You want to eat pizza, don't you?
 
 **ye**

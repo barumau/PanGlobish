@@ -2,7 +2,7 @@ site_name: Dunish
 site_url: http://www.pandunia.info/dunish/english
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
-docs_dir: ../../english
+docs_dir: ../../English
 site_dir: ../../html/english
 theme: readthedocs
 nav:
@@ -24,3 +24,7 @@ nav:
     - 'About Dunish':
         - 'The idea': 301_idea_of_Dunish.md
         - 'Dunish vs English': 302_Dunish_vs_English.md
+    - Dictionaries:
+        - "Dunish–English" : Dunish-English.md
+        - "English–Dunish" : English-Dunish.md
+

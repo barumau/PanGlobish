@@ -2,7 +2,7 @@ site_name: Dunish
 site_url: http://www.pandunia.info/dunish/finish
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
-docs_dir: ../../suomi
+docs_dir: ../../Suomi
 site_dir: ../../html/suomi
 theme: readthedocs
 nav:
@@ -22,3 +22,6 @@ nav:
     - 'Taustatietoja':
         - 'Idea': 301_idea_of_Dunish.md
         - 'Dunish vs. englanti': 302_Dunish_vs_English.md
+    - Sanasto:
+        - "Dunish–suomi" : Dunish-Suomi.md
+        - "Suomi–dunish" : Suomi-Dunish.md

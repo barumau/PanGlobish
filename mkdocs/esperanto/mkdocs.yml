@@ -2,7 +2,7 @@ site_name: Duniŝo
 site_url: http://www.pandunia.info/dunish/esperanto
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto Kupsala
-docs_dir: ../../esperanto
+docs_dir: ../../Esperanto
 site_dir: ../../html/esperanto
 theme: readthedocs
 nav:
@@ -22,3 +22,6 @@ nav:
     - 'Pri Duniŝo':
         - 'La ideo': 301_idea_of_Dunish.md
         - 'Duniŝo kontraŭ la angla': 302_Dunish_vs_English.md
+    - Vortaro:
+        - "Duniŝo–Esperanto" : Dunish-Esperanto.md
+        - "Esperanto–Duniŝo" : Esperanto-Dunish.md

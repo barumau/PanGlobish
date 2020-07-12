@@ -1,7 +1,7 @@
 site_name: Dunish
 site_url: http://www.pandunia.info/dunish/tai
 repo_url: https://github.com/barumau/dunish/
-docs_dir: ../../tai
+docs_dir: ../../Tai
 site_dir: ../../html/tai
 theme: readthedocs
 nav:

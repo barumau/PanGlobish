@@ -170,3 +170,67 @@ vaan yhtä ja samaa muotoa käytetään kaikissa persoonissa.
 – He ovat onnellisia.
 
 
+## Infinitiivi
+
+Inifinitiivimuodossa verbiä käytetään substantiivina.
+Apuverbi **du** merkitsee sitä seuraavan verbin infinitiiviksi.
+
+**du bi**
+– olla  
+**du now**
+– tietää  
+**du love**
+– rakastaa
+
+Infinitiivi voi toimia lauseen subjektina ja objektina.
+
+**mi love du yam.**
+– Minä rakastan syödä/syömistä.  
+**du yam is gude.**
+– Syöminen on hyvä.  
+**du yam is du joy.**
+– Syöminen on nauttimista. (Syödä on nauttia.)
+
+Substantiivilauseke voi täydentää infinitiivimuotoista verbiä.
+
+**du yam un apel**
+– syödä omena  
+**du love da live**
+– rakastaa elämää  
+**is gude du love da live.**
+– On hyvä rakastaa elämää.
+
+Infinitiivin merkitsijää ei käytetä apuverbien kanssa.
+
+**mi wan gow.**
+– Minä haluan mennä.  
+**mi kan gow.**
+– Minä voin mennä.  
+**wi mus gow.**
+– Meidän täytyy mennä.  
+**yu mey gow.**
+– Te saatte mennä.
+
+Toisinaan infinitiivin käytölle on vaihtoehtoisia rakenteita.
+Esimerkiksi, verbin sisältävä adjektiivi voi sisältää tekemistä ilmaisevan sanan ilman **du**-partikkelia.
+
+**un pley izi gitare**
+– helpposoittoinen kitara  
+**un izi du pley gitare**
+– helposti soitettava kitara
+
+
+## Verbiketju
+
+Kaksi tai useampia verbejä voidaan ketjuttaa yhteen,
+jolloin ne muodostava yhden predikaatin, joka kertoo samasta subjektista.
+
+**mi yam un pay.**
+– Minä syön piirakan.  
+**mi gow yam un pay.**
+– Minä menen syömään piirakkaa.  
+**mi kan gow yam un pay.**
+– Minä voin mennä syömään piirakkaa.  
+**mi wan kan gow yam un pay.**
+– Minä haluan voida mennä syömään piirakkaa.
+

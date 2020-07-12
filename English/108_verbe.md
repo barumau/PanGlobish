@@ -162,30 +162,32 @@ Only one form is used in all persons.
 ## Infinitive
 
 An infinitive verb is a verb that can function as a noun.
-The particle **to** marks the following verb as an infinitive.
+The helping verb **du** marks the following verb as an infinitive.
 
-**to bi**
+**du bi**
 – to be  
-**to nou**
+**du now**
 – to know  
-**to love**
+**du love**
 – to love
 
 An infinitive verb can function as a subject or object.
 
-**mi love to yam.**
+**mi love du yam.**
 – I love to eat.  
-**to yam is gude.**
+**du yam is gude.**
 – To eat is good.  
-**to yam is to joy.**
+**du yam is du joy.**
 – To eat is to enjoy.
 
 An infinitive verb can take a noun complement.
 
-**to yam un apel**
+**du yam un apel**
 – to eat an apple  
-**to love un fem**
-– to love a woman
+**du love da live**
+– to love the life  
+**is gude du love da live.**
+– It is good to love the life.
 
 The infinitive marker is not used with helping verbs.
 
@@ -193,15 +195,17 @@ The infinitive marker is not used with helping verbs.
 – I want to go.  
 **mi kan gow.**
 – I can go.  
-**mi mus gow.**
-– I have to go. / I must go.
+**wi mus gow.**
+– We have to go. / We must go.  
+**yu mey gow.**
+– You may go.
 
 Sometimes there are alternatives for using the infinitive.
 For example, adjectives that involve a verb can be formed with a plain verb or with an infinitive verb.
 
 **un pley izi gitare**
 – an easy playing guitar  
-**un izi to pley gitare**
+**un izi du pley gitare**
 – an easy to play guitar
 
 

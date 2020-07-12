@@ -21,7 +21,7 @@
 **mi is Yusef.**
 = Minä olen Yusef.  
 <big>👩</big>
-**mi is hapi to mite yu, Yusef.**
+**mi is hapi du mite yu, Yusef.**
 – Olen onnellinen tavatessani teidät, Yusef.  
 <big>👨🏾</big>
 **mi olso, Mari.**
@@ -122,6 +122,8 @@ Oikeat vastaukset ovat sanaston jälkeen.
 
 **en**
 – ja  
+**du**
+– verbin merkitsevä sananen  
 **halo**
 – terve  
 **he**
@@ -142,8 +144,6 @@ Oikeat vastaukset ovat sanaston jälkeen.
 – nimi  
 **olso**
 – myös  
-**to**
-– verbin merkitsijä  
 **tu**
 – sinä  
 **tu's**
@@ -172,5 +172,5 @@ Oikeat vastaukset ovat sanaston jälkeen.
 9. mi's name is _ _ _ _ _ _.
 10. mi is _ _ _ _ _ _.
 11. mi is hapi.
-12. wi is hapi to mite tu/yu.
+12. wi is hapi du mite tu/yu.
 

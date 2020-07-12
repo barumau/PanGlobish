@@ -21,7 +21,7 @@
 **mi is Yusef.**
 = I am Yusef.  
 <big>👩</big>
-**mi is hapi to mite yu, Yusef.**
+**mi is hapi du mite yu, Yusef.**
 – I'm happy to meet you, Yusef.  
 <big>👨🏾</big>
 **mi olso, Mari.**
@@ -43,7 +43,7 @@
 **mi is Mari.**
 – I am Mari.  
 <big>👨🏾</big>
-**mi is hapi to mite yu, Mari.**
+**mi is hapi du mite yu, Mari.**
 – I'm happy to meet you, Mari.  
 <big>👩</big>
 **mi olso, Yusef.**
@@ -145,6 +145,8 @@ The correct answers are after the word list.
 
 **en**
 – and  
+**du**
+– to (the tag word for verbs)  
 **halo**
 – hello  
 **he**
@@ -167,8 +169,6 @@ The correct answers are after the word list.
 – name  
 **olso**
 – also, too  
-**to**
-– to (the tag for verbs)  
 **tu**
 – you, thou, thee  
 **tu's**
@@ -197,5 +197,5 @@ The correct answers are after the word list.
 9. mi's name is _ _ _ _ _ _.
 10. mi is _ _ _ _ _ _.
 11. mi is hapi.
-12. wi is hapi to mite tu/yu.
+12. wi is hapi du mite tu/yu.
 

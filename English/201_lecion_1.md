@@ -170,7 +170,7 @@ The correct answers are after the word list.
 **olso**
 – also, too  
 **tu**
-– you, thou, thee  
+– you (singular), thou, thee  
 **tu's**
 – your, thine  
 **wa**
@@ -180,7 +180,7 @@ The correct answers are after the word list.
 **wi's**
 – our  
 **yu**
-– you  
+– you (plural)  
 **yu's**
 – your  
 

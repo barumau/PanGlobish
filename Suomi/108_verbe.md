@@ -182,6 +182,9 @@ Apuverbi **du** merkitsee sitä seuraavan verbin infinitiiviksi.
 **du love**
 – rakastaa
 
+![](http://www.pandunia.info/dunish/grafe/du_bi_or_no_du_bi.png)  
+[Designed by Freepik](http://www.freepik.com)
+
 Infinitiivi voi toimia lauseen subjektina ja objektina.
 
 **mi love du yam.**

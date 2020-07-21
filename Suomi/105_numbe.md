@@ -91,3 +91,56 @@ On siis ihan tavallista sanoa esimerkiksi:
 
 Lisäksi on **Ramazan** (ramadan), islamilaisen kuukalenterin mukainen pyhä yhdeksäs kuukausi.
 
+
+## Viikonpäivät
+
+Muinaisessa Kreikassa viikonpäivät nimettiin seitsemän taivaankappaleen mukaan,
+jotka olivat aurinko, kuu ja viisi paljaalla silmällä näkyvää planeettaa.
+Jokaista taivaankappaletta edusti myös jokin jumala.
+Tämä nimeämisjärjestelmä levisi Roomaan, Intiaan, Kiinaan ja melkein kaikkialle tuolloin tunnettuun maailmaan.
+
+Dunishissa viikonpäivien nimet seuraavat roomalaista käytäntöä,
+jossa taivaankappaleen ja viikonpäivän nimet ovat lähellä toisiaan.
+Suomessa käytetään planeetoista roomalaisia nimiä ja viikonpäivistä germaanisia nimiä.
+
+| Taivaankappale | Viikonpäivä          |
+|-------------|-------------------------|
+| **Sole**    | **soledi**              |
+| aurinko     | sunnuntai (sun = aurinko) |
+| **Lune**    | **lunedi**              |
+| kuu         | maanantai (mån = kuu)   |
+| **Marte**   | **martedi**             |
+| Mars        | Tiistai (Tiwazin päivä) |
+| **Merkur**  | **merkurdi**            |
+| Merkurius   | keskiviikko             |
+| **Jove**    | **jovedi**              |
+| Jupiter     | Torstai (Thorin päivä)  |
+| **Venera**  | **venerdi**             |
+| Venus       | perjantai (Freijan päivä) |
+| **Saturne** | **saturdi**             |
+| Saturnus    | lauantai                |
+
+Toinen järjestelmä on puhtaasti numeerinen.
+
+1. **wike dey un**
+– maanantai (1. viikonpäivä)
+2. **wike dey due**
+– tiistai (2. viikonpäivä)
+3. **wike dey tri**
+– keskiviikko (3. viikonpäivä)
+4. **wike dey for**
+– torstai (4. viikonpäivä)
+5. **wike dey faive**
+– perjantai (5. viikonpäivä)
+6. **wike dey sixe**
+– lauantai (6. viikonpäivä)
+7. **wike dey seven**
+– sunnuntai (7. viikonpäivä)
+
+Tämä on kuitenkin epäluotettava järjestelmä,
+koska eri maissa viikon katsotaan alkavan eri päivänä.
+Lisäksi on tärkeää erottaa viikonpäivä
+(**wike dey**)
+kuukauden päivästä
+(**mes dey**).
+

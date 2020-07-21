@@ -93,3 +93,58 @@ The names of the months are:
 
 In addition there is **Ramazan** (Ramadan), the holy ninth month of the Islamic lunar calendar.
 
+## Days of the week
+
+In ancient Greece, the days of the week were named after the _Seven Luminaries_,
+which consist of the Sun, Moon and the five planets that are visible to the naked eye.
+Each of the luminaries was also represented by a deity.
+This system spread to Rome, India, China and almost all across the world.
+
+In English, the Roman deities were substituted by Germanic deities:
+Sunday = sun's day, Monday = moon's day, Tuesday = Tiw's day, Wednesday = Woden's day, Thursday = Thor's day, and Saturday = Saturn's day.
+
+In Dunish, the names of the days of the week follow the Roman system,
+whereas the English system involved Germanic deities.
+
+| Luminary    | Day of the week         |
+|-------------|-------------------------|
+| **Sole**    | **soledi**              |
+| Sun         | Sunday                  |
+| **Lune**    | **lunedi**              |
+| moon        | Monday (moon's day)     |
+| **Marte**   | **martedi**             |
+| Mars        | Tuesday (Tiw's day)     |
+| **Merkur**  | **merkurdi**            |
+| Mercury     | Wednesday (Woden's day) |
+| **Jove**    | **jovedi**              |
+| Jupiter     | Thursday (Thor's day)   |
+| **Venera**  | **venerdi**             |
+| Venus       | Friday (Frige's day)    |
+| **Saturne** | **saturdi**             |
+| Saturn      | Saturday (Saturn's day) |
+
+
+Alternatively there is also a number-based system of naming.
+
+1. **wike dey un**
+– Monday (the 1st day of the week)
+2. **wike dey due**
+– Tuesday (the 2nd  day of the week)
+3. **wike dey tri**
+– Wednesday (the 3rd day of the week)
+4. **wike dey for**
+– Thursday (the 4th  day of the week)
+5. **wike dey faive**
+– Friday (the 5th day of the week)
+6. **wike dey sixe**
+– Saturday (the 6th  day of the week)
+7. **wike dey seven**
+– Sunday (the 7th  day of the week)
+
+However, this is an unreliable system
+because the first day of the week can be different in different countries.
+In addition it is important to differentiate the days of the week
+(**wike dey**)
+and the days of the month
+(**mes dey**).
+

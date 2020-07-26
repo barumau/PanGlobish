@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_halo_dunia.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_halo_dunia.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Saluton, mondo!
@@ -53,7 +53,7 @@ La normala vortordo estas subjekto–verbo–objekto.
 **mi love yu.**
 – Mi amas vin.
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Demandoj enhavas la saman vortordon.  
@@ -132,6 +132,6 @@ Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Duniŝo estas bona ideo, ankaŭ _aliuloj_ pensus same.
 Do komencu uzi Duniŝon nun kaj ni faru ĝin nia komuna lingvo!
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_pikisuperstar_2.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_pikisuperstar_2.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 

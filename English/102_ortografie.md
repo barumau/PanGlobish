@@ -120,8 +120,8 @@ A syllable can include in maximum:
 
 Some of the heaviest words in practice are **kristal** and **simple**.
 
-In addition, the following middle consonant clusters are allowed: -kn-, -ks-, -tn- and -tm-.
-They are found in handful of loan words from Greek and Latin,
+In addition, the following middle consonant groups are allowed: -kn-, -ks-, -tn- and -tm-.
+They are found in a handful of loan words from Greek and Latin,
 like **tekne** (_technique_), **akse** (_axis_), **etne** (_ethnicity_) and **ritme** (_rhythm_).
 
 
@@ -139,17 +139,17 @@ Common words, which are in general use, must fit into the normal word structure,
 and they can include only the normal sounds of Dunish.
 
 Most Dunish words are structurally simpler than the corresponding English words.
-Difficult consonant clusters are avoided in the beginning, middle and end of words,
+Difficult consonant groups are avoided in the beginning, middle and end of words,
 so _state_ becomes **estate**, _actor_ becomes **ater**, and _saint_ becomes **sante** in Dunish.
 Also final stop consonants are avoided, so for example _good_ becomes **gude** in Dunish.
 
 Dunish doesn't have the TH sounds that exist in English,
-so they are usually realized as T and D and rarely even as Z in loan words from English.
+so they are usually realized as T and D in words that are borrowed from English.
 For example **da** (_the_), **de** (_they_), **tri** (_three_), and **ting** (_thing_).
 
 ### Proper names
 
-Infrequently used common nouns and proper nouns can be more complex
+Infrequently used common nouns and proper nouns can be more complex than ordinary words,
 and they can include external sounds that don't belong to the normal sound inventory of Dunish.
 
 For example, family name _Smith_ may remain **Smith** in Dunish,

@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_halo_dunia.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_halo_dunia.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 สวัสดีชาวโลก!

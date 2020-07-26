@@ -7,7 +7,7 @@
 **mi have 25 (due ten faive) yer.**
 – I am 25 years old.  
 **mi is un estuder en esporter.**
-– I am a student and an athlete.  
+– I am a student and a sportsman.  
 **mi estude da historie.**
 – I study history.  
 **mi esporte da fute bol.**
@@ -42,9 +42,62 @@
 **mi tiche da matematike in da mide eskola.**
 – I teach mathematics in the secondary school.  
 <big>🧓</big>
-**yu du wa as hobe?**
+**yu du wa as hobi?**
 – What do you do as a hobby?  
 <big>👩</big>
 **mi estude di linguaje.**
 – I study languages.
+
+## Word List
+
+**as**
+as  
+**brate**
+brother  
+**eskola**
+school  
+**esporte**
+sports; to do sports  
+**esporter**
+sportsman, sportswoman, athlete  
+**estude**
+study; to study  
+**estuder**
+student  
+**famile**
+family  
+**fute bol**
+football  
+**have**
+to have  
+**hobi**
+hobby  
+**linguaje**
+language  
+**mama**
+mother, mom  
+**matematike**
+mathematics  
+**papa**
+father, dad, poppa  
+**profesie**
+profession  
+**siste**
+sister  
+**tiche**
+to teach  
+**ticher**
+teacher  
+**yer**
+year  
+
+
+## Supplementary Word List: Professions
+
+**injener**
+engineer  
+**sekreter**
+secretary  
+**yoga guru**
+yoga instructor  
 

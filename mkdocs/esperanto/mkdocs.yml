@@ -1,7 +1,7 @@
 site_name: Duniŝo
-site_url: http://www.pandunia.info/dunish/esperanto
+site_url: http://www.kupsala.net/dunish/esperanto
 repo_url: https://github.com/barumau/dunish/
-site_author: Risto Kupsala
+site_author: Risto "Rippe" Kupsala
 docs_dir: ../../Esperanto
 site_dir: ../../html/esperanto
 theme: readthedocs

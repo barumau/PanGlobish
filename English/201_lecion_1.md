@@ -2,7 +2,7 @@
 
 ## Dialog 1
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_halo.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 
 <big>👨🏾</big>

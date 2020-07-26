@@ -1,7 +1,7 @@
 site_name: Dunish
-site_url: http://www.pandunia.info/dunish/finish
+site_url: http://www.kupsala.net/dunish/suomi
 repo_url: https://github.com/barumau/dunish/
-site_author: Risto Kupsala
+site_author: Risto "Rippe" Kupsala
 docs_dir: ../../Suomi
 site_dir: ../../html/suomi
 theme: readthedocs

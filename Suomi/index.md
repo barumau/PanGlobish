@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_halo_dunia.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_halo_dunia.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Terve, maailma!
@@ -30,7 +30,7 @@ Kaikki voivat oppia dunishin alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää dunishia kuin huonoa englantia.
 
-![](http://www.pandunia.info/dunish/grafe/Dunish.png)
+![](http://www.kupsala.net/dunish/grafe/Dunish.png)
 
 ## Dunishin perusteet
 
@@ -64,7 +64,7 @@ eli yleensä tekijä on lauseen alussa, sitten teonsana ja viimeisenä tekemisen
 **mi love yu.**
 – Minä rakastan sinua.
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Samaa sanajärjestystä käytetään myös kysymyslauseissa.  
@@ -145,6 +145,6 @@ Dunishia ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät dunishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.
 Eli ala käyttämään dunishia ja tehdään siitä yhdessä maailman yhteinen kieli!
 
-![](http://www.pandunia.info/dunish/grafe/Freepik_pikisuperstar_2.png)  
+![](http://www.kupsala.net/dunish/grafe/Freepik_pikisuperstar_2.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 

@@ -1,10 +1,10 @@
-ENG : [Learn about Dunish in English](english/index.md)
+ENG : [Learn about Dunish in English](English/index.md)
 
-EPO : [Lernu pri Duniŝo en Esperanto](esperanto/index.md)
+EPO : [Lernu pri Duniŝo en Esperanto](Esperanto/index.md)
 
-FIN : [Tutustu dunishiin suomeksi](suomi/index.md)
+FIN : [Tutustu dunishiin suomeksi](Suomi/index.md)
 
-THA : [เรียนภาษาDunishเป็นภาษาไทย](tai/index.md)
+THA : [เรียนภาษาDunishเป็นภาษาไทย](Tai/index.md)
 
 
 

@@ -1,4 +1,34 @@
-# Word Building
+# Word Derivation
+
+Forming a new word from an existing word is called word derivation.
+Often a new word is formed by adding a prefix or suffix, such as _un-_ or _-ness_.
+For example, _unhappy_ and _happiness_ derive from the root word _happy_.
+
+## Zero Derivation
+
+Zero derivation means conversion of a word of a certain word class to a different word class without any change in form.
+In Dunish, this is very common.
+In fact, most words don't belong to any fixed word classes.
+Instead, the word class is determined by the word's place in the sentence.
+
+For example, the word **blanke** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
+
+**yu have som blanke papir, no?**
+– Do you have some blank paper?  
+**give mi un blanke!**
+– Give me a blank!  
+**yu mus blanke da texte.**
+– You must blank out the text.
+
+Similarly, the word **klare** can be an adjective (_clear_) or noun (_clearness_) or verb (_to clear up_ or _to clarify_).
+
+**da hir is un klare misaje.**
+– This is a clear message.  
+**plis, klare yu's meza!**
+– Please, clear your desk!  
+**in da klare of eskay**
+– in the clear of sky
+
 
 ## Compound Words
 
@@ -117,6 +147,25 @@ relating to:
 → **universal**
 (universal)
 
+**-ate** :
+to act in the specified manner:  
+**rote**
+(wheel)
+→ **rotate**
+(to rotate, to turn like a wheel)  
+**formul**
+(formula)
+→ **formulate**
+(to formulate)
+
+**-ation** :
+action:  
+**rote**
+(wheel)
+→ **rotation**
+(rotation)
+
+
 **-er** :
 doer, agent, -er:  
 **helpe**
@@ -171,11 +220,15 @@ science:
 (chemistry)
 
 **-ife** :
-to make, render or transform into:  
+to make, render, turn or transform into:  
 **petre**
 (stone)
 → **petrife**
-(petrify, to turn to stone)
+(petrify, to turn to stone)  
+**klare**
+(clear)
+→ **klarife**
+(clarify)
 
 **-ike**
 of the style or manner of, -ish, -esque:
@@ -273,7 +326,29 @@ inclined to:
 (active, inclined to act)
 
 **-ize**
-to equip or provide with.
+to equip with, supply with, decorate with, coat with:  
+**moterize**
+(to motorize)  
+**komputerize**
+(to computerize)  
+**robotize**
+(to robotize)  
+**automatize**
+(to automatize)  
+**eletrize**
+(to electrify)  
+**harmonize**
+(to harmonize)  
+**patinize**
+(to patinize)   
+**galvanize**
+(to galvanize)  
+**salize**
+(to salt)  
+**kolorize**
+(to colorize)  
+**aurize**
+(to gild, to cover with a layer of gold)
 
 **-lis** :
 without, -less:  

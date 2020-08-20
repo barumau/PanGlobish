@@ -2,6 +2,11 @@
 
 ## Principles of Dunish
 
+Dunish is _fair_.
+Everybody has an equal chance of learning and speaking Dunish well.
+It is supposed to be the _great equalizer_
+— a way of communicating that everybody can use on the same level.
+
 Dunish is _evenly global_.
 It borrows words from from all regions and all cultures of the world.
 It is the world language that stands for the whole world!

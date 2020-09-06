@@ -20,14 +20,14 @@ For example, the word **blanke** can function equally as an adjective (_blank_ o
 **yu mus blanke da texte.**
 – You must blank out the text.
 
-Similarly, the word **klare** can be an adjective (_clear_) or noun (_clearness_) or verb (_to clear up_ or _to clarify_).
+Likewise, the word **skribe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**da hir is un klare misaje.**
-– This is a clear message.  
-**plis, klare yu's meza!**
-– Please, clear your desk!  
-**in da klare of eskay**
-– in the clear of sky
+**mi skribe un letre.**
+– I write a letter.  
+**un letre is un skribe misaje.**
+– A letter is a written message.  
+**mi love yu's skribe.**
+– I love your writings.
 
 
 ## Compound Words
@@ -76,7 +76,7 @@ opposite, un-, in-:
 
 **de-** :
 put apart:  
-**estrukte**
+**strukte**
 (structure)
 → **destrukte**
 (destruct)  
@@ -93,7 +93,7 @@ put apart:
 
 **ko-** :
 together:  
-**estrukte**
+**strukte**
 (structure)
 → **kostrukte**
 (construct, put together)  

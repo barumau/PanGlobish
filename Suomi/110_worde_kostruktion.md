@@ -47,7 +47,7 @@ vastakohta, epä-:
 **de-** :
 perua, hajottaa:  
 **estrukte**
-(rakentaa)
+(rakentaa, koota)
 → **destrukte**
 (tuhota, purkaa)  
 **kode**
@@ -59,6 +59,13 @@ perua, hajottaa:
 → **dekovre**
 (ottaa esiin)
 
+**ex-** :
+entinen:  
+**ex-presidente**
+(entinen presidentti)  
+**ex-espoze**
+entinen puoliso
+
 **ko-** :
 yhdistää:  
 **estrukte**
@@ -69,6 +76,13 @@ yhdistää:
 (työskennellä)
 → **kowerke**
 (tehdä yhteistyötä)
+
+**mis-** :
+väärin:  
+**uze**
+(käyttö)
+→ **misuze**
+(väärinkäyttö)
 
 **non-** :
 puute, ei-:  
@@ -90,7 +104,11 @@ toistaa, tehdä uudelleen:
 **du**
 (tehdä)
 → **ridu**
-(tehdä uudelleen)
+(tehdä uudelleen)  
+**estrukte**
+(rakentaa, koota)
+→ **ristrukte**
+(koota uudelleen)
 
 
 ### Jälkiliitteet
@@ -115,7 +133,11 @@ tekijä, -ja:
 **helpe**
 (auttaa)
 → **helper**
-(apulainen, avustaja)
+(apulainen, avustaja)  
+**beke**
+(leipoa)
+→ **beker**
+(leipuri)
 
 **-eria** :
 työpaikka:  
@@ -174,7 +196,11 @@ tehdä joksikin:
 **un**
 (yksi)
 → **unife**
-(yhdistää)
+(yhdistää)  
+**pace**
+(rauha)
+→ **pacife**
+(rauhoittaa)
 
 **-ike** :
 ominainen:  
@@ -265,14 +291,14 @@ laatu, -us:
 (ykseys)
 
 **-ive** :
-taipuvainen :
+taipuvainen:  
 **akte**
 (toimia)
 → **aktive**
 (toimealias, aktiivinen)
 
 **-ize** :
-varustaa:
+varustaa:  
 **aure**
 (kulta)
 → **aurize**
@@ -297,7 +323,7 @@ jotakin omaava tai sisältävä:
 (huokoinen, huokosia sisältävä)
 
 **-ure** :
-tekemisen tulos tai tuote:
+tekemisen tulos, tuote tai jaloste:
 **korekte**
 (korjata)
 → **korekture**

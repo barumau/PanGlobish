@@ -6,11 +6,11 @@
 – My name is Thomas.  
 **mi have 25 (due ten faive) yer.**
 – I am 25 years old.  
-**mi is un estuder en esporter.**
+**mi is un studer en sporter.**
 – I am a student and a sportsman.  
-**mi estude da historie.**
+**mi stude da historie.**
 – I study history.  
-**mi esporte da fute bol.**
+**mi sporte da fute bol.**
 – I play football.  
 **mi have da papa, mama, un brate en due siste in mi's famile.**
 – I have father, mother, a brother and two sisters in my family.
@@ -39,7 +39,7 @@
 **yu tiche wa?**
 – What do you teach?  
 <big>👩</big>
-**mi tiche da matematike in da mide eskola.**
+**mi tiche da matematike in da mide skole.**
 – I teach mathematics in the secondary school.  
 <big>🧓</big>
 **yu du wa as hobi?**
@@ -54,16 +54,6 @@
 as  
 **brate**
 brother  
-**eskola**
-school  
-**esporte**
-sports; to do sports  
-**esporter**
-sportsman, sportswoman, athlete  
-**estude**
-study; to study  
-**estuder**
-student  
 **famile**
 family  
 **fute bol**
@@ -84,6 +74,16 @@ father, dad, poppa
 profession  
 **siste**
 sister  
+**skole**
+school  
+**sporte**
+sports; to do sports  
+**sporter**
+sportsman, sportswoman, athlete  
+**stude**
+study; to study  
+**studer**
+student  
 **tiche**
 to teach  
 **ticher**

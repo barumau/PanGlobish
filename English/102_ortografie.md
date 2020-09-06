@@ -3,8 +3,11 @@
 Dunish is phonetic in two directions:
 
 1. When you read a word, you can always pronounce it.
-2. When you hear a word, you can normally spell it.
+2. When you hear a word, you can almost always write it.
    (Foreign names can be an exception.)
+
+Once you have learned the few rules and the way letters are pronounced,
+you can read Dunish aloud and be understood.
 
 ## Basic Latin Alphabet
 

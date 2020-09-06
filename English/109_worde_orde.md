@@ -19,7 +19,7 @@ The word **wa** is used to turn a declarative sentence into a question.
 
 **yu wan yam som piza.**
 – You want to eat some pizza.  
-**yu wan yam som pizza, wa?**
+**yu wan yam som piza, wa?**
 – Do you want to eat some pizza?
 
 Another way to tag a question is to add the word **no** at the end of a sentence.

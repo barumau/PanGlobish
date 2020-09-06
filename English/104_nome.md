@@ -21,7 +21,7 @@ which you count one sheep, two sheep, three sheep, etc.
 In Dunish, the number of things is indicated with number words and other quantity words.
 
 **un haus**
-– one house or a house  
+– one house  
 **due haus**
 – two houses  
 **tri haus**
@@ -31,7 +31,7 @@ In Dunish, the number of things is indicated with number words and other quantit
 
 All number words can be found in the [chapter about numerals](105_numbe.md).
 
-Common words for indicating plurality include **som** (_some_), **meni** (_many_) and **muche** (_much, a lot_).
+Common words for indicating plurality include **som** (_some_) and **meni** (_many_).
 
 **som haus**
 – some houses  
@@ -51,18 +51,27 @@ and if you don’t know what you want, you use an indefinite article.
 ### Indefinite articles
 
 There are two indefinite articles in Dunish,
-**un** is used when we refer to _one_ non-specific thing,
+**a** is used when we refer to _one_ non-specific thing,
 and **som** is used when we refer to _many_ things.
 
-**un apel**
+**a apel**
 – an apple  
 **som apel**
 – some apples
 
-**un haus**
+**a haus**
 – a house  
 **som haus**
 – some houses
+
+Sometimes **un** is used instead of **a**.
+It means literally _one_.
+
+**un apel**
+– an apple _or_ one apple  
+**un haus**
+– a house _or_ one house
+
 
 ### Definite articles
 

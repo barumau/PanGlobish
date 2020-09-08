@@ -139,11 +139,11 @@ tekijä, -ja:
 → **beker**
 (leipuri)
 
-**-eria** :
+**-erie** :
 työpaikka:  
 **beker**
 (leipuri)
-→ **bekeria**
+→ **bekerie**
 (leipomo)
 
 **-ete** :

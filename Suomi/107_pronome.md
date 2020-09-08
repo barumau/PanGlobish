@@ -35,9 +35,12 @@ omistusliite **'s**.
 
 ## Kysyvät pronominit
 
-**wa** mikä  
-**hu** kuka  
-**hu's** kenen
+**wa**
+mikä  
+**hu**
+kuka  
+**hu's**
+kenen
 
 
 ## Osoittavat pronominit

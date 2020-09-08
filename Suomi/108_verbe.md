@@ -40,7 +40,7 @@ Dunishin aspektit ovat:
 
 - Jatkuva aspekti (**is**) ilmaisee että toiminta on parhaillaan meneillään ja se on vielä kesken.
 - Päättyneet aspektit
-    - Vaikuttava aspekti (**has**) osoittaa päättynyttä toimintaa, joka yhä vaikuttaa puheena olevaan hetkeen.
+    - Vaikuttava aspekti (**haf**) osoittaa päättynyttä toimintaa, joka yhä vaikuttaa puheena olevaan hetkeen.
     - Koettu aspekti (**was**) osoittaa päättynyttä toimintaa, joka ei enää vaikuta puheena olevaan hetkeen.
 - Tuleva aspekti (**wil**) osoittaa että toiminta toteutuu myöhemmin.
 
@@ -53,7 +53,7 @@ eli kertomuksen "tähän hetkeen".
          │   was   │  ···  │
          └─────────┘       │
          ┌─────────┐       │
-         │   has   ├───────┤
+         │   haf   ├───────┤
          └─────────┘       │
                       ┌────┴────┐
                       │   is    │
@@ -108,7 +108,7 @@ Sen merkkinä on verbin edellä oleva partikkeli **has**.
 – Hän on matkustanut Kanadaan. (Hän on siellä yhä).  
 **mi has luze mi's chabi!**
 – Minä olen hukannut avaimeni! (Ne ovat yhä hukassa.)  
-**Yulia has bi mi's frende fo ten yer.**
+**Yulia haf bi mi's frende fo ten yer.**
 – Julia on ollut ystäväni kymmenen vuotta. (Ja on yhä.)
 
 
@@ -137,7 +137,7 @@ Aspektin merkitsijöitä käytetään olla-verbin **bi** kanssa.
 
 **mi is bi hapi.**
 – Minä olen onnellinen.  
-**mi has bi hapi.**
+**mi haf bi hapi.**
 – Minä olen ollut onnellinen.  
 **mi was bi hapi.**
 – Minä olin onnellinen.  

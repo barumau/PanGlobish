@@ -46,7 +46,7 @@ Poikkeuksia ei ole.
    Verbit ovat taipumattomia.
    Ne eivät taivu persoona-, aika- taikka tapamuodoissa.
     - **is** ilmaisee kuluvaa toimintaa.
-    - **has** ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
+    - **haf** ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
     - **was** ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
     - **wil** ilmaisee tulevaa tapahtumaa.
 9. **Sanajärjestys:**

@@ -106,3 +106,126 @@ Esimerkkejä vierassanoista:
 **Rhein** Rein (Sveitsin, Itävallan, Saksan, Ranskan ja Hollannin läpi virtaava joki)
 
 
+## Sanojen rakenne
+
+Dunishin sanat ovat rakenteeltaan suhteellisen yksinkertaisia.
+Tavussa voi olla enintään:
+
+- yksi alkukonsonantti
+- yksi jatkuva konsonantti (L tai R)
+- yksi tai kaksi vokaalia, ja
+- yksi seuraavista loppukonsonanteista: M, N, NG, L, R, F, S, tai SH.
+
+Käytännössä raskaimpia dunishin sanoja ovat esim. **kristal** (kristalli) ja **simple** (yksinkertainen).
+
+Lisäksi sanan keskellä voi olla jokin seuraavista konsonanttiryhmistä: -kn-, -ks-, -tn- ja -tm-.
+Niitä tosin käytetään vain tietyissä kreikasta ja latinasta lainatuissa sanoissa,
+kuten **tekne** (_tekniikka_), **akse** (_akseli_), **etne** (_kansanryhmä_) ja **ritme** (_rytmi_).
+
+
+## Lainasanojen sovittaminen dunishiin
+
+Yleensä kaikki lainasanat sovitetaan dunishin äänteenmukaiseen kirjoitusjärjestelmään.
+Näin toimitaan sekä yleisnimien että erisnimien kohdalla.
+
+### Yleisnimet
+
+Yleisnimi on sana, joka viittaa johonkin kohteeseen ryhmänsä edustajana eikä yksilönä.
+Erisnimi viittaa johonkin tiettyyn yksilöön erillään muista.
+Esimerkiksi sana _koira_ on yleisnimi ja _Musti_ on erisnimi.
+
+Yleisessä käytössä olevien yleisnimien täytyy noudattaa dunishin tavurakennetta
+ja niiden täytyy sisältää vain dunishin normaaleja äänteitä.
+
+Useimmat dunishin sanat ovat rakenteeltaan yksinkertaisempia kuin muiden kielten, erityisesti englannin, sanat.
+Sanojen alussa ja lopussa ei ole vaikeita konsonanttisarjoja.
+Siispä englannin sanan _state_ vastine on dunishissa **estate**, _actor_ on **ater**, ja _saint_ on **sante**.
+Lisäksi umpikonsonantit ovat kiellettyjä sanan lopussa, joten esimerkiksi sanan _good_ vastine on **gude**.
+
+Dunishissa ei ole englannin vaikeita TH-äänteitä,
+vaan ne korvataan englannista lainatuissa sanoissa tavallisesti äänteillä T ja D.
+Esimerkiksi **da** (_the_), **de** (_they_), **tri** (_three_), ja **ting** (_thing_).
+
+### Erisnimet
+
+Sanan rakenne voi olla monimutkaisempi ja se voi sisältää vierasäänteitä
+kun kyse on erisnimestä tai erittäin harvoin käytetystä yleisnimestä.
+
+Esimerkiksi sukunimi _Smith_ saa olla **Smith** myös dunishissa,
+vaikka sen rakenne on dunishin tavallisia sanoja monimutkaisempi
+ja se sisältää dunishille vieraan TH-äänteen.
+
+
+## Isot ja pienet kirjaimet
+
+Sekä isoja että pieniä kirjaimia eli suur- ja pienaakkosia käytetään dunishin kirjoittamiseen.
+
+Isoja kirjaimia käytetään vain
+erisnimen alkukirjaimena
+ja alkukirjaimen lyhenteenä eli nimikirjaimena.
+
+Dunishissa ei ole tapana aloittaa virkettä isolla alkukirjaimella.
+
+#### Erisnimet
+
+Erisnimet kirjoitetaan isolla alkukirjaimella samalla tavalla kuin suomen kielessä.
+Esimerkiksi _Thomas Stearns Eliot_ kirjoitetaan dunishissa **Tomas Sternz Eliot**,
+ja nimikirjaimia voi käyttää monella eri tavalla, kuten
+**Tomas S Eliot**, **TS Eliot** ja **TSE**.
+Nimikirjainten väliin tai jälkeen ei ole tapana laittaa pistettä.
+
+Kirjojen, laulujen, elokuvien ja muiden teosten nimissä on tapana käyttää isoja alkukirjaimia. Esim.
+**Da Senyer Of Di Ring**
+(Taru sormusten herrasta).
+
+#### Lyhenteet
+
+Alkukirjainlyhenteet, kuten **ASEAN**, **EU**, **NAFTA** ja **UN**, kirjoitetaan aina kokonaan isolla.
+Muunlaiset lyhenteet saattavat sisältää sekä isoja että pieniä kirjaimia, kuten
+esimerkiksi **GULag**, joka on lyhennetty venäjän sanoista "Glavnoje Upravlenije Lagerei".
+
+Isoja kirjaimia käytetään myös kansainvälisissä lyhenteissä.
+Esim.
+10 Mb (ten megabite),
+100 GB (hunde gigabaite),
+2 mm (due milimetre),
+1 kJ (un kilojul).
+
+
+## Syllabification
+
+« - » Tavuviivalla voi jakaa sanoja tavuihin.
+Tavuviiva tulee puhuttujen tavujen väliin kuten suomessa. Esim.
+bus, ka-fe, yu-mor, pos-te, a-me-ri-ka-nis-me.
+
+
+## Välimerkit
+
+« . » Piste voi olla kaikenlaisten lauseiden lopussa, myös kysymyslauseen kun siinä on kysymyssana.
+
+« ? » Kysymyslauseen lopussa voi olla myös kysymysmerkki.
+
+« ! » Huutomerkillä ilmaistaan äänekkyyttä ja painokkuutta.
+
+« ... » Kolmea pistettä käytetään keskeneräisen lauseen lopussa tai ilmaisemaan epävarmuutta.
+
+« : » Kaksoispiste aloittaa luettelon tai selityksen.
+
+« , » Pilkku ilmaisee lyhyttä taukoa tai erottaa lueteltuja asioita.
+
+Koska virkkeitä ei aloiteta isolla alkukirjaimella,
+on tapana laittaa väli ison välimerkin (piste, kysymys- ja huutomerkki) eteen ja jälkeen.
+Tämän tavan avulla on helpompi erottaa virkkeiden alut pitkässä tekstissä.
+
+> un dei, mi wan gow to da bazar . mi mite mi's frende der .
+> he sey: halo ! yu gude, wa ? mi sey: mi gude !
+> den wi gow to mi's haus en yam som piza .
+
+Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen.
+Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
+
+**mi love yu :)**
+= Minä rakastan sinua.  
+**yu no love mi :(**
+= Sinä et rakasta minua.
+

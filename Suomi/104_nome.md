@@ -48,18 +48,27 @@ ja käytä epämääräistä artikkelia, kun et tiedä mitä haluat.
 ### Epämääräiset artikkelit
 
 Dunishissa on kaksi epämääräistä artikkelia.
-Sanalla **un** viitataan yhteen asiaan,
+Sanalla **a** viitataan yhteen asiaan,
 ja sanalla **som** moneen asiaan.
 
-**un apel**
-– yksi omena  
+**a apel**
+– jokin omena  
 **som apel**
 – joitakin omenoita
 
-**un haus**
-– yksi talo  
+**a haus**
+– jokin talo  
 **som haus**
 – joitakin taloja
+
+Toisinaan käytetään sanaa **un** sanan **a** sijasta.
+Se tarkoittaa kirjaimellisesti _yhtä_.
+
+**un apel**
+– yksi omena _tai_ jokin omena  
+**un haus**
+– yksi talo _tai_ jokin talo
+
 
 ### Määräiset artikkelit
 
@@ -76,4 +85,76 @@ ja sanalla **di** viitataan useampiin asioihin.
 – se/tietty talo  
 **di haus**
 – ne/tietyt talot
+
+
+## Erisnimet
+
+### Sovittaminen dunishiin
+
+Erisnimet yleensä sovitetaan dunishin kirjoitusjärjestelmään.
+Kaikkien kannalta on järkevämpää kirjoittaa latinalaisilla kirjaimilla
+**Moskva** (Moskova) eikä "Москва",
+**Dilli** (Delhi) eikä "दिल्ली",
+ja **Beijing** (Peking) eikä "北京"
+koska kyseessä on kaikkien yhteinen kieli.
+Samoin on parempi kirjoittaa esim.
+**Shikago** eikä "Chicago",
+**Marsei** eikä "Marseille", ja
+**Kishineu** eikä "Chișinău".
+Näin myös latinalaisilla kirjaimilla alunperin kirjoitetut sanat tulevat oikein äännetyiksi.
+
+
+### Kohtelias puhuttelu
+
+On hyvätapaista puhutella ihmisiä sanoilla
+**sa**, **ma**, **pa**.
+Niiden tarkoitus on osoittaa kohteliaisuutta ja kunnioitusta puhuteltavaa henkilöä kohtaan.
+
+**sa**
+on yleiskäyttöinen puhuttelusana.
+Sitä voi käyttää sekä muodollisissa että epämuodollisissa tilanteissa, kaikkia sukupuolia ja niin vanhempia kuin nuorempia puhuteltaessa.
+Sille ei ole suoraa vastinetta suomen kielessä.
+
+**ma**
+on iästä, sosiaalisesta asemasta ja siviilisäädystä riippumaton puhuttelusana naisille.
+Sen voi kääntää suomeksi sanoilla _neiti_ tai _rouva_.
+
+**pa**
+on iästä, sosiaalisesta asemasta ja siviilisäädystä riippumaton puhuttelusana miehille.
+Sitä vastaa suomen sana _herra_.
+
+Eri maissa ja kulttuureissa on erilaisia tapoja puhutella muita ihmisiä.
+Joissakin paikoissa on epäkohteliasta kutsua jotakuta nimellä käyttämättä kohteliasta puhuttelua.
+Sen vuoksi on suositeltavaa käyttää puhuttelusanoja aina kun tapaat uusia ihmisiä eri kulttuureista.
+
+Puhuttelusanoja sopii käyttää sekä kutsuma- että sukunimen tai kummankin kanssa.
+
+**sa Bili King**
+– herra tai rouva Billy King  
+**sa Bili**
+– herra tai rouva Billy  
+**sa King**
+– herra tai rouva King
+
+On aina kohteliasta käyttää sukupuolineutraalia puhuttelusanaa.
+Se ei sinällään tarkoita, että puhuteltavan sukupuolesta olisi epävarmuutta,
+vaan se on täysin normaali kohteliaisuussana.
+Kuitenkin jotkut ovat tottuneet puhuttelemaan miehiä ja naisia eri sanoilla.
+
+**pa Felipe Gonzales**
+– herra Felipe Gonzales  
+**pa Felipe**
+– herra Felipe  
+**pa Gonzales**
+– herra Gonzales
+
+Kutsumanimen ja sukunimen järjestys vaihtelee eri kielissä.
+Esimerkiksi kiinan kielessä on tapana että sukunimi on ensin.
+
+**ma Wang Lili**
+– rouva Lili Wang  
+**ma Lili**
+– rouva Lili  
+**ma Wang**
+– rouva Wang
 

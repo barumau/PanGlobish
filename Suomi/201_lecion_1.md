@@ -1,6 +1,6 @@
 # 1. Oppitunti: esittäytyminen
 
-## Dialogi
+## Dialogi 1
 
 ![](http://www.kupsala.net/dunish/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
@@ -26,6 +26,28 @@
 <big>👨🏾</big>
 **mi olso, Mari.**
 – Minä myös, Mari.
+
+
+## Dialogi 2
+
+<big>👨🏾</big>
+**halo!**
+– Hei!  
+<big>👩</big>
+**halo! hu is yu?**
+– Hei! Kuka te olette?  
+<big>👨🏾</big>
+**mi is Yusef? en yu?**
+– Minä olen Yusef. Entä te?  
+<big>👩</big>
+**mi is Mari.**
+– Minä olen Mari.  
+<big>👨🏾</big>
+**mi is hapi du mite yu, Mari.**
+– Olen onnellinen tavatessani teidät, Mari.  
+<big>👩</big>
+**mi olso, Yusef.**
+– Minä myös, Yusef.
 
 
 ## Kielioppia

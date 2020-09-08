@@ -102,7 +102,7 @@ Adjektiiveja ja adverbeja vertaillaan sanoilla:
 Aika ilmaistaan apusanoilla:
 **was**
 – mennyt tapahtuma;
-**has**
+**haf**
 – mennyt mutta yhä tähän hetkeen vaikuttava tapahtuma;
 **is**
 – meneillään oleva tapahtuma; ja
@@ -111,7 +111,7 @@ Aika ilmaistaan apusanoilla:
 
 **de was ride mi's buke.**
 – He lukivat minun kirjaa.  
-**wi has ride meni buke.**
+**wi haf ride meni buke.**
 – Me olemme lukeneet monta kirjaa.  
 **mi is ride un buke.**
 – Minä olen lukemassa yhtä kirjaa.  
@@ -123,7 +123,7 @@ esim. onko se toteamus, kysymys vai käsky.
 **yu love da kafe, wa?**
 – Sinä rakastat kahvia, mitä? (kysymys)  
 **yu love da kafe, ye.**
-– Sinä rakakstat kahvia kyllä. (toteamus)  
+– Sinä rakastat kahvia kyllä. (toteamus)  
 **yu love da kafe, or...**
 – Sinä rakastat kahvia, vai... (ehdotus)
 

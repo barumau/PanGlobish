@@ -168,6 +168,8 @@ Large letters are used in two situations:
 to begin a proper name,
 and to represent a name or another word with only the initial letter.
 
+The first word of sentences is not capitalized.
+
 #### Proper names
 
 Personal names and other proper names are capitalized mostly in the same way as in English.
@@ -192,5 +194,42 @@ For example:
 2 mm (due milimetre),
 1 kJ (un kilojul).
 
-The first word in a sentence is not capitalized.
+
+## Syllabification
+
+[-] Words may be divided into syllables with a hyphen.
+The hyphen is placed between spoken syllables.
+For example: bus, ka-fe, yu-mor, pos-te, a-me-ri-ka-nis-me.
+
+
+## Punctuation
+
+<.> All kinds of sentences may end with a full stop.
+
+<?> Questions may end alternatively with a question mark.
+
+<!> Exclamation mark indicates loudness or emphasis.
+
+<...> Three dots (i.e. ellipsis) indicates incompleteness or uncertainty.
+
+<:> Colon indicates the beginning of an explanation, quotation or list.
+
+<,> Comma indicates a small pause or separation between clauses or listed items.
+
+Because the first word of sentences is not capitalized,
+a space may be inserted _before_ and _after_ the punctuation mark
+that ends the sentence.
+This practice helps to put sentences clearly apart.
+
+> un dei, mi wan gow to da bazar . mi mite mi's frende der .
+> he sey: halo ! yu gude, wa ? mi sey: mi gude !
+> den wi gow to mi's haus en yam som piza .
+
+In informal texts, smileys, emoticons and emojis may be used to indicate mood.
+For example **:)** indicates happiness and **:(** indicates sadness.
+
+**mi love yu :)**
+= I love you.  
+**yu no love mi :(**
+= You don't love me.
 

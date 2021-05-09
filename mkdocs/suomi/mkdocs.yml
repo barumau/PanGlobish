@@ -2,7 +2,7 @@ site_name: Panglobish
 site_url: http://www.kupsala.net/PanGlobish/suomi
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
-docs_dir: ../../Suomi
+docs_dir: ../../suomi
 site_dir: ../../html/suomi
 theme: readthedocs
 nav:

@@ -2,7 +2,7 @@ site_name: Duniŝo
 site_url: http://www.kupsala.net/PanGlobish/esperanto
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
-docs_dir: ../../Esperanto
+docs_dir: ../../esperanto
 site_dir: ../../html/esperanto
 theme: readthedocs
 nav:

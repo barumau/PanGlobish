@@ -2,7 +2,7 @@ site_name: PanGlobish
 site_url: http://www.kupsala.net/PanGlobish/english
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
-docs_dir: ../../English
+docs_dir: ../../english
 site_dir: ../../html/english
 theme: readthedocs
 nav:

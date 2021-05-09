@@ -28,7 +28,7 @@ It is like a lost relative of English
 that seems to be of the same kind as English but that is at the same time distinctly its own kind.
 In this regard it is similar to the real relatives of English
 (like German, Dutch, Afrikaans and the Scandinavian languages)
-and the children of English,
+and the children of English
 (like Jamaican, Singaporean and Nigerian versions of English).
 
 

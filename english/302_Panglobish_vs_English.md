@@ -19,20 +19,20 @@ Take a look at this comparison
 (from [Quora](https://www.quora.com/Why-dont-all-the-continental-Germanic-languages-form-a-dialect-continuum-as-all-the-contiguous-Romance-languages-do))
 of the same sentence in English and other Germanic languages.
 
-| English   | I am the son of my father and my mother.         |
-|:----------|:-------------------------------------------------|
-| Scots     | A am the son o ma faither an ma mither.          |
-| Dutch     | Ik ben de zoon van mijn vader en mijn moeder.    |
-| Afrikaans | Ek is die seun van my pa en my ma.               |
-| German    | Ich bin der Sohn meines Vaters und meiner Mutter.|
-| Yiddish   | Ikh bin der zun fun mayn foter un mayn muter.    |
-| Danish    | Jeg er søn af min far og min mor.                |
-| Norwegian | Jeg er sønnen til faren min og moren min.        |
-| Swedish   | Jag är son till min far och min mor.             |
-| Icelandic | Ég er sonur föður míns og móður minnar.          |
+| English      | I am the son of my father and my mother.         |
+|:-------------|:-------------------------------------------------|
+| Scots        | A am the son o ma faither an ma mither.          |
+| Dutch        | Ik ben de zoon van mijn vader en mijn moeder.    |
+| Afrikaans    | Ek is die seun van my pa en my ma.               |
+| German       | Ich bin der Sohn meines Vaters und meiner Mutter.|
+| Yiddish      | Ikh bin der zun fun mayn foter un mayn muter.    |
+| Danish       | Jeg er søn af min far og min mor.                |
+| Norwegian    | Jeg er sønnen til faren min og moren min.        |
+| Swedish      | Jag är son till min far och min mor.             |
+| Icelandic    | Ég er sonur föður míns og móður minnar.          |
+|**Panglobish**| **mi is da boi of mi's pa en mi's ma.**          |
 
-The same sentence in Panglobish is also somewhat similar with _all Germanic languages_:  
-**mi is da boi of mi's papa en mi's mama.**  
+The same sentence in Panglobish is also somewhat similar with _all Germanic languages_.  
 So English is nothing special in this regard.
 
 Panglobish is an independent language that bears significant similarity to

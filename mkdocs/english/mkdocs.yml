@@ -1,4 +1,4 @@
-site_name: Dunish
+site_name: PanGlobish
 site_url: http://www.kupsala.net/dunish/english
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto "Rippe" Kupsala
@@ -22,10 +22,10 @@ nav:
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md
-    - 'About Dunish':
-        - 'The idea': 301_idea_of_Dunish.md
-        - 'Dunish vs English': 302_Dunish_vs_English.md
+    - 'About PanGlobish':
+        - 'The idea': 301_idea_of_PanGlobish.md
+        - 'PanGlobish vs English': 302_PanGlobish_vs_English.md
     - Dictionaries:
-        - "Dunish–English" : Dunish-English.md
-        - "English–Dunish" : English-Dunish.md
+        - "PanGlobish–English" : PanGlobish-English.md
+        - "English–PanGlobish" : English-PanGlobish.md
 

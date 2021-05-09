@@ -1,7 +1,7 @@
 # Sentece structure
 
 
-    Figure. The sentence structure of Dunish.
+    Figure. The sentence structure of Panglobish.
     
     ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌──────────┐ ┌────────────────┐
     │ subject │ │   verb  │ │ object  │ │ prep.phr.│ │ modal particle │

@@ -1,7 +1,7 @@
-# Dunish vs English
+# Panglobish vs English
 
-In this page Dunish is compared to English.
-The goal is to show why Dunish would be a better global second language
+In this page Panglobish is compared to English.
+The goal is to show why Panglobish would be a better global second language
 for people who don't have a common language.
 We don't have anything against English as such,
 but we criticize its role as a global language.
@@ -9,9 +9,9 @@ English is perfectly OK as a national language and as an international language
 between countries where it is already spoken.
 
 
-## Is Dunish just a poor copy of English?
+## Is Panglobish just a poor copy of English?
 
-Dunish is much more than just a copy of English.
+Panglobish is much more than just a copy of English.
 
 English is a Germanic language and therefore it is related to other Germanic languages,
 which are in many ways similar to English but they are independent, separate and definitely not copies of English.
@@ -31,23 +31,23 @@ of the same sentence in English and other Germanic languages.
 | Swedish   | Jag är son till min far och min mor.             |
 | Icelandic | Ég er sonur föður míns og móður minnar.          |
 
-The same sentence in Dunish is also somewhat similar with _all Germanic languages_:  
+The same sentence in Panglobish is also somewhat similar with _all Germanic languages_:  
 **mi is da boi of mi's papa en mi's mama.**  
 So English is nothing special in this regard.
 
-Dunish is an independent language that bears significant similarity to
+Panglobish is an independent language that bears significant similarity to
 Germanic languages like English, German and Dutch
 but also to Romance languages like Italian, Spanish, Portuguese and French
 and, to a lesser degree, also to many other languages.
 It is an independent language in the great global network of languages.
 
-Now that this issue is settled, let's continue comparing Dunish, the challenger,
+Now that this issue is settled, let's continue comparing Panglobish, the challenger,
 and English, the reigning world language.
 
 
 ## Main Points of Comparison
 
-| English                                                 | vs | Dunish                            |
+| English                                                 | vs | Panglobish                            |
 |:------------------------------------------------------- |:--:|:----------------------------------|
 | Western                                                 |    | Global                            |
 | Many standards (British, American, Indian, etc.)        |    | One standard                      |
@@ -143,15 +143,15 @@ A few rhymes are enough to show what's the matter:
 one - won, two - too - to, four - for - fore, eight - ate - great.
 For more examples, read [The Chaos](http://ncf.idallen.com/english.html), a poem by Gerard Nolst Trenité.
 
-Dunish, on the other hand, is a regular language.
+Panglobish, on the other hand, is a regular language.
 Each letter (or combination of letters) is pronounced in the same way in every word.
 If you hear a word, you can always spell it.
 If you read a word, you can always pronounce it.
 
-In addition, the Dunish spelling system is quite similar to other language.
-In fact, Dunish spelling is very much like the international norm.
+In addition, the Panglobish spelling system is quite similar to other language.
+In fact, Panglobish spelling is very much like the international norm.
 
-Let's compare the pronunciation of the word "nature" in selected European languages and Dunish.
+Let's compare the pronunciation of the word "nature" in selected European languages and Panglobish.
 
 | Language   | Written word | Spoken word |
 |:-----------|:-------------|:------------|
@@ -163,5 +163,5 @@ Let's compare the pronunciation of the word "nature" in selected European langua
 | German     | Natur        | /natuʁ/ |
 | Polish     | natura       | /natura/ |
 | Russian    | натура       | /nɐturə/ |
-| Dunish     | nature       | /naturə/ |
+| Panglobish     | nature       | /naturə/ |
 

@@ -99,7 +99,7 @@ jotka olivat aurinko, kuu ja viisi paljaalla silmällä näkyvää planeettaa.
 Jokaista taivaankappaletta edusti myös jokin jumala.
 Tämä nimeämisjärjestelmä levisi Roomaan, Intiaan, Kiinaan ja melkein kaikkialle tuolloin tunnettuun maailmaan.
 
-Dunishissa viikonpäivien nimet seuraavat roomalaista käytäntöä,
+Panglobishissa viikonpäivien nimet seuraavat roomalaista käytäntöä,
 jossa taivaankappaleen ja viikonpäivän nimet ovat lähellä toisiaan.
 Suomessa käytetään planeetoista roomalaisia nimiä ja viikonpäivistä germaanisia nimiä.
 

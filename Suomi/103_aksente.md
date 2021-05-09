@@ -25,7 +25,7 @@ Esim. toke /tókə/, mature /matúrə/.
 
 Tavun, sanan ja virkkeiden sävelkorkeudella tai sävelkululla ei ole kieliopillista merkitystä dunishissa.
 
-Dunish ei ole "tonaalinen" kieli.
+Panglobish ei ole "tonaalinen" kieli.
 Sanan tavujen sävelkorkeus tai sävelkulku ei vaikuta sanan merkitykseen.
 
 Myös intonaatio eli virkkeen sävelkulku ei vaikuta virkkeen merkitykseen.

@@ -52,14 +52,14 @@
 
 ## Kielioppia
 
-Dunish on helposti opittava kieli.
+Panglobish on helposti opittava kieli.
 Se on erityisen helppoa, jos osaat ennestään jonkin verran englantia,
 mutta se on helppoa silloinkin, jos et osaa englantia,
 koska dunish on täysin säännöllinen kieli.
 
 ### Persoonapronominit
 
-Dunishin persoonapronominit ovat:
+Panglobishin persoonapronominit ovat:
 
 | Yksikkö                    | Monikko                    |
 |----------------------------|----------------------------|
@@ -69,7 +69,7 @@ Dunishin persoonapronominit ovat:
 
 Persoonapronominit ovat taipumattomia niin kuin kaikki dunishin sanat.
 Samaa sanamuotoa käytetään siis kaikissa tilanteissa ja kaikissa "sijamuodoissa".
-Dunishista siis puuttuu englannin kaltaiset taivutusmuodot kuten "I" ja "me" taikka "we" ja "us".
+Panglobishista siis puuttuu englannin kaltaiset taivutusmuodot kuten "I" ja "me" taikka "we" ja "us".
 
 **mi mite yu.**
 – Minä tapaan teidät.  
@@ -116,7 +116,7 @@ Sana **name** (nimi) on sama sekä yksikössä että monikossa.
 **de's name is Mari en Yusef.**
 – Heidän nimet ovat Mari ja Yusef.
 
-Dunish on vapaa kaikista taivutusmuodoista, konjugaatioista, deklinaatioista ja sen sellaisista.
+Panglobish on vapaa kaikista taivutusmuodoista, konjugaatioista, deklinaatioista ja sen sellaisista.
 Sanat eivät muutu!
 Se on niin yksinkertaista.
 

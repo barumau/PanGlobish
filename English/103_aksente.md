@@ -23,9 +23,9 @@ Ex. toke /tókə/, mature /matúrə/.
 
 ## Tone and Intonation
 
-Word tone and sentence intonation don't have any grammatical function in Dunish.
+Word tone and sentence intonation don't have any grammatical function in Panglobish.
 
-Dunish is not a tonal language.
+Panglobish is not a tonal language.
 The pitch or melody of syllables in words doesn't affect the meaning of the word.
 
 Also intonation i.e. the melody of a phrase, doesn't affect the meaning of the phrase.

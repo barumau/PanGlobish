@@ -3,14 +3,14 @@
 Substantiivi on sana, joka nimeää jonkin tietyn esineen tai asian,
 kuten elävän olennon, tavaran, paikan, toiminnan, laadun, olotilan tai käsitteen.
 
-Dunishissa substantiivit ovat taipumattomia.
+Panglobishissa substantiivit ovat taipumattomia.
 Substantiivista käytetään siis aina samaa muotoa riippumatta luvusta, sijasta, määräisyydestä ym.
 Luku, määräisyys ja muut asiat ilmaistaan erillisillä sanoilla, joilla substantiivia voi määrittää.
 
 
 ## Luku
 
-Dunishissa substantiivit eivät taivu yksikössä ja monikossa.
+Panglobishissa substantiivit eivät taivu yksikössä ja monikossa.
 Sen sijaan luku ilmaistaan lukusanoilla ja muilla määrää ilmaisevilla sanoilla.
 
 **un haus**
@@ -47,7 +47,7 @@ ja käytä epämääräistä artikkelia, kun et tiedä mitä haluat.
 
 ### Epämääräiset artikkelit
 
-Dunishissa on kaksi epämääräistä artikkelia.
+Panglobishissa on kaksi epämääräistä artikkelia.
 Sanalla **a** viitataan yhteen asiaan,
 ja sanalla **som** moneen asiaan.
 
@@ -72,7 +72,7 @@ Se tarkoittaa kirjaimellisesti _yhtä_.
 
 ### Määräiset artikkelit
 
-Dunishissa on kaksi epämääräistä artikkelia.
+Panglobishissa on kaksi epämääräistä artikkelia.
 Sanalla **da** viitataan yhteen tiettyyn asiaan,
 ja sanalla **di** viitataan useampiin asioihin.
 

@@ -52,15 +52,15 @@
 
 ## Grammar
 
-As you can see from the dialog, Dunish is an easy language to learn.
+As you can see from the dialog, Panglobish is an easy language to learn.
 It's easy to begin learning it if you already speak English.
 (And you do, because you are reading this in English.)
 But it's still easy even if you don't speak any English
-because Dunish is totally regular.
+because Panglobish is totally regular.
 
 ### Personal pronouns
 
-Here are the personal pronouns in Dunish:
+Here are the personal pronouns in Panglobish:
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
@@ -68,7 +68,7 @@ Here are the personal pronouns in Dunish:
 | **tu** – _you_             | **yu** – _you all_         |
 | **he** – _he or she_       | **de** – _they_            |
 
-The personal pronouns, like all words in Dunish, never change.
+The personal pronouns, like all words in Panglobish, never change.
 The same word form is used as the subject (i.e. the "doer") and as the object.
 So there aren't separate word forms like "I" and "me" or "we" and "us".
 
@@ -117,14 +117,14 @@ The word **name**, in the same single form, can refer to one name or many names.
 **de's name is Mari en Yusef.**
 – Their names are Mari and Yusef.
 
-Dunish is free from all sorts of inflection, declination, conjugation or whatever it's called.
+Panglobish is free from all sorts of inflection, declination, conjugation or whatever it's called.
 Words don't change, period.
 It's as simple as that!
 
 
 ## Exercises
 
-Try translating these sentences from English to Dunish.
+Try translating these sentences from English to Panglobish.
 The correct answers are after the word list.
 
 1. His name is Adam.

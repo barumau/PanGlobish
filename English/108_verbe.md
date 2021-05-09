@@ -1,6 +1,6 @@
 # Verbs
 
-Verbs are unchanging in Dunish.
+Verbs are unchanging in Panglobish.
 They don't change in person, number and time like in English.
 Verbs are not conjugated at all.
 
@@ -24,12 +24,12 @@ There is normally a particle of time before the verb, when the subject is a noun
 
 ## Time
 
-Dunish does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
+Panglobish does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
 Ordinary expressions of time,
 such as **laste dei** (yesterday), **neste dei** (tomorrow), and **nau** (now),
 can be used for telling when exactly something happened.
 
-Dunish does have grammatical words for expressing temporal aspects.
+Panglobish does have grammatical words for expressing temporal aspects.
 Aspects describe how an event can be viewed in relation to other events in time.
 
 - The progressive aspect (**is**) indicates an event that is ongoing.
@@ -109,8 +109,8 @@ It is marked with **haf** before the verb.
 The future aspect describes that the situation will probably take place after the time under consideration.
 It is marked with **wil** before the verb.
 
-**wi wil toke da Dunish.**
-– We will speak Dunish.  
+**wi wil toke da Panglobish.**
+– We will speak Panglobish.  
 **mi wil bi yu's frende.**
 – I will be your friend.
 
@@ -121,7 +121,7 @@ identity or sameness (ex. "She _is_ Maria"),
 membership of a class (ex. "The cat _is_ an animal"),
 and properties (ex. "The sky _is_ blue").
 
-In Dunish, **bi** is a normal, unchanging verb.
+In Panglobish, **bi** is a normal, unchanging verb.
 The aspect markers can be used together with **bi**.
 
 **mi is bi hapi.**

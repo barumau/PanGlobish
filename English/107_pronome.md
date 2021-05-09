@@ -1,6 +1,6 @@
 ## Personal pronouns
 
-The personal pronouns in Dunish are:
+The personal pronouns in Panglobish are:
 
 | Person | Singular             | Plural             |
 |--------|----------------------|--------------------|
@@ -8,7 +8,7 @@ The personal pronouns in Dunish are:
 | 2nd    | **tu** (_you_)       | **yu** (_you all_) |
 | 3rd    | **he** (_he or she_) | **de** (_they_)    |
 
-All personal pronouns are gender-neutral in Dunish.
+All personal pronouns are gender-neutral in Panglobish.
 We don't differentiate the sexes in any of them.
 So the third person singular pronoun **he** means both _him_ and _her_ (or _he_ and _she_).
 

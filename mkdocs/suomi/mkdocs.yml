@@ -1,4 +1,4 @@
-site_name: Dunish
+site_name: Panglobish
 site_url: http://www.kupsala.net/dunish/suomi
 repo_url: https://github.com/barumau/dunish/
 site_author: Risto "Rippe" Kupsala
@@ -20,8 +20,8 @@ nav:
     - Oppitunteja:
         - '1. oppitunti': 201_lecion_1.md
     - 'Taustatietoja':
-        - 'Idea': 301_idea_of_Dunish.md
-        - 'Dunish vs. englanti': 302_Dunish_vs_English.md
+        - 'Idea': 301_idea_of_Panglobish.md
+        - 'Panglobish vs. englanti': 302_Panglobish_vs_English.md
     - Sanasto:
-        - "Dunish–suomi" : Dunish-Suomi.md
-        - "Suomi–dunish" : Suomi-Dunish.md
+        - "Panglobish–suomi" : Panglobish-Suomi.md
+        - "Suomi–dunish" : Suomi-Panglobish.md

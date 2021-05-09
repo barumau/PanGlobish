@@ -1,6 +1,6 @@
 # Kirjoitus ja ääntäminen
 
-Dunish on äänteenmukainen kieli molempiin suuntiin:
+Panglobish on äänteenmukainen kieli molempiin suuntiin:
 
 1. Luetun sanan ääntämistapa on aina ilmiselvä.
 2. Kuullun sanan kirjoitustapa on useimmiten ilmiselvä.
@@ -8,7 +8,7 @@ Dunish on äänteenmukainen kieli molempiin suuntiin:
 
 ## Latinalaiset aakkoset
 
-Dunishia kirjoitetaan tavallisilla latinalaisilla aakkosilla.
+Panglobishia kirjoitetaan tavallisilla latinalaisilla aakkosilla.
 Sen kirjoittamiseen ei käytetä mitään tarkemerkittyjä kirjaimia, jotka muutenkin vaihtelevat kielestä toiseen.
 Niinpä sitä voi kirjoittaa ja tulostaa kaikilla kirjoituskoneilla, tietokoneilla ja muilla älylaitteilla ilman mitään erikoisjärjestelyjä.
 
@@ -16,16 +16,16 @@ Niinpä sitä voi kirjoittaa ja tulostaa kaikilla kirjoituskoneilla, tietokoneil
 
 ## Äänteet
 
-Dunishilla on oma äänne- ja kirjoitusjärjestelmänsä,
+Panglobishilla on oma äänne- ja kirjoitusjärjestelmänsä,
 jotka muistuttavat paljolti mm. Manner-Euroopan kielten vastaavia järjestelmiä.
 
 ### Vokaalit
 
-Dunishissa on kuusi vokaalia.
+Panglobishissa on kuusi vokaalia.
 Niitä merkitään kirjaimilla A, E, I, O ja U.
 Näistä E vastaa kahta äännettä: /e/ ja /ə/.
 
-| Dunish | IPA  | Ääntämisohjeita      |
+| Panglobish | IPA  | Ääntämisohjeita      |
 |:------:|:----:|:---------------------|
 | A      | /a/  |  |
 | E      | /e/  |  |
@@ -40,10 +40,10 @@ ja ne äännetään diftongeina.
 
 ### Konsonantit
 
-Dunishissa on 21 konsonanttiäännettä.
+Panglobishissa on 21 konsonanttiäännettä.
 Ne kirjoitetaan yksittäisillä konsonanttikirjaimilla tai kirjainpareilla (**sh** ja **ch**).
 
-| Dunish | IPA  | Ääntämisohjeita      |
+| Panglobish | IPA  | Ääntämisohjeita      |
 |:------:|:----:|:---------------------|
 | B      | /b/  | |
 | C      | /ts/ | Ääntyy kuten _ts_ sanassa _metsä_. |
@@ -75,7 +75,7 @@ Lisäksi dunishin kirjoitusjärjestelmään kuuluu lisäkirjaimia ja -kirjainpar
 kuten paikkojen ja henkilöiden nimet, jotka eivät kuuluu dunishin normaaliin sanastoon.
 Niitä ei siis käytetä lainkaan dunishin varsinaisessa sanastossa.
 
-| Dunish | IPA  | Ääntämisohjeita      |
+| Panglobish | IPA  | Ääntämisohjeita      |
 |:------:|:----:|:---------------------|
 | Kh     | /x/  | Soinniton kitapurjeen hankausäänne, joka ääntyy kuten _ch_ saksan sanassa _Bach_. |
 | Gh     | /ɣ/  | Edellistä vastaava soinnillinen äänne |
@@ -94,9 +94,9 @@ Se ei haittaa, vaikka et osaisi ääntää kaikkia näitä äänteitä.
 Sen sijaan voit ääntää vain ääntää ensimmäisen kirjaimen ja jättää sitä seuraavan H:n huomiotta.
 
 Esimerkiksi Kreikan pääkaupunki, Ateena, on kreikan kielellä "Αθήνα" /aθina/.
-Dunishissa se kirjoitetaan "Athina".
+Panglobishissa se kirjoitetaan "Athina".
 Sen voi ääntää joko kreikkalaisella tavalla /aθina/ tai helpommalla tavalla /atina/.
-Dunishissa halutaan pitää vierassanojen ääntäminen mahdollisimman lähellä alkuperäistä,
+Panglobishissa halutaan pitää vierassanojen ääntäminen mahdollisimman lähellä alkuperäistä,
 mutta eri kielten kaikkia äänteitä ei ole mahdollista ottaa mukaan.
 
 Esimerkkejä vierassanoista:  
@@ -108,7 +108,7 @@ Esimerkkejä vierassanoista:
 
 ## Sanojen rakenne
 
-Dunishin sanat ovat rakenteeltaan suhteellisen yksinkertaisia.
+Panglobishin sanat ovat rakenteeltaan suhteellisen yksinkertaisia.
 Tavussa voi olla enintään:
 
 - yksi alkukonsonantti
@@ -142,7 +142,7 @@ Sanojen alussa ja lopussa ei ole vaikeita konsonanttisarjoja.
 Siispä englannin sanan _state_ vastine on dunishissa **estate**, _actor_ on **ater**, ja _saint_ on **sante**.
 Lisäksi umpikonsonantit ovat kiellettyjä sanan lopussa, joten esimerkiksi sanan _good_ vastine on **gude**.
 
-Dunishissa ei ole englannin vaikeita TH-äänteitä,
+Panglobishissa ei ole englannin vaikeita TH-äänteitä,
 vaan ne korvataan englannista lainatuissa sanoissa tavallisesti äänteillä T ja D.
 Esimerkiksi **da** (_the_), **de** (_they_), **tri** (_three_), ja **ting** (_thing_).
 
@@ -164,7 +164,7 @@ Isoja kirjaimia käytetään vain
 erisnimen alkukirjaimena
 ja alkukirjaimen lyhenteenä eli nimikirjaimena.
 
-Dunishissa ei ole tapana aloittaa virkettä isolla alkukirjaimella.
+Panglobishissa ei ole tapana aloittaa virkettä isolla alkukirjaimella.
 
 #### Erisnimet
 

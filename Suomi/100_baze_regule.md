@@ -1,16 +1,16 @@
-# Dunishin 10 sääntöä
+# Panglobishin 10 sääntöä
 
-Dunish on niin helppo, että sen kieliopin perusteissa on vain kymmenen sääntöä,
+Panglobish on niin helppo, että sen kieliopin perusteissa on vain kymmenen sääntöä,
 jotka mahtuvat yhdelle paperiarkille.
 Poikkeuksia ei ole.
 
 1. **Maailman sanasto:**
-   Dunish on tasapuolisesti kansainvälinen kieli.
+   Panglobish on tasapuolisesti kansainvälinen kieli.
    Siihen on lainattu kansainvälisiä sanoja kaikilta mantereilta.
    Lainasanat sovitetaan dunishin ääntämis- ja kirjoitustapoihin.
-   Dunishiin otetaan vain yksi perusmuotoinen sana, josta johdetaan muita sanoja säännön 10 mukaan.
+   Panglobishiin otetaan vain yksi perusmuotoinen sana, josta johdetaan muita sanoja säännön 10 mukaan.
 2. **Ääntäminen ja kirjoitus:**
-   Dunishia ääntäminen ja kirjoitus ovat säännöllisiä.
+   Panglobishia ääntäminen ja kirjoitus ovat säännöllisiä.
    Kaikki sanat äännetään täsmälleen niin kuin ne on kirjoitettu.
    Melkein kaikki kirjaimet ja kirjainyhdistelmät tarkoittavat aina samaa äännettä.
 3. **Säännöllinen painotus:**
@@ -53,6 +53,6 @@ Poikkeuksia ei ole.
    Lauseen sanajärjestys on subjekti – verbi – objekti.
    Samaa sanajärjestystä käytetään kaikissa lauseissa mukaan lukien kysymyslauseet ja sivulauseet.
 10. **Sanojen johtaminen:**
-   Dunishin sanat muuttavat muotoaan vain kun niiden merkitys muuttuu.
+   Panglobishin sanat muuttavat muotoaan vain kun niiden merkitys muuttuu.
    Sanat eivät koskaan muutu vain kieliopillista tarkoitusta varten.
 

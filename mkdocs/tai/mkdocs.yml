@@ -1,4 +1,4 @@
-site_name: Dunish
+site_name: PanGlobish
 site_url: http://www.kupsala.net/dunish/tai
 repo_url: https://github.com/barumau/dunish/
 docs_dir: ../../Tai
@@ -7,7 +7,7 @@ theme: readthedocs
 nav:
     - Home: 'index.md'
     - 'Grammar and Rules':
-        - 'กฎ 10 ข้อของ Dunish': 100_baze_regule.md
+        - 'กฎ 10 ข้อของ PanGlobish': 100_baze_regule.md
         - 'World Words': 101_dunia_worde.md
         - 'Spelling and pronunciation': 102_ortografie.md
         - 'Regular Accent': 103_aksente.md
@@ -18,6 +18,6 @@ nav:
         - 'Word building': 110_worde_kostruktion.md
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
-    - 'About Dunish':
-        - 'The idea': 301_idea_of_Dunish.md
-        - 'Dunish vs English': 302_Dunish_vs_English.md
+    - 'About PanGlobish':
+        - 'The idea': 301_idea_of_PanGlobish.md
+        - 'PanGlobish vs English': 302_PanGlobish_vs_English.md

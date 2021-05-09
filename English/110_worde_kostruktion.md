@@ -7,7 +7,7 @@ For example, _unhappy_ and _happiness_ derive from the root word _happy_.
 ## Zero Derivation
 
 Zero derivation means conversion of a word of a certain word class to a different word class without any change in form.
-In Dunish, this is very common.
+In Panglobish, this is very common.
 In fact, most words don't belong to any fixed word classes.
 Instead, the word class is determined by the word's place in the sentence.
 
@@ -32,7 +32,7 @@ Likewise, the word **skribe** can function as a verb (_to write_), a noun (_a wr
 
 ## Compound Words
 
-Words can be combined freely in Dunish to express new concepts.
+Words can be combined freely in Panglobish to express new concepts.
 The last element in the combination is the main one in determining the meaning,
 while the preceding element only modifies the meaning.
 
@@ -262,8 +262,8 @@ some languages:
 (the English language)  
 **Eskotish**
 (Scotch)  
-**Dunish**
-(world language, Dunish)
+**Panglobish**
+(world language, Panglobish)
 
 **-iste** :
 adherent of a way of life, -ist:

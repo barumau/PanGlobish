@@ -1,6 +1,6 @@
 ## Persoonapronominit
 
-Dunishin persoonapronominit ovat:
+Panglobishin persoonapronominit ovat:
 
 |Persoona| Yksikkö              | Monikko            |
 |--------|----------------------|--------------------|
@@ -13,7 +13,7 @@ Yksikön kolmannen persoonan pronomini **he** voi tarkoittaa siis miestä, naist
 
 Yksikön toisen persoonan pronominia **tu** saa käyttää kaikissa tilanteissa
 puhuteltavan henkilön asemasta ja iästä riippumatta.
-Dunishissa on siis lupa sinutella.
+Panglobishissa on siis lupa sinutella.
 Kuitenkin jotkut puhujat saattavat puhutella sanalla **tu** vain perheenjäseniä ja läheisiä ystäviä.
 Silloin se on käytössä ikään kuin saksan _du_, ranskan _tu_, venäjän _ты_ (ty) ja hindin तू (tū).
 

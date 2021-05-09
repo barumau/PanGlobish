@@ -234,7 +234,7 @@ eräät kielet:
 (englanti)  
 **Eskotish**
 (skotlanti)  
-**Dunish**
+**Panglobish**
 (maailmankieli, dunish)
 
 **-iste** :

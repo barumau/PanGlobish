@@ -1,13 +1,13 @@
-# The 10 Rules of Dunish
+# The 10 Rules of Panglobish
 
-Dunish is so simple that its basic grammar can be described in only ten rules,
+Panglobish is so simple that its basic grammar can be described in only ten rules,
 all of which can fit on a sheet of paper.
 There are no exceptions.
 
 1. **World Words:**
-   Dunish is an evenly global language.
-   International words are borrowed from all parts of the world to Dunish.
-   They are adapted to the Dunish pronunciation and orthography.
+   Panglobish is an evenly global language.
+   International words are borrowed from all parts of the world to Panglobish.
+   They are adapted to the Panglobish pronunciation and orthography.
    One base word is admitted and additional words are built from it according to rule 10.
 2. **Spelling and pronunciation:**
    Spelling is simple and regular.
@@ -51,6 +51,6 @@ There are no exceptions.
 9. **Word order:**
    The word order is subject – verb – object, in declarations and questions alike.
 10. **Word building:**
-   In Dunish, words change only when their actual meaning changes.
+   In Panglobish, words change only when their actual meaning changes.
    Words don't ever change only to serve in a different grammatical role.
 

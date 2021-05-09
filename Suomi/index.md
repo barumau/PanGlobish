@@ -9,7 +9,7 @@ kansainvälistä liiketoimintaa ja ystävyyttä varten luotua apukieltä.
 
 ## Mitä dunish on?
 
-Dunish on yksinkertainen kieli, jonka tehtävä on auttaa ihmisiä puhumaan keskenään
+Panglobish on yksinkertainen kieli, jonka tehtävä on auttaa ihmisiä puhumaan keskenään
 silloin kun he eivät osaa muuta yhteistä kieltä.
 
 Kaikki dunishin sanat ovat kansainvälisiä.
@@ -17,24 +17,24 @@ Perussanat muistuttavat englannin sanoja
 ja loput sanat tulevat muista kansainvälisesti tärkeistä kielistä,
 mukaan lukien ranska, espanja, japani, kiina, venäjä, arabia, hindi ja swahili.
 
-Dunish on yhteensopivaa englannin kanssa perustasolla.
+Panglobish on yhteensopivaa englannin kanssa perustasolla.
 Se on kuin englannin yksinkertaistettu muoto, jota puhutaan vieraalla korostuksella.
 Voit siis käyttää dunishia heti kaikkialla maailmassa, missä englantia puhutaan,
 sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaamiseen ja matkamuistojen ostamiseen.
 
-Dunish on säännöllinen ja yksinkertainen.
+Panglobish on säännöllinen ja yksinkertainen.
 Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisiä kieliä.
-Dunishissa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
-Dunish on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_regule.md).
+Panglobishissa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
+Panglobish on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_regule.md).
 Kaikki voivat oppia dunishin alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää dunishia kuin huonoa englantia.
 
-![](http://www.kupsala.net/dunish/grafe/Dunish.png)
+![](http://www.kupsala.net/dunish/grafe/Panglobish.png)
 
-## Dunishin perusteet
+## Panglobishin perusteet
 
-Dunishia kirjoitetaan latinalaisilla aakkosilla:  
+Panglobishia kirjoitetaan latinalaisilla aakkosilla:  
 A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
 Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
@@ -48,7 +48,7 @@ Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 Vokaalit äännetään kuten suomessa.
 Painottomissa tavuissa kirjain **E** ääntyy keskisenä vokaalina /ə/.
 
-Dunishia kirjoitetaan melkein äänteenmukaisesti.
+Panglobishia kirjoitetaan melkein äänteenmukaisesti.
 Yksi äänne = yksi kirjain tai kirjainyhdistelmä.
 
 Lyhyissä sanoissa painotetaan ensimmäistä tavua ja pitemmissä sanoissa toista tavua.  
@@ -115,7 +115,7 @@ Aika ilmaistaan apusanoilla:
 – Me olemme lukeneet monta kirjaa.  
 **mi is ride un buke.**
 – Minä olen lukemassa yhtä kirjaa.  
-**yu wil toke Dunish.**
+**yu wil toke Panglobish.**
 – Te tulette puhumaan dunishia.
 
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
@@ -132,16 +132,16 @@ esim. onko se toteamus, kysymys vai käsky.
 
 Kuten yllä olevista maistiaisista huomaat, dunishin perusteet on kenen tahansa helppo oppia.
 Se on vielä helpompaa, jos puhut edes jonkin verran englantia!
-Dunishia on myös helppo alkaa käyttää välittömästi.
+Panglobishia on myös helppo alkaa käyttää välittömästi.
 Älä siis odota!
 Kokeile dunishia kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaisten kanssa kun olet matkoilla.
 Se toimii!
 
 Tällä hetkellä voit kokeilla dunishia ainakin
-[tässä Facebook-ryhmässä](https://www.facebook.com/groups/DunishFB/)
-tai [tällä Telegram-kanavalla](https://t.me/Dunish1).
+[tässä Facebook-ryhmässä](https://www.facebook.com/groups/PanglobishFB/)
+tai [tällä Telegram-kanavalla](https://t.me/Panglobish1).
 
-Dunishia ei harrasta vielä monikaan,
+Panglobishia ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät dunishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.
 Eli ala käyttämään dunishia ja tehdään siitä yhdessä maailman yhteinen kieli!
 

@@ -104,7 +104,7 @@ Tempo estas indikata per helpantaj verboj:
 – Mi estas leginta multajn librojn.  
 **mi is ride un buke.**
 – Mi legas libron.  
-**yu wil toke Dunish.**
+**yu wil toke Panglobish.**
 – Vi parolos Duniŝon.
 
 Frazfinaj partikuloj indikas kial oni diras la frazon,
@@ -126,7 +126,7 @@ Do ne atendu!
 Uzu Duniŝon kun viaj amikoj en ĉiutaga vivo aŭ provu ĝin kun fremduloj dum vojaĝoj.
 Ĝi funkcias!
 
-Nun vi povas paroli en Duniŝo en [ĉi tiu Fejsbuka grupo](https://www.facebook.com/groups/DunishFB/) kaj en [ĉi tiu Telegramokanalo](https://t.me/Dunish1).
+Nun vi povas paroli en Duniŝo en [ĉi tiu Fejsbuka grupo](https://www.facebook.com/groups/PanglobishFB/) kaj en [ĉi tiu Telegramokanalo](https://t.me/Panglobish1).
 
 Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Duniŝo estas bona ideo, ankaŭ _aliuloj_ pensus same.

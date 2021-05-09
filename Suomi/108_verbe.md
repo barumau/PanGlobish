@@ -1,6 +1,6 @@
 # Verbit
 
-Dunishin verbit ovat taipumattomia.
+Panglobishin verbit ovat taipumattomia.
 Ne eivät siis taivu esim. persoona-, aika- tai tapamuodoissa.
 Verbs are not conjugated at all.
 
@@ -24,7 +24,7 @@ Kun substantiivi on subjektina, sen ja verbin välissä on yleensä ajan partikk
 
 ## Ajan ilmaiseminen
 
-Dunishissa verbeillä ei yleensä osoiteta ajankohtaa,
+Panglobishissa verbeillä ei yleensä osoiteta ajankohtaa,
 joten aikamuodot, kuten preesens, imperfekti ja futuuri, eivät kuulu sen kielioppiin.
 Sen sijaan ajankohdan ilmaisemiseksi käytetään aikaa osoittavia sanoja, kuten
 **laste dei**
@@ -34,9 +34,9 @@ Sen sijaan ajankohdan ilmaisemiseksi käytetään aikaa osoittavia sanoja, kuten
 **nau**
 (nyt).
 
-Dunishissa verbeihin yleensä liittyy aspektin merkitsijä,
+Panglobishissa verbeihin yleensä liittyy aspektin merkitsijä,
 joka osoittaa verbin ajallista etenemistä.
-Dunishin aspektit ovat:
+Panglobishin aspektit ovat:
 
 - Jatkuva aspekti (**is**) ilmaisee että toiminta on parhaillaan meneillään ja se on vielä kesken.
 - Päättyneet aspektit
@@ -119,19 +119,19 @@ Tuleva aspekti osoittaa että toiminta toteutuu myöhemmin.
 The future aspect describes that the situation will probably take place after the time under consideration.
 Sen merkkinä on verbin edellä oleva partikkeli **wil**.
 
-**wi wil toke da Dunish.**
+**wi wil toke da Panglobish.**
 – Me tulemme puhumaan dunishia.  
 **mi wil bi yu's frende.**
 – Minä tulen olemaan sinun ystäväsi.
 
 ## Olla-verbi
 
-Dunishin olla-verbi **bi** osoittaa
+Panglobishin olla-verbi **bi** osoittaa
 samuutta (esim. "Hän _on_ Maria"),
 joukkoon kuulumista (esim. "Kissa _on_ eläin"),
 ja ominaisuutta (esim. "Taivas _on_ sininen").
 
-Dunishissa, **bi** on ihan tavallinen taipumaton verbi.
+Panglobishissa, **bi** on ihan tavallinen taipumaton verbi.
 Se ei siis ole epäsäännöllinen toisin kuin monissa kielissä.
 Aspektin merkitsijöitä käytetään olla-verbin **bi** kanssa.
 

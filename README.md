@@ -1,22 +1,22 @@
-# Dunish documentation
+# PanGlobish language documentation
 
 ### Contents
 
-This is a location for the base documentation about Dunish, a helping language
+This is a location for the base documentation about PanGlobish, a helping language
  for international communication that is designed to be simple, neutral and
 evenly global.
 
 #### Locations
 
-This website is available online at http://www.kupsala.net/dunish
+This website is available online at http://www.kupsala.net/PanGlobish
 
 All plain text files are stored in a Git version control repository in GitHub
-at https://github.com/barumau/dunish
+at https://github.com/barumau/PanGlobish
 
 #### Multilingual documentation
 
 The documentation is in many languages. The first language of the documentation
-is currently English. (It may be changed to Dunish in the future.) All other
+is currently English. (It may be changed to PanGlobish in the future.) All other
 language versions are translated and adapted from the first language.
 
 ### License
@@ -30,7 +30,7 @@ The details are in [LICENSE.md](LICENSE.md)
 
 ### Let's work together!
 
-Dunish is meant to be a collaborative project. If you want, you can help in
+PanGlobish is meant to be a collaborative project. If you want, you can help in
 many ways:
 
 - Improve the documentation.
@@ -54,5 +54,5 @@ and [basic use](https://guides.github.com/activities/hello-world/). If you
 contribute changes yourself, you will be added to our list of contributors
 automatically.
 
-Our contributors are listed [here](https://github.com/barumau/dunish/graphs/contributors).
+Our contributors are listed [here](https://github.com/barumau/PanGlobish/graphs/contributors).
 

@@ -120,7 +120,7 @@ The future aspect describes that the situation will probably take place after th
 Sen merkkinä on verbin edellä oleva partikkeli **wil**.
 
 **wi wil toke da Panglobish.**
-– Me tulemme puhumaan dunishia.  
+– Me tulemme puhumaan panglobishia.  
 **mi wil bi yu's frende.**
 – Minä tulen olemaan sinun ystäväsi.
 
@@ -182,7 +182,7 @@ Apuverbi **du** merkitsee sitä seuraavan verbin infinitiiviksi.
 **du love**
 – rakastaa
 
-![](http://www.kupsala.net/dunish/grafe/du_bi_or_no_du_bi.png)  
+![](http://www.kupsala.net/panglobish/grafe/du_bi_or_no_du_bi.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Infinitiivi voi toimia lauseen subjektina ja objektina.

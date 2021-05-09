@@ -7,7 +7,7 @@ Poikkeuksia ei ole.
 1. **Maailman sanasto:**
    Panglobish on tasapuolisesti kansainvälinen kieli.
    Siihen on lainattu kansainvälisiä sanoja kaikilta mantereilta.
-   Lainasanat sovitetaan dunishin ääntämis- ja kirjoitustapoihin.
+   Lainasanat sovitetaan panglobishin ääntämis- ja kirjoitustapoihin.
    Panglobishiin otetaan vain yksi perusmuotoinen sana, josta johdetaan muita sanoja säännön 10 mukaan.
 2. **Ääntäminen ja kirjoitus:**
    Panglobishia ääntäminen ja kirjoitus ovat säännöllisiä.

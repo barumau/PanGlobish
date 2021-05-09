@@ -2,7 +2,7 @@
 
 ## Dialogi 1
 
-![](http://www.kupsala.net/dunish/grafe/Freepik_halo.png)  
+![](http://www.kupsala.net/panglobish/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 
 <big>👨🏾</big>
@@ -55,7 +55,7 @@
 Panglobish on helposti opittava kieli.
 Se on erityisen helppoa, jos osaat ennestään jonkin verran englantia,
 mutta se on helppoa silloinkin, jos et osaa englantia,
-koska dunish on täysin säännöllinen kieli.
+koska panglobish on täysin säännöllinen kieli.
 
 ### Persoonapronominit
 
@@ -67,7 +67,7 @@ Panglobishin persoonapronominit ovat:
 | **tu** – _sinä_            | **yu** – _te_              |
 | **he** – _hän_             | **de** – _he_              |
 
-Persoonapronominit ovat taipumattomia niin kuin kaikki dunishin sanat.
+Persoonapronominit ovat taipumattomia niin kuin kaikki panglobishin sanat.
 Samaa sanamuotoa käytetään siis kaikissa tilanteissa ja kaikissa "sijamuodoissa".
 Panglobishista siis puuttuu englannin kaltaiset taivutusmuodot kuten "I" ja "me" taikka "we" ja "us".
 
@@ -123,7 +123,7 @@ Se on niin yksinkertaista.
 
 ## Harjoituksia
 
-Käännä seuraavat lauseet suomesta dunishiksi.
+Käännä seuraavat lauseet suomesta panglobishiksi.
 Oikeat vastaukset ovat sanaston jälkeen.
 
 1. Hänen nimensä on Adam.

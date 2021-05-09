@@ -89,9 +89,9 @@ ja sanalla **di** viitataan useampiin asioihin.
 
 ## Erisnimet
 
-### Sovittaminen dunishiin
+### Sovittaminen panglobishiin
 
-Erisnimet yleensä sovitetaan dunishin kirjoitusjärjestelmään.
+Erisnimet yleensä sovitetaan panglobishin kirjoitusjärjestelmään.
 Kaikkien kannalta on järkevämpää kirjoittaa latinalaisilla kirjaimilla
 **Moskva** (Moskova) eikä "Москва",
 **Dilli** (Delhi) eikä "दिल्ली",

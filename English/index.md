@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.kupsala.net/dunish/grafe/Freepik_halo_dunia.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/Freepik_halo_globe.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Hello world!
@@ -56,7 +56,7 @@ so the doer comes first, then the action word and finally the object of the acti
 **mi love yu.**
 – I love you.
 
-![](http://www.kupsala.net/dunish/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
@@ -135,6 +135,6 @@ There aren't many speakers yet
 but if _you_ think Panglobish is a good idea, then _others_ will think so too.
 So just start using Panglobish now and let's make it together our common language!
 
-![](http://www.kupsala.net/dunish/grafe/Freepik_pikisuperstar_2.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/Freepik_pikisuperstar_2.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 

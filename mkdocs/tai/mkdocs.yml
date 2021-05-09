@@ -1,6 +1,6 @@
 site_name: PanGlobish
-site_url: http://www.kupsala.net/dunish/tai
-repo_url: https://github.com/barumau/dunish/
+site_url: http://www.kupsala.net/PanGlobish/tai
+repo_url: https://github.com/barumau/PanGlobish/
 docs_dir: ../../Tai
 site_dir: ../../html/tai
 theme: readthedocs

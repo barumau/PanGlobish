@@ -52,7 +52,7 @@ so a local word is most appropriate anyway.
 English words are only the tip of the iceberg in Panglobish.
 Panglobish is much more diverse than what one might see at first sight.
 
-![](http://www.kupsala.net/dunish/grafe/aismonte_eng.png "picture of an iceberg")
+![](http://www.kupsala.net/PanGlobish/grafe/aismonte_eng.png "picture of an iceberg")
 
 
 ## International words

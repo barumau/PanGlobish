@@ -57,7 +57,7 @@ One can also question the practical implications of including 51 languages versu
 The increase in coverage would be marginal, only 0.36%,
 and it would not help the remaining 24.24% of the world who speak other, smaller languages!
 
-![](http://www.kupsala.net/dunish/grafe/kumule.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/kumule.png)  
 Figure. Percentage of world population by language by number of native speakers.
 
 The vocabulary of Panglobish is based on the most spoken languages.

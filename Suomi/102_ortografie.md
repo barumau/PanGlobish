@@ -71,9 +71,9 @@ Ne kirjoitetaan yksittäisillä konsonanttikirjaimilla tai kirjainpareilla (**sh
 
 ## Vieraskieliset äänteet
 
-Lisäksi dunishin kirjoitusjärjestelmään kuuluu lisäkirjaimia ja -kirjainpareja, jotka voivat esiintyä vain vierassanoissa,
-kuten paikkojen ja henkilöiden nimet, jotka eivät kuuluu dunishin normaaliin sanastoon.
-Niitä ei siis käytetä lainkaan dunishin varsinaisessa sanastossa.
+Lisäksi panglobishin kirjoitusjärjestelmään kuuluu lisäkirjaimia ja -kirjainpareja, jotka voivat esiintyä vain vierassanoissa,
+kuten paikkojen ja henkilöiden nimet, jotka eivät kuuluu panglobishin normaaliin sanastoon.
+Niitä ei siis käytetä lainkaan panglobishin varsinaisessa sanastossa.
 
 | Panglobish | IPA  | Ääntämisohjeita      |
 |:------:|:----:|:---------------------|
@@ -116,16 +116,16 @@ Tavussa voi olla enintään:
 - yksi tai kaksi vokaalia, ja
 - yksi seuraavista loppukonsonanteista: M, N, NG, L, R, F, S, tai SH.
 
-Käytännössä raskaimpia dunishin sanoja ovat esim. **kristal** (kristalli) ja **simple** (yksinkertainen).
+Käytännössä raskaimpia panglobishin sanoja ovat esim. **kristal** (kristalli) ja **simple** (yksinkertainen).
 
 Lisäksi sanan keskellä voi olla jokin seuraavista konsonanttiryhmistä: -kn-, -ks-, -tn- ja -tm-.
 Niitä tosin käytetään vain tietyissä kreikasta ja latinasta lainatuissa sanoissa,
 kuten **tekne** (_tekniikka_), **akse** (_akseli_), **etne** (_kansanryhmä_) ja **ritme** (_rytmi_).
 
 
-## Lainasanojen sovittaminen dunishiin
+## Lainasanojen sovittaminen panglobishiin
 
-Yleensä kaikki lainasanat sovitetaan dunishin äänteenmukaiseen kirjoitusjärjestelmään.
+Yleensä kaikki lainasanat sovitetaan panglobishin äänteenmukaiseen kirjoitusjärjestelmään.
 Näin toimitaan sekä yleisnimien että erisnimien kohdalla.
 
 ### Yleisnimet
@@ -134,12 +134,12 @@ Yleisnimi on sana, joka viittaa johonkin kohteeseen ryhmänsä edustajana eikä 
 Erisnimi viittaa johonkin tiettyyn yksilöön erillään muista.
 Esimerkiksi sana _koira_ on yleisnimi ja _Musti_ on erisnimi.
 
-Yleisessä käytössä olevien yleisnimien täytyy noudattaa dunishin tavurakennetta
-ja niiden täytyy sisältää vain dunishin normaaleja äänteitä.
+Yleisessä käytössä olevien yleisnimien täytyy noudattaa panglobishin tavurakennetta
+ja niiden täytyy sisältää vain panglobishin normaaleja äänteitä.
 
-Useimmat dunishin sanat ovat rakenteeltaan yksinkertaisempia kuin muiden kielten, erityisesti englannin, sanat.
+Useimmat panglobishin sanat ovat rakenteeltaan yksinkertaisempia kuin muiden kielten, erityisesti englannin, sanat.
 Sanojen alussa ja lopussa ei ole vaikeita konsonanttisarjoja.
-Siispä englannin sanan _state_ vastine on dunishissa **estate**, _actor_ on **ater**, ja _saint_ on **sante**.
+Siispä englannin sanan _state_ vastine on panglobishissa **estate**, _actor_ on **ater**, ja _saint_ on **sante**.
 Lisäksi umpikonsonantit ovat kiellettyjä sanan lopussa, joten esimerkiksi sanan _good_ vastine on **gude**.
 
 Panglobishissa ei ole englannin vaikeita TH-äänteitä,
@@ -151,14 +151,14 @@ Esimerkiksi **da** (_the_), **de** (_they_), **tri** (_three_), ja **ting** (_th
 Sanan rakenne voi olla monimutkaisempi ja se voi sisältää vierasäänteitä
 kun kyse on erisnimestä tai erittäin harvoin käytetystä yleisnimestä.
 
-Esimerkiksi sukunimi _Smith_ saa olla **Smith** myös dunishissa,
-vaikka sen rakenne on dunishin tavallisia sanoja monimutkaisempi
-ja se sisältää dunishille vieraan TH-äänteen.
+Esimerkiksi sukunimi _Smith_ saa olla **Smith** myös panglobishissa,
+vaikka sen rakenne on panglobishin tavallisia sanoja monimutkaisempi
+ja se sisältää panglobishille vieraan TH-äänteen.
 
 
 ## Isot ja pienet kirjaimet
 
-Sekä isoja että pieniä kirjaimia eli suur- ja pienaakkosia käytetään dunishin kirjoittamiseen.
+Sekä isoja että pieniä kirjaimia eli suur- ja pienaakkosia käytetään panglobishin kirjoittamiseen.
 
 Isoja kirjaimia käytetään vain
 erisnimen alkukirjaimena
@@ -169,7 +169,7 @@ Panglobishissa ei ole tapana aloittaa virkettä isolla alkukirjaimella.
 #### Erisnimet
 
 Erisnimet kirjoitetaan isolla alkukirjaimella samalla tavalla kuin suomen kielessä.
-Esimerkiksi _Thomas Stearns Eliot_ kirjoitetaan dunishissa **Tomas Sternz Eliot**,
+Esimerkiksi _Thomas Stearns Eliot_ kirjoitetaan panglobishissa **Tomas Sternz Eliot**,
 ja nimikirjaimia voi käyttää monella eri tavalla, kuten
 **Tomas S Eliot**, **TS Eliot** ja **TSE**.
 Nimikirjainten väliin tai jälkeen ei ole tapana laittaa pistettä.

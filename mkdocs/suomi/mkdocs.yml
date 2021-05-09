@@ -1,6 +1,6 @@
 site_name: Panglobish
-site_url: http://www.kupsala.net/dunish/suomi
-repo_url: https://github.com/barumau/dunish/
+site_url: http://www.kupsala.net/PanGlobish/suomi
+repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
 docs_dir: ../../Suomi
 site_dir: ../../html/suomi
@@ -24,4 +24,4 @@ nav:
         - 'Panglobish vs. englanti': 302_Panglobish_vs_English.md
     - Sanasto:
         - "Panglobish–suomi" : Panglobish-Suomi.md
-        - "Suomi–dunish" : Suomi-Panglobish.md
+        - "Suomi–panglobish" : Suomi-Panglobish.md

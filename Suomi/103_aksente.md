@@ -23,7 +23,7 @@ Esim. toke /tókə/, mature /matúrə/.
 
 ## Sävelkorkeus ja -kulku
 
-Tavun, sanan ja virkkeiden sävelkorkeudella tai sävelkululla ei ole kieliopillista merkitystä dunishissa.
+Tavun, sanan ja virkkeiden sävelkorkeudella tai sävelkululla ei ole kieliopillista merkitystä panglobishissa.
 
 Panglobish ei ole "tonaalinen" kieli.
 Sanan tavujen sävelkorkeus tai sävelkulku ei vaikuta sanan merkitykseen.

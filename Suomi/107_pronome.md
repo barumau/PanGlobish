@@ -8,7 +8,7 @@ Panglobishin persoonapronominit ovat:
 | 2.     | **tu** (_sinä_)      | **yu** (_te_)      |
 | 3.     | **he** (_hän_)       | **de** (_he_)      |
 
-Kaikki persoonapronominit ovat sukupuolineutraaleja dunishissa.
+Kaikki persoonapronominit ovat sukupuolineutraaleja panglobishissa.
 Yksikön kolmannen persoonan pronomini **he** voi tarkoittaa siis miestä, naista tai muunsukupuolista henkilöä.
 
 Yksikön toisen persoonan pronominia **tu** saa käyttää kaikissa tilanteissa

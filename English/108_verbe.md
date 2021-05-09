@@ -171,7 +171,7 @@ The helping verb **du** marks the following verb as an infinitive.
 **du love**
 – to love
 
-![](http://www.kupsala.net/dunish/grafe/du_bi_or_no_du_bi.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/du_bi_or_no_du_bi.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 An infinitive verb can function as a subject or object.

@@ -2,7 +2,7 @@
 
 ## Yhdyssanat
 
-Sanoja saa yhdistää dunishissa vapaasti ilmaisemaan uusia asioita.
+Sanoja saa yhdistää panglobishissa vapaasti ilmaisemaan uusia asioita.
 Yhdyssanan viimeinen osa on tärkein,
 ja sitä edeltävät sanat vain täydentävät sen merkitystä.
 
@@ -235,7 +235,7 @@ eräät kielet:
 **Eskotish**
 (skotlanti)  
 **Panglobish**
-(maailmankieli, dunish)
+(maailmankieli, panglobish)
 
 **-iste** :
 ajattelu- tai elämäntavan edustaja:  

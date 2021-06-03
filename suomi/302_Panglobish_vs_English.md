@@ -18,18 +18,18 @@ jotka muistuttavat englantia monin tavoin, mutta silti ne ovat itsenäisiä ja o
 Katsokaamme esimerkiksi alla olevaa lausetta englanniksi ja muilla germaanisilla kielillä
 (lähde: [Quora](https://www.quora.com/Why-dont-all-the-continental-Germanic-languages-form-a-dialect-continuum-as-all-the-contiguous-Romance-languages-do)).
 
-| Englanti  | I am the son of my father and my mother.         |
-|:----------|:-------------------------------------------------|
-| Skotti    | A am the son o ma faither an ma mither.          |
-| Hollanti  | Ik ben de zoon van mijn vader en mijn moeder.    |
-| Afrikaans | Ek is die seun van my pa en my ma.               |
-| Saksa     | Ich bin der Sohn meines Vaters und meiner Mutter.|
-| Jiddish   | Ikh bin der zun fun mayn foter un mayn muter.    |
-| Tanska    | Jeg er søn af min far og min mor.                |
-| Norja     | Jeg er sønnen til faren min og moren min.        |
-| Ruotsi    | Jag är son till min far och min mor.             |
-| Islanti   | Ég er sonur föður míns og móður minnar.          |
-| Panglobish| **mi is da boi of mi's pa en mi's ma.**          |
+| Englanti     | I am the son of my father and my mother.         |
+|:-------------|:-------------------------------------------------|
+| Skotti       | A am the son o ma faither an ma mither.          |
+| Hollanti     | Ik ben de zoon van mijn vader en mijn moeder.    |
+| Afrikaans    | Ek is die seun van my pa en my ma.               |
+| Saksa        | Ich bin der Sohn meines Vaters und meiner Mutter.|
+| Jiddish      | Ikh bin der zun fun mayn foter un mayn muter.    |
+| Tanska       | Jeg er søn af min far og min mor.                |
+| Norja        | Jeg er sønnen til faren min og moren min.        |
+| Ruotsi       | Jag är son till min far och min mor.             |
+| Islanti      | Ég er sonur föður míns og móður minnar.          |
+|**Panglobish**| **mi is da boi of mi's pa en mi's ma.**          |
 
 Panglobishin kielellä tämä sama lause muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
 Voisi jopa sanoa, että Panglobish on lähempänä afrikaansia kuin englantia.
@@ -47,7 +47,7 @@ jatkakaamme haastajan, Panglobishin, vertaamista tarkemmin maailman tämän hetk
 
 ## Pääkohdat
 
-| Englanti                                                | vs | Panglobish                            |
+| Englanti                                                | vs | Panglobish                        |
 |:------------------------------------------------------- |:--:|:----------------------------------|
 | Länsimainen                                             |    | Globaali                          |
 | Monta standardia (Britannia, Yhdysvallat, Intia, jne.)  |    | yksi standardi                    |
@@ -149,7 +149,8 @@ ja kun luet sanan, osaat aina ääntää sen oikein.
 Lisäksi panglobishin kirjoitustapa on hyvin samanlainen kuin monissa muissa kielissä.
 Voisi jopa sanoa, että se on kansainvälinen standardi.
 
-Verrataan esimerkiksi "nature" -sanan kirjoitusasua ja ääntämystä Euroopan kielissä ja panglobishissa.
+Kun verrataan esimerkiksi "nature" -sanan kirjoitusasua ja ääntämystä Euroopan kielissä ja panglobishissa,
+huomataan että panglobishin ääntämys on paitsi tavanomainen myös selkeä.
 
 | Kieli      | Kirjoitusasu | Äänneasu |
 |:-----------|:-------------|:------------|

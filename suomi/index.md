@@ -138,8 +138,7 @@ Kokeile panglobishia kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaa
 Se toimii!
 
 Tällä hetkellä voit kokeilla panglobishia ainakin
-[tässä Facebook-ryhmässä](https://www.facebook.com/groups/PanglobishFB/)
-tai [tällä Telegram-kanavalla](https://t.me/Panglobish1).
+[tässä Facebook-ryhmässä](https://www.facebook.com/groups/panglobish).
 
 Panglobishia ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät panglobishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.

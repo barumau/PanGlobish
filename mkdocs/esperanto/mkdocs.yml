@@ -1,4 +1,4 @@
-site_name: Duniŝo
+site_name: PanGlobish
 site_url: http://www.kupsala.net/PanGlobish/esperanto
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
@@ -23,5 +23,5 @@ nav:
         - 'La ideo': 301_idea_of_Panglobish.md
         - 'Duniŝo kontraŭ la angla': 302_Panglobish_vs_English.md
     - Vortaro:
-        - "Duniŝo–Esperanto" : Panglobish-Esperanto.md
-        - "Esperanto–Duniŝo" : Esperanto-Panglobish.md
+        - "Duniŝo–Esperanto" : PanGlobish-Esperanto.md
+        - "Esperanto–Duniŝo" : Esperanto-PanGlobish.md

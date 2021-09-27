@@ -9,10 +9,17 @@ liste_di_worde_from_PanGlobish_to_X() {
     #morta unordi linye
     sed -i '1d' $filename
     # alfebete
-    cat temp/ABC.txt $filename | LC_ALL=C sort -f > temp/temp.txt
-    sed 's/.00/###/g' temp/temp.txt > $filename
+    sed -i 's/[A-Z] - .*$/####&/' $filename
     #Add header
-    sed -i "1s/^/# PanGlobish-$2\n/" $filename
+    headername="$2/PanGlobish-$other.header.md"
+    if test -f "$headername"; then
+       echo "$headername exists"
+       cat $headername $filename > temp/temp.txt
+       mv temp/temp.txt $filename
+    else
+       echo "$headername doesn't exist. Writing default heading."
+       sed -i "1s/^/# PanGlobish-$2\n/" $filename
+    fi
     #Delete empty translations
     sed -i '/^ - /d' $filename
     sed -i '/-...$/d' $filename
@@ -33,6 +40,8 @@ liste_di_worde_from_X_to_PanGlobish() {
     sed 's/.00/###/g' temp/temp.txt > $filename
     #Add header
     sed -i "1s/^/# $2-PanGlobish\n/" $filename
+    #Delete bullets
+    sed 's/• //g' -i $filename
     #Delete empty translations
     sed -i '/^.-/d' $filename
     sed -i '/-...$/d' $filename
@@ -239,6 +248,7 @@ tarja_leksaslia_pa_esperanti() {
 
 
 #dos2unix vokable.csv
+sed 's/\t/|/g' -i vokable.csv
 
 # English en PanGlobish
 make_di_liste 6 english

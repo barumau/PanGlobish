@@ -23,5 +23,3 @@ make_ale() {
 
 make_ale
 
-rm -rf ../html/PanGlobish
-cp html ../html/PanGlobish -r

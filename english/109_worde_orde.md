@@ -1,11 +1,29 @@
-# Sentece structure
+# Sentence structure
 
 
-    Figure. The sentence structure of Panglobish.
+    Figure. The sentence structure in Panglobish.
     
     ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌──────────┐ ┌────────────────┐
     │ subject │ │   verb  │ │ object  │ │ prep.phr.│ │ modal particle │
     └─────────┘ └─────────┘ └─────────┘ └──────────┘ └────────────────┘
+
+
+## Prepositions
+
+A prepositions begins a preposition phrase that tells additional information about the event that the sentence is about.
+There are a handful of real prepositions in Panglobish, as listed below,
+and the others are verbs that can function in the same way as prepositions.
+
+**in**
+– in, on, at  
+**of**
+– of, from, since  
+**to**
+– to, toward, until  
+**on**
+– on, about  
+**be**
+– by, with, by means of
 
 
 ## Modal particles

@@ -62,7 +62,7 @@ They are represented in the writing system by 19 Latin letters and their combina
 | N      | /n/  | |
 | P      | /p/  | |
 | R      |/r~ɹ/ | Always voiced as in American English. Can be trilled as in Indian English. Never silent! |
-| S      | /s/  | Always voiceless like _s_ in _sissy_. |
+| S      | /s/  | Always voiceless like _s_ in _sister_. |
 | Sh     | /ʃ/  | Like _sh_ in _shop_. |
 | T      | /t/  | |
 | V      | /v/  | |

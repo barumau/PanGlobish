@@ -1,13 +1,13 @@
-# La 10 reguloj de Duniŝo
+# La 10 reguloj de Panglobiŝo
 
-Duniŝo estas tiel simple ke ĝia baza gramatiko povas esti priskribita per nur dek reguloj,
+Panglobiŝo estas tiel simple ke ĝia baza gramatiko povas esti priskribita per nur dek reguloj,
 kiuj enhaviĝas en unu paĝo de papiro.
-Duniŝo ne enhavas esceptojn.
+Panglobiŝo ne enhavas esceptojn.
 
 1. **Mondaj vortoj:**
-   Duniŝo estas egale monda lingvo.
-   Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Duniŝo.
-   Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Duniŝo.
+   Panglobiŝo estas egale monda lingvo.
+   Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Panglobiŝo.
+   Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Panglobiŝo.
    Unu baza radiko estas prenita kaj aldonaj vortoj estas konstuitaj el ĝi laŭ regulo la 10a regulo.
 2. **Prononcado kaj skribado:**
    La skribsistemo estas simple kaj laŭregule.
@@ -51,6 +51,6 @@ Duniŝo ne enhavas esceptojn.
 9. **Vortordo:**
    La normala vortordo estas subjekto – verbo – objekto, kaj en deklaroj kaj demandoj ktp.
 10. **Vortokonstruado:**
-   En Duniŝo, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
+   En Panglobiŝo, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
    Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn.
 

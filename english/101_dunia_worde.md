@@ -63,3 +63,35 @@ One base word is admitted and additional words are built from it according to ru
 
 If some word is pronounced differently in Panglobish than in English, it’s because the pronunciation in Panglobish is more international.
 
+
+### Latin words
+
+There are many words in Panglobish that come from Latin and the Latin languages.
+The Latin languages (also known as the Romance languages) are a group of languages which descend from Latin, including French, Romanian, Italian, Spanish and Portuguese.
+
+The same word can take many forms in the Latin languages.
+In Panglobish they are simplified into one form only.
+For example, the verb
+**cepe**
+('take, catch, capture')
+has regular derivatives in Panglobish
+that correspond to many irregularly derived words in English and the Latin languages.
+
+| Panglobish     | cepe    | acepe     | recepe   | intercepe    | partecepe   |
+|----------------|:--------|:---------:|:--------:|:------------:|:-----------:|
+| **English**    | catch   | accept    | receive  | intercept    | participate |
+| **French**     | capter  | accepter  | recevoir | intercepter  | participer  | 
+| **Spanish**    | catar   | aceptar   | recibir  | interceptar  | participar  | 
+| **Portuguese** | captar  | aceitar   | receber  | interceptar  | participar  | 
+| **Italian**    | captare | accettare | ricevere | intercettare | partecipare | 
+
+| Panglobish     | recepe _v._ | recepe _n._ | recepion    | receper             |
+|----------------|:-----------:|:-----------:|:-----------:|:-------------------:|
+| **English**    | receive     | receipt     | reception   | receiver, recipient |
+| **French**     | recevoir    | reçu        | réception   | receveur, récepteur |
+| **Spanish**    | recibir     | recibo      | recepción   | receptor            |
+| **Portuguese** | receber     | recibo      | recepção    | recebedor           |
+| **Italian**    | ricevere    | ricevuta    | ricevimento | ricettore           |
+
+
+

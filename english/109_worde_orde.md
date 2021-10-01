@@ -25,6 +25,28 @@ and the others are verbs that can function in the same way as prepositions.
 **be**
 – by, with, by means of
 
+**mi live in London.**
+– I live in London.  
+**mi safar of London to Paris be bus.**
+– I travel from London to Paris by bus.  
+**mi tinke on yu.**
+– I think about you.
+
+When a verb plays the role of a preposition, it is always followed by an article (or another determiner) and the object.
+
+**mi's haus is _bake da_ parke.**
+– My house is behind the park.  
+**da bazar is _inter da_ hotel en da medan.**
+– The market is between the hotel and the square.
+
+Note that if there's no article between the "preposition" and another word,
+there is a compound word instead.
+
+**da rute inter di kontinente**
+– the route between the continents  
+**da interkontinental rute**
+– the intercontinental route
+
 
 ## Modal particles
 

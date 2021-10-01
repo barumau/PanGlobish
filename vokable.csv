@@ -58,12 +58,15 @@ as|as||NSM  BGE Globish|eng:as|like (as, similar)||||||||||||||||||||as |to the 
 Asia|Asia||||Asia||Asie|Asia|||||||||||||Azio|Aasia|Azja|||
 astatin|astatin|mate|At||astatine|||ástato||||||||||||||astatiini|astat|||
 at.e|ate||BGE Globish|por:ato, eng:act, fra:acte, spa:acto, rus:акт (akt)|act (deed)||acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide, akti)|||act|process of doing something
-at.er|ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)||agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)||||
-at/ion|ation||||action||action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta||||
-at/iv.e|ative||||active||actif|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen)||||
-at/re.e|reate||Globish AWL||react|reagieren|réagir|reaccionar|reagir|реагировать||反应|反応する|||||||||reagoida|||react|to act in return to
-at/re/ion|reation||||reaction|Reaktion|réaction|reacción|reação|реакция||反应|反応|반응|phản ứng|प्रतिक्रिया|প্রতিক্রিয়া|reaksi|mmenyuko|tepki (reaksiyon)|reakcio (reago|reaktio (vastaliike)||||
-at/ur.e|ature||||work (product)|Werk|œuvre|obra|obra|труд||作品|作品|작품|tác phẩm|||||eser|verko (verkaĵo)|teos (tuote)||||
+at.er|• ater|||eng:actor,-ator, fra:-ateur, spa:por:-ador|agent (doer, actor)||agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)||||
+at/inter.|• interate||AWL||interact|||||||||||||||||olla vuorovaikutuksessa||||
+at/inter.ion|• interation||||interaction|||||||||||||||||vuorovaikutus||||
+at/inter.iv.|• interative||||interactive|||||||||||||||||vuorovaikutteinen||||
+at/ion|• ation||||action||action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta||||
+at/iv.e|• ative||||active||actif|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen)||||
+at/re.e|• reate||Globish AWL||react|reagieren|réagir|reaccionar|reagir|реагировать||反应|反応する|||||||||reagoida|||react|to act in return to
+at/re/ion|• reation||||reaction|Reaktion|réaction|reacción|reação|реакция||反应|反応|반응|phản ứng|प्रतिक्रिया|প্রতিক্রিয়া|reaksi|mmenyuko|tepki (reaksiyon)|reakcio (reago|reaktio (vastaliike)||||
+at/ur.e|• ature||||work (product)|Werk|œuvre|obra|obra|труд||作品|作品|작품|tác phẩm|||||eser|verko (verkaĵo)|teos (tuote)||||
 atake|atake||FF BGE Globish|eng:attack, deu:Attacke, fra:attaque, spa:por:ataque, rus:атака (ataka)|attack (assault)|Attacke (Angriff)|attaque|ataque|ataque|нападение (атака)|هجوم|攻击|攻撃|공격|tấn công|आक्रमण||menarik||saldırı (hücum)|atako (agreso)|hyökkäys (aggressio)|atak (agresja, napaść)||attack |to set upon with force
 Athina|Athina|chefe citi|GR||Athens||Athènes|Atenas|Atenas|Афины|اتينا‎|雅典|アテネ|||एथेंस|||Athene|Atina|Ateno|Ateena||||
 auguste|auguste|mes|FF BGE |eng:August, spa:por:agosto, ara:(aǧustus), hin:अगस्त (agasta), ben:আগস্ট (agôstô)|August||août|agosto|agosto||أغسطس|八 月 ||||अगस्त|আগস্ট|Agustus|Agosti|Ağustos|aŭgusto|elokuu||||
@@ -88,6 +91,7 @@ bag/aj.e|bagaje|||fra:bagage, eng:baggage, por:bagagem, rus:багаж (bagazh),
 bag/aj.e port.er|bagaje porter||||porter|Bepäckträger|porteur|mozo (cargador, porteador)|carregador|носильщик||||||क़ुली (बैरा)||||||laukunkantaja||||
 Bahama|Bahama|lande|BS||Bahamas|||Bahamas||||||||||||||Bahama-saaret|Bahamy|||
 Bahrain|Bahrain|lande|BH||Bahrain|||baréin||||||||||||||Bahrain|Bahrajn|||
+bak.|bake||FF Globish||back (opposite of front)||||||||||||||||||||back |"1°opposite of ""front"" 2°return"
 banana|banana|frute|FF  |eng:spa:por:banana, fra:deu:banane, rus:банан (banan), pol:banan, jpn:バナナ (banana), kor:바나나 (banana)|banana|Banane|banane|plátano (banana)|banana|банан||香蕉|バナナ|바나나||केला||pisang||muz|banano|banaani|banan|||
 bande|bande||FF  |zho:班 (bān), vie:ban, kor:반 (ban) + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|band (squad, group)||bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)|||
 baner|baner||Globish|eng:deu:banner, fra:bannière, spa:bandera, por:bandeira, ara: بنديرة‎ (bandēra), may:bendera, swa:bendera|flag (banner)|Flagge (Fahne, Banner)|drapeau (bannière)|bandera|bandeira|флаг|بنديرة‎|旗|旗|기 (깃발)|cờ|झंडा|পতাকা|bendera|bendera|bayrak|flago|lippu|flaga (sztandar)|||
@@ -98,7 +102,11 @@ Barbados|Barbados|lande|BB||Barbados|||Barbados||||||||||||||Barbados|Barbados||
 Barbuda|Barbuda|lande|||Barbuda|||Barbuda||||||||||||||Barbuda|Barbuda|||
 barium|barium|mate|Ba||barium||baryum|bario|||||||||||||bario|barium|bar|||
 Barte|Barte|lande|IN||India|||India|||||||||||||Baratio|Intia|Indie|||
-bashe|bashe||BGE Globish|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|language||langage|lengua (idioma)|língua (idioma)|язык||语言|言語|||भाषा||bahasa|lugha|dil (lisan)|lingvo|kieli (kommunikaatio)|język; komunikacja||language |human speech to communicate with sounds
+bat.|bate||FF Globish||strike (beat)||||||||||||||||||||beat |to strike with force more than once
+bat.al.|• batal||Globish||battle|Schlacht (Kampf)|bataille (lutte)|batalla (lucha)|batalha||||||||||||||||battle |a fight between armed forces
+bat.al.on|• batalon||||battalion|Bataillon|bataillon|batallón|batalhão|батальон||||||||||||||||
+bat/kon.|• kombate||||fight together (combat)||combat|combate|combate|||||||||||||||||
+bat/kontr.|• kontrebate||||counterstrike|||||||||||||||||||||
 baxe|baxe||FF BGE Globish|eng:deu:box, rus:бокс (boks), hin:बकस (baks), ben:বক্স (bôks), jpn:ボックス (bokkusu), kor:박스 (bakseu)|box (cuboid container)|Kasten (Box, Büchse)|boîte (caisse)|caja|caixa|коробка (ящик, бокс)||盒子|箱 (ボックス)|상자 (박스)|hộp|डिब्बा (बकस)|বক্স|kotak||kutu|skatolo|laatikko (rasia, boksi)|pudło||box|a container, often with a cover
 bay (bay bay)|bay (bay bay)|int.||eng:bye-bye, rus:бай-бай (bay-bay), zho:拜拜 (báibái), jpn:バイバイ (bai-bai), kor:빠이빠이 (ppaippai), hin:बाई बाई (bāī bāī), ara:بَاي بَاي‎ (bay bay)|bye (goodbye, bye-bye)|||adios|tchau tchau|пока (бай-бай)|بَاي بَاي‎|再见 (拜拜)|バイバイ|빠이빠이||अलविदा (बाई बाई )||||||hyvästi||||
 bazar|bazar|n.|FF BGE Globish||market (bazaar)||||||||||||||||||||market |a place for people for buying and selling
@@ -229,7 +237,6 @@ dent. brush|• dente brush||||toothbrush|||cepillo de dientes|||||||||||||dentb
 dent. past.|• dente paste||||toothpaste|Zahnpasta (Zahncreme)|dentifrice|pasta de dientes (crema dental)|pasta de dente (creme dental)|зубная паста||牙膏|歯磨剤|치약|kem đánh răng|दंतमंजन (टूथपेस्ट)||pasta gigi||diş macunu|dentopasto|hammastahna|pasta do zębów|||
 dent.al|• dental||||dental||dentaire|dental|dental (dentário)||||||||||||denta|||||
 desembre|desembre|mes|FF BGE |eng:December, fra:décembre, spa:diciembre, por:dezembro, ara:(dīsambir), hin:दिसम्बर (disambar), ben:ḍisēmbara (disembôrô)|December||décembre|diciembre|dezembro|декабрь|ديسمبر|十二 月 ||||दिसम्बर|ডিসেম্বর|Desember|Desemba|Aralık|decembro|joulukuu||||
-destrukte|destrukte||BGE Globish||destroy (destruct)||détruire|destruir|destruir|разрушать|||||||||||detrui|tuhota|||destroy|to ruin
 deve|deve||FF Globish|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva)|god (deity)||dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg (bóstwo)||god|He who created everything
 devisme|devisme||||theism|||||||||||||||||teismi (jumalusko)||||
 deviste|deviste||||theist|||||||||||||||||teisti||||
@@ -247,6 +254,7 @@ dit.|dite||||dictate||dicter|dictar|ditar|диктовать||||||||||||sanella|
 dit.at.er|• ditater|||por:ditador, ita:dittatore, end:dictator, fra:dictateur, spa:dictador, deu:may:diktator, rus:диктатор (diktator), tur:diktatör, ara:(diktatūr)|dictator||dictateur|dictador|ditador|диктатор|دكتاتور|独裁者|独裁者|독재자||तानाशाह (अधिनायक)|একনায়ক|diktator|||diktatoro|diktaattori|dyktator|||
 dit.at.er.ie|• ditaterie||||dictatorship||dictature|dictadura|ditadura|диктатура||独裁|独裁|독재|||||||diktaturo|diktatuuri|dyktatura|||
 dit.ion|• dition||||diction|Diktion (Ausdruck)|diction|dicción|dicção|дикция||吐字||||||diksi||||sanoittaminen (diktio)||||
+dit/kontr.|• kontredite||AWL||contradict |||||||||||||||||||||
 Divehi|Divehi|lande|MV||Maldives|||Maldivas||||||||||||||Malediivit|Malediwy (Republika Malediwów)|||
 Doiche|Doiche|lande|DE||Germany|Deutschland||Alemania||||||||||||||Saksa|Niemcy|||
 dolar|dolar|$|FF  ||dollar|||dolar|||||||||||||dolaro|dollari|dolar|||
@@ -259,7 +267,7 @@ Dominikan Republike|Dominikan Republike|lande|DO||Dominican Republic|||Republica
 dorse|dorse|bode|FF BGE |fra:dos, ita:spa:por:dorso|back (of the body)|Rücken|dos|espalda (lomo, dorso)|costás (lombo, dorso)|спина||背部|背|등|lưng|पीठ|পিঠ|punggung (belakang)|mgongo|sırt|dorso|selkä|placy|||
 dram.|drame||||act (perform in threatre)|spielen|jouer|actuar (hacer un papel)|atuar|играть||表演|演ずる|연기를 하다||||||oynamak|aktori|näytellä|grać (odgrywać rolę)|||
 dram.|drame|||deu:eng:spa:por:may:drama, fra:drame, rus:драма (drama), jpn:ドラマ (dorama), kor:드라마 (deurama), hin:ड्रामा (ḍrāmā)|drama (theatrical play)|Schauspiel (Drama)|pièce de théâtre (drame)|obra teatral (drama)|peça teatral|пьеса (драма, спектакль)||戏剧 |演劇 (芝居)|연극 (드라마)||नाटक||drama||||näytelmä (draama)||||
-dram. eskrib.er.|• drame eskriber||||playwright (dramatist)|Bühnenautor|dramaturge (auteur dramatique )|dramaturgo|dramaturgo|драматург||剧作家|脚本家 (劇作家)|극작가|nhà soạn kịch|||||||näytelmäkirjailija (dramaturgi)|dramaturg (dramatopisarz)|||
+dram. skrib.er.|• drame skriber||||playwright (dramatist)|Bühnenautor|dramaturge (auteur dramatique )|dramaturgo|dramaturgo|драматург||剧作家|脚本家 (劇作家)|극작가|nhà soạn kịch|||||||näytelmäkirjailija (dramaturgi)|dramaturg (dramatopisarz)|||
 dram.al|• dramal||||dramatic|dramatisch|dramatique|dramático|dramático|драматический||||||||||||draamallinen (teatraalinen)||||
 dram.er.|• dramer||FF  ||actor (threatrical actor)|Schauspieler|acteur ou actrice|actor o actriz|ator ou atriz|актёр|ممثل‎|演员|俳優|배우|diễn viên|अभिनेता|অভিনেতা|pemeran (pelakon)|mwigaji|oyuncu (aktör)|aktoro (aktorino)|näyttelijä|aktor|||
 du|du||NSM  BGE Globish|eng:do, deu:Tun|do (perform, carry out)|Tun|faire||||||||||||||||||do |to carry out, to perform
@@ -597,8 +605,11 @@ konsumer|konsumer||||consumer|Konsument|consommateur|consumidor|consumidor|по�
 konsumion|konsumion||Globish||consumption|Konsum|consommation|consumo|consumo|потребление||消费|消費|소비||||konsumsi||||kulutus|||consumption|the act of buying goods or services
 konsumisme (konsumerisme)|konsumisme (konsumerisme)||||consumerism||consumérisme|consumismo|consumismo|||消费主义||||||||||konsumerismi||||
 kontate|kontate||Globish AWL||contact|Kontakt|contact|contacto|contato|контакт||||||||||||kosketus (kontakti)|kontakt||contact|when surfaces, points, or people join
+kontinent.|kontinente||Globish||continent||||||||||||||||||||continent|one of the main land parts of the earth
+kontinent/inter.al|interkontinental||||intercontinental|||||||||||||||||||||
 kontinu|kontinu||BGE Globish||continue (keep on doing)|||||||||||||||||jatkaa|||continue |to keep up
 kontinu/it.e|kontinuite||||continuity|||||||||||||||||jatkuvuus||||
+kontr/in.|inkontre||AWL||encounter |||||||||||||||||||||
 kontrole|kontrole||Globish|eng:control, deu:kontrollieren, fra:contrôler, spa:por:controlar, rus:контролировать (kontrolirovat’)|check (control, examine, inspect, verify)|kontrollieren|contrôler|controlar|controlar|контролировать||||||||||||tarkastaa (tarkistaa, varmistaa)|||control|to exercise authoritative power over
 kopernikium|kopernikium|mate|Cn||copernicium|||copérnico|||||||||||||kopernicio|kopernikium|kopernik|||
 koraje|koraje|||eng:fra:courage, spa:coraje, por:coragem|guts (courageᶠ)|||||||||||||||||sisu||||
@@ -611,8 +622,6 @@ kosmenaute|kosmenaute||||cosmonaut|Kosmonaut|cosmonaute|cosmonauta|cosmonauta|к
 Kosovo|Kosovo|lande|KV||Kosovo|||Kosovo||||||||||||||Kosovo|Kosowo|||
 Kosta Rika|Kosta Rika|lande|CR||Costa Rica|||Costa Rica||||||||||||||Costa Rica|Kostaryka|||
 koste|koste||FF BGE Globish|eng:cost, spa:coste, por:custo, deu:Kosten|cost (price)||côut|precio (coste)|custo|||||||दाम (क़ीमत)||||||hinta (maksu)|koszt, cena||cost |money asked or given for something
-kostrukte|kostrukte||FF BGE Globish AWL||construct (build)|bauen (konstruieren)|construire|construir||строить||||||||||||rakentaa|||build|make by putting materials together
-kostruktion|kostruktion|||ita:costruzione, eng:fra:construction, por:construção, spa:construcción, deu:konstruieren, rus:конструкция (konstrukciya), jpn:コンストラクト (konsutorakuto)|construction|Bau|construction|construcción|construção|строение||||||निर्माण||||||rakentaminen||||
 kote|kote||FF BGE Globish|eng:coat, jpn:コート (kōto), hin:कोट (kot), swa:koti, orm:koota|coat|||abrigo (chaqueta)||||||||कोट|||||palto|takki|płaszcz||coat |a warm article of clothing covering the whole body, worn outside
 Kotedivuar|Kotedivuar|lande|CI||Côte d’Ivoire (Ivory Coast)|||Costa de Marfil||||||||||||||Norsunluurannikko|Wybrzeże Kości Słowniowej|||
 kotrate|kotrate||||pact (contract, covenant, alliance)||convention (alliance, pacte)|convenion (pacto)|pacto|контракт||||||||||||liittosopimus||||
@@ -669,7 +678,8 @@ Liberia|Liberia|lande|LR||Liberia|||Liberia||||||||||||||Liberia|Liberia|||
 Libia|Libia|lande|LY||Libya|||Libia||||||||||||||Libya|Libia|||
 Lietuva|Lietuva|lande|LT||Lithuania|||Lituania||||||||||||||Liettua|Litwa|||
 limon|limon|frute|FF  |eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon||citron|limón|limão|лимон||柠檬|檸檬|레몬||नींबू||jeruk lemon||limon|citrono|sitruuna|cytryna|||
-lingue|lingue||BGE |por:língua, spa:lengua, fra:langue|tongue|Zunge|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język|||
+lingu.|lingue||BGE |por:língua, spa:lengua, fra:langue|tongue|Zunge|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język|||
+lingu.aj.|• linguaje||BGE Globish||language||langage|lengua (idioma)|língua (idioma)|язык||语言|言語|||भाषा||bahasa|lugha|dil (lisan)|lingvo|kieli (kommunikaatio)|język; komunikacja||language |human speech to communicate with sounds
 linke|linke||Globish AWL|eng:link, fra:lien, zho:连结 (lián), jpn:連 (ren), kor:련 (ryeon), vie:liên kết|link (connection)|Verknüpfung (Glied)|maillon (chaînon)|eslabón|elo|звено||连结|連結|연결|liên kết|||pranala||||lenkki|||link |one element of a chain
 liste|liste||BGE Globish|eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)||liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz||list |a written list of things
 lite|lite||NSM FF BGE Globish|eng:little|small (little)|klein (lütt)|petit|pequeño|pequeno|маленький (малый)||小|小さい| 작은|nhỏ|छोटा||||küçük|malgranda|pieni (pienesti, vähän)|mały||small|little 
@@ -1053,10 +1063,12 @@ rot/at/ion|rotation||||rotation||rotation|rotación|rotação|вращение||
 roze|roze|||eng:deu:fra:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|rose|Rose|rose|rosa|rosa|роза||玫瑰|バラ|장미|hoa hồng|गुलाब|গোলাপ|mawar (ros)|waridi|gül|rozo|ruusu|róża|||
 Ruanda|Ruanda|lande|RW||Rwanda|||Ruanda||||||||||||||Ruanda|Rwanda|||
 rubidium|rubidium|mate|Rb||rubidium|||rubidio|||||||||||||rubidio||rubid|||
+rul.et.|rulete||RadCom||roulette|||||||||||||||||||||
 Rundi|Rundi|lande|BI||Burundi|||Burundi||||||||||||||Burundi|Burundi|||
 Rus kaiser|Rus kaiser||RadCom||tsar (czar)|Zar|tsar|zar|tsar|царь||沙皇||||||||çar|caro|tsaari||||
 rus krepe|rus krepe|yam|||blini||||||||||||||||rusa krepo|blini|rosyjski naleśnik (blin)|||
 Rusia|Rusia|lande|RU||Russia|||Rusia||||||||||||||Venäjä|Rosja|||
+rut.|rute||AWL||route |||||||||||||||||||||
 rutenium|rutenium|mate|Ru||ruthenium|||rutenio|||||||||||||rutenio||rut|||
 ruterfordium|ruterfordium|mate|Rf||rutherfordium|||rutherfordio|||||||||||||ruterfordio||rutherford|||
 S|S||||S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|||
@@ -1138,12 +1150,12 @@ skrib.er|skriber||||writer (scribe)|Schreiber|écrivain|escritor|escritor|пис
 Slovakia|Slovakia|lande|SK||Slovakia|||Eslovaquia||||||||||||||Slovakia|Słowacja|||
 Slovenia|Slovenia|lande|SI||Slovenia|||Eslovenia||||||||||||||Slovenia|Słowenia|||
 so|so||BGE ||so (therefore)|||||||||||||||||||||
-socia|socia||BGE Globish|eng:society, fra:société, spa:sociedad, por:sociedade, rus:социум (socium)|society (community)|Gesellschaft|société|sociedad|sociedade|общество (социум)||社会|社会|사회|xã hội|समाज|সমাজ|masyarakat|jamii|toplum|socio|yhteiskunta|społeczeństwo, system społeczny||society|the totality of human relationships
-social|social||Globish||social|||social||||||||||||||yhteiskunnallinen (sosiaalinen)|społeczny||social |living in groups, of human society
-social media|social media||||social media|||redes sociales||||||||||||||sosiaalinen media|media społecznościowe|||
-socialisme|socialisme||RadCom||socialism|||socialismo||||||||||||||sosialismi|socjalizm|||
-socialiste|socialiste||||socialist|||socialista||||||||||||||sosialisti|socjalista|||
-societe|societe||||society (association)|Verein (Assoziation)|association||associação|||会社 (协会)|組織|||||||||yhteisö (seura, yhdistys)||||
+soc.ia|socia||BGE Globish|eng:society, fra:société, spa:sociedad, por:sociedade, rus:социум (socium)|society (community)|Gesellschaft|société|sociedad|sociedade|общество (социум)||社会|社会|사회|xã hội|समाज|সমাজ|masyarakat|jamii|toplum|socio|yhteiskunta|społeczeństwo, system społeczny||society|the totality of human relationships
+soc.ia.al|• social||Globish||social|||social||||||||||||||yhteiskunnallinen (sosiaalinen)|społeczny||social |living in groups, of human society
+soc.ia.al med.ia|• social media||||social media|||redes sociales||||||||||||||sosiaalinen media|media społecznościowe|||
+soc.ia.al.ism.|• socialisme||RadCom||socialism|||socialismo||||||||||||||sosialismi|socjalizm|||
+soc.ia.al.ist.|• socialiste||||socialist|||socialista||||||||||||||sosialisti|socjalista|||
+soc.ia.et.|• societe||||society (association)|Verein (Assoziation)|association||associação|||会社 (协会)|組織|||||||||yhteisö (seura, yhdistys)||||
 sofa|sofa|||eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|sofa (couch)||canapé (sofa)|sofá||софа (диван, канапе)||沙发|ソファー|소파|xô pha|सोफ़ा|||||sofo|sohva|sofa (kanapa)|||
 sole|sole|kosme|FF BGE Globish|eng:solar, fra:soleil, spa:por:sol, hin:सौर (sOr), tel:(saur)|sun|Sonne|soleil|sol|sol|солнце|شَمْس|太阳|太陽|해 (태양)||सूरज|সূর্য|matahari|jua|güneş|suno|aurinko|słońce||sun|the central star of our system
 sole sistem|sole sistem|kosme|||solar system|Sonnensystem||||||||||||||||||||
@@ -1156,6 +1168,13 @@ some|some||FF BGE Globish|eng:summer, deu:Sommer|summer|Sommer|été|verano|ver�
 some kampe|some kampe||||summer camp|Ferienlager|colonie de vacances|colonia veraniega|acampamento de verão|летний лагерь||夏令营|サマーキャンプ|여름 캠프||ग्रीष्म शिविर||||||kesäleiri||||
 Soto|Soto|lande|LS||Lesotho|||Lesoto||||||||||||||Lesoto|Lesotho|||
 stad/ia|stadia||RadCom|eng:stadium, fra:stade, spa:estadio, por:estádio, rus:стадион (stadion), tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||stade|estadio (arena)|estádio|стадион||||||स्टेडियम|||||stadiono (areno)|stadioni (areena)|stadion, arena|||
+strut.|strute||||building|||||||||||||||||rakennus||||
+strut.ur.|• strutur||AWL Globish||structure|||||||||||||||||rakenne|||structure|organization
+strut/de.|• destrute||BGE Globish||destroy (destruct)||détruire|destruir|destruir|разрушать|||||||||||detrui|tuhota|||destroy|to ruin
+strut/in.|• instrute||AWL||build in (instruct)|||||||||||||||||||||
+strut/infra.ur.|• infrastrutur||AWL||infrastructure  |||||||||||||||||infrastruktuuri (perusrakenteet)||||
+strut/kon.|• konstrute||FF BGE Globish AWL||construct (build)|bauen (konstruieren)|construire|construir||строить||||||||||||rakentaa|||build|make by putting materials together
+strut/kon.ion|• konstrution|||ita:costruzione, eng:fra:construction, por:construção, spa:construcción, deu:konstruieren, rus:конструкция (konstrukciya), jpn:コンストラクト (konsutorakuto)|construction|Bau|construction|construcción|construção|строение||||||निर्माण||||||rakentaminen||||
 stud.e|stude||BGE Globish||learn (study)||||||||||||||||||||study|to give careful consideration to
 stud/an|studan||FF BGE |deu:eng:student, fra:étudiant, spa:estudiante, por:estudante, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|Student|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|student|||
 stud/ia|studia||||study room||étude|estudio||кабинет (студия)||||||||||||opisto||||
@@ -1221,6 +1240,8 @@ tikete|tikete||FF  |eng:deu:ticket, jpn:チケット (chiketto), kor:티켓 (ti
 tikete kasherie|tikete kasherie||||ticket office|Abendkasse|billetterie|taquilla|bilheteira|билетная касса||售票处|出札所||||||||biletejo|lippukassa|kasa biletowa|||
 Timor|Timor|lande|||Timor|||Timor||||||||||||||Timor|Timor|||
 ting|ting||NSM  BGE Globish|eng:thing, deu:Ding|thing|Sache (Ding)|chose|cosa|coisa|вещь||事物 (东西)||||वस्तू (चीज़)||benda||şey||asia|rzecz||thing|any object or substance
+tink.|tinke||NSM FF BGE Globish||think||||||||||||||||||||think|to form in the mind
+tink.er.|• tinker||||thinker|||||||||||||||||||||
 Titan|Titan|planete 6 lune 6|||Titan|Titan||||||||||||||||||||
 Titania|Titania|planete 7 lune 4|||Titania|Titania||||||||||||||||||||
 titanium|titanium|mate|Ti||titanium|||titanio|||||||||||||titanio|titaani|tytan|||
@@ -1507,7 +1528,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||away||||||||||||||||||||away |at a distance from a given place or position
 |||RadCom||baby|||||||||||||||||||||
 |||RadCom||bacillus|||||||||||||||||||||
-|||FF Globish||back (opposite of front)||||||||||||||||||||back |"1°opposite of ""front"" 2°return"
 |||Globish||balance||||||||||||||||||||balance|equality between two parts or two quantities
 |||RadCom||balcony|||||||||||||||||||||
 |||BEIW||ballet|||||||||||||||||||||
@@ -1524,7 +1544,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||basket||||||||||||||||||||basket |a small container
 |||Globish||bath||||||||||||||||||||bath |large container used to wash the body
 |||FF  ||bathroom|||||||||||||||||||||
-|||Globish||battle||||||||||||||||||||battle |a fight between armed forces
 |||RadCom||bayonet|||||||||||||||||||||
 |||FF BGE ||beach|||||||||||||||||||||
 |||Globish||bear||||||||||||||||||||bear |to carry, to support
@@ -1801,8 +1820,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||contain||||||||||||||||||||contain|to have within
 |||AWL||contemporary|||||||||||||||||||||
 |||AWL||context|||||||||||||||||||||
-|||Globish||continent||||||||||||||||||||continent|one of the main land parts of the earth
-|||AWL||contradict |||||||||||||||||||||
 |||RadCom||contralto|||||||||||||||||||||
 |||AWL||contrary |||||||||||||||||||||
 |||AWL||contrast|||||||||||||||||||||
@@ -2002,7 +2019,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||employ||||||||||||||||||||employ |to put into service
 |||BGE Globish||empty (void, blank)||||||||||||||||||||empty|containing nothing
 |||AWL||enable |||||||||||||||||||||
-|||AWL||encounter |||||||||||||||||||||
 |||BEIW||encyclopedia|||||||||||||||||||||
 |||BGE Globish||enemy||||||||||||||||||||enemy|a person or group that hates and fights another
 |||FF  ||energy|||||||||||||||||||||
@@ -2343,7 +2359,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||inform||||||||||||||||||||inform |to give knowledge, or facts or news
 |||Globish AWL||inform (brief)||||||||||||||||||||brief|to inform
 |||Simplish||informatics|||||||||||||||||||||
-|||AWL||infrastructure  |||||||||||||||||||||
 |||AWL||inherent |||||||||||||||||||||
 |||AWL||inhibit |||||||||||||||||||||
 |||AWL||initial|||||||||||||||||||||
@@ -2362,7 +2377,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||instance|||||||||||||||||||||
 |||Globish||instead||||||||||||||||||||instead|in place of someone or something
 |||AWL||institute |||||||||||||||||||||
-|||AWL||instruct|||||||||||||||||||||
 |||FF  ||instrument (musical)|||||||||||||||||||||
 |||Globish||insult*||||||||||||||||||||insult*|an offensive remark
 |||Globish||insurance||||||||||||||||||||insurance|protection against future damage or loss
@@ -2375,7 +2389,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||RadCom||intelligentsia|||||||||||||||||||||
 |||Globish||intense||||||||||||||||||||intense|being of a very high degree
 |||AWL||intense |||||||||||||||||||||
-|||AWL||interact|||||||||||||||||||||
 |||RadCom||interest|||||||||||||||||||||
 |||BGE Globish||interest (involvement)|||||||||||||||||||||a feeling of wanting to know
 |||BGE ||interest (money to be paid)|||||||||||||||||||||
@@ -3067,9 +3080,7 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||rope||||||||||||||||||||rope |a strong thick line
 |||RadCom||rotor|||||||||||||||||||||
 |||Globish||rough||||||||||||||||||||rough|not smooth
-|||RadCom||roulette|||||||||||||||||||||
 |||BGE Globish||round||||||||||||||||||||round|shaped like a ball
-|||AWL||route |||||||||||||||||||||
 |||Globish||row||||||||||||||||||||row|a line of people or things
 |||BEIW||Royal|||||||||||||||||||||
 |||Globish||rub||||||||||||||||||||rub|to move one thing back and forth against another
@@ -3303,12 +3314,10 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||street (road)||||||||||||||||||||street |a public road in a city
 |||AWL||stress |||||||||||||||||||||
 |||Globish||stretch||||||||||||||||||||stretch|to make longer by pulling
-|||FF Globish||strike (beat)||||||||||||||||||||beat |to strike with force more than once
 |||Globish||strike (stop work)||||||||||||||||||||strike |1°to hit against 2° to stop work
 |||Globish||string||||||||||||||||||||string |a thin line of winded light material
 |||FF BGE Globish||strong||||||||||||||||||||strong |having much force or power
-|||AWL||structure|||||||||||||||||||||
-|||Globish||structure||||||||||||||||||||structure|organization
+||||||||||||||||||||||||||
 |||Globish||struggle||||||||||||||||||||struggle |to fight 
 |||RadCom||student|||||||||||||||||||||
 |||Globish||stupid||||||||||||||||||||stupid |not intelligent
@@ -3421,7 +3430,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||thesis |||||||||||||||||||||
 |||FF Globish||thick||||||||||||||||||||thick|not thin 
 |||FF BGE Globish||thin||||||||||||||||||||thin |having a short distance between opposite sides
-|||NSM FF BGE Globish||think||||||||||||||||||||think|to form in the mind
 |||FF Globish||third (3rd)|||||||||||||||||||||
 |||BGE ||thirsty|||||||||||||||||||||
 |||Globish||thought||||||||||||||||||||thought|the content of the mind

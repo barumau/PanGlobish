@@ -14,8 +14,10 @@ A prepositions begins a preposition phrase that tells additional information abo
 There are a handful of real prepositions in Panglobish, as listed below,
 and the others are verbs that can function in the same way as prepositions.
 
+**a**
+– at  
 **in**
-– in, on, at  
+– in  
 **of**
 – of, from, since  
 **to**
@@ -36,7 +38,7 @@ When a verb plays the role of a preposition, it is always followed by an article
 
 **mi's haus is _bake da_ parke.**
 – My house is behind the park.  
-**da bazar is _inter da_ hotel en da medan.**
+**da bazar is _inter da_ hotel en da plasa.**
 – The market is between the hotel and the square.
 
 Note that if there's no article between the "preposition" and another word,
@@ -47,6 +49,39 @@ there is a compound word instead.
 **da interkontinental rute**
 – the intercontinental route
 
+Common preposition-like words:  
+**bake**
+– at the back, behind  
+**excepe**
+– except  
+**extre**
+– outside  
+**face**
+– facing, toward  
+**grace**
+– thanks to  
+**infra**
+– under, below  
+**inkluze**
+– including  
+**inter**
+– between  
+**kontre**
+– against, countering  
+**mide**
+– amid, in the middle  
+**pos**
+– after, later  
+**pre**
+– before  
+**pro**
+– for, pro  
+**ronde**
+– about, around  
+**tema**
+– about, on the topic of  
+**via**
+– via, by way of  
 
 ## Modal particles
 

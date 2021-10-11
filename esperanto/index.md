@@ -132,6 +132,3 @@ Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Panglobiŝo estas bona ideo, ankaŭ _aliuloj_ pensus same.
 Do komencu uzi Panglobiŝon nun kaj ni faru ĝin nia komuna lingvo!
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_pikisuperstar_2.png)  
-[Designed by pikisuperstar / Freepik](http://www.freepik.com)
-

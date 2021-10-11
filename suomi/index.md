@@ -144,6 +144,3 @@ Panglobishia ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät panglobishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.
 Eli ala käyttämään panglobishia ja tehdään siitä yhdessä maailman yhteinen kieli!
 
-![](http://www.kupsala.net/panglobish/grafe/Freepik_pikisuperstar_2.png)  
-[Designed by pikisuperstar / Freepik](http://www.freepik.com)
-

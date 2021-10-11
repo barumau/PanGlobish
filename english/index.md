@@ -135,6 +135,3 @@ There aren't many speakers yet
 but if _you_ think Panglobish is a good idea, then _others_ will think so too.
 So just start using Panglobish now and let's make it together our common language!
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_pikisuperstar_2.png)  
-[Designed by pikisuperstar / Freepik](http://www.freepik.com)
-

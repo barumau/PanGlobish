@@ -1,8 +1,6 @@
 alfabetization|Panglobish|klase|fonte|origin|English|Doiche|France|Espan|Portugal|Rus|Arabe|Putong Han|Nipon|Chosen|Viet|Hindi|Bangla|Melayu|Swahili|Turke|Esperanto|Suomi|Polske|Farsi||
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------||
 A|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|||
-a lote of|a lote of||||a lot of||masse (beaucoup)|||||||||||||||paljon (iso satsi)||||
-a.|a|art.|Globish|eng:a|a (an)|ein|un|un|um|||||||||||||eräs (joku, jokin)|||a|"a before a noun ( ""an"" if the noun begins with a vowel)"
 abl.|able|adj.|BGE Globish||able||||||||||||||||||||able |having the necessary power
 abl.it.|ablite||BGE Globish||skill (ability)||||||||||||||||||||skill|ability gained by practising
 achu|achu||Globish|eng:achoo, deu:hatschi, fra:atchoum, spa:achís, rus:апчхи, zho: 阿嚏 (ātì), kor:에취 (echwi), vie:hắt xì, hin:(achī), ben:হাঁচি (hąci)|sneeze (achoo)||éternuer(atchoum)|estornudar(achís)|espirrar|чихать||打喷嚏 (阿嚏)|||hắt xì||||||terni|aivastaa (atsii)|kichać (kichnąć)||sneeze |to force out breath in an uncontrolled action
@@ -119,8 +117,8 @@ bay (bay bay)|bay (bay bay)|int.||eng:bye-bye, rus:бай-бай (bay-bay), zho:
 baz.|baze||Globish|eng:fra:por:spa:base, deu:Basis, rus:база (baza)|base (foundation)|Basis|base|base|base|основа (база,  фундамент)||底部||||आधार||landasan||temel|bazo|perusta (perustus)|podstawa, baza, fundament||base |the lowest material
 baz. skol.|baze skole||||primary school (elementary school, gradeschool)|Grundschule|école primaire|escuela primaria|ensino primário|семилетка||小学|小学校|초등학교 (소학교)||प्राथमिक विद्यालय (प्राइमरी स्कूल)||sekolah rendah|||bazlernejo|ala-aste|szkoła podstawowa|||
 bazar.|bazar|n.|FF BGE Globish||market (bazaar)||||||||||||||||||||market |a place for people for buying and selling
-bebe|bebe||FF Globish|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|baby (infant)||bébé|bebé|bebê|младенец|رَضِيع|宝宝|赤ちゃん|||शिशु||bayi|mtoto mchanga||bebo|vauva|niemowlę||baby |a very young child
-bede|bede||FF BGE Globish|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|bed|Bett|lit|cama|cama||||||||||||lito|vuode (sänky, peti)|łóżko||bed|anything to sleep on
+beb.|bebe||FF Globish|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)|baby (infant)||bébé|bebé|bebê|младенец|رَضِيع|宝宝|赤ちゃん|||शिशु||bayi|mtoto mchanga||bebo|vauva|niemowlę||baby |a very young child
+bed.|bede||FF BGE Globish|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|bed|Bett|lit|cama|cama||||||||||||lito|vuode (sänky, peti)|łóżko||bed|anything to sleep on
 bek.|beke||BGE ||bake|backen|cuire au four|hornear (cocer)|assar|печь (выпекать)||烘烤|||||||||baki|leipoa|piec|||
 bek.er|• beker||||baker|Bäcker|boulanger|panadero|padeiro|пекарь (хлебопёк)||面包师傅|パン屋さん|||नानबाई||||fırıncı|bakisto|leipuri|piekarz|||
 bek.er.ia|• bekeria|||eng:bakery, deu:Bäckerei, rus:(pekariya), hin:बेकरी (bekrī), ben:বেকারি (bekari)|bakery|Bäckerei|boulangerie|panadería|padaria|пекарня||面包店|パン屋|||बेकरी|বেকারি||||bakejo|leipomo|piekarnia|||
@@ -190,6 +188,7 @@ Centrafrike|Centrafrike|lande|CF||Central African Republic|||República Centroaf
 cep.e|cepe||FF Globish||catch (capture, take, seize)|||capturar (apresar)|||||||||||||kapti|ottaa kiinni (napata, kaapata, siepata)|złapać, łapać, schwytać, chwytać||catch (capture)|to take by force
 cep.ur.e|• cepure||||capture (seizure)|||||||||||||||||sieppaus||||
 cep/a.e|• acepe||BGE Globish||accept|annehmen (akzeptieren)|accepter|aceptar|aceitar||||||||||||akcepti|ottaa vastaan|||accept |to receive or to take something given
+cep/de.|• decepe||||snatch (remove)|||||||||||||||||||||
 cep/ex.e|• excepe||Globish||except (take out)|||||||||||||||||ottaa pois|||except |not included
 cep/in.tr.|• intrecepe||||intercept (snatch)|abfangen|intercepter|interceptar|interceptar|перехватывать||||||||||||siepata välistä||||
 cep/kon.|• koncepe||AWL||conceive (take together)|||||||||||||||||||||
@@ -337,10 +336,15 @@ Englande|Englande|lande|||England|||Inglaterra||||||||||||||Englanti|Anglia|||
 erbium|erbium|mate|Er||erbium|||erbio|||||||||||||erbio|erbium|erb|||
 Eris|Eris|mini planete 4|||Eris|Eris|Éris|Eris||||||||||||Eris||||||
 Eritra|Eritra|lande|ER||Eritrea|||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea|||
+es.|ese||||exist|||||||||||||||||||||
+es.ent.|• esente||||being|||||||||||||||||||||
+es.ent.i.|• esentie||||essence|||||||||||||||||||||
+es.ent.i.al.|• esential||||essential|||||||||||||||||||||
+es/ex.|• exese||Globish||exist (be out there)||||||||||||||||||||exist|to be or live
+es/pre.ent.|• presente||BGE Globish||present (now, current)|||||||||||||||||||||
 Espan.ia|Espania|lande|ES||Spain|||España|||||||||||||Hispanio|Espanja|Hiszpania|||
 Espan.ish|Espanish||||Spanish|||español|||||||||||||hispana|espanjan kieli||||
-est/ex.|exeste||Globish||exist||||||||||||||||||||exist|to be or live
-este|este|kompas|FF BGE Globish|deu:Ost, rus:ост (ost), eng:east, fra:est, spa:éste, por:este|east (orient)||est (orient)|éste (oriente)|este (leste)|восток (ост)|شَرْق‎|东|東|동|đông|पूर्व|পূর্ব|timur|mashariki|doğu|oriento|itä|wschód||east |opposite to west, the region where the sun rises in the morning
+est.|este|kompas|FF BGE Globish|deu:Ost, rus:ост (ost), eng:east, fra:est, spa:éste, por:este|east (orient)||est (orient)|éste (oriente)|este (leste)|восток (ост)|شَرْق‎|东|東|동|đông|पूर्व|পূর্ব|timur|mashariki|doğu|oriento|itä|wschód||east |opposite to west, the region where the sun rises in the morning
 Este Timor|Este Timor|lande|TL||East Timor (Timor-Leste)|||Timor Oriental||||||||||||||Itä-Timor|Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)|||
 Estia|Estia|lande|EE||Estonia|||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia|||
 Etiopia|Etiopia|lande|ET||Ethiopia|||Etiopía|||||||||||||Etiopio|Etiopia|Etiopia|||
@@ -396,6 +400,8 @@ flerovium|flerovium|mate|Fl||flerovium|||flerovio||||||||||||||flerovium|flerow|
 flit/kon.|• konflite||AWL||conflict (clash together)|||||||||||||||||||||
 flure|flure|mate|F||fluorine|||flúor|||||||||||||fluoro|fluori|fluor|||
 Fobos|Fobos|planete 4 lune 1|||Phobos|Phobos||||||||||||||||||||
+fol.|fol||Globish||mad (fool, crazy)||fol|||||||||||||||hölmö (kahjo, hullua)|||fool |a person without sense
+fol.i.|folie|||eng:folly, fra:folie, ita:follia|madness (folly)||folie|||||||||||||||hölmöys (hulluus)||||
 for|for|num.|FF BGE ||four (4)||||||||||||||||kvar (4)|neljä (4)|cztery (4)|||
 forme|forme||BGE Globish|eng:deu:form, fra:forme, spa:por:forma, rus:форма (forma)|form (shape)|Form (Gestalt)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma, kształt||shape|the form of a thing
 France|France|lande|FR||France|||Francia|||||||||||||Francio|Ranska|Francja|||
@@ -410,6 +416,8 @@ fun|fun||BGE Globish|eng:fun|fun (amusement)|||divertir (entretener)||||||||||||
 fun parke|fun parke||||amusement park|Vergnügungspark|parc d'attractions|parque de diversiones|parque de diversões|Луна-парк||游乐场|遊園地|유원지||||||eğlence parkı (lunapark)|amuzparko|huvipuisto|lunapark|||
 func.|funce||AWL||function (be in actino, operate)|funktionieren (funzen)|fonctionner|funcionar|funcionar|функционировать|||||||||||funkcii|toimia|funkcja, stanowisko|||
 func.ion|• funcion|||eng:function, deu:Funktion, fra:fonction, spa:función, por:função, rus:функция (funkciya), pol:funkcja, may:fungsi, tur:foksiyon|function (functioning)|Funktion|fonction|función|função|функция||||||||fungsi||fonksiyon|funkciado|toiminta (funktio)||||
+fut.|fute||FF BGE Globish|eng:foot, deu:Pfote|foot|||pie (pata)|||||||||||||piedo|jalka (jalkaterä)|stopa||foot |the end part of the leg
+fut. bol.|fute bol|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़ुटबॉल (fuṭbŏl), urd:(fuṭ bāl), ben:ফুটবল (phuṭbôl), rus:футбол (futbol), tha:ฟุตบอล (th) (fút-bɔn), jpn:フットボール (futtobōru), zul:ibhola|football (soccer)|Fußball|football|fútbol|futebol|футбол|||フットボール|||फ़ुटबॉल|||||piedpilko|jalkapallo|piłka nożna|||
 G|G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|||
 Gabon|Gabon|lande|GA||Gabon|||Gabón||||||||||||||Gabon|Gabon|||
 gadolinium|gadolinium|mate|Gd||gadolinium|||gadolinio|||||||||||||gadolinio|gadolinium|gadolin|||
@@ -750,15 +758,17 @@ laste yer|laste yer||||last year||l'année dernière|el año pasado|ano passado|
 Latvia|Latvia|lande|LV||Latvia||Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa|||
 Lau|Lau|lande|LA||Laos|||Laos||||||||||||||Laos|Laos|||
 laurencium|laurencium|mate|Lr||lawrencium|||laurencio|||||||||||||laŭrencio|lawrensium|lorens|||
+lec.|lece||BGE Globish|eng:let + fra:laisser + ltn:licentia|allow (let, permit)||||||||||||||||||||allow|to permit
+lec.ent.|• lecente||||license (permission)||licence|licencia (permiso)|licença (alvará)|лицензия||||||||||ruhsat (lisans)|permeso|lupa (lisenssi)||||
 lefte|lefte||FF BGE Globish|eng:left, rus:левый|left (left hand side)|link|gauche|izquierdo|esquerdo|левый||左|左|||बायां||kiri||sol|maldekstra|vasen|lewy||left |side that is toward the west when main side faces north
 lerne|lerne||FF BGE Globish|eng:learn, deu:lernen|learn|lernen|apprendre|aprender|aprender|учиться||学习|習う (学ぶ)|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni|oppia|uczyć się||learn|to gain knowledge
 lerne kurse|lerne kurse||BGE Globish||course (learning program)|||||||课程|課程 (コース)|과정 (코스)||||||||kurssi (oppikurssi)|||course |series of studies
-let.e|lete||BGE Globish||read|lesen|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać||read |to understand something that is written
-let.er|leter|||ita:lettore, por:leitor, spa:lector, fra:lecteur, rus:лектор (lektor)|reader|Leser|lecteur|lector|leitor|читатель  (лектор)|||||||||||leganto|lukija|czytelnik (lektor)|||
-let.er.at.ur.|leterature|||ita:letteratura, eng:literature, deu:Literatur, fra:littérature, spa:por:pol:literatura, rus:литература (literatura), tur:literatür|literature|Literatur|littérature|literatura|literatura|литература||文学|文献 (文学)|문학|văn chương (văn học)|साहित्य (अदब)|সাহিত্য|kesusasteraan|fasihi|literatür (edebiyat)|literaturo|kirjallisuus|literatura|||
+let.|lete||BGE Globish||read|lesen|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać||read |to understand something that is written
+let.er.|• leter|||ita:lettore, por:leitor, spa:lector, fra:lecteur, rus:лектор (lektor)|reader|Leser|lecteur|lector|leitor|читатель  (лектор)|||||||||||leganto|lukija|czytelnik (lektor)|||
+let.er.at.ur.|• leterature|||ita:letteratura, eng:literature, deu:Literatur, fra:littérature, spa:por:pol:literatura, rus:литература (literatura), tur:literatür|literature|Literatur|littérature|literatura|literatura|литература||文学|文献 (文学)|문학|văn chương (văn học)|साहित्य (अदब)|সাহিত্য|kesusasteraan|fasihi|literatür (edebiyat)|literaturo|kirjallisuus|literatura|||
 let.ur.|• leture||||lecture|Lesung|lecture|lectura|leitura|||||||लेक्चर||||||lukema|lekcja|||
-let.ur.|leture||AWL|eng:lesson,lecture, deu:Lektion, fra:leçon, spa:lección, por:lição, rus:лекция (lekciya), hin:लेक्चर (lekcar)|reading|Lesen (Lektion)|lecture|lectura|leitura|чтение (лекция)||读书|読書|독서|sự đọc|||||okuma||lukeminen|czytanie|||
-letr.e|letre||FF BGE Globish|eng:letter, fra:lettre, yor:lẹ́tà, ibo:leta|letter (epistle)|Brief (Epistel)|lettre (épître)|carta (epístola)|carta (epístola)|письмо (послание)||信|手紙|편지|thư|ख़त (पत्र, चिट्ठी)|চিঠি|surat|barua|mektup|letero|kirje|list||letter |a piece of mail
+let.ur.|• leture||AWL|eng:lesson,lecture, deu:Lektion, fra:leçon, spa:lección, por:lição, rus:лекция (lekciya), hin:लेक्चर (lekcar)|reading|Lesen (Lektion)|lecture|lectura|leitura|чтение (лекция)||读书|読書|독서|sự đọc|||||okuma||lukeminen|czytanie|||
+letr.|letre||FF BGE Globish|eng:letter, fra:lettre, yor:lẹ́tà, ibo:leta|letter (epistle)|Brief (Epistel)|lettre (épître)|carta (epístola)|carta (epístola)|письмо (послание)||信|手紙|편지|thư|ख़त (पत्र, चिट्ठी)|চিঠি|surat|barua|mektup|letero|kirje|list||letter |a piece of mail
 lex.|lexe||BGE Globish|eng:word, deu:Wort|word|Wort|mot|palabra (vocablo)|palavra (vocábulo)|слово||词|言葉|말|từ|शब्द|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo||word |an independent unit of language
 lex. buk.|• lexe buke||||dictionary (wordbook, lexicon)|Wörterbuch|dictionnaire||||||||||||||vortaro|sanakirja||||
 lex. list.|• lexe liste||||word list|Wortliste||||словник||||||||||||sanasto (sanalista)||||
@@ -769,6 +779,8 @@ Liberia|Liberia|lande|LR||Liberia|||Liberia||||||||||||||Liberia|Liberia|||
 Libia|Libia|lande|LY||Libya|||Libia||||||||||||||Libya|Libia|||
 lid.|lide||BGE Globish||lead||||||||||||||||||||lead |to take somebody to some place
 lid.er.|• lider||BGE ||head (leader)|||||||||||||||||||||
+lid/mes.|• meslide||||mislead (deceive)|||||||||||||||||johtaa harhaan||||
+lid/mes.iv.|• meslidive||||misleading (deceptive)|||||||||||||||||harhaanjohtava||||
 Lietuva|Lietuva|lande|LT||Lithuania|||Lituania||||||||||||||Liettua|Litwa|||
 limon|limon|frute|FF  |eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon||citron|limón|limão|лимон||柠檬|檸檬|레몬||नींबू||jeruk lemon||limon|citrono|sitruuna|cytryna|||
 lingu.|lingue||BGE |por:língua, spa:lengua, fra:langue|tongue|Zunge|langue|lengua|língua|язык||舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi|dil (lisan)|lango|kieli (elin)|język|||
@@ -853,12 +865,16 @@ memo|memo||FF Globish|eng:memo, jpn:メモ (memo), kor:메모 (memo)|note (memo,
 memore|memore||BGE Globish|eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)||mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć||memory |the store of things one can remember
 men.|mene|||eng:mean, deu:meinen, dan;nor:mene, sve:mena + ara:(maʿnā), hin:मअनी (maani), may:makna, swa:maana|meaning (import, purpose, significance)||||||مَعْنَى|||||||||||tarkoitus (arvo)||||
 men. of liv.|• da mene of live||||the meaning of life|Sinn des Lebens|sens de la vie|sentido de la vida|sentido da vida|смысл жи́зни|مَعْنَى اَلْحَيَاة‎|人生的真谛|人生の意義|인생의 의미||||||hayatın anlamı||elämän tarkoitus||||
+men.aj.|• menaje||||manage (handle)||gérer (ménager)|manejar|gerir (manejar)|||||||||||||||||
+men.aj.er.|• menajer||FF  ||manager||gérant (manager)|gerente (director)|gerente|менеджер (директор)||||||||||||||||
+men/mes/aj.|• mesmenaje||||mismanage|||||||||||||||||||||
 meninge|meninge|organ||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)||méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa|||
 meningitis|meningitis||||meningitis|||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych|||
 menu|menu|||eng:fra:por:menu, spa:menú, rus:меню (menyu), jpn:メニュー (menyū), kor:메뉴 (menyu), hin:मेनू (menū), tur:menü|menu|Speisekarte|menu (carte)|menú (carta)|cardápio (menu)|меню||菜单|メニュー|메뉴||मेनू||||menü||ruokalista||||
 Merkur|Merkur|planete 1|||Mercury|Merkur|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury|||
 merkurdi|merkurdi|wike dey 3|FF BGE ||Wednesday|Mittwoch|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merkredo|keskiviikko|środa|||
 mes|mes||FF BGE Globish|fra:mois, spa:mez, por:mês, rus:месяц (mesyats), hin:मास (mās), ben:মাস (mas), swa:mwezi|month|Monat|mois|mez|mês|месяц|شهر‎|月|月 (月間)|달 (월)|tháng|महीना (मास)|মাস|bulan|mwezi|ay|monato|kuukausi|miesiąc||month|one of the 12 parts of the year
+mes.|mes|||eng:mess + fra:més-, deu:miss-|mess (blunder)|||||||||||||||||||||
 metal|metal||FF Globish|eng:spa:por:tur:metal, fra:métal, rus:металл (metall), swa:metali|metal||métal|metal|metal|металл|معدن‎|金属|金属|금속|kim loại|धातु|ধাতু|logam|metali|metal|metalo|metalli|metal||metal|a substance that is hard and usually shiny
 metode|metode||Globish AWL|eng:method, spa:por:método, rus:метод (metod), may:metode, tur:metod|method (means, procedure)||méthode|método|método|способ (метод)|طريقة|方法 (方式)|方法|방법 (방식)|phương pháp (phương thức)|विधि (तरीक़ा)||kaedah (metode)||yöntem (metod)|metodo|keino (menetelmä, metodi)|metoda, sposób||method |a way of doing something
 metre|metre||Globish|eng:-metry, deu:-metrie, fra:métria, spa:-metría, por:-metria, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measure|Messung (Maß)|mesure|medida|medida|мера|قِيَاس‎||||||||||mezuro|mitta (koko, määrä)|miara||measure|to find out the size, the quantity, etc ..
@@ -988,12 +1004,12 @@ nonsence|nonsence||||nonsense|Blödsinn (Nonsens)|bêtise||besteira|нонсен
 Norfolke|Norfolke|lande|NF||Norfolk Island|||Isla Norfolk||||||||||||||Norfolkin saaret|Norfolk|||
 Norge|Norge|lande|NO||Norway|||Noruega|||||||||||||Norvegio|Norja|Norwegia|||
 nort.|norte|kompas|FF BGE Globish|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north||nord|norte|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ||north|direction to the right as one faces the setting sun
-Norte Cosen|Norde Cosen|lande|KP||North Korea (Democratic People’s Republic of Korea)|||Corea del Norte||||||||||||||Pohjois-Korea|Korea Północna (Koreańska Republika Ludowo-Demokratyczna)|||
-Norte Eire|Norde Eire|lande|||Northern Ireland|||Irlanda del Norte||||||||||||||Pohjois-Irlanti|Irlandia Północna|||
-Norte Kipris|Norde Kipris|lande|||Northen Cyprus|||Chipre del Norte||||||||||||||Pohjois-Kypros|Cypr Północny|||
-Norte Makedonia|Norde Makedonia|lande|MK||Republic of North Macedonia|||Macedonia del Norte||||||||||||||Makedonia|Republika Macedonii, Macedonia|||
-Norte Mariana|Norde Mariana|lande|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||Mariany Północne|||
-Norte Somali|Norde Somali|lande|||Somaliland|||Solamilandia||||||||||||||Somalimaa|Somaliland|||
+Norte Cosen|Norte Cosen|lande|KP||North Korea (Democratic People’s Republic of Korea)|||Corea del Norte||||||||||||||Pohjois-Korea|Korea Północna (Koreańska Republika Ludowo-Demokratyczna)|||
+Norte Eire|Norte Eire|lande|||Northern Ireland|||Irlanda del Norte||||||||||||||Pohjois-Irlanti|Irlandia Północna|||
+Norte Kipris|Norte Kipris|lande|||Northen Cyprus|||Chipre del Norte||||||||||||||Pohjois-Kypros|Cypr Północny|||
+Norte Makedonia|Norte Makedonia|lande|MK||Republic of North Macedonia|||Macedonia del Norte||||||||||||||Makedonia|Republika Macedonii, Macedonia|||
+Norte Mariana|Norte Mariana|lande|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||Mariany Północne|||
+Norte Somali|Norte Somali|lande|||Somaliland|||Solamilandia||||||||||||||Somalimaa|Somaliland|||
 not.|note|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark)||note|nota|nota|запись (заметка)||便条||||||||not|noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja||note |
 not/a.|• anote||||annotation (comment, side note)|||||||||||||||||||||
 not/de.|• denote||AWL||denote |||||||||||||||||||||
@@ -1240,8 +1256,8 @@ Saudi Arabia|Saudi Arabia|lande|SA||Saudi Arabia|||Arabia Saudita||||||||||||||S
 sav.|save|||eng:savvy, fra:savoir, spa:por:saber, pcm:sabi|savvy (understand, know how)|||||||||||||||||||||
 seaborgium|seaborgium|mate|Sg||seaborgium|||seaborgio|||||||||||||seborgio||seaborg|||
 selenium|selenium|mate|Se||selenium|||selenio|||||||||||||seleno|seleeni|selen|||
-sem.|seme|||||bedeuten (meinen)|signifier (voiloir dire)|significar (querer decir)|significar (querer dizer)||||||||||||signifi|merkitä (tarkoittaa)|znaczyć|||
 sem.|seme||||meaning (referent of a word, expression or symbol)|||||||||||||||||merkitys (tarkoite)||||
+sem.|seme|||||bedeuten (meinen)|signifier (voiloir dire)|significar (querer decir)|significar (querer dizer)||||||||||||signifi|merkitä (tarkoittaa)|znaczyć|||
 sem.em.|• sememe||||sememe|||||||||||||||||semeemi||||
 sem.for.er.|• semeforer||||semaphore||sémaphore|semáforo||семафор||||||||||||||||
 sem.loj.i.|• semelojie||||semantics||sémantique|semántica|semântica|семантика||语义学|意味論|의미론|ngữ nghĩa học|||semantik|semantiki|anlambilim|semantiko|merkitysoppi (semantiikka)||||
@@ -1413,6 +1429,7 @@ tich.|tiche||FF BGE Globish||teach|lehren (unterrichten)|enseigner|enseñar|ensi
 tich.er|• ticher||FF  |eng:teacher, hin:टीचर (ṭīcar)|teacher (educator)|Lehrer|professeur (enseignant)|maestro (profesor, docente)|professor (docente)|учитель||教师 (老师)|先生 (教師)|선생 (교사)|giáo viên|अध्यापक (टीचर, शिक्षक, गुरु)|শিক্ষক|guru (pengajar)|mwalimu|öğretmen (muallim)|instruisto|opettaja|nauczyciel|||
 tiket.|tikete||FF  |eng:deu:ticket, jpn:チケット (chiketto), kor:티켓 (tiket), hin:टिकट (ṭikaṭ), ben:টিকিট (ṭikiṭ), may:tiket|ticket|Ticket|billet|boleto|bilhete|билет||票|券 (チケット)|표 (티켓)|vé|टिकट|টিকিট|tiket||bilet|bileto|lippu (pääsy- tai matkalippu)|bilet|||
 tiket. kash.er.ie|tikete kasherie||||ticket office|Abendkasse|billetterie|taquilla|bilheteira|билетная касса||售票处|出札所||||||||biletejo|lippukassa|kasa biletowa|||
+tim.|time||FF BGE Globish AWL|eng:deu:team, por:time, may:tim, jpn:チーム (chīmu), kor:팀 (tim)|team|Team|équipe|equipo|equipe (time)|команда (экипаж)||||||||tim|||teamo|joukkue (tiimi)|||team |a group of players in a game
 Timor|Timor|lande|||Timor|||Timor||||||||||||||Timor|Timor|||
 ting|ting||NSM  BGE Globish|eng:thing, deu:Ding|thing|Sache (Ding)|chose|cosa|coisa|вещь||事物 (东西)||||वस्तू (चीज़)||benda||şey||asia|rzecz||thing|any object or substance
 tink.|tinke||NSM FF BGE Globish||think||||||||||||||||||||think|to form in the mind
@@ -1469,7 +1486,9 @@ U|U||||U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|||
 Ukrayina|Ukrayina|lande|UA||Ukraine|||Ucrania||||||||||||||Ukraina|Ukraina|||
 Umbriel|Umbriel|planete 7 lune 3|||Umbriel|Umbriel||||||||||||||||||||
 un|un|num.|NSM FF BGE|fra:un, spa:uno, por:um,una, eng:one|one (1)||un (1)|uno (1)|um (1)|один (1)||一 (1)|一 (1)||||||||unu (1)|yksi (1)|jeden (1)|||
+un lote of|un lote of||||a lot of||masse (beaucoup)|||||||||||||||paljon (iso satsi)||||
 un or ote|un or ote|phr.|Globish||either (one or the other)||||||||||||||||||||either |one or the other
+un.|un|art.|Globish||a (an)|ein|un|un|um|||||||||||||eräs (joku, jokin)|||a|"a before a noun ( ""an"" if the noun begins with a vowel)"
 unife|unife||AWL||unite (unify)||unir (unifier)|unir (unificar)|unir (unificar)|объединять||统一|||||||||unuigi|yhdistää|jednoczyć|||
 unite|unite||||unity (oneness)|Einheit|unité|unidad|unidade|единство|||||||||umoja|birlik|unueco|ykseys|jedność|||
 universal|universal|||eng:spa:por:may:universal, fra:universel, deu:universell, rus:универсальный (universalniy), tur:evrensel|universal|universell|universel|universal|universal|всеобщий (универсальный)||||||||sejagat (universal)||evrensel|universala|universaali (kaikkia koskeva)|uniwersalny|||
@@ -1513,8 +1532,8 @@ viz.ion.er|• vizioner||||visionary|Visionär|visionnaire|visionario||визи�
 vizit.e|vizite||BGE Globish|eng:visit, fra:visite, spa:por:visita, rus:визит (vizit)|visit||visite|visita|visita|визит|||||||||||viziti|vierailu (visiitti)|wizyta||visit|to go to see for business or pleasure
 vizit.er|viziter||||visitor (guest)|||invitado (visita)|||||||||||||vizitanto|vierailija (vieras)|wizytant (gość)|||
 vok.|voke||||call (voice; summon)|||||||||||||||||kutsua (kuuluttaa; manata)||||
-vok.abl.e|• vokable||||term (vocable)|||||||||||||||||nimike (termi)||||
 vok.abl.ar|• vokablar||||vocabulary|||||||||||||||||sanasto (termistö)||||
+vok.abl.e|• vokable||||term (vocable)|||||||||||||||||nimike (termi)||||
 vok.al|• vokal||||vocal|||||||||||||||||kuuluva||||
 vok.al son|• vokal son||FF  |deu:Vokal, spa:vocal, por:vogal, eng:vowel, fra:voyelle|vowel|Vokal|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali (ääntiö)|samogłoska|||
 vok.at.ion|• vokation||||vocation|||||||||||||||||kutsumus||||
@@ -1590,7 +1609,6 @@ zip.|zipe||||zip up|||cerrar con cremallera|||||||||||||zipi|sulkea vetoketjulla
 zip.er|ziper|||eng:zipper, por:ziper, hin:ज़िपर (zipar), ben:জিপার (jipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo)|zipper|Reißverschluss|fermeture éclair|cremallera|ziper (fecho ecler)|Застёжка-молния||拉链|ジッパー|지퍼|khoá kéo|ज़िपर|জিপার|resleting (zip)||fermuar|zipilo|vetoketju|zamek błyskawiczny|||
 zirkonium|zirkonium|mate|Zr||zirconium|||circonio|||||||||||||zirkonio|zirkonium|cyrkon|||
 zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (zombī)|zombie||zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi|||
-|||AWL||abandon |||||||||||||||||||||
 ||prep.|NSM  Globish||above (over)||||||||||||||||||||above|overhead 
 |||AWL||abstract |||||||||||||||||||||
 |||RadCom||academic|||||||||||||||||||||
@@ -1629,7 +1647,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||algebra|||||||||||||||||||||
 |||FF BGE ||alive|||||||||||||||||||||
 |||BGE ||allergic|||||||||||||||||||||
-|||BGE Globish||allow (let, permit)||||||||||||||||||||allow|to permit
 |||Globish||ally||||||||||||||||||||ally |to unite or join for a purpose
 |||BGE Globish||almost||||||||||||||||||||almost |nearly, not quite
 |||BGE Globish||alone||||||||||||||||||||alone|apart from other people
@@ -2275,8 +2292,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||fold||||||||||||||||||||fold |to bend or lay so that one part covers the other
 |||FF BGE Globish||follow (go after)||||||||||||||||||||follow |to come or go after
 |||FF BGE Globish||food||||||||||||||||||||food |material taken to keep up life and growth
-|||Globish||fool||||||||||||||||||||fool |a person without sense
-|||FF BGE Globish||foot (body part)||||||||||||||||||||foot |the end part of the leg
 |||FF  ||foot (measurement)|||||||||||||||||||||
 |||Globish||for||||||||||||||||||||for|1°in place of, representing…etc 2° during
 |||NSM   ||for some time||||||||||||||||||||jonkin aikaa|
@@ -2579,8 +2594,8 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF  ||leaf|||||||||||||||||||||
 |||RadCom||league|||||||||||||||||||||
 |||Globish||leak||||||||||||||||||||leak |an accidental hole that lets a fluid out
+|||AWL||leave (abandon, forsake)||abandonner|dejar (abandonar)|deixar (abandonar, largar)|||||||||||||||||
 |||BGE Globish||leave (exit, go away)||||||||||||||||||||leave|to go away
-|||||leave (make sth remain)|||||||||||||||||||||
 |||FF BGE Globish||leg||||||||||||||||||||leg|a member used to support the body
 |||Globish AWL||legal||||||||||||||||||||legal|based upon law
 |||RadCom||legal|||||||||||||||||||||
@@ -2649,7 +2664,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||make (manufacture)||||||||||||||||||||make |to execute, to do; make by hand or by machine
 |||BEIW||malaria|||||||||||||||||||||
 |||Simplish||malaria|||||||||||||||||||||
-|||FF  ||manager|||||||||||||||||||||
 |||BEIW||mania|||||||||||||||||||||
 |||Simplish||mania|||||||||||||||||||||
 |||AWL||manipulate |||||||||||||||||||||
@@ -2972,7 +2986,6 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||pregnant||||||||||||||||||||pregnant |carrying a developping baby
 |||AWL||preliminary |||||||||||||||||||||
 |||BGE Globish||present (gift)|||||||||||||||||||||
-|||BGE Globish||present (now, current)|||||||||||||||||||||
 |||BGE ||presentation (talk)|||||||||||||||||||||
 |||BEIW||President|||||||||||||||||||||
 |||FF  ||president|||||||||||||||||||||
@@ -3452,12 +3465,10 @@ zombi|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||tax||||||||||||||||||||tax|money given by people for the support of government
 |||BEIW||taxi|||||||||||||||||||||
 |||BEIW||tea|||||||||||||||||||||
-|||FF BGE Globish AWL||team||||||||||||||||||||team |a group of players in a game
 |||Globish||tear||||||||||||||||||||tear |drops of clear liquid produced buy the eyes
 |||FF Globish||tear (drop)||||||||||||||||||||tear |water from eye
 |||AWL||technical|||||||||||||||||||||
 |||BEIW||telegram|||||||||||||||||||||
-|||RadCom||television|||||||||||||||||||||
 |||BGE Globish||tell||||||||||||||||||||tell |to express in words
 |||FF  ||temperature|||||||||||||||||||||
 |||RadCom||tempo|||||||||||||||||||||

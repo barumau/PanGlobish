@@ -51,6 +51,8 @@ armari|armari||Globish|eng:fra:armoire, spa:armario, por:armário, hin:अलम
 aroma|aroma|||deu:eng:por:spa:aroma, fra:arôme, rus:аромат (aromat), jpn:アロマ (aroma)|aroma (flavor)|Aroma|arôme|aroma|aroma|аромат||||||||||||aromi||||
 arsene|arsene|mate|As||arsenic||arsenic|arsénico|||||||||||||arseno|arseeni|arsen|||
 art.|arte||FF BGE Globish|spa:por:arte, eng:fra:art, jpn:アート (āto)|art||art|arte|arte|искусство||美术||||कला||seni||sanat|arto|taide|sztuka||art|the creation of beautiful or important things
+art.fat.|• artefate||||artefact|||||||||||||||||artefakti (keinotekoinen esine)||||
+art.fat.al.|• artefatal||||artificial|||||||||||||||||keinotekoinen||||
 art.ist.|• artiste||FF  ||artist||artiste|artista|artista|художник (артист)||美术家||||कलाकार||seniman||sanatçı|artisto|taiteilija|artysta|||
 artik/anti.|• Antartike|lande|AQ||Antarctica||Antarctique|antartida||||||||||||||Antarktis|Antarktyka|||
 Artike|Artike|lande|||Arctic|||Ártico||||||||||||||Arktis|Arktyka|||
@@ -132,6 +134,7 @@ berilium|berilium|mate|Be||beryllium|||berilio|||||||||||||berilio|berylli|beryl
 berkelium|berkelium|mate|Bk||berkelium|||berkelio|||||||||||||berkelio|berkelium|berkel|||
 Berlin|Berlin|chefe citi|DE|||||||||||||||||||||||
 Bermuda|Bermuda|lande|BM||Bermuda|||Bermuda||||||||||||||Bermuda|Bermudy|||
+best.|beste||Globish||excellent (best)||||||||||||||||||||best |most excellent
 bey|bey|h.v.||zho:被 (bèi), eng:be|be (passive voice marker)|||sufrir (verbo pasivo)||||被|れる|||||||||läpikäydä (passiivin muodostava verbi)|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)|||
 bi|bi||NSM  BGE Globish|eng:be, rus:быть (byt’), pol:być|be|sein|être|ser|ser|быть||是|ある|있다||होना|হওয়া|ada||olmak|esti|olla|być||be |describes the quality of being
 Bible|Bible||||Bible|Bibel|Bible|Biblia|Bíblia|библия||圣经||||||Alkitab|Biblia||Biblio|raamattu|Biblia|||
@@ -370,11 +373,11 @@ faive|faive|num.|FF BGE |eng:five|five (5)||cinq (5)|cinco (5)|cinco (5)|пят�
 famil.|famile||FF BGE Globish|eng:family, spa:familia, por:família, fra:famille|family|||familia|||||||||||||familio|perhe|rodzina||family |mother, father, and their children
 fantaze|fantaze||FF BGE Globish|eng:fantasy, fra:fantaisie, spa:por:fantasia, rus:фантазия (fantazia), jpn:ファンタジー (fantajī)|imagination (fantasy, dream)|Fantasie (Traum)|rêve (fantaisie)|fantasia (sueño)|fantasia (sonho)|мечта (фантазия)||空想 (幻想)|空想 (ファンタジー)|환상||||||||mielikuvitus (fantasia)|||dream|a series of pictures or ideas in the mind during sleep
 farm.|farme||||farm (cultivate)|||cultivar|cultivar|||||||||||||viljellä|uprawić, uprawiać|||
-farm.er|farmer||||farmer||fermier (agriculteur)|granjero (agricultor)|fazendeiro (agricultor)|фермер (крестьянин)||农夫 (农民)|農夫|||किसान|||||farmisto|maanviljelijä|rolnik (farmer)|||
-farm.ia|farmia||FF BGE |eng:deu:farm, fra:ferme, rus:ферма, hin:फ़ार्म (fārma)|farm (ranch)||ferme|granja (finca)|fazenda (granja)|ферма||农场||||खेत (फ़ार्म)|||||farmo|maatila||||
+farm.er|• farmer||||farmer||fermier (agriculteur)|granjero (agricultor)|fazendeiro (agricultor)|фермер (крестьянин)||农夫 (农民)|農夫|||किसान|||||farmisto|maanviljelijä|rolnik (farmer)|||
+farm.ia|• farmia||FF BGE |eng:deu:farm, fra:ferme, rus:ферма, hin:फ़ार्म (fārma)|farm (ranch)||ferme|granja (finca)|fazenda (granja)|ферма||农场||||खेत (फ़ार्म)|||||farmo|maatila||||
 fat.|fate||BGE Globish|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|fact (concrete deed)||fait|hecho|fato (facto)|факт||事实|事実||||||||fakto|fakta (teko)|czyn, uczynek||fact |an event known to have happened or something known to have existed
-fat.er|fater||AWL||factor||facteur|factor|fator (fazedor)|фактор||||||||||faktör||||||
-fat.er.ie|faterie||Globish||factory (plant)|||fábrica|||||||||||||fabriko|tehdas|fabryka, manufaktura||factory|a building in which goods are manufactured
+fat.er|• fater||AWL||factor||facteur|factor|fator (fazedor)|фактор||||||||||faktör||||||
+fat.er.ia|• fateria||Globish||factory (plant)|||fábrica|||||||||||||fabriko|tehdas|fabryka, manufaktura||factory|a building in which goods are manufactured
 favore|favore||||prefer (favor)||préférer|preferir|preferir|предпочитать|فَضَّلَ|比较喜欢||||पसंद करना||||tercih etmek|preferi (pliŝati)|suosia (pitää parempana)||ترجیح دادن||
 favore de|favore de||BGE |eng:favorite, fra:favori, spa:por:favorito|favorite (preferred)||favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||お気に入りの|||||kegemaran||||suosikki (suosittu)||||
 feble|feble||FF BGE Globish|fra:faible, spa:feble, eng:feeble|weak (feeble)||faible|débil (feble)|fraco (débil)|слабый||弱|弱い|약하다||दुर्बल (निर्बल, कमज़ोर)||lemah||zayıf (güçsüz)|malforta|heikko|||weak |lacking power
@@ -404,7 +407,10 @@ Fobos|Fobos|planete 4 lune 1|||Phobos|Phobos||||||||||||||||||||
 fol.|fol||Globish||mad (fool, crazy)||fol|||||||||||||||hölmö (kahjo, hullua)|||fool |a person without sense
 fol.i.|folie|||eng:folly, fra:folie, ita:follia|madness (folly)||folie|||||||||||||||hölmöys (hulluus)||||
 for|for|num.|FF BGE ||four (4)||||||||||||||||kvar (4)|neljä (4)|cztery (4)|||
-forme|forme||BGE Globish|eng:deu:form, fra:forme, spa:por:forma, rus:форма (forma)|form (shape)|Form (Gestalt)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma, kształt||shape|the form of a thing
+form.|forme||BGE Globish|eng:deu:form, fra:forme, spa:por:forma, rus:форма (forma)|form (shape)|Form (Gestalt)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma, kształt||shape|the form of a thing
+form/de.|• deforme||||deform|||||||||||||||||||||
+form/in.|• informe||Globish AWL||inform (organize knowledge)||||||||||||||||||||inform |to give knowledge, or facts or news
+form/in.aj.|• informaje||||information (organized knowledge)|||||||||||||||||||||
 France|France|lande|FR||France|||Francia|||||||||||||Francio|Ranska|Francja|||
 France Giana|France Giana|lande|GF||French Guiana|||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska|||
 france krepe|france krepe|yame|||crepe||crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)|||
@@ -533,13 +539,18 @@ I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|||
 idea|idea||BGE Globish|eng:spa:idea, fra:idée, deu:Idee, por:ideia, rus:идея (ideya), may:ide, jpn:アイデア (aidea), kor:아이디어 (aidieo), vie:ý định|idea (concept)|Idée (Ahnung)|idée|idea (noción, concepto)||идея (мысль)||主意|着想 (主意, アイデア)|생각 (아이디어)|||||||ideo|idea (aate, ajatus, mielikuva)|idea (pomysł)||idea |a thought
 ideal|ideal||||ideal (conceptual)|ideell|idéal|ideal|ideal|идеальный|||||||||||idea|ideaalinen (ajatuksellinen)||||
 idealisme|idealisme||||idealism||idéalisme|idealismo|idealismo|идеализм||||||||||||idealismi||||
+ident.|idente||||the same|||||||||||||||||||||
+ident.if.|• identife||Globish AWL||identify||||||||||||||||||||identify |to establish the identity of
+ident.ik.|• identike||AWL||identical  |||||||||||||||||||||
+ident.it.|• identite||||identity|||||||||||||||||||||
 if|if||NSM  Globish|eng:if|if|wenn|si|si|se (caso)|если||如果 (要是)|もし...||nếu|अगर (यदि)|যদি|jika (kalau)|ikiwa|eğer|se|jos|jeśli|||used to express a condition
 if no|if no||Globish||unless||||||||||||||||||||unless |if not, if it were not that
-impere|impere||||reign (rule as an emperor)|||reinar (reinar como emperador)||||||||||||||hallita yksinvaltaisesti|władać, panować, rządzić jako imperator|||
-imperer|imperer||||emperor||empereur|emperador|imperador|император||皇帝 (帝王)|皇帝|황제|hoàng đế|सम्राट|সম্রাট|kaisar (maharaja)|kaisari|imparator|imperiestro|keisari|imperator|||
-imperialisme|imperialisme||||imperialism|||imperialismo||||||||||||||imperialismi|imperializm|||
-imperialiste|imperialiste||||imperialist|||imperialista||||||||||||||imperialisti|imperialista|||
-imperie|imperie|||eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk|empire||empire|imperio|império|империя|إمبراطورية|帝国|帝国|제국|đế quốc|साम्राज्य|সাম্রাজ্য|kekaisaran||imperatorluk|imperio|keisarikunta|imperium|||
+imper.|impere||||reign (rule as an emperor)|||reinar (reinar como emperador)||||||||||||||hallita yksinvaltaisesti|władać, panować, rządzić jako imperator|||
+imper.er|• imperer||||emperor||empereur|emperador|imperador|император||皇帝 (帝王)|皇帝|황제|hoàng đế|सम्राट|সম্রাট|kaisar (maharaja)|kaisari|imparator|imperiestro|keisari|imperator|||
+imper.ia|• imperia|||eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk|empire||empire|imperio|império|империя|إمبراطورية|帝国|帝国|제국|đế quốc|साम्राज्य|সাম্রাজ্য|kekaisaran||imperatorluk|imperio|keisarikunta|imperium|||
+imper.ia.al.|• imperial||BEIW RadCom||Imperial|||||||||||||||||||||
+imper.ia.al.ism.|• imperialisme||||imperialism|||imperialismo||||||||||||||imperialismi|imperializm|||
+imper.ia.al.ist.|• imperialiste||||imperialist|||imperialista||||||||||||||imperialisti|imperialista|||
 in sam tem|in sam tem||Globish||at the same time (while)||||||||||||||||samtempe|samaan aikaan (sillä välin)|||while|1° at the same time that
 in.|in|prep.|Globish|eng:deu:ita:in, fra:spa:en|in||en (dans)|en|em||||||||||||en|sisässä (-ssa)|||in |to or toward the inside of
 in.tr.al|• intral||AWL||internal (intrinsic)|||||||||||||||||||||
@@ -550,6 +561,11 @@ infektion|infektion||Globish|eng:fra:infection, deu:Infektion, spa:infección, p
 injen.er|injener||Simplish|eng:engineer, deu:fra;ingenieur, spa:ingeniero, por:engenheiro, rus:инженер, jpn:エンジニア (enjinia), hin:इंजीनियर (iñjīniyar), may:insinyur|engineer|Ingenieur|ingenieur|ingeniero|engenheiro|инженер|مهندس‎|工程师 (技师)|技師 (エンジニア)|기사|kĩ sư|इंजीनियर|প্রকৌশলী|insinyur|muhandisi|mühendis|inĝeniero|insinööri|inżynier|||
 injen/ie|injenie||||engineering|||||||||||||||||||||
 insete|insete||BGE Globish|por:inseto, fra:insecte, eng:insect, spa:insecto|insect||insecte|insecto|inseto|насекомое||昆虫|昆虫|곤충|sâu bọ (côn trùng)|कीड़ा||serangga|mdudu|böcek|insekto|hyönteinen (ötökkä)|owad||insect |a very small animal with six legs
+intelig.|intelige||Globish AWL Simplish||intelligence (intellect)||intelligence|inteligencia (intelecto)|inteligência (intelecto)|интеллект|||知性|||||||||äly|||intelligence|1° the ability to get and use knowledge 2° secret information
+intelig.abl.|• inteligable||||intelligible||intelligible|inteligible|inteligível|||||||||||||älyttävä (ymmärrettävä)||||
+intelig.al.|• inteligal||||intellectual||intellectuel|intelectual||||||||||||||älyllinen (intellektuaalinen)||||
+intelig.ent.|• inteligente||Globish||intelligent (smart)|||||||||||||||||älykäs|||smart|intelligent
+intelig.ent.ia|• inteligentia||RadCom||intelligentsia|||||||||||||||||älymystö (intelligentsia)||||
 Internet|Internet|RadCom|||Internet|Internet|Internet|internet|Internet|интернет|||インターネット|||इन्टरनेट|||intaneti|İnternet|Interreto|Internet|internet|||
 interwebe|interwebe||||internet|Internet|Internet|internet|Internet|интернет|||ウェブ (ネット)|||अंतरजाल|||intaneti|İnternet|Interreto|internet (webbi)|internet|||
 Io|Io|planete 5 lune 1|||Io|Io||||||||||||||||||||
@@ -576,6 +592,7 @@ jangle|jangle|||eng:jungle, deu:Dschungel, rus: джунгли (dzhungli), por:j
 januari|januari|mes|FF BGE |eng:January, may:swa:Januari, fra:janvier, por:janeiro, ara:(yanāyir), hin:जनवरी (janvarī), ben:জানুয়ারী (januyari), rus:январь (yanvar’)|January||janvier|enero|janeiro|январь|يناير|一 月 ||||जनवरी|জানুয়ারী|Januari|Januari|Ocak|januaro|tammikuu||||
 jawabe|jawabe||BGE Globish|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|answer (reply, response)|Antwort|réponse|repuesta (contestación)|resposta|ответ|جواب‎|回答 (答覆)|答え (解答)|대답|trả lời|जवाब (उत्तर, अनुक्रिया)||jawab|jibu (jawabu)|cevap|respondo|vastaus|odpowiedź, odzew||answer |words in return to a question
 Jayer|Jayer|lande|DZ||Algeria|||Argelia||||||||||||||Algeria|Algieria|||
+jaz.|jaze||BEIW||jazz|||||||||||||||||||||
 jense|jense||FF Globish AWL|ara:urd:جنس (jins), fas:جنس (jens), tus:cins, eng:genus,gender|sex (gender)||||||جنس||||||||||||||sex|either of the two divisions: male or female
 Jersi|Jersi|lande|JE||Jersey|||Jersey||||||||||||||Jersey|Jersey|||
 jet.|jete||FF Globish||throw (cast)||||||||||||||||||||throw|send through the air by a movement of the arm
@@ -598,16 +615,16 @@ jun.ior mid. skol.|junior mide skole||||junior high school||||||||中学校|||||
 june|june|mes|FF BGE |eng:June, fra:juin, spa:junio, por:junho, hin:जून (jūn), ara:(yūnyu)|June||juin|junio|junho|июнь|ونيه|六 月 ||||जून|জুন|Juni|Juni|Haziran|junio|kesäkuu||||
 Jungo|Jungo|lande|CN||China||Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny|||
 Juno|Juno|mini planete A2|||Juno (dwarf planet)|||||||||||||||||||||
+junt.|junte||Globish|eng:joint, fra:jonction, spa:por:junta, deu:junktion|joint (join)|||||||||||||||||liitos (nivel)|||join |a point at which two things are joined
 junt. lex.|junte lexe||||conjunction|Konjunktion (Bindewort)|conjonction|conjunción|conjunção|||连接词|接続詞|||||kata penghubung||||konjunktio (sidesana)||||
-junt.e|junte||Globish|eng:joint, fra:jonction, spa:por:junta, deu:junktion|joint (join)|||||||||||||||||liitos (nivel)|||join |a point at which two things are joined
-junt.e (of oste)|junte (of oste)||||joint (connection of bones)||articulation (jointure)|articulación|articulação (junta)|сустав|مفصل‎|关节|関節|관절|khớp|संधि||sendi||eklem (mafsal)|artiko|nivel (luiden liitoskohta)|staw|||
-junt.ion|juntion||||junction||jonction||junção|соединение||||||||||||liittäminen||||
-junt.ur.e|junture||||juncture (junction, intersection)|||juntura|juntura||||||||জংশন|||||risteys (liittymä)||||
+junt.ion|• juntion||||junction||jonction||junção|соединение||||||||||||liittäminen||||
+junt.ur.e|• junture||||juncture (junction, intersection)|||juntura|juntura||||||||জংশন|||||risteys (liittymä)||||
+junte (of oste)|junte (of oste)||||joint (connection of bones)||articulation (jointure)|articulación|articulação (junta)|сустав|مفصل‎|关节|関節|관절|khớp|संधि||sendi||eklem (mafsal)|artiko|nivel (luiden liitoskohta)|staw|||
 jus|jus||FF BGE |eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|juice||jus|jugo (zumo)|suco (sumo)|сок|عَصِير‎|汁|ジュース|즙 (스)|dịch|रस|রস|jus|jusi|šire|suko|mehu|sok|||
-just.e|juste||BGE Globish|eng:just, fra:juste, spa:por:justo|right (just, fair)||juste|justo|justo|||正义的 (公正的)|公正な (公平な)|공정하다|ông bằng|उचित||adil||adil|justa|oikea (oikeudenmukainen)|||fair |free from self-interest
-just.e pley|juste pley||||fair play|Fairplay|fair-play (franc-jeu)|juego limpio|jogo limpo (fair play)||||フェアプレー|||||||||reilu peli||||
-just.it.e|justite||||justice (fairness)|Gerechtigkeit|justice|justeza (justedad)|justeza|справедливость|عدل‎|正义|正義|정의||न्याय|আদালত|keadilan||adalet|justeco|oikeudenmukaisuus (reiluus)|sprawiedliwość|||
-just.it/ia|justitia||FF BGE Globish|eng:fra:justice, deu:Justiz, spa:justicia, por:justiça, rus:юстиция (yusticiya)|court (justice)|Justiz|justice|justicia|justiça|правосудие (юстиция)||法官|法官|법관||||||||oikeus (oikeustalo)|||court|a place where justice is given
+just.|juste||BGE Globish|eng:just, fra:juste, spa:por:justo|right (just, fair)||juste|justo|justo|||正义的 (公正的)|公正な (公平な)|공정하다|ông bằng|उचित||adil||adil|justa|oikea (oikeudenmukainen)|||fair |free from self-interest
+just.it.e|• justite||||justice (fairness)|Gerechtigkeit|justice|justeza (justedad)|justeza|справедливость|عدل‎|正义|正義|정의||न्याय|আদালত|keadilan||adalet|justeco|oikeudenmukaisuus (reiluus)|sprawiedliwość|||
+just.it/ia|• justitia||FF BGE Globish|eng:fra:justice, deu:Justiz, spa:justicia, por:justiça, rus:юстиция (yusticiya)|court (justice)|Justiz|justice|justicia|justiça|правосудие (юстиция)||法官|法官|법관||||||||oikeus (oikeustalo)|||court|a place where justice is given
+juste pley|juste pley||||fair play|Fairplay|fair-play (franc-jeu)|juego limpio|jogo limpo (fair play)||||フェアプレー|||||||||reilu peli||||
 K|K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|||
 Kabu Verde|Kabu Verde|lande|CV||Cabo Verde (Cape Verde)|||Cabo Verde||||||||||||||Cabo Verde|Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)|||
 kadmium|kadmium|mate|Cd||cadmium|||cadmio|||||||||||||kadmio|kadmium|kadm|||
@@ -635,7 +652,7 @@ kap/ex.ism.|• exkapisme||||escapism|Eskapismus|escapisme|escapismo|escapismo|�
 kar|kar||FF BGE Globish|eng:car, por:spa:carro, deu:Karre, hin:गाड़ी (gāṛī), swa:gari, tel:(kāru)|car (cart, carriage, wagon, automobile)|Karre (Auto)||coche (carruaje, auto, vagón)|||||||||||||aŭto (ĉaro)|kärry (vaunu, auto, jne)|wóz, wózek||car|automobile
 karakte|karakte||Globish|eng:deu:character, fra:caractère, spa:por:carácter, rus:характер (kharakter), may:tur:karakter, jpn:キャラクター (kyarakutā), kor:캐릭터 (kaerikteo)|character (demeanor, temper)|Character|caractère|carácter|caráter|характер||||||||karakter||karakter||luonne (temperamentti)|||character|combination of qualities of a person
 karbone|karbone|mate|C||carbon|||carbón|||||||||||||karbono|hiili|węgiel|||
-karde|karde||FF BGE Globish|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), zho:卡 (kǎ), jpn:カード (kādo), swa:kadi, may:kartu|card|Kart|carte|tarjeta (carta)|carta|карта||牌|カルタ|||ताश||kartu|karata||karto|kortti|karta||card |a small flat piece of thin cardboard
+kard.|karde||FF BGE Globish|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), zho:卡 (kǎ), jpn:カード (kādo), swa:kadi, may:kartu|card|Kart|carte|tarjeta (carta)|carta|карта||牌|カルタ|||ताश||kartu|karata||karto|kortti|karta||card |a small flat piece of thin cardboard
 Kartvelia|Kartvelia|lande|GE||Georgia (Republic of Georgia)|||Georgia (República de Georgia)||||||||||||||Georgia|Gruzja (Republika Gruzji)|||
 karwi|karwi|masala||ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|caraway|Kümmel|carvi|carvis (alcaravea)|alcaravia (cariz)|тмин|كرويا|葛缕子||||||jintan|||karvio|kumina|kminek|||
 kashe|kashe|||eng:cash register, deu:Kasse, fra:caisse, spa:caja, por:caixa, rus:касса (kassa), tur:kasa|cash register (till)|Kasse|caisse|caja|caixa|касса||||||||||kasa||kassa||||
@@ -704,18 +721,19 @@ konsumion|konsumion||Globish||consumption|Konsum|consommation|consumo|consumo|п
 konsumisme (konsumerisme)|konsumisme (konsumerisme)||||consumerism||consumérisme|consumismo|consumismo|||消费主义||||||||||konsumerismi||||
 kontate|kontate||Globish AWL||contact|Kontakt|contact|contacto|contato|контакт||||||||||||kosketus (kontakti)|kontakt||contact|when surfaces, points, or people join
 kontinent.|kontinente||Globish||continent||||||||||||||||||||continent|one of the main land parts of the earth
-kontinent/inter.al|interkontinental||||intercontinental|||||||||||||||||||||
+kontinent/inter.al|• interkontinental||||intercontinental|||||||||||||||||||||
 kontinu|kontinu||BGE Globish||continue (keep on doing)|||||||||||||||||jatkaa|||continue |to keep up
-kontinu/it.e|kontinuite||||continuity|||||||||||||||||jatkuvuus||||
+kontinu.it.|• kontinuite||||continuity|||||||||||||||||jatkuvuus||||
 kontr/in.|inkontre||AWL||encounter |||||||||||||||||||||
 kontrole|kontrole||Globish|eng:control, deu:kontrollieren, fra:contrôler, spa:por:controlar, rus:контролировать (kontrolirovat’)|check (control, examine, inspect, verify)|kontrollieren|contrôler|controlar|controlar|контролировать||||||||||||tarkastaa (tarkistaa, varmistaa)|||control|to exercise authoritative power over
 kopernikium|kopernikium|mate|Cn||copernicium|||copérnico|||||||||||||kopernicio|kopernikium|kopernik|||
-koraje|koraje|||eng:fra:courage, spa:coraje, por:coragem|guts (courageᶠ)|||||||||||||||||sisu||||
-kore|kore||AWL|eng:core, fra:cœur, spa:corazón|core (kernel, nucleus)||noyau (cœur)|||||||||||||||||||
+kor.|kore||AWL|eng:core, fra:cœur, spa:corazón|core (’heart’, kernel, nucleus)||noyau (cœur)|||||||||||||||||||
+kor.aj.|• koraje|||eng:fra:courage, spa:coraje, por:coragem|guts (courageᶠ)|||||||||||||||||sisu||||
+kor.aj.iv.|• korajive||AWL||encouraging (incentive)|||||||||||||||||||||
 korone|korone|||fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|crown||couronne|corona|coroa|корона|||||||||||krono|kruunu|korona|||
 korone virus|korone virus||||corona virus||||||||||||||||krunviruso|koronavirus||||
-kosmal|kosmal||||cosmic|kosmisch|cosmique|cósmico|cósmico|косми́ческий||||||||||kozmik|kosma|kosminen (avaruus-)|kosmiczny|||
-kosme|kosme||Globish|eng:fra:spa:cosmos, por:cosmo, deu:may:kosmos, rus:космос (kosmos), tur:kozmos|space (cosmos)|Weltraum (Kosmos)|espace (cosmos)|espacio (cosmos)|espaço (cosmo)|космос|فضاء|太空|宇宙|우주|không gian|अंतरिक्ष||kosmos (antariksa, angkasa)|nafasi|kozmos|kosmo|avaruus (kosmos)|kosmos||space|the area in which all things exist
+kosm.|kosme||Globish|eng:fra:spa:cosmos, por:cosmo, deu:may:kosmos, rus:космос (kosmos), tur:kozmos|space (cosmos)|Weltraum (Kosmos)|espace (cosmos)|espacio (cosmos)|espaço (cosmo)|космос|فضاء|太空|宇宙|우주|không gian|अंतरिक्ष||kosmos (antariksa, angkasa)|nafasi|kozmos|kosmo|avaruus (kosmos)|kosmos||space|the area in which all things exist
+kosm.al.|• kosmal||||cosmic|kosmisch|cosmique|cósmico|cósmico|косми́ческий||||||||||kozmik|kosma|kosminen (avaruus-)|kosmiczny|||
 kosmenaute|kosmenaute||||cosmonaut|Kosmonaut|cosmonaute|cosmonauta|cosmonauta|космонавт||太空人|宇宙飛行士|우주비행사||||kosmonaut||kozmonot|kosmonaūto|kosmonautti (avaruusmatkaaja)|kosmonauta|||
 Kosovo|Kosovo|lande|KV||Kosovo|||Kosovo||||||||||||||Kosovo|Kosowo|||
 Kosta Rika|Kosta Rika|lande|CR||Costa Rica|||Costa Rica||||||||||||||Costa Rica|Kostaryka|||
@@ -726,6 +744,9 @@ kotrate|kotrate||||pact (contract, covenant, alliance)||convention (alliance, pa
 kotribu|kotribu||AWL||contribute||contribuer|contribuir|contribuir|||||||||||||myötävaikuttaa||||
 kovr.|kovre||Globish|eng:cover, fra:couvrir, por:cobrir, spa:cubrir|cover (conceal)||couvrir|cubrir|cobrir (acobertar)|||||||ढकना|ঢাকা||||kovri|peittää||||
 kovr/de.|• dekovre||Globish AWL|fra:découvrir, por:descobrir, spa:descubrir, eng:discover|discover (detect)|erleben|découvrir|descubrir|descobrir|раскрывать||暴露||발견하다|||||||malkovri|paljastaa|||discover |to arrive at through search and study
+kred.|krede||BGE Globish||believe (trust, credit)||||||||||||||||||||believe|to accept as true or real
+kred/an.abl.|• ankredable||||incredible (unbelievable)|||||||||||||||||||||
+krede karde|krede karde||||credit card|Kreditkarte|carte de crédit|tarjeta de crédito|cartão de crédito|кредитная карточка||信用卡|クレジットカード|신용 카드|thẻ tín dụng|क्रेडिट कार्ड|ক্রেডিট কার্ড|kartu kredit||kredi kartı|kreditkarto|luottokortti|karta kredytowa|||
 kreme|kreme||BGE |fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|cream|Sahne|crème|crema|crème||||クリーム||||||||kremo|kerma|krem|||
 krepe|krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake||crêpe|panqueque (crepa)|crepe (panqueca)|блин||薄烤饼|パンケーキ|팬케이크||||||krep|krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik|||
 kreperie|kreperie||||crêperie||crêperie||||||||||||||krepejo|kreppikoju|naleśnikarnia|||
@@ -886,6 +907,9 @@ men.|mene|||eng:mean, deu:meinen, dan;nor:mene, sve:mena + ara:(maʿnā), hin:�
 men. of liv.|• da mene of live||||the meaning of life|Sinn des Lebens|sens de la vie|sentido de la vida|sentido da vida|смысл жи́зни|مَعْنَى اَلْحَيَاة‎|人生的真谛|人生の意義|인생의 의미||||||hayatın anlamı||elämän tarkoitus||||
 meninge|meninge|organ||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)||méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa|||
 meningitis|meningitis||||meningitis|||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych|||
+ment.|mente||BGE Globish|eng:mind, spa:por:mente, hin:मन (man), ben:মন (môn)|mind (ability for consciousness, perception and thinking)|||||||||||||||||||||
+ment.al.|• mental||Globish AWL||mental||||||||||||||||||||mental |having to do with the mind
+ment/de.|• demente||||demented (out of one’s mind)|||||||||||||||||||||
 menu|menu|||eng:fra:por:menu, spa:menú, rus:меню (menyu), jpn:メニュー (menyū), kor:메뉴 (menyu), hin:मेनू (menū), tur:menü|menu|Speisekarte|menu (carte)|menú (carta)|cardápio (menu)|меню||菜单|メニュー|메뉴||मेनू||||menü||ruokalista||||
 Merkur|Merkur|planete 1|||Mercury|Merkur|Mercure|Mercurio|Mercúrio|Меркурий|عطارد|||||||||Merkür|Merkuro|Merkurius|Merkury|||
 merkurdi|merkurdi|wike dey 3|FF BGE ||Wednesday|Mittwoch|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merkredo|keskiviikko|środa|||
@@ -1204,6 +1228,8 @@ Ramazan|Ramazan|mes|||Ramadan||ramadan|Ramadán|Ramadǎo|рамадан (рам�
 ras.|rase||FF  |eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|race (ethnicity, breed)|Rasse|race|raza|raça|раса||种族|人種|인종|chủng tộc|वंश (जाति)||bangsa (ras)||ırk|raco|rotu|rasa|||
 ras.ism.|rasisme||||racism|||racismo|||||||||||||racismo|rasismi (rotuoppi)|rasizm|||
 ras.ist.|rasiste||||racist|||racista|||||||||||||racisto|rasisti|rasista|||
+razon.|razon||BGE ||reason (judgement)|||||||||||||||||||||
+razon.al.|• razonal||AWL||rational |||||||||||||||||||||
 Rea|Rea|planete 6 lune 5|||Rhea|Rhea||||||||||||||||||||
 red.|rede|kolor|FF BGE Globish||red||||||||||||||||||||red|the color of blood
 reflete|reflete|||eng:reflect, deu:reflektieren, fra:refléter, por:refletir|reflect (bend back)|reflektieren|refléter|reflejar|refletir|отражать||||||||||||heijastaa takaisin||||
@@ -1268,6 +1294,7 @@ san.|sane||FF BGE |spa:sano, fra:sain, eng:sane, por:são, rus:санитарн�
 san.al|• sanal (sanital)||||sanitary (pertaining to health)||sanitair|sanitario||санитарный|||||||||||saneca|terveydellinen (saniteetti-)||||
 san.if.|• sanife||Globish||heal|heilen|assainir (guérir)|sanar (curar)|sanar (curar)|лечить||医治|||||||||sanigi|parantaa (tervehdyttää)|||heal |to bring back to health
 san.it.|• sanite||Globish||health (sanity)||santé|salud (sanidad)|saúde|||健康|健康|||||||sağlık (sıhhat)|saneco|terveys|zdrowie||health |general condition of body and mind
+san/an.|• ansane||Globish||unhealthy (insane)||||||||||||||||||||insane |person with mental disorder
 sanduke|sanduke|||ara:صُنْدُوق‎ (ṣundūq), rus:сундук (sunduk), hin:सन्दूक़ (sandūq), ben:সিন্দুক (sinduk), tur:sandık, swa:sanduku, hau:sunduƙi, fas:urd:صندوق‎ (sanduq)|chest (trunk, coffer)|Kiste|coffre|cofre (baúl)|baú|сундук||箱子||||सन्दूक़|সিন্দুক|peti|sanduku|sandık|kofro (kesto)|arkku|kufer|||
 sant.|sante||Globish|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng), rus:святой (svyatoy)|holy (sacred, saint)||saint (sacré)|sagrado (santo)|santo (sagrado, sacro)|святой|مقدس|神圣|神聖|거룩한 (신성한)|thánh|पवित्र||kudus (keramat)||kutsal|sankta|pyhä|święty||holy |belonging to or coming from God
 Sant. Helena|Sante Helena|lande|SH||Saint Helena|||Isla Santa Elena||||||||||||||Saint Helena|Święta Helena|||
@@ -1282,6 +1309,7 @@ Saturne|Saturne|planete 6|||Saturn|Saturn|Saturne|Saturno|Saturno|Сатурн|�
 Saudi Arabia|Saudi Arabia|lande|SA||Saudi Arabia|||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska|||
 sav.|save|||eng:savvy, fra:savoir, spa:por:saber, pcm:sabi|savvy (understand, know how)|||||||||||||||||||||
 seaborgium|seaborgium|mate|Sg||seaborgium|||seaborgio|||||||||||||seborgio||seaborg|||
+sekur.ant.i.|• sekurantie||Globish||insurance||assurance|seguro|seguro|||||||||asuransi||sigorta||vakuutus|||insurance|protection against future damage or loss
 selenium|selenium|mate|Se||selenium|||selenio|||||||||||||seleno|seleeni|selen|||
 sem.|seme||||meaning (referent of a word, expression or symbol)|||||||||||||||||merkitys (tarkoite)||||
 sem.|seme|||||bedeuten (meinen)|signifier (voiloir dire)|significar (querer decir)|significar (querer dizer)||||||||||||signifi|merkitä (tarkoittaa)|znaczyć|||
@@ -1790,13 +1818,11 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||NSM  Globish||because||||||||||||||||||||because|for the reason that
 |||BGE Globish||become||||||||||||||||||||become |to grow or come to be
 |||FF  ||bedroom|||||||||||||||||||||
-|||BEIW||beef|||||||||||||||||||||
-|||FF  ||beef|||||||||||||||||||||
+|||BEIW FF||beef|||||||||||||||||||||
 |||NSM  Globish||before||||||||||||||||||||before |earlier
 |||BGE Globish||begin||||||||||||||||||||begin|to do the first step of an action
 |||AWL||behalf |||||||||||||||||||||
 |||Globish||behind||||||||||||||||||||behind |at the back
-|||BGE Globish||believe||||||||||||||||||||believe|to accept as true or real
 |||Globish||bell||||||||||||||||||||bell |an object that made a warning sound when struck
 |||Globish||belong||||||||||||||||||||belong |to be the property of
 |||NSM  Globish||below (under)||||||||||||||||||||below|in or to a lower place
@@ -1805,7 +1831,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||benefit |||||||||||||||||||||
 |||RadCom||benzyl/benzol|||||||||||||||||||||
 |||Globish||beside||||||||||||||||||||beside |at the side of
-|||Globish||best||||||||||||||||||||best |most excellent
 |||Globish||betray||||||||||||||||||||betray |to be disloyal
 |||Globish||between||||||||||||||||||||between|in the space or time separating
 |||FF  ||beverage|||||||||||||||||||||
@@ -2481,21 +2506,15 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF BGE Globish||husband||||||||||||||||||||husband|a married man
 |||RadCom||hyacinth|||||||||||||||||||||
 |||BEIW||hyena|||||||||||||||||||||
-|||BEIW||hygiene|||||||||||||||||||||
-|||Simplish||hygiene|||||||||||||||||||||
+|||BEIW Simplish||hygiene|||||||||||||||||||||
 |||AWL||hypothesis|||||||||||||||||||||
 |||BEIW||hysteria|||||||||||||||||||||
 |||FF BGE Globish||ice||||||||||||||||||||ice|frozen water
-|||AWL||identical  |||||||||||||||||||||
-|||AWL||identify|||||||||||||||||||||
-|||Globish||identify||||||||||||||||||||identify |to establish the identity of
 |||AWL||ignorance |||||||||||||||||||||
 |||BGE Globish||ill||||||||||||||||||||ill|not well, having some disease
 |||AWL||illustrate|||||||||||||||||||||
 |||FF AWL||image|||||||||||||||||||||
 |||Globish||imagine||||||||||||||||||||imagine|to picture in one's head
-|||BEIW||Imperial|||||||||||||||||||||
-|||RadCom||imperial|||||||||||||||||||||
 |||AWL||implement|||||||||||||||||||||
 |||AWL||implicate|||||||||||||||||||||
 |||AWL||implicit |||||||||||||||||||||
@@ -2504,7 +2523,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||important||||||||||||||||||||important|meaning much
 |||RadCom||impromptu|||||||||||||||||||||
 |||Globish||improve||||||||||||||||||||improve|to make or become better
-|||AWL||incentive |||||||||||||||||||||
 |||FF Globish||inch||||||||||||||||||||inch |a unit of length
 |||AWL||incidence  |||||||||||||||||||||
 |||Globish||incident||||||||||||||||||||incident |a single event
@@ -2519,10 +2537,7 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||inevitable |||||||||||||||||||||
 |||AWL||infer |||||||||||||||||||||
 |||BEIW||inferno|||||||||||||||||||||
-|||BEIW||influenza|||||||||||||||||||||
-|||Simplish||influenza|||||||||||||||||||||
-|||Globish||inform||||||||||||||||||||inform |to give knowledge, or facts or news
-|||Globish AWL||inform (brief)||||||||||||||||||||brief|to inform
+|||BEIW Simplish||influenza|||||||||||||||||||||
 |||Simplish||informatics|||||||||||||||||||||
 |||AWL||inherent |||||||||||||||||||||
 |||AWL||inhibit |||||||||||||||||||||
@@ -2530,7 +2545,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF  ||injury|||||||||||||||||||||
 |||Globish||innocent||||||||||||||||||||innocent |free from wrong doing
 |||AWL||innovate|||||||||||||||||||||
-|||Globish||insane||||||||||||||||||||insane |person with mental disorder
 |||AWL||insert |||||||||||||||||||||
 ||prep.|NSM FF  ||inside|||||||||||||||||||||
 |||AWL||insight |||||||||||||||||||||
@@ -2539,18 +2553,11 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||institute |||||||||||||||||||||
 |||FF  ||instrument (musical)|||||||||||||||||||||
 |||Globish||insult*||||||||||||||||||||insult*|an offensive remark
-|||Globish||insurance||||||||||||||||||||insurance|protection against future damage or loss
 |||AWL||integral |||||||||||||||||||||
 |||AWL||integrate|||||||||||||||||||||
 |||AWL||integrity |||||||||||||||||||||
-|||Globish||intelligence||||||||||||||||||||intelligence|1° the ability to get and use knowledge 2° secret information
-|||Simplish||intelligence|||||||||||||||||||||
-|||AWL||intelligence |||||||||||||||||||||
-|||RadCom||intelligentsia|||||||||||||||||||||
-|||Globish||intense||||||||||||||||||||intense|being of a very high degree
-|||AWL||intense |||||||||||||||||||||
-|||RadCom||interest|||||||||||||||||||||
-|||BGE Globish||interest (involvement)|||||||||||||||||||||a feeling of wanting to know
+|||Globish AWL||intense||||||||||||||||||||intense|being of a very high degree
+|||BGE Globish RadCom||interest (involvement)|||||||||||||||||||||a feeling of wanting to know
 |||BGE ||interest (money to be paid)|||||||||||||||||||||
 |||Globish||interfere||||||||||||||||||||interfere|to come between so as to be in the way
 |||AWL||intermediate |||||||||||||||||||||
@@ -2572,7 +2579,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish AWL||item||||||||||||||||||||item |a single unit
 |||Globish||jail||||||||||||||||||||jail |a prison 
 |||BEIW||January|||||||||||||||||||||
-|||BEIW||jazz|||||||||||||||||||||
 |||Simplish||jeans|||||||||||||||||||||
 |||Globish||jewel||||||||||||||||||||jewel|a valuable stone
 |||BGE Globish||joke||||||||||||||||||||joke |a fun story
@@ -2582,7 +2588,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF BGE Globish||jump||||||||||||||||||||jump |to move forward by a long and high step
 |||BEIW||June|||||||||||||||||||||
 |||Globish||jury||||||||||||||||||||jury |a group of persons chosen to judge
-|||BGE Globish||just (fair)|||||||||||||||||||||honorable and fair
 |||BGE ||just (only)|||||||||||||||||||||
 |||BGE ||just (recently)|||||||||||||||||||||
 |||AWL||justify|||||||||||||||||||||
@@ -2731,7 +2736,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF  ||melt (verb)|||||||||||||||||||||
 |||Globish||member||||||||||||||||||||member |one of the persons or things that make up a group
 |||RadCom||memo|||||||||||||||||||||
-|||Globish AWL||mental||||||||||||||||||||mental |having to do with the mind
 |||RadCom||menthol|||||||||||||||||||||
 |||Globish||mercy||||||||||||||||||||mercy|more kindness than justice requires
 |||BEIW||meter/metre|||||||||||||||||||||
@@ -2744,7 +2748,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||milli-|||||||||||||||||||||
 |||BEIW||million|||||||||||||||||||||
 |||Globish||mind (pay attention)||||||||||||||||||||mind |to pay close attention to
-|||BGE Globish||mind (reason)|||||||||||||||||||||
 |||||mine (bomb)|||||||||||||||||||||
 |||Globish||mine (quarry)||||||||||||||||||||mine |
 |||RadCom||minimum|||||||||||||||||||||
@@ -3105,7 +3108,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||rate||||||||||||||||||||rate |a quantity, amount in relation to something else
 |||BGE Globish||rather (somewhat)||||||||||||||||||||rather |somewhat 
 |||AWL||ratio |||||||||||||||||||||
-|||AWL||rational |||||||||||||||||||||
 |||BGE Globish||reach (get to)||||||||||||||||||||reach|to get to, to come to
 |||BGE ||reach (grab)|||||||||||||||||||||
 |||BGE Globish||ready||||||||||||||||||||ready|set for immediate action
@@ -3113,7 +3115,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||RadCom||realism|||||||||||||||||||||
 |||BGE Globish||reason (cause)||||||||||||||||||||cause|a reason 
 |||BGE ||reason (explanation)|||||||||||||||||||||
-|||BGE ||reason (judgement)|||||||||||||||||||||
 |||Globish||recognize||||||||||||||||||||recognize|to identify from past experience
 |||Globish||record*||||||||||||||||||||record*|1° written account 2° set down in permanent form
 |||Globish||recover||||||||||||||||||||recover|1° to get back 2° to find a former condition
@@ -3338,7 +3339,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||slide||||||||||||||||||||slide|to move slowly along a surface while touching
 |||Globish||slip||||||||||||||||||||slip |to slide 
 |||FF BGE Globish||slow||||||||||||||||||||slow |not moving quickly
-|||Globish||smart (intelligent)||||||||||||||||||||smart|intelligent
 |||Globish||smash||||||||||||||||||||smash|to break into pieces
 |||FF BGE Globish||smell (sense smell)||||||||||||||||||||smell|what the nose does
 |||FF BGE Globish||smile||||||||||||||||||||smile|to look pleased

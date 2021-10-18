@@ -142,7 +142,7 @@ bio.loj.i.|biolojie||BEIW||biology (study of organic life)||biologie|biología|b
 bir|bir||FF Globish|eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|beer|Bier|bière|cerveza (birra)|cerveja|пиво|بيرة|啤酒|ビール|||बियर||bir|bia||biero|olut (kalja)|piwo||beer |a drink which is dangerous for self-control
 Bisau Ginea|Bisau Ginea|lande|GW||Guinea-Bissau|||Guinea-Bisáu||||||||||||||Guinea-Bissau|Guinea Bissau|||
 bismute|bismute|mate|Bi||bismuth|||bismuto|||||||||||||bismuto|vismutti|bizmut|||
-blake|blake|kolor|FF BGE Globish||black|schwartz|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny||black|opposite to white
+blak.|blake|kolor|FF BGE Globish||black|schwartz|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny||black|opposite to white
 bloge (webe loge)|bloge (webe loge)|||eng:deu:fra:spa:por:may:tur:pol:blog, rus:блог (blog), zho:博客 (bókè), jpn:ブログ (burogu), kor:블로그 (beullogeu), hin:ब्लॉग (blŏg), ben:ব্লগ (blôg)|blog (weblog)|Blog|blog|blog|blog|блог||博客|ブログ|블로그|nhật ký web|ब्लॉग|ব্লগ|blog||blog|blogo|blogi (nettikolumni)|blog|||
 blu|blu|kolor|FF BGE Globish|eng:blue, deu:blau, fra:bleu, swa:buluu|blue|blau|bleu|azul|azur|синий (голубой)|أَزْرَق|蓝色|青い|||नीला|নীল||biru|buluu|blua|sininen|niebieski||blue |a color like that of a clear sky
 bode|bode||NSM FF BGE Globish|eng:body, hin:बदन (badan), ara:fas:urd:(badan), tur:beden.|body||corps|cuerpo|corpo|тело|بَدَن‎|身体|体|||शरीर (बदन)||tubuh (badan)|mwili|beden|korpo|keho (ruumis)|ciało||body |the whole material part of a human being
@@ -167,7 +167,7 @@ Brazavile Kongo|Brazavile Kongo|lande|CG||Congo (Brazzaville)|||República del C
 Brazil|Brazil|lande|BR||Brazil|||Brasil|||||||||||||Brazilo|Brasilia|Brazyla|||
 bromium|bromium|mate|Br||bromine|||bromo|||||||||||||bromo|bromi|brom|||
 brosh.|broshe||Globish|eng:brush, fra:brosse, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, may:berus|brush|Bürste|brosse|cepillo (brocha)||||||||||berus|||broso|harja|szczotka||brush|a tool with hair firmly set into a handle for cleaning
-brun|brun|kolor|FF BGE Globish|eng:brown, deu:braun, fra:brun, ara:(bunniy), hin:भूरा (bhūrā)|brown||brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy||brown|a colour similar to that of dark wood or earth
+brun.|brun|kolor|FF BGE Globish|eng:brown, deu:braun, fra:brun, ara:(bunniy), hin:भूरा (bhūrā)|brown||brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy||brown|a colour similar to that of dark wood or earth
 Brunei|Brunei|lande|BN||Brunei Darussalam|||Brunei||||||||||||||Brunei|Brunei Darussalam|||
 Budapesht|Budapesht|chefe citi|HU||Budapest|||||||||||||||||Budapest||||
 buk.|buke||FF BGE Globish|eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book|Buch|livre|libro|livro|книга||书||||पुस्तक (किताब)||buku (pustaka, kitab)|buku (kitabu)|kitap|libro|kirja|książka||book |printed material with pages between covers
@@ -462,6 +462,8 @@ gow|gow||FF BGE Globish|eng:go, deu:gehen, kor:가다 (gada)|go (move around)|ge
 grac.|grace||BGE Globish||thank||||||||||||||||||||thank|to express and show pleasure afrer receiving a present or help
 grac/kon.|• kongrace||Globish||congratulate (”congrats”)||||||||||||||||||||congratulate|to express pleasure at someone’s success
 Grenada|Grenada|lande|GD||Grenada|||Granada||||||||||||||Grenada|Grenada|||
+grey|grey|kolor|FF BGE Globish||gray (grey)||||||||||||||||||||gray (grey)|
+grin|grin|kolor|FF BGE Globish||green||||||||||||||||||||green|the color of most plants and leaves
 Guadelupe|Guadelupe|lande|GP||Guadeloupe|||Guadalupe||||||||||||||Guadeloupe|Gwadelupa|||
 Guam|Guam|lande|GU||Guam|||Guam||||||||||||||Guam|Guam|||
 Guatemala|Guatemala|lande|GT||Guatemala|||Guatemala|||||||||||||Gvatemalo|Guatemala|Gwatemala|||
@@ -1063,6 +1065,7 @@ opine|opine|||eng:opine, fra:opiner, spa:por:opinar, pol:opiniować|opine (think
 opinion|opinion||BGE Globish|eng:fra:opinion, spa:opinión, por:opinião|opinion (view)|Meinung (Ansicht)|avis (opinion)|opinión|opinião|мнение|||||||||||opinio|mielipide (näkemys)|opinia, pogląd||opinion|a judgment not backed by proof
 or.|or|konj.|Globish|eng:or, fra:por;ou, spa:o, deu:oder|or||ou|o|ou||||||||||||aŭ|tai (vai)|||or |used to give another choice
 oranj.|oranje|frute|FF  |eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)||orange (fruit)|naranja|laranja|апельсин||橙子||||नारंगी||jeruk (oren)||portakal|oranĝo|appelsiini|pomarańcza|||
+oranje kolor|oranje kolor|kolor|||orange (color)|||||||||||||||||oranssi||||
 orig.|orige||BGE ||origin (source)|Ursprung (Quelle)|origine|origen|origem|||||||||||||alkuperä||||
 orig.al|• origal||||original|||||||||||||||||alkuperäinen||||
 orige punt.|orige punte||||origin (zero point in coordinate system)|Ursprung||||||||||||||||origo (nollapiste)||||
@@ -1183,6 +1186,7 @@ proch/a.e|• aproche||AWL||approach (get close, approximate)|nähern|approcher|
 prometium|prometium|mate|Pm||promethium|||prometio|||||||||||||prometio||promet|||
 prospere|prospere||Globish AWL|eng:prosper, fra:prospérer, spa:por:prosperar, rus:преуспеть (preuspet’)|achieve (succeed, prosper)||réussir (avoir du succès, prospérer)|prosperar|prosperar|преуспеть||成功|成功|성공|sự thành công||||||sukcesi|onnistua (menestyä)|||succeed|to achieve an event that reaches its purpose
 protacinium|protacinium|mate|Pa||protactinium|||proactinio|||||||||||||protaktinio|protaktinium|protaktyn|||
+purpur.|purpur|kolor||eng:purple, deu:purpur, fra:pourpre, spa:por:púrpura, rus:пурпурный (purpurnyy)|purple|purpur (lila, violett)|violet (pourpre)|morado (púrpura, lila, violeta)|roxo (púrpura, violeta)|фиолетовый (пурпурный)||紫色|紫|자주색 (보라색)|tía|जामुनी|রক্তবর্ণ|ungu||mor|purpura|sinipunainen (violetti)|fiolet|||
 put.|pute||||put (arrange, set into a certain relation, state or condition)|||||||||||||||||||||
 put/ex.|• expute||AWL||output|||||||||||||||||||||
 put/in.|• inpute||AWL||input |||||||||||||||||||||
@@ -1201,6 +1205,7 @@ ras.|rase||FF  |eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 ras.ism.|rasisme||||racism|||racismo|||||||||||||racismo|rasismi (rotuoppi)|rasizm|||
 ras.ist.|rasiste||||racist|||racista|||||||||||||racisto|rasisti|rasista|||
 Rea|Rea|planete 6 lune 5|||Rhea|Rhea||||||||||||||||||||
+red.|rede|kolor|FF BGE Globish||red||||||||||||||||||||red|the color of blood
 reflete|reflete|||eng:reflect, deu:reflektieren, fra:refléter, por:refletir|reflect (bend back)|reflektieren|refléter|reflejar|refletir|отражать||||||||||||heijastaa takaisin||||
 regule|regule||AWL|eng:regulate, deu:regeln, fra:régler, spa:por:regular, rus:регулировать (regulirovat’)|regulate (adjust, control)|regeln|régler|regular|regular|регулировать||||||||||||säätää (hallita, säädellä)||||
 rekueste|rekueste||BGE ||request (ask)||prier (demander)|pedir (solicitar)|requerer|||||||||||||pyytää (anoa)||||
@@ -1233,6 +1238,7 @@ rot.|rote||Globish|deu:Rad, fra:roue, esp:rueda, por:may:roda, eng:rotate|wheel|
 rot.at.e|• rotate|||eng:rotate, deu:rotieren, fra:rotationner, spa:rotar, por:rodar, may:rotasi, tur:rotasyon|rotate (spin, turn, revolve)|rotieren|tourner (rotationner)|girar|rotar (girar)|вращать||||||||||||pyöriä||||
 rot.at.ion|• rotation||||rotation||rotation|rotación|rotação|вращение||回转|回転|순환||||rotasi (putaran)||rotasyon||pyörähdys (pyörintä)||||
 roze|roze|||eng:deu:fra:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|rose|Rose|rose|rosa|rosa|роза||玫瑰|バラ|장미|hoa hồng|गुलाब|গোলাপ|mawar (ros)|waridi|gül|rozo|ruusu|róża|||
+roze kolor|roze kolor|kolor|FF  ||pink|||||||||||||||||||||
 Ruanda|Ruanda|lande|RW||Rwanda|||Ruanda||||||||||||||Ruanda|Rwanda|||
 rubidium|rubidium|mate|Rb||rubidium|||rubidio|||||||||||||rubidio||rubid|||
 rul.|rule||Globish||roll||||||||||||||||||||roll |turning over and over
@@ -1610,6 +1616,7 @@ win.er|winer||||winner|Gewinner (Sieger)|vainqueur (gagnant)|vencedor (ganador)|
 windo|windo||FF BGE Globish|eng:window, jpn:ウィンドウ (windō)|window||fenêtre|ventana|janela|окно|شباك|窗户|窓 (ウィンドウ)|창 (창문)|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno||window |a wall opening that admits light or air
 winte|winte|n.|FF BGE Globish|deu:eng:winter|winter|Winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima||winter |the coldest of the four season in the North part of the Earth
 wiski|wiski|alkohol|Simplish||whisky (whiskey)|||||||||||||||||viski||||
+wit.|wite|kolor|FF BGE Globish||white||||||||||||||||||||white|the color of snow or salt
 wolfram|wolfram|mate|W||tungsten (wolfram)|||tungsteno (wolframio)||||||||||||||wolframi|wolfram|||
 wori|wori||BGE Globish||worry (anxiety, concern)|Sorge (Angst)|inquiétude (angousse, anxiété, souci)|zozobra (ansietad, preocupación)|preocupação (angústia, ansiedade)|беспокойство (тревога)||担心  (焦虑)|心配||||||||zorgo (ĉagreno, anksio)|huoli (ahdistus)|||worry|to feel uneasy
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|||
@@ -1619,6 +1626,7 @@ yam|yam|onom.|FF BGE Globish|eng:yum, deu:mjam, fra:miam, spa:ñam, por:nham, it
 Yapetus|Yapetus|planete 6 lune 8|||Iapetus|Iapetus||||||||||||||||||||
 yarde|yarde||FF Globish||yard (3 feet)||yard (verge)|yarda|jarda|ярд|||ヤード (碼)|야드 (마)||गज़||||yarda|jardo|jaardi|jard||yard |1° a unit of length (=3 feet) 
 ye|ye||FF BGE Globish|eng:yeah, kor:예 (ye), deu:ja, may:ya|yes (yeah)|ja|oui|sí|sim|да||对 (是)|はい (ええ)|네 (예)||हाँ|বাংলা |ya|ndiyo (ee)|evet|jes|kyllä (joo)|tak||yes|expresses agreement
+yelow.|yelow|kolor|FF BGE Globish||yellow||||||||||||||||||||yellow |the color of gold
 yer|yer|n.|FF BGE Globish|eng:year, deu:Jahr|year|Jahr|année|año|ano|год (лет)||年|年||||||||jaro|vuosi|rok||year |12 months or 365 days
 yer.al|yeral||AWL||annual (yearly)|||||||||||||||||vuosittainen||||
 Yesu|Yesu||||Jesus||Jésus|Jesús|Jesus|Иисус|عيسى|耶稣|イエス|예수|Giêsu|ईसा|যীশু|Yesus (Isa)|Yesu (Isa)|İsa|Jesuo|Jeesus|Jezus|||
@@ -2405,9 +2413,7 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||grant|||||||||||||||||||||
 |||RadCom||graph|||||||||||||||||||||
 |||FF BGE Globish||grass||||||||||||||||||||grass|small green plants with narrow leaves
-|||FF BGE Globish||gray (grey)||||||||||||||||||||gray (grey)|
 |||BGE Globish||great||||||||||||||||||||great|extremely large in size or number or extent
-|||FF BGE Globish||green||||||||||||||||||||green|the color of most plants and leaves
 |||FF BGE Globish||ground||||||||||||||||||||ground |the solid material of the earth's surface
 |||BGE Globish||group||||||||||||||||||||group|a number of individuals or things with similarities
 |||Globish||guarantee||||||||||||||||||||guarantee|to admit responsibility
@@ -2955,7 +2961,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||pilot||||||||||||||||||||pilot|a person trained to operate a plane
 |||RadCom||pince-nez|||||||||||||||||||||
 |||RadCom||ping-pong|||||||||||||||||||||
-|||FF  ||pink|||||||||||||||||||||
 |||Globish||pint||||||||||||||||||||pint |a unit for measuring liquids
 |||Globish||pipe||||||||||||||||||||pipe |a tube through which a liquid or gas flows
 |||RadCom||pistol|||||||||||||||||||||
@@ -3113,7 +3118,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||record*||||||||||||||||||||record*|1° written account 2° set down in permanent form
 |||Globish||recover||||||||||||||||||||recover|1° to get back 2° to find a former condition
 |||AWL||recover |||||||||||||||||||||
-|||FF BGE Globish||red||||||||||||||||||||red|the color of blood
 |||BGE ||refer|||||||||||||||||||||
 |||BEIW||referendum|||||||||||||||||||||
 |||Simplish||referendum|||||||||||||||||||||
@@ -3662,7 +3666,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||which||||||||||||||||||||which|pronoun used in asking about one person in a group
 |||BEIW||whisky|||||||||||||||||||||
 |||RadCom||whist|||||||||||||||||||||
-|||FF BGE Globish||white||||||||||||||||||||white|the color of snow or salt
 |||BGE Globish||whole (complete)||||||||||||||||||||whole|complete 
 |||Globish||whole (entire, total)||||||||||||||||||||total|whole
 |||BGE Globish||why||||||||||||||||||||why|for what cause
@@ -3687,7 +3690,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||RadCom||xylophone|||||||||||||||||||||
 |||||yard (courtyard)|Hof|cour|patio|quintal (pátio)|двор||院子|庭|||||||avlu|korto|piha|||yard |2° a piece of land enclosed for aspecial activity
 ||onom.||fra:ouah, por:uah, jpn:フワアーア (fuwaāa)|yawn|gähnen|bâiller|bostezar|bocejar|зевать||哈欠|欠伸|하품|ngáp|जंभना|হাই|uap (kuap)||esnemek|oscedi|haukotus|ziewać|||
-|||FF BGE Globish||yellow||||||||||||||||||||yellow |the color of gold
 |||Globish||yet||||||||||||||||||||yet|up to the present time
 |||BEIW||zebra|||||||||||||||||||||
 |||RadCom||zigzag|||||||||||||||||||||

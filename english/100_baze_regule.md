@@ -22,7 +22,7 @@ There are no exceptions.
    Case is indicated by prepositions.
 5. **Numerals:**
    The cardinal numbers are:
-       - 0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sikse**,
+       - 0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sixe**,
          7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.
        - Greater than ten: 11 **ten un**, 12 **ten due**, 13 **ten tri**, etc.
        - Tens: 20 **due ten**, 30 **tri ten**, 40 **for ten**, etc.

@@ -538,8 +538,8 @@ hum/in.|• inhume||Globish||bury (inter, inhume)|||||||||||||||||haudata multaa
 hunde|hunde|num.|FF BGE |eng:hundred, deu:Hundert|hundred (100)|hundert||cien (100)|||||||||||||cent|sata (100)|sto (100)|||
 I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|||
 idea|idea||BGE Globish|eng:spa:idea, fra:idée, deu:Idee, por:ideia, rus:идея (ideya), may:ide, jpn:アイデア (aidea), kor:아이디어 (aidieo), vie:ý định|idea (concept)|Idée (Ahnung)|idée|idea (noción, concepto)||идея (мысль)||主意|着想 (主意, アイデア)|생각 (아이디어)|||||||ideo|idea (aate, ajatus, mielikuva)|idea (pomysł)||idea |a thought
-ideal|ideal||||ideal (conceptual)|ideell|idéal|ideal|ideal|идеальный|||||||||||idea|ideaalinen (ajatuksellinen)||||
-idealisme|idealisme||||idealism||idéalisme|idealismo|idealismo|идеализм||||||||||||idealismi||||
+idea.al.|• ideal||||ideal (conceptual)|ideell|idéal|ideal|ideal|идеальный|||||||||||idea|ideaalinen (ajatuksellinen)||||
+idea.al.ism.|• idealisme||||idealism||idéalisme|idealismo|idealismo|идеализм||||||||||||idealismi||||
 ident.|idente||||the same|||||||||||||||||||||
 ident.if.|• identife||Globish AWL||identify||||||||||||||||||||identify |to establish the identity of
 ident.ik.|• identike||AWL||identical  |||||||||||||||||||||
@@ -704,6 +704,7 @@ kolon/ist.e|koloniste||||colonialist|||colonialista||||||||||||||kolonialisti|ko
 kolor|kolor||FF BGE Globish|end:spa:color, fra:couleur, por:cor, pol:kolor, rus:колер|color|Farbe|couleur|color|cor|цвет (колер)|لون‎|颜色|色|색깔|màu sắc|रंग|রং|warna|rangi|renk|koloro|väri|kolor||color|quality of light of an object
 kolor. skal.|kolor skale||RadCom||spectrum (color range)|Spektrum|spectre|espectro|espetro|спектр||||||||||||||||
 kolum|kolum|||eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|column (pillar, pole, post)|||columna|||||||||||||kolono|pylväs (pilari)|kolumna, filar|||
+kom.|kom||BGE Globish||come||||||||||||||||||||come |to move toward, travel toward
 Komoro|Komoro|lande|KM||Comoros|||Comoros||||||||||||||Komorit|Komory|||
 kompane|kompane||AWL||accompany |||||||||||||||||olla seurana||||
 kompaner|kompaner||Globish|spa:compañero, por:companheiro, fra:compagnon, eng:companion, rus:компаньон (kompan’on)|companion|Begleiter (Kamerad)|compagnon|compañero|companheiro|товарищ (компаньон)||同伴|同伴者|동반자|||||||kunulo|seuralainen (kumppani)|towarzysz (kompan)||company|a person who is frequently with another
@@ -1224,6 +1225,10 @@ rad.io|• radio||BEIW FF Simplish||radio|||||||||||||||||||||
 rad.ion|• radion||Globish||radiation||||||||||||||||||||radiation|the act of spreading out from a centre
 rad.ium|• radium|mate|Ra||radium|||radio|||||||||||||radiumo|radium|rad|||
 rad.on|• radon|mate|Rn||radon|||radón|||||||||||||radono|radon|radon|||
+radik.|radike||FF Globish||root|||raíz|raiz|||||||||||||juuri|||root |part of a plant that grows into the ground
+radik.al.|• radikal||AWL||radical (going to the roots)|||||||||||||||||radikaali (juuriin asti menevä)||||
+radik/ex.|• exradike||||eradicate (uproot)|||||||||||||||||kitkeä juurineen||||
+radik/in.|• inradike||||radicate (irradicate, root deeply)|||||||||||||||||juurtua||||
 raite|raite||FF BGE Globish|eng:right|right (right hand side)|recht|droit|derecho|direito|правый||右|右|||दाहिना|ডান|kanan|-a kuume|sağ|dekstra|oikea (oikeanpuoleinen)|prawy||right|opposite of left
 Ramazan|Ramazan|mes|||Ramadan||ramadan|Ramadán|Ramadǎo|рамадан (рамазан)|رمضان|斋月|ラマダン|라마단|Ra-ma-đan|रमज़ान|রমজান|Ramadan|Ramadhani|ramazan||ramadan|Ramadan|||
 ras.|rase||FF  |eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|race (ethnicity, breed)|Rasse|race|raza|raça|раса||种族|人種|인종|chủng tộc|वंश (जाति)||bangsa (ras)||ırk|raco|rotu|rasa|||
@@ -2018,7 +2023,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||college||||||||||||||||||||college|an organization of higher learning
 |||Globish||colony||||||||||||||||||||colony |a group of people who settle far from their parent country
 |||Globish||combine||||||||||||||||||||combine|to put or add together
-|||BGE Globish||come||||||||||||||||||||come |to move toward, travel toward
 |||Globish||command||||||||||||||||||||command|orders(s) to do something
 |||AWL||commence |||||||||||||||||||||
 |||Globish AWL||comment||||||||||||||||||||comment|a statement that expresses a personal opinion
@@ -3099,7 +3103,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF Globish||quite||||||||||||||||||||quite|completely
 |||AWL||quote |||||||||||||||||||||
 |||FF Globish||race (competition of speed)||||||||||||||||||||race |a competition of speed
-|||AWL||radical |||||||||||||||||||||
 |||Globish||raid||||||||||||||||||||raid |a surprise attack
 |||Globish||rail||||||||||||||||||||rail |a metal bar
 |||FF BGE Globish||rain||||||||||||||||||||rain |water falling in drops from the clouds
@@ -3194,7 +3197,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF Globish||roof||||||||||||||||||||roof |the top covering of a building
 |||FF BGE Globish||room (chamber)||||||||||||||||||||room |a part of a house
 |||BGE Globish||room (space)|||||||||||||||||||||
-|||FF Globish||root||||||||||||||||||||root |part of a plant that grows into the ground
 |||Globish||rope||||||||||||||||||||rope |a strong thick line
 |||RadCom||rotor|||||||||||||||||||||
 |||Globish||rough||||||||||||||||||||rough|not smooth

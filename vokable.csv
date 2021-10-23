@@ -449,6 +449,14 @@ gel|gel||FF BGE Globish|eng:girl|girl||fille|niña (chica)|garota (menina)|де�
 gem.|geme||FF BGE Globish|eng:game, jpn:ゲーム (gēmu), kor:게임 (geim)|game|Spiel|jeu|juego|||||||||||||ludo|peli|gra||game |a sport or pastime
 gem.er|gemer|||eng:deu:fra:spa:gamer, rus:геймер (geymer), jpn:ゲーマー (gēmā)|player (gamer)||joueur (gamer)|||игрок (геймер)||||||||||||pelaaja||||
 Genzi|Genzi|lande|GG||Guernsey|||Guernesey||||||||||||||Guernsey|Guernsey|||
+ger.|gere||FF BGE Globish|eng:war, deu:Wehr, fra:guerre, spa:por:guerra + jpn:ゲリラ (gerira), kor:게릴라 (gerilla), may:gerila|war|Krieg|guerre|guerra|guerra|война|||||||||||milito|sota|||war|open fighting carried out by armies between nations
+ger.al.|• geral||Globish AWL||military|||militar|||||||||||||milita|sotilaallinen (sota-)|||military |having to do with soldiers
+ger.er.|• gerer||||warrior (soldier)|Krieger|guerrier|guerrero|guerreiro|воин (боец, солдат)||战士 (武士)|戦士 (武士)|싸울아비 (무사, 전사)||लड़ाका (योद्धा, जंगजू)|যোদ্ধা|||savaşçı||soturi (sotilas)||||
+ger.il.|• gerile||||guerrilla war|Guerilla|guérilla|guerrilla|guerrilha|партизанская война (герилья)||游击||||||gerila||||sissisota||||
+ger.il.er.|• geriler||||guerrilla|Partisan (Guerillakämpfer)|partisan (guérillero)|guerrillero|guerrilheiro|партизан|فِدائِيّ|游击队员|ゲリラ|게릴라|du kích|||||||sissi (partisaani)||||
+ger/anti.al.|• antigeral||||anti-war|Anti-Kriegs-|anti-guerre||antibélico|антивоенный||反战|反戦|반전|phản chiến|||||||sodanvastainen|antywojenny|||
+ger/pos.al.|• posgeral||||post-war||après-guerre||pós-bélico|послевоенный||战后的||||||||||sodanjälkeinen|powojenny|||
+ger/pre.al.|• pregeral||||pre-war||avant-guerre|||предвоенный||||||||||||sotaa edeltävä|przedwojenny|||
 germanium|germanium|mate|Ge||germanium|||germanio|||||||||||||germaniumo|germanium|german|||
 gid.|gide||||guide (show the way)|||||||||||||||||opastaa (näyttää tie)||||
 gid. buk.|gide buke||||guide book|Reiseführer|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)||||
@@ -458,14 +466,16 @@ gitar.ist.|gitariste||||guitarist|||||||||||||||||kitaristi||||
 giv.|give||BGE Globish|eng:give, deu:geben, zho:给 (gěi)|give||donner|dar|dar|давать (дать)||给|与える|주다 (드리다)|cho|देना|দেওয়া|beri|kupa|vermek|doni|antaa|dać, dawać||give |to pass a possession to somebody without money
 giv. fud.|give fude||FF Globish||feed||||||||||||||||||||feed |to give food
 glob.|globe||AWL||globe |||||||||||||||||maapallo||||
-glob.al|global||||global (concerning the whole world)|||global (de todo el mundo)|||||||||||||tuttera|maailmanlaajuinen (globaali)|globalny (światowy)|||
-golfe|golfe|esporte|||golf|Golf|golf|golf|golfe|гольф ||高尔夫球|ゴルフ|골프|golf|गोल्फ़|গল্‌ফ|golf|gofu|golf|golfo|golf|golf|||
+glob.al|• global||||global (concerning the whole world)|||global (de todo el mundo)|||||||||||||tuttera|maailmanlaajuinen (globaali)|globalny (światowy)|||
+global gere|global gere (GG)||||world war (WW)|Weltkrieg|guerre mondiale|guerra mundial|guerra mundial|мировая война|اَلْحَرْب اَلْعَالَمِيَّة‎|世界大战|世界大戦|세계 대전|chiến tranh thế giới|विश्वयुद्ध|||||mondmilito|maailmansota|wojna światowa|||
+golf.|golfe|esporte|||golf|Golf|golf|golf|golfe|гольф ||高尔夫球|ゴルフ|골프|golf|गोल्फ़|গল্‌ফ|golf|gofu|golf|golfo|golf|golf|||
 golfe kurse|golfe kurse||||golf course||||||||ゴルフ場|||||||||golf-rata||||
 golfer|golfer||||golfer|Golfer|golfeur|golfista|golfista|игрок в гольф ||||||||||||golfaaja (golfari)|golfista|||
+gon.|gone||FF BGE Globish|eng:corner, fra:-gone, spa:por:-gono, hin:कोण (koṇ), tel:(kōnamu), swa:kona, hau:kwana|corner (angle)|||esquina (rincón, ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt||corner |point where lines or surfaces meet
 gon/dia.al|• diagonal||||diagonal|diagonal|diagonale|diagonal|diagonal|диагональный||对角|筋交い (対角)||||||||diagonala|diagonaalinen (lävistävä)|diagonal|||
-gone|gone||FF BGE Globish|eng:corner, fra:-gone, spa:por:-gono, hin:कोण (koṇ), tel:(kōnamu), swa:kona, hau:kwana|corner (angle)|||esquina (rincón, ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt||corner |point where lines or surfaces meet
 goton|goton||Globish|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton||coton|algodón|algodão|хлопок||棉||||कपास|||||kotono|puuvilla|bawełna||cotton |soft white vegetable used in making clothing
 gow|gow||FF BGE Globish|eng:go, deu:gehen, kor:가다 (gada)|go (move around)|gehen|aller|ir|ir|ходить (идти)||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)||go |move along
+dank.|danke|||eng:thank, deu:Danke, pol:dzięki, ukr:дякувати (dyakuvati)|thanks|Danke|merci|gracias|obrigado|спасибо|شُكْرًا|谢谢|ありがとう (どうも)|고마워|cám ơn|धन्यवाद (शुक्रिया)|ধন্যবাদ (শুকরিয়া)|terima kasih|asante (shukrani)|teşekkürler|danko|kiitos|dzięki, dzięki ci|||
 grac.|grace||BGE Globish||thank||||||||||||||||||||thank|to express and show pleasure afrer receiving a present or help
 grac/kon.|• kongrace||Globish||congratulate (”congrats”)||||||||||||||||||||congratulate|to express pleasure at someone’s success
 Grenada|Grenada|lande|GD||Grenada|||Granada||||||||||||||Grenada|Grenada|||
@@ -605,6 +615,9 @@ jet/re.|• rejete||AWL Globish||reject (throw back)||||||||||||||||||||reject |
 jet/su.|• sujete||Globish||subject||sujet||||||||||||||||||subject|under the power of another
 Jibraltar|Jibraltar|lande|GI||Gibraltar|||Gibraltar||||||||||||||Gibraltar|Gibraltar|||
 Jibuti|Jibuti|lande|DJ||Djibouti|||Yibuti||||||||||||||Djiboutia|Dżibuti|||
+jihad.|jihade||Globish|ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|struggle (strife, effort, exert, toil)||lutte|lucha|luta|борьба (бой)||||||||||mücadele (cihat)||ponnistella (kamppailla, uurastaa)|||struggle |to fight 
+jihad.ism.|• jihadisme||||jihadism|||||||||||||||||jihadismi||||
+jihad.ist.|• jihadiste||||jihadist (mujahid)|Dschihadist (Mudschahed)|moudjahid (djihadiste)|muyahid (yihadista)|jihadista|моджахед|مُجَاهِد‎||ムジャーヒディーン|무자헤딘||मुजाहिद||||||jihadisti||||
 jinje|jinje|||eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), tur:zencefil|ginger|Ingwer|gingembre|gengibre|jengibre|имбирь|زنجبيل‎|姜|生姜|생강|gừng|अदरक|আদা|jahe|mtangawizi|zencefil|zingibro|inkivääri|imbir|||
 jira|jira|masala||eng:jeera, hin:ज़ीरा (zīrā), ben:জিরা (zīra), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|cumin (jeera)|Kreuzkümmel|cumin|comino|cominho|тмин|كمون|孜然|クミン|커민|thì là|ज़ीरा|জিরা|jintan putih|mjira|kimyon|kumino|juustokumina (jeera)|kmin|زیره||
 jobe|jobe||FF BGE AWL|deu:eng:job|job (task, assignment)|Job|tâche|tarea|tarefa|||作业||||||||||tehtävä (homma)||||
@@ -761,6 +774,7 @@ krizal|krizal||||critical|kritisch|||crítico|критический|||||||||||k
 krize|krize||Globish|eng:crisis, deu:Krise, fra:por:crise, spa:crisis, rus:кризис (krizis), may:krisis, tur:kriz|crisis|Krise|crise|crisis|crise|кризис||危机|危機|위기||संकट|সঙ্কট|krisis||kriz (buhran)|krizo|kriisi (käännekohta)|kryzys||crisis |a difficult turning point
 kromium|kromium|mate|Cr||chromium|||cromo|||||||||||||kromo|kromi|chrom|||
 krus|krus||BGE |eng:cross, deu:Kreuz, fra:croix, por:spa:cruz, rus:крест (krest), jpn:クロス (kurosu), hin:क्रूश (krūś)|cross||croix|cruz|cruz|крест||||||||||çarpı (haç)|kruco|risti|krzyż|||
+krus gere|krus gere||||crusade|Kreuzzug|croisade|cruzada|cruzada|кресто́вый похо́д||||||||||||ristiretki|krucjata|||
 kualite|kualite||BGE Globish|eng:quality, deu:Qualität, fra:qualité, spa:calidade, por:qualidade, may:kualitas, tur:kalite|quality|Qualität|qualité|calidad|qualidade|качество||质量 (品质)|品質|질 (품질)|chất lượng|गुण||kualitas||nitelik (kalite)|||||quality|a differentiating property or attribute
 kuantite|kuantite|||eng:quantity, deu:Quantität, fra:quantité, spa:cantidad, por:quantidade, may:kuantitas|quantity (amount)|Quantität (Menge)|quantité|cantidad|quantidade|количество||数量|量 (数量)|수량|số lượng|मात्रा||kuantitas (jumlah)||miktar||määrä (paljous)||||
 Kuba|Kuba|lande|CU||Cuba|||Cuba||||||||||||||Kuuba|Kuba|||
@@ -968,10 +982,10 @@ mod/kon/a|• akonmode||AWL||accommodate |||||||||||||||||||||
 Moldova|Moldova|lande|MD||Moldova|||Moldova||||||||||||||Moldova|Mołdawia|||
 molidenum|molidenum|mate|Mo||molybdenum|||molibdeno|||||||||||||molibdeno|molybdeeni|molibden|||
 momente|momente||BGE |eng:fra:moment, spa:por:momento, rus:момент|moment (while, short time)||moment (instant)|momento (tiempo)|momento (instante)|момент|سَاعَة‎|时刻||||||saat|saa|saat||hetki (kotva)|moment|||
+mon.|mone||FF BGE Globish AWL|eng:money, fra:monnaie|money (currency)|Geld|argent|dinero (plata)|dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze||money|the most common means of exchange
+mon. bilet.|• mone bilete||||banknote|Geldschein (Banknote)|billet de banque|billete|cédula|банкнота (билет)||钞票 (纸币)|紙幣|지폐|giấy bạc|नोट (बैंक के नोट)||uang kertas|noti|banknot|monbileto (banknoto)|seteli||||
+mon.et.|• monete||||coin|||moneda|moeda|||||||||||||kolikko||||
 Monako|Monako|lande|MC||Monaco|||Mónaco||||||||||||||Monaco|Monako|||
-mone|mone||FF BGE Globish AWL|eng:money, fra:monnaie|money (currency)|Geld|argent|dinero (plata)|dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze||money|the most common means of exchange
-mone bilete|mone bilete||||banknote|Geldschein (Banknote)|billet de banque|billete|cédula|банкнота (билет)||钞票 (纸币)|紙幣|지폐|giấy bạc|नोट (बैंक के नोट)||uang kertas|noti|banknot|monbileto (banknoto)|seteli||||
-monete|monete||||coin|||moneda|moeda|||||||||||||kolikko||||
 Mongolia|Mongolia|lande|MN||Mongolia|||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia|||
 mont.|monte||FF BGE Globish|eng:mountain, por:spa:monte, fra:montaigne|mountain (mount, hill)|||montaña (monte)|montanha (monte)|||山|||||||||monto|vuori (mäki)|góra, wzgórze||mountain |very high hill
 mont.an.er.|montaner||||mountaineer|Bergsteiger|alpiniste|alpinista (montañista)|alpinista (montanhista)|альпинист (скалолаз)||||||||||||||||
@@ -980,19 +994,21 @@ mor|mor||||more|||||||||||||||||||||
 mor gude|mor gude||Globish||better|||||||||||||||||parempi|||better |higher in quality
 Moris|Moris|lande|MU||Mauritius|||Mauricio||||||||||||||Mauritius|Mauritius|||
 mort.|morte||FF BGE Globish|por:morto, fra:mort, spa:muerto, hin:मृत (mrta), rus:мёртвый (myortvïy), ara:(mawt), amh:ሞት (mot)|dead (deceased)||mort|muerto|morto|мёртвый||死的|死んだ|||मृत (मुर्दा)|||||morta|kuollut (vainaa)|martwy, nieżywy, zabity|||
-mort.al|mortal||||mortal|||||||||||||||||||||
+mort.al|• mortal||||mortal|||||||||||||||||||||
 moskovium|moskovium|mate|Mc||moscovium|||moscovio|||||||||||||moskovio|moskovium|moskovium|||
 Moskva|Moskva|chefe citi|||Moscow|Moskau||||||||||||||||Moskova||||
-mot.er|moter||FF Globish|fra;moteur, eng:spa:por:tur:may:motor, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|Motor|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|motor||engine |a machine that can start others moving
-mot/ion|motion||Globish||motion|||||||||||||||||liikunta (liikkuminen)|||motion |the condition of moving
-mot/ive|motive||AWL||motive |Motiv|motif (mobile)|motivo|motivo|мотив||||||||||||vaikutin (motiivi)||||
+mot.|mote||||move (change place, transport)|||||||||||||||||||||
+mot.er|• moter||FF Globish|fra;moteur, eng:spa:por:tur:may:motor, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|Motor|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|motor||engine |a machine that can start others moving
+mot.ion|• motion||Globish||motion|||||||||||||||||liikunta (liikkuminen)|||motion |the condition of moving
+mot.iv.|• motive||AWL||motive |Motiv|motif (mobile)|motivo|motivo|мотив||||||||||||vaikutin (motiivi)||||
+mov.|move||NSM  BGE Globish||move (change position)|||||||||||||||||||||to change position
 Mozambike|Mozambike|lande|MZ||Mozambique|||Mozambique||||||||||||||Mosambik|Mozambik|||
-muche|muche||NSM FF Globish|eng:much, spa:mucho|much (a lot)|viel|beaucoup|mucho|muito|много||很多|多くの  (沢山)|많은|nhiều|बहुत|বহু|banyak||çok|multa|paljon|dużo (wiele)||much |in great quantity
-multiple|multiple||||multiple||multiple|múltiple|múltiplos|||||||||||||moninkertainen||||
+much.|muche||NSM FF Globish|eng:much, spa:mucho|much (a lot)|viel|beaucoup|mucho|muito|много||很多|多くの  (沢山)|많은|nhiều|बहुत|বহু|banyak||çok|multa|paljon|dużo (wiele)||much |in great quantity
+multi.|multi||||many|||||||||||||||||||||
+multi.pl.|• multiple||||multiple||multiple|múltiple|múltiplos|||||||||||||moninkertainen||||
 Muritania|Muritania|lande|MR||Mauritania|||mauritania||||||||||||||Mauritania|Mauretania|||
 mus|mus||Globish|eng:must, deu:müssen|must (have to)|müssen||deber (necesitar)|||||||||||||devi|täytyä (olla pakko)|musieć||must |to have to
 muskul|muskul||Globish|eng:fra:muscle, deu:Muskel, spa:por:músculo, rus:мускул (muskul)|muscle|Muskel|muscle|músculo|músculo|мышца (мускул)|عضلة|筋肉|筋肉|근육|cơ bắp|पेशी|पेशी|otot|msuli|kas (adale)|muskolo|lihas (muskeli)|skuł, m (muskuł)ięsień||muscle |body parts that produce movement
-muve|muve||NSM  BGE Globish||move (change position)|||||||||||||||||||||to change position
 muzike|muzike||FF BGE Globish|eng:music, deu:Musik, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), tur:müzik, swa:muziki, jpn:ミュージック (myūjikku)|music|Musik|musique|música|música|музика|موسيقى|音乐|音楽 (ミュージック)|음악|âm nhạc|संगीत|সঙ্গীত|musik (muzik)|muziki|müzik|muziko|musiikki|muzyka||music|an organization of sounds
 muziker|muziker||||musician (player)|||músico|||||||||||||muzikisto|muusikko (soittaja)|muzyk|||
 mwa|mwa|onom.|||smack (mwah, smooch)|||||||||||||||||muisku (suudelma)||||
@@ -1310,6 +1326,7 @@ Sant. Lucia|Sante Lucia|lande|LC||Saint Lucia|||Santa Lucía||||||||||||||Saint 
 Sant. Marino|Sante Marino|lande|SM||San Marino|||San Marino||||||||||||||San Marino|San Marino|||
 Sant. Tome en Principe|Sante Tome en Principe|lande|ST||Sao Tome and Principe|||Santo Tomé y Príncipe||||||||||||||Sao Tome ja Principe|Wyspy Świętego Tomasza i Książęca|||
 Sant. Vinsente en Grenadine|Sante Vinsente en Grenadine|lande|VC||Saint Vincent and Grenadines|||San Vicente y las Granadinas|||||||||||||||Saint Vincent and Grenadines|||
+sante gere|sante gere||||holy war|heiliger Krieg|guerre sainte|guerra santa|guerra santa (guerra sagrada)|священная война|حَرْب مُقَدَّسَة‎|圣战|聖戦|성전||||perang agama||din savaşı|sankta milito|pyhä sota||||
 saturdi|saturdi|wike dey 6|FF BGE |fra:samedi, spa:por:sábado, rus:суббота (subbota), ara:يَوم السبت (yom as-sabt), may:sabtu, hau:Asabar + eng:Sabbath, deu:Sabbat|Saturday|Samstag (Sabbat)|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota|شنبه‎||
 Saturne|Saturne|planete 6|||Saturn|Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn|||Saturn|||
 Saudi Arabia|Saudi Arabia|lande|SA||Saudi Arabia|||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska|||
@@ -2749,7 +2766,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||microscope|||||||||||||||||||||
 |||Globish||might||||||||||||||||||||might|possibility, power, to express a wish or a permission
 |||Globish||mile||||||||||||||||||||mile |a unit for measuring distance
-|||Globish AWL||military||||||||||||||||||||military |having to do with soldiers
 |||BEIW||milli-|||||||||||||||||||||
 |||BEIW||million|||||||||||||||||||||
 |||Globish||mind (pay attention)||||||||||||||||||||mind |to pay close attention to
@@ -3422,7 +3438,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||strike (stop work)||||||||||||||||||||strike |1°to hit against 2° to stop work
 |||Globish||string||||||||||||||||||||string |a thin line of winded light material
 |||FF BGE Globish||strong||||||||||||||||||||strong |having much force or power
-|||Globish||struggle||||||||||||||||||||struggle |to fight 
 |||RadCom||student|||||||||||||||||||||
 |||AWL||style |||||||||||||||||||||
 |||AWL||submit|||||||||||||||||||||
@@ -3644,7 +3659,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF BGE ||wake up|||||||||||||||||||||
 |||FF BGE Globish||wall||||||||||||||||||||wall |an up and down structure of a building
 |||RadCom||waltz|||||||||||||||||||||
-|||FF BGE Globish||war||||||||||||||||||||war|open fighting carried out by armies between nations
 |||FF BGE Globish||warm||||||||||||||||||||warm |more hot than cold
 |||BGE Globish||warn||||||||||||||||||||warn |to signal of a possible danger
 |||Globish||waste||||||||||||||||||||waste|to spend without need

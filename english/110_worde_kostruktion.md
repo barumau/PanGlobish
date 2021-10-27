@@ -59,323 +59,394 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 
 ### Prefixes
 
-**an-** :
-opposite, un-, in-:  
+**a-**
+'to oneself' :  
+**cepe**
+'take, catch'
+→ **acepe**
+'take to oneself, accept'  
+**lige**
+'tie'
+→ **alige**
+'tie to oneself, ally'
+
+**an-**
+'opposite, un-, in-' :  
 **hapi**
-(happy)
+'happy'
 → **anhapi**
-(unhappy)  
+'unhappy'  
 **juste**
-(just, fair)
+'just, fair'
 → **anjuste**
-(injust, unfair)  
+'injust, unfair'  
 **human**
-(human)
+'human'
 → **anhuman**
-(inhuman)
+'inhuman'
 
-**de-** :
-put apart:  
-**strukte**
-(structure)
-→ **destrukte**
-(destruct)  
+**de-**
+'away, off' :
+**cepe**
+'take, catch'
+→ **decepe**
+'take away, remove'  
+**duce**
+'lead, conduct'
+→ **deduce**
+'lead away, deduce'  
+**parte**
+'part, chip'
+→ **departe**
+'part away, chip off'
+
+**di-**
+'do the opposite of' :  
+**strute**
+'structure'
+→ **distrute**
+'destruct'  
 **kode**
-(code, encode)
-→ **dekode**
-**dekode**
-(decode, decipher)  
+'code, encode'
+→ **dikode**
+'decode, decipher'  
 **kovre**
-(cover)
-→ **dekovre**
-**dekovre**
-(discover)
+'cover'
+→ **dikovre**
+'discover'  
+**krese**
+'grow'
+→ **dikrese**
+'ungrow, decrease'
 
-**ko-** :
-together:  
-**strukte**
-(structure)
-→ **kostrukte**
-(construct, put together)  
+**ex**
+'out' :
+**cepe**
+'take, catch'
+→ **excepe**
+'take out, except'  
+**jete**
+'thrust'
+→ **exjete**
+'thrust out, eject'
+
+**in-**
+'in, into, in-, en-' :
+**jete**
+'thrust'
+→ **injete**
+'thrust in, inject'  
+**kluze**
+'close, shut'
+→ **inkluze**
+'close in, enclose, include'
+
+**kon-**
+'together' :  
+**strute**
+'structure'
+→ **konstrute**
+'construct, put together'  
 **werke**
-(work)
-→ **kowerke**
-(work together, collaborate)
+'work'
+→ **konwerke**
+'work together, collaborate'
 
-**non-** :
-absence of:  
-**deviste**
-(theist)
-→ **nondeviste**
-(atheist)  
+**non-**
+'absence of, non-' :  
+**dewiste**
+'theist'
+→ **nondewiste**
+'atheist'  
 **sence**
-(sense)
+'sense'
 → **nonsence**
-(nonsense)  
+'nonsense'  
 **tabakiste**
-(smoker)
+'smoker'
 → **nontabakiste**
-(non-smoker)  
+'non-smoker'  
 
-**re-** :
-back:  
-**returne**
-(turn back)
+**re-**
+'back' :  
+**ate**
+'to act'
+→ **reate**
+'to act back, react'  
+**turne**
+'to turn'
+→ **returne**
+'to turn back'
 
-**ri-** :
-repetition, again:  
+**ri-**
+'again, repeatedly' :  
 **du**
-(to do)
+'to do'
 → **ridu**
-(redo, do again)
-
+'redo, do again'  
+**forme**
+'to form'
+→ **riforme**
+'to reform'
 
 ### Suffixes
 
 **-al** :
 relating to:
 **nacia**
-(nation)
+'nation'
 → **nacial**
-(national)  
+'national'  
 **socia**
-(society)
+'society'
 → **social**
-(social)  
+'social'  
 **universe**
-(universe)
+'universe'
 → **universal**
-(universal)
+'universal'
 
 **-ate** :
 to act in the specified manner:  
 **rote**
-(wheel)
+'wheel'
 → **rotate**
-(to rotate, to turn like a wheel)  
+'to rotate, to turn like a wheel'  
 **formul**
-(formula)
+'formula'
 → **formulate**
-(to formulate)
+'to formulate'
 
 **-ation** :
 action:  
 **rote**
-(wheel)
+'wheel'
 → **rotation**
-(rotation)
+'rotation'
 
 
 **-er** :
 doer, agent, -er:  
 **helpe**
-(help, assist)
+'help, assist'
 → **helper**
-(helper, assistant)
+'helper, assistant'
 
 **-eria**
 workplace:
 **beker**
-(baker)
+'baker'
 → **bekeria**
-(bakery)
+'bakery'
 
 **-ete** :
 diminutive, -ette, -let:  
 **cigare**
-(cigar)
+'cigar'
 → **cigarete**
-(cigarette)
+'cigarette'
 
 **-ful** :
 full of, -ful:  
 **helpeful**
-(– helpful)
+'– helpful'
 
 **-ia** :
 some countries and regions:  
 **Arabia**
-(Arabia)  
+'Arabia'  
 **Italia**
-(Italy)  
+'Italy'  
 **Rusia**
-(Russia)
+'Russia'
 
-**-ian** or **-an** :
-inhabitant of:
+**-ian** or **-an**
+'inhabitant of' :
 **Amerikan**
-(American)  
+'American'  
 **Italian**
-(Italian)  
+'Italian'  
 **Rusian**
-(Russian)
+'Russian'
 
-**-ie** :
-science:  
+**-ie**
+'science' :  
 **biolojie**
-(biology)  
+'biology'  
 **filosofie**
-(philosophy)  
+'philosophy'  
 **kemie**
-(chemistry)
+'chemistry'
 
-**-ife** :
-to make, render, turn or transform into:  
+**-ife**
+'to make, render, turn or transform into' :  
 **petre**
-(stone)
+'stone'
 → **petrife**
-(petrify, to turn to stone)  
+'petrify, to turn to stone'  
 **klare**
-(clear)
+'clear'
 → **klarife**
-(clarify)
+'clarify'
 
 **-ike**
-of the style or manner of, -ish, -esque:
+'of the style or manner of, -ish, -esque' :  
+**baze**
+'base, basis'
+→ **bazike**
+'basic, fundamental'  
 **fize**
-(physis)
+'physis'
 → **fizike**
-(physical)  
+'physical'  
 **muze**
-(muse)
+'muse'
 → **muzike**
-(of the muses, music)  
+'of the muses, music'  
 **nuve**
-(uusi)
+'uusi'
 → **nuvike**
-(novice, newbie)
+'novice, newbie'
 
-**-ion** :
-an action or process:  
-**akte**
-(act, deed)
-→ **aktion**
-(action, activity)
+**-ion**
+'action or process' :  
+**ate**
+'act, deed'
+→ **ation**
+'action, activity'  
 **konsume**
-(consume)
+'consume'
 → **konsumion**
-(consuming, consumption)
+'consuming, consumption'
 
-**-ish** :
-some languages:
+**-ish**
+'language' :  
 **English**
-(the English language)  
+'the English language'  
 **Eskotish**
-(Scotch)  
+'Scotch'  
 **Panglobish**
-(world language, Panglobish)
+'world language, Panglobish'
 
-**-iste** :
-adherent of a way of life, -ist:
+**-iste**
+'adherent of a way of life, -ist' :  
 **alkohol**
-(alcohol)
+'alcohol'
 → **alkoholiste**
-(alcoholist)  
+'alcoholic'  
 **komun**
-(common, shared)
+'common, shared'
 → **komuniste**
-(communist, adherent of shared ownership)  
+'communist, adherent of shared ownership'  
 **pacife**
-(pacify)
+'pacify'
 → **pacifiste**
-(pacifist)  
+'pacifist'  
 **tabake**
-(tobacco)
+'tobacco'
 → **tabakiste**
-(smoker)
+'smoker'
 
-**-isme** :
-ideology, -ism:  
+**-isme**
+'way of thinking or behaving, -ism'  
 **alkohol**
-(alcohol)
+'alcohol'
 → **alkoholisme**
-(alcoholismi)  
+'alcoholism'  
 **komun**
-(common, shared)
+'common, shared'
 → **komunisme**
-(communism)  
+'communism'  
 **pacife**
-(pacify)
+'pacify'
 → **pacifisme**
-(pacifism)  
+'pacifism'  
 **tabake**
-(tobacco)
+'tobacco'
 → **tabakisme**
-(smoking)
+'smoking'
 
-**-ite** :
-quality, -ity, -ness:  
+**-ite**
+'quality, -ity, -ness' :  
 **juste**
-(just, fair)
+'just, fair'
 → **justite**
-(justice, fairness)  
+'justice, fairness'  
 **sane**
-(healthy, sound)
+'healthy, sound'
 → **sanite**
-(health)  
+'health'  
 **un**
-(one)
+'one'
 → **unite**
-(unity, oneness)
+'unity, oneness'
 
-**-ive** :
-inclined to:  
-**akte**
-(act, perform)
-→ **aktive**
-(active, inclined to act)
+**-ive**
+'inclination' :  
+**ate**
+'act, perform'
+→ **ative**
+'active, inclined to act'  
+**exploze**
+'explode'
+→ **explozive**
+'explosive'
 
 **-ize**
-to equip with, supply with, decorate with, coat with:  
+'equip with, supply with, decorate with, coat with' :  
 **moterize**
-(to motorize)  
+'to motorize'  
 **komputerize**
-(to computerize)  
+'to computerize'  
 **robotize**
-(to robotize)  
+'to robotize'  
 **automatize**
-(to automatize)  
+'to automatize'  
 **eletrize**
-(to electrify)  
+'to electrify'  
 **harmonize**
-(to harmonize)  
+'to harmonize'  
 **patinize**
-(to patinize)   
+'to patinize'   
 **galvanize**
-(to galvanize)  
+'to galvanize'  
 **salize**
-(to salt)  
+'to salt'  
 **kolorize**
-(to colorize)  
+'to colorize'  
 **aurize**
-(to gild, to cover with a layer of gold)
+'to gild, to cover with a layer of gold'
 
-**-lis** :
-without, -less:  
+**-lis**
+'without, -less' :  
 **helpe**
-(apu)
+'apu'
 → **helpelis**
-(helpless)  
+'helpless'  
 **peni**
-(penny)
+'penny'
 → **penilis**
-(penniless)
+'penniless'
 
-**-os** :
-plenty of, -ous:  
+**-os**
+'plenty of, -ous':  
 **pore**
-(pore)
+'pore'
 → **poros**
 – porous.
 
-**-ure** :
-a result or product:
-**korekte**
-(to correct)
-→ **korekture**
-(a correction)  
+**-ure**
+'result or product' :
+**korete**
+'to correct'
+→ **koreture**
+'a correction'  
 **kulte**
-(cultivate a way of life)
+'cultivate a way of life'
 → **kulture**
-(culture)
+'culture'  
+**mixe**
+'mix'
+→ **mixure**
+'mixture'
 

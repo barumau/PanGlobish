@@ -167,6 +167,28 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **nontabakiste**
 'non-smoker'  
 
+**pos**
+'after' :  
+**gere**
+'war'
+→ **posgeral**
+'post-war'  
+**poze**
+'put, pose'
+→ **pospoze**
+'put after, postpone'
+
+**pre-**
+'before' :  
+**dite**
+'tell'  
+→ **predite**
+'foretell, predict'  
+**vide**
+'see'
+→ **previde**
+'foresee, preview'
+
 **re-**
 'back' :  
 **ate**

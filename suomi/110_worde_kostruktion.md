@@ -29,308 +29,413 @@ mutta useimmat ovat aitoja liitteitä, jotka eivät toimi itsenäisinä sanoina.
 
 ### Etuliitteet
 
+**a-**
+'tykö, itseensä' :  
+**cepe**
+'ottaa'
+→ **acepe**
+'ottaa itselleen, hyväksyä'  
+**lige**
+'sitoa'
+→ **alige**
+'sitoutua, liittoutua'
+
 **an-** :
 vastakohta, epä-:  
 **hapi**
-(onnellinen)
+'onnellinen'
 → **anhapi**
-(onneton)  
+'onneton'  
 **juste**
-(oikeudenmukainen)
+'oikeudenmukainen'
 → **anjuste**
-(epäoikeudenmukainen)  
+'epäoikeudenmukainen'  
 **human**
-(ihminen)
+'ihminen'
 → **anhuman**
-(epäihminen)
+'epäihminen'
 
-**de-** :
-perua, hajottaa:  
-**estrukte**
-(rakentaa, koota)
-→ **destrukte**
-(tuhota, purkaa)  
+**de-**
+'pois, erilleen' :
+**cepe**
+'ottaa, napata'
+→ **decepe**
+'ottaa pois, poistaa'  
+**duce**
+'johtaa'
+→ **deduce**
+'johtaa pois, dedusoida'  
+**parte**
+'osa'
+→ **departe**
+'erottaa, osittaa erilleen'
+
+**di-**
+'tehdä tai toimia päinvastoin' :  
+**strute**
+'rakentaa, koota'
+→ **distrute**
+'tuhota, purkaa'  
 **kode**
-(koodata)
-→ **dekode**
-(dekoodata, purkaa koodi)  
+'koodata'
+→ **dikode**
+'dekoodata, purkaa koodi'  
 **kovre**
-(peittää)
-→ **dekovre**
-(ottaa esiin)
+'peittää'
+→ **dikovre**
+'ottaa esiin'  
+**krese**
+'kasvaa'
+→ **dikrese**
+'kutistua'
 
-**ex-** :
-entinen:  
-**ex-presidente**
-(entinen presidentti)  
-**ex-espoze**
-entinen puoliso
+**ex**
+'ulos' :
+**cepe**
+'ottaa, napata'
+→ **excepe**
+'ottaa pois, poislukea'  
+**jete**
+'heittää'
+→ **exjete**
+'heittää ulos'
 
-**ko-** :
-yhdistää:  
-**estrukte**
-(rakentaa)
-→ **kostrukte**
-(rakentaa, panna kokoon)  
+**in-**
+'sisään' :
+**jete**
+'työntää'
+→ **injete**
+'työntää sisään, ruiskuttaa sisään'  
+**kluze**
+'sulkea'
+→ **inkluze**
+'sulkea sisään, ottaa mukaan'
+
+
+**kon-**
+̈́'yhdessä, yhteen' :  
+**strute**
+'rakentaa'
+→ **konstrute**
+'rakentaa, panna kokoon'  
 **werke**
-(työskennellä)
-→ **kowerke**
-(tehdä yhteistyötä)
+'työskennellä'
+→ **konwerke**
+'tehdä yhteistyötä'
 
-**mis-** :
-väärin:  
+**mes-**
+'väärin' :  
 **uze**
-(käyttö)
-→ **misuze**
-(väärinkäyttö)
+'käyttö'
+→ **mesuze**
+'väärinkäyttö'
 
-**non-** :
-puute, ei-:  
-**deviste**
-(teisti, jumalaapelkäävä)
-→ **nondeviste**
-(ateisti, jumalaton)  
+**non-**
+'puute, ei-' :  
+**dewiste**
+'teisti, jumalaapelkäävä'
+→ **nondewiste**
+'ateisti, jumalaton'  
 **sence**
-(järki)
+'järki'
 → **nonsence**
-(järjettömyys)  
+'järjettömyys'  
 **tabakiste**
-(tupakoija)
+'tupakoija'
 → **nontabakiste**
 tupakoimaton
 
-**ri-** :
-toistaa, tehdä uudelleen:  
+**pos**
+'jälkeen' :  
+**gere**
+'sota'
+→ **posgeral**
+'sodanjälkeinen'  
+**poze**
+'panna, asettaa'
+→ **pospoze**
+'panna jkn jälkeen'
+
+**pre-**
+'ennen, aiemmin' :  
+**dite**
+'kertoa'  
+→ **predite**
+'kertoa edeltä, ennustaa'  
+**vide**
+'nähdä'
+→ **previde**
+'nähdä edeltä, aavistaa'
+
+**re-**
+'takaisin' :  
+**ate**
+'toimia'
+→ **reate**
+'toimia takaisin, reagoida'  
+**turne**
+'kääntyä'
+→ **returne**
+'kääntyä takaisin'
+
+**ri-**
+'toistaa, tehdä uudelleen' :  
 **du**
-(tehdä)
+'tehdä'
 → **ridu**
-(tehdä uudelleen)  
-**estrukte**
-(rakentaa, koota)
-→ **ristrukte**
-(koota uudelleen)
+'tehdä uudelleen'  
+**forme**
+'muovata'
+→ **riforme**
+'muovata uudelleen, reformoida'
 
 
 ### Jälkiliitteet
 
-**-al** :
-asiaan liittyvä, -llinen:  
+**-al**
+'asiaan liittyvä, -llinen' :  
 **nacia**
-(kansa)
+'kansa'
 → **nacial**
-(kansallinen)  
+'kansallinen'  
 **socia**
-(yhteisö)
+'yhteisö'
 → **social**
-(yhteisöllinen, sosiaalinen)  
+'yhteisöllinen, sosiaalinen'  
 **universe**
-(kaikkeus)
+'kaikkeus'
 → **universal**
-(kaikkea koskeva, universaali)
+'kaikkea koskeva, universaali'
 
-**-er** :
-tekijä, -ja:  
+**-ate**
+'toimia' :  
+**rote**
+'pyörä'
+→ **rotate**
+'pyöriä'  
+**formule**
+'kaava'
+→ **formulate**
+'kaavailla, muotoilla'
+
+**-ation**
+'toiminta' :  
+**rote**
+'pyörä'
+→ **rotation**
+'pyöriminen, pyörintä'
+
+**-er**
+'tekijä, -ja' :  
 **helpe**
-(auttaa)
+'auttaa'
 → **helper**
-(apulainen, avustaja)  
+'apulainen, avustaja'  
 **beke**
-(leipoa)
+'leipoa'
 → **beker**
-(leipuri)
+'leipuri'
 
-**-erie** :
-työpaikka:  
+**-erie**
+'työpaikka' :  
 **beker**
-(leipuri)
+'leipuri'
 → **bekerie**
-(leipomo)
+'leipomo'
 
-**-ete** :
-pienennys, pikku-:  
+**-ete**
+'pienennys, pikku-' :  
 **cigare**
-(sikari)
+'sikari'
 → **cigarete**
-(savuke)
+'savuke'
 
-**-ful** :
-täysi, runsas, -kas:  
+**-ful**
+'täysi, runsas, -kas' :  
 **helpe**
-(apu)
+'apu'
 → **helpeful**
-(avulias, avukas)
+'avulias, avukas'
 
-**-ia** :
-eräät maat ja alueet:
+**-ia**
+'maa, alue' :
 **Arabia**
-(Arabia)  
+'Arabia'  
 **Italia**
-(Italia)  
+'Italia'  
 **Rusia**
-(Venäjä)
+'Venäjä'
 
-**-ian** tai **-an** :
-asukas:  
+**-ian** / **-an**
+'johonkin kuuluva, jäsen, asukas' :  
 **Amerikan**
-(amerikkalainen)  
+'amerikkalainen'  
 **Italian**
-(italialainen)  
+'italialainen'  
 **Rusian**
-(venäläinen)
+'venäläinen'
 
-**-ie** :
-tiede:  
+**-ie**
+'tiede' :  
 **biolojie**
-(biologia)  
+'biologia'  
 **filosofie**
-(filosofia)  
+'filosofia'  
 **kemie**
-(kemia)
+'kemia'
 
-**-ife** :
-tehdä joksikin:  
+**-ife**
+'tehdä joksikin' :  
 **petre**
-(kivi)
+'kivi'
 → **petrife**
-(kivettää, muuttaa kiveksi)  
+'kivettää, muuttaa kiveksi'  
 **un**
-(yksi)
+'yksi'
 → **unife**
-(yhdistää)  
-**pace**
-(rauha)
-→ **pacife**
-(rauhoittaa)
+'yhdistää'  
+**klare**
+'selvä, selkeä'
+→ **klarife**
+'selventää, selkeyttää, selittää'
 
-**-ike** :
-ominainen:  
+**-ike**
+'ominainen, -nen' :  
+**baze**
+'perusta'
+→ **bazike**
+'perus-'  
 **fize**
-(fysiikka)
+'fysiikka'
 → **fizike**
-(fyysinen)  
+'fyysinen'  
 **muze**
-(muusa)
+'muusa'
 → **muzike**
-(muusinen, musiikki)  
+'muusinen, musiikki'  
 **nuve**
-(uusi)
+'uusi'
 → **nuvike**
-(uusikko, noviisi)
+'uusikko, noviisi'
 
-**-ion** :
-tapahtuma tai prosessi:  
-**akte**
-(toimi, toimenpide)
-→ **aktion**
-(toiminta)  
+**-ion**
+'toiminta tai prosessi' :  
+**ate**
+'toimi, toimenpide'
+→ **ation**
+'toiminta'  
 **konsume**
-(kuluttaa)
+'kuluttaa'
 → **konsumion**
-(kulutus, kuluttaminen)
+'kulutus, kuluttaminen'
 
-**-ish** :
-eräät kielet:  
+**-ish**
+'kieli' :  
 **English**
-(englanti)  
+'englanti'  
 **Eskotish**
-(skotlanti)  
+'skotlanti'  
 **Panglobish**
-(maailmankieli, panglobish)
+'maailmankieli, panglobish'
 
-**-iste** :
-ajattelu- tai elämäntavan edustaja:  
+**-iste**
+'ajattelu- tai elämäntavan edustaja' :  
 **alkohol**
-(alkoholi)
+'alkoholi'
 → **alkoholiste**
-(alkoholisti, juoppo)  
+'alkoholisti, juoppo'  
 **komun**
-(yhteinen)
+'yhteinen'
 → **komuniste**
-(kommunisti, yhteisomistuksen kannattaja)  
+'kommunisti, yhteisomistuksen kannattaja'  
 **pacife**
-(rauhoittaa)
+'rauhoittaa'
 → **pacifiste**
-(pasifisti, rauhankannattaja)  
+'pasifisti, rauhankannattaja'  
 **tabake**
-(tupakka)
+'tupakka'
 → **tabakiste**
-(tupakoitsija)
+'tupakoitsija'
 
-**-isme** :
-ajattelu- tai elämäntapa, -ismi:  
+**-isme**
+'ajattelu- tai elämäntapa, -ismi' :  
 **alkohol**
-(alkoholi)
+'alkoholi'
 → **alkoholisme**
-(alkoholismi, juoppous)  
+'alkoholismi, juoppous'  
 **komun**
-(yhteinen)
+'yhteinen'
 → **komunisme**
-(kommunismi, yhteisomistuksen aate)  
+'kommunismi, yhteisomistuksen aate'  
 **pacife**
-(rauhoittaa)
+'rauhoittaa'
 → **pacifisme**
-(pasifismi, rauhankannatus)  
+'pasifismi, rauhankannatus'  
 **tabake**
-(tupakka)
+'tupakka'
 → **tabakisme**
-(tupakointi elämäntapana)
+'tupakointi elämäntapana'
 
-**-ite** :
-laatu, -us:  
+**-ite**
+'laatu, -us' :  
 **juste**
-(oikeudenmukainen, reilu)
+'oikeudenmukainen, reilu'
 → **justite**
-(oikeudenmukaisuus, reiluus)  
+'oikeudenmukaisuus, reiluus'  
 **sane**
-(terve)
+'terve'
 → **sanite**
-(terveys)  
+'terveys'  
 **un**
-(yksi)
+'yksi'
 → **unite**
-(ykseys)
+'ykseys'
 
-**-ive** :
-taipuvainen:  
+**-ive**
+'taipumus' :  
 **akte**
-(toimia)
+'toimia'
 → **aktive**
-(toimealias, aktiivinen)
+'toimealias, aktiivinen'
 
-**-ize** :
-varustaa:  
+**-ize**
+'varustaa' :  
 **aure**
-(kulta)
+'kulta'
 → **aurize**
-(kullata)
+'kullata'
 
-**-lis** :
-puuttuva, -ton:  
+**-lis**
+'puuttuva, -ton' :  
 **helpe**
-(apu)
+'apu'
 → **helpelis**
-(avuton)  
+'avuton'  
 **peni**
-(penni)
+'penni'
 → **penilis**
-(pennitön)
+'pennitön'
 
-**-os** :
-jotakin omaava tai sisältävä:  
+**-os**
+'jotakin omaava tai sisältävä' :  
 **pore**
-(huokonen)
+'huokonen'
 → **poros**
-(huokoinen, huokosia sisältävä)
+'huokoinen, huokosia sisältävä'
 
-**-ure** :
-tekemisen tulos, tuote tai jaloste:
+**-ure**
+'tekemisen tulos, tuote tai jaloste' :
 **korekte**
-(korjata)
+'korjata'
 → **korekture**
-(korjaus)  
+'korjaus'  
 **kulte**
-(hengenviljely, elämäntavan viljely)
+'hengenviljely, elämäntavan viljely'
 → **kulture**
-(kulttuuri)
+'kulttuuri'  
+**mixe**
+'sekoittaa'
+→ **mixure**
+'sekoitus, mikstuura'
 
 

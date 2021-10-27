@@ -152,6 +152,13 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **konwerke**
 'work together, collaborate'
 
+**mes-**
+'wrong' :  
+**uze**
+'use'
+→ **mesuze**
+'misuse'
+
 **non-**
 'absence of, non-' :  
 **dewiste**
@@ -213,8 +220,8 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 
 ### Suffixes
 
-**-al** :
-relating to:
+**-al**
+'relating to' :  
 **nacia**
 'nation'
 → **nacial**
@@ -228,53 +235,58 @@ relating to:
 → **universal**
 'universal'
 
-**-ate** :
-to act in the specified manner:  
+**-ate**
+'act in the specified manner' :  
 **rote**
 'wheel'
 → **rotate**
 'to rotate, to turn like a wheel'  
-**formul**
+**formule**
 'formula'
 → **formulate**
 'to formulate'
 
-**-ation** :
-action:  
+**-ation**
+'action' :  
 **rote**
 'wheel'
 → **rotation**
 'rotation'
 
-
-**-er** :
-doer, agent, -er:  
+**-er**
+'doer, agent, -er' :  
 **helpe**
 'help, assist'
 → **helper**
-'helper, assistant'
+'helper, assistant'  
+**beke**
+'bake'
+→ **beker**
+'baker'
 
 **-eria**
-workplace:
+'workplace' :
 **beker**
 'baker'
 → **bekeria**
 'bakery'
 
-**-ete** :
-diminutive, -ette, -let:  
+**-ete**
+'diminutive, -ette, -let' :  
 **cigare**
 'cigar'
 → **cigarete**
 'cigarette'
 
-**-ful** :
-full of, -ful:  
-**helpeful**
-'– helpful'
+**-ful**
+'full of, -ful' :  
+**helpe**
+'help'
+→ **helpeful**
+'helpful'
 
-**-ia** :
-some countries and regions:  
+**-ia**
+'country, region' :  
 **Arabia**
 'Arabia'  
 **Italia**
@@ -282,7 +294,7 @@ some countries and regions:
 **Rusia**
 'Russia'
 
-**-ian** or **-an**
+**-ian** / **-an**
 'inhabitant of' :
 **Amerikan**
 'American'  
@@ -306,6 +318,10 @@ some countries and regions:
 'stone'
 → **petrife**
 'petrify, to turn to stone'  
+**un**
+'one'
+→ **unife**
+'unify'  
 **klare**
 'clear'
 → **klarife**

@@ -86,7 +86,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'inhuman'
 
 **de-**
-'away, off' :
+'away, off' :  
 **cepe**
 'take, catch'
 → **decepe**
@@ -120,7 +120,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'ungrow, decrease'
 
 **ex**
-'out' :
+'out' :  
 **cepe**
 'take, catch'
 → **excepe**
@@ -153,7 +153,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'work together, collaborate'
 
 **mes-**
-'wrong' :  
+'wrong, badly' :  
 **uze**
 'use'
 → **mesuze**
@@ -235,6 +235,25 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **universal**
 'universal'
 
+**-an**
+'one who belongs to, inhabitant of' :  
+**Amerika**
+'America'
+→ **Amerikan**
+'American'  
+**Italie**
+'Italy'
+→ **Italian**
+'Italian'  
+**Rusie**
+'Russia'
+→ **Rusian**
+'Russian'  
+**hume**
+'earth, soil'
+→ **human**
+'earthling' and, _by extension_, 'human being'
+
 **-ate**
 'act in the specified manner' :  
 **rote**
@@ -264,11 +283,11 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **beker**
 'baker'
 
-**-eria**
-'workplace' :
+**-erie**
+'workplace' :  
 **beker**
 'baker'
-→ **bekeria**
+→ **bekerie**
 'bakery'
 
 **-ete**
@@ -285,31 +304,27 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **helpeful**
 'helpful'
 
-**-ia**
-'country, region' :  
-**Arabia**
-'Arabia'  
-**Italia**
-'Italy'  
-**Rusia**
-'Russia'
-
-**-ian** / **-an**
-'inhabitant of' :
-**Amerikan**
-'American'  
-**Italian**
-'Italian'  
-**Rusian**
-'Russian'
-
 **-ie**
-'science' :  
-**biolojie**
-'biology'  
-**filosofie**
-'philosophy'  
-**kemie**
+'area, region, field (also of knowledge)' :  
+**Arabe**
+'Arab'
+→ **Arabie**
+'Arabia'  
+**Itale**
+'Italian'
+→ **Italie**
+'Italy'  
+**Rus**
+'Russian, Ruski'
+→ **Rusie**
+'Russia'  
+**filsofe**
+'philosophy, world view'
+→ **filsofie**
+'philosophy as a discipline'  
+**keme**
+'chemical'
+→ **kemie**
 'chemistry'
 
 **-ife**
@@ -386,7 +401,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'smoker'
 
 **-isme**
-'way of thinking or behaving, -ism'  
+'way of thinking or behaving, -ism' :  
 **alkohol**
 'alcohol'
 → **alkoholisme**
@@ -467,14 +482,14 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'penniless'
 
 **-os**
-'plenty of, -ous':  
+'plenty of, -ous' :  
 **pore**
 'pore'
 → **poros**
 – porous.
 
 **-ure**
-'result or product' :
+'result or product' :  
 **korete**
 'to correct'
 → **koreture**

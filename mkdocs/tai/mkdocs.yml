@@ -3,7 +3,7 @@ site_url: http://www.kupsala.net/PanGlobish/tai
 repo_url: https://github.com/barumau/PanGlobish/
 docs_dir: ../../tai
 site_dir: ../../html/tai
-theme: readthedocs
+theme: flatly
 nav:
     - Home: 'index.md'
     - 'Grammar and Rules':

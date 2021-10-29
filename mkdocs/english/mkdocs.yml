@@ -4,9 +4,8 @@ repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
 docs_dir: ../../english
 site_dir: ../../html/english
-theme: readthedocs
+theme: journal
 nav:
-    - Home: 'index.md'
     - 'Grammar and Rules':
         - 'The 10 rules': 100_baze_regule.md
         - 'World Words': 101_dunia_worde.md
@@ -17,8 +16,8 @@ nav:
         - Modifiers: 106_modife.md
         - Pronouns: 107_pronome.md
         - Verbs: 108_verbe.md
-        - 'Sentence Structure': 109_worde_orde.md
-        - 'Word building': 110_worde_kostruktion.md
+        - 'Sentence Structure': 109_lexe_orde.md
+        - 'Word building': 110_lexe_konstrution.md
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md

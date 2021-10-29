@@ -4,9 +4,8 @@ repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
 docs_dir: ../../suomi
 site_dir: ../../html/suomi
-theme: readthedocs
+theme: journal
 nav:
-    - Kotisivu: 'index.md'
     - 'Kielioppi':
         - '10 sääntöä': 100_baze_regule.md
         - 'Kansainväliset sanat': 101_dunia_worde.md
@@ -16,7 +15,7 @@ nav:
         - Lukusanat: 105_numbe.md
         - Pronominit: 107_pronome.md
         - Verbit: 108_verbe.md
-        - 'Sanojen johtaminen': 110_worde_kostruktion.md
+        - 'Sanojen johtaminen': 110_lexe_konstrution.md
     - Oppitunteja:
         - '1. oppitunti': 201_lecion_1.md
     - 'Taustatietoja':

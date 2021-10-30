@@ -4,9 +4,11 @@ repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
 docs_dir: ../../english
 site_dir: ../../html/english
-theme: journal
+theme: readable
+extra_css:
+    - extra.css
 nav:
-    - 'Grammar and Rules':
+    - 'Grammar':
         - 'The 10 rules': 100_baze_regule.md
         - 'World Words': 101_dunia_worde.md
         - 'Spelling and pronunciation': 102_ortografie.md
@@ -21,10 +23,10 @@ nav:
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md
-    - 'About PanGlobish':
+    - 'About':
         - 'The idea': 301_idea_of_Panglobish.md
         - 'PanGlobish vs English': 302_Panglobish_vs_English.md
-    - Dictionaries:
+    - Vocabulary:
         - "PanGlobish–English" : PanGlobish-English.md
         - "English–PanGlobish" : English-PanGlobish.md
 

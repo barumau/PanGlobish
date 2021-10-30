@@ -48,21 +48,22 @@ liste_di_worde_from_X_to_PanGlobish() {
 }
 
 fata_leksasli_liste() {
-#    cat vokable.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat vokable.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    filename="$2/orige.md"
+#    cat vokable.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $filename
+    cat vokable.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$5 \"|\"}" > $filename
     #morta unordi linye
-    sed -i '1d' $2/leksaslia.md
+    sed -i '1d' $filename
     #Sort
-    LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
+#    LC_ALL=C sort -f $filename --output $filename
     #Add header row
-    sed -i "1s/^/| PanGlobish | $2 | leksasle |\n/" $2/leksaslia.md
+    sed -i "1s/^/| Panglobish | $2 | orige |\n/" $filename
     #Add header
-    sed -i "1s/^/# PanGlobish-$2 sa leksasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# Panglobish–$2 en di orige of lexe\n\n/" $filename
     #Delete empty translations
-    sed -i '/||/d' $2/leksaslia.md
+    sed -i '/||/d' $filename
     #xula linye 2
-    sed 's/|\*\*--/|--/' -i $2/leksaslia.md
-    sed 's/--\*\*|/--|/' -i $2/leksaslia.md
+    sed 's/|\*\*--/|--/' -i $filename
+    sed 's/--\*\*|/--|/' -i $filename
 }
 
 make_di_liste() {

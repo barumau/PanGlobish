@@ -4,7 +4,9 @@ repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto "Rippe" Kupsala
 docs_dir: ../../esperanto
 site_dir: ../../html/esperanto
-theme: flatly
+theme: readable
+extra_css:
+    - extra.css
 nav:
     - 'Gramatiko':
         - 'La 10 reguloj': 100_baze_regule.md

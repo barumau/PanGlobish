@@ -1,4 +1,29 @@
-# Sanojen rakentaminen
+# Sanojen johtaminen
+
+## Nollajohto
+
+Nollajohto on sananmuodostuksen tapa, jossa sanaa käytetään uuden sanaluokan tehtävässä sellaisenaan eli ilman ulkoisesti näkyvää osoitinta sanaluokan vaihdoksesta.
+Panglobishissa se on hyvin yleistä.
+Itse asiassa suurin osa sanoista ei kuulu mihinkään määrättyyn sanaluokkaan,
+vaan sanaluokka määräytyy sen perusteella, mikä tehtävä sanalla on lauseessa.
+
+Esimerkiksi sana **blanke** voi toimia niin adjektiivina 'tyhjä', substantiivina 'tyhjä' kuin verbinä 'tyhjentää'.
+
+**yu have som blanke papir, no?**
+– Onko sinulla tyhjää paperia?  
+**give mi un blanke!**
+– Annan minulle yksi tyhjä!  
+**yu mus blanke da texte.**
+– Sinun täytyy tyhjentää teksti.
+
+Samaten sana **skribe** voi toimia niin verbinä 'kirjoittaa', substantiivina 'kirjoitus' kuin adjektiivina 'kirjoitettu, kirjallinen'.
+
+**mi skribe un letre.**
+– Minä kirjoitan kirjettä.  
+**un letre is un skribe misaje.**
+– Kirje on kirjoitettu viesti.  
+**mi love yu's skribe.**
+– Minä rakastan teidän kirjoituksianne.
 
 ## Yhdyssanat
 
@@ -56,7 +81,7 @@ vastakohta, epä-:
 'epäihminen'
 
 **de-**
-'pois, erilleen' :
+'pois, erilleen' :  
 **cepe**
 'ottaa, napata'
 → **decepe**
@@ -90,7 +115,7 @@ vastakohta, epä-:
 'kutistua'
 
 **ex**
-'ulos' :
+'ulos' :  
 **cepe**
 'ottaa, napata'
 → **excepe**
@@ -101,7 +126,7 @@ vastakohta, epä-:
 'heittää ulos'
 
 **in-**
-'sisään' :
+'sisään' :  
 **jete**
 'työntää'
 → **injete**
@@ -167,6 +192,17 @@ tupakoimaton
 → **previde**
 'nähdä edeltä, aavistaa'
 
+**pro-**
+'eteen, esiin' :  
+**poze**
+'panna, asettaa'
+→ **propoze**
+'panna ehdolle'  
+**voke**
+'kutsua'
+→ **provoke**
+'kutsua esiin'
+
 **re-**
 'takaisin' :  
 **ate**
@@ -206,6 +242,25 @@ tupakoimaton
 'kaikkeus'
 → **universal**
 'kaikkea koskeva, universaali'
+
+**-an**
+'johonkin kuuluva, jäsen, asukas' :  
+**Amerika**
+'Amerikka'
+→ **Amerikan**
+'amerikkalainen'  
+**Italie**
+'Italia'
+→ **Italian**
+'italialainen'  
+**Rusie**
+'Venäjä'
+→ **Rusian**
+'venäläinen, venäjänmaalainen'  
+**hume**
+'maa-aines'
+→ **human**
+'maasta tehty, tomumaja' ja, _siitä johdettuna_, 'ihminen'
 
 **-ate**
 'toimia' :  
@@ -257,32 +312,30 @@ tupakoimaton
 → **helpeful**
 'avulias, avukas'
 
-**-ia**
-'maa, alue' :
-**Arabia**
-'Arabia'  
-**Italia**
-'Italia'  
-**Rusia**
-'Venäjä'
-
-**-ian** / **-an**
-'johonkin kuuluva, jäsen, asukas' :  
-**Amerikan**
-'amerikkalainen'  
-**Italian**
-'italialainen'  
-**Rusian**
-'venäläinen'
-
 **-ie**
-'tiede' :  
-**biolojie**
-'biologia'  
-**filosofie**
-'filosofia'  
-**kemie**
+'maa, alue, ala (myös tiedonala)' :  
+**Arabe**
+'arabi'
+→ **Arabie**
+'Arabia'  
+**Itale**
+'italialainen'
+→ **Italie**
+'Italia'  
+**Rus**
+'venäläinen'
+→ **Rusie**
+'Venäjä'  
+**filsofe**
+'maailmankatsomus, elämänfilosofia'
+→ **filsofie**
+'filosofia (tieteenä)'  
+**keme**
+'kemikaali'
+→ **kemie**
 'kemia'
+
+
 
 **-ife**
 'tehdä joksikin' :  
@@ -317,6 +370,17 @@ tupakoimaton
 'uusi'
 → **nuvike**
 'uusikko, noviisi'
+
+**-ime**
+'enin, superlatiivinen' :  
+**pre**
+'edessä'
+→ **prime**
+'etummaisin, ensimmäinen'  
+**extre**
+'ulkona'
+→ **extrime**
+'uloin, äärimmäinen'
 
 **-ion**
 'toiminta tai prosessi' :  
@@ -392,11 +456,15 @@ tupakoimaton
 'ykseys'
 
 **-ive**
-'taipumus' :  
-**akte**
+'taipuvainen' :  
+**ate**
 'toimia'
-→ **aktive**
-'toimealias, aktiivinen'
+→ **ative**
+'toimealias, aktiivinen'  
+**exploze**
+'räjähtää'
+→ **explozive**
+'räjähtävä'
 
 **-ize**
 'varustaa' :  
@@ -424,7 +492,7 @@ tupakoimaton
 'huokoinen, huokosia sisältävä'
 
 **-ure**
-'tekemisen tulos, tuote tai jaloste' :
+'tekemisen tulos, tuote tai jaloste' :  
 **korekte**
 'korjata'
 → **korekture**

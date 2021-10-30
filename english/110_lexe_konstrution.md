@@ -36,14 +36,14 @@ Words can be combined freely in Panglobish to express new concepts.
 The last element in the combination is the main one in determining the meaning,
 while the preceding element only modifies the meaning.
 
-For example, **eskribe meza** means a type of table (a writing table).
+For example, **skribe meza** means a type of table, 'a writing table'.
 Similarly,
 **kristal klare**
-= crystal-clear,
+'crystal-clear',
 **love lete**
-= love letter,
+'love letter',
 **kafe kupe**
-= coffeecup.
+'coffeecup'.
 
 Compound words may be written together or separately.
 Especially established compound words are usually written together.
@@ -196,6 +196,17 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **previde**
 'foresee, preview'
 
+**pro-**
+'onward, forth' :  
+**poze**
+'put, pose'
+→ **propoze**
+'put forward, propose'  
+**voke**
+'call, summon'
+→ **provoke**
+'call forth, provoke'
+
 **re-**
 'back' :  
 **ate**
@@ -222,11 +233,11 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 
 **-al**
 'relating to' :  
-**nacia**
+**nacie**
 'nation'
 → **nacial**
 'national'  
-**socia**
+**socie**
 'society'
 → **social**
 'social'  
@@ -361,6 +372,17 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **nuvike**
 'novice, newbie'
 
+**-ime**
+'the most, superlative' :  
+**pre**
+'fore, front'
+→ **prime**
+'foremost, prime'  
+**extre**
+'outside, exterior'
+→ **extrime**
+'outermost, extreme'
+
 **-ion**
 'action or process' :  
 **ate**
@@ -435,7 +457,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'unity, oneness'
 
 **-ive**
-'inclination' :  
+'inclinaed to' :  
 **ate**
 'act, perform'
 → **ative**

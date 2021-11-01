@@ -229,10 +229,37 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **riforme**
 'to reform'
 
+
 ### Suffixes
 
+**-ade**
+'group or series of' :  
+**kolun**
+'column'
+→ **kolunade**
+'colonnade'  
+**sene**
+'old person'
+→ **senade**
+'council of elders, senate'
+
+**-aje**
+'thing made of' :  
+**mise**
+'send'
+→ **misaje**
+'something sent, message'  
+**face**
+'face'
+→ **facaje**
+'facade, frontage'  
+**limon**
+'lemon'
+→ **limonaje**
+'lemonade'
+
 **-al**
-'relating to' :  
+'relating to, concerning' :  
 **nacie**
 'nation'
 → **nacial**
@@ -247,7 +274,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'universal'
 
 **-an**
-'one who belongs to, inhabitant of' :  
+'one who belongs to, one who has membership in the country, city or group' :  
 **Amerika**
 'America'
 → **Amerikan**
@@ -260,6 +287,14 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'Russia'
 → **Rusian**
 'Russian'  
+**Paris**
+'the city of Paris'
+→ **Parisan**
+'Parisian'  
+**Kristie**
+'Christendom'
+→ **kristian**
+'Christian'  
 **hume**
 'earth, soil'
 → **human**

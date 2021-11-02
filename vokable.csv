@@ -442,6 +442,9 @@ flure|flure|mate|F||fluorine|||flúor|||||||||||||fluoro|fluori|fluor|||
 Fobos|Fobos|planete 4 lune 1|||Phobos|Phobos||||||||||||||||||||
 fol.|fol||Globish||mad (fool, crazy)||fol|||||||||||||||hölmö (kahjo, hullua)|||fool |a person without sense
 fol.i.|folie|||eng:folly, fra:folie, ita:follia|madness (folly)||folie|||||||||||||||hölmöys (hulluus)||||
+fon.|fone|||eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|phone (speech sound)|||fono (segmento acústico)||||||||||||||äänne (fooni)|głoska|||
+fon.em.|• foneme||||phoneme|||fonema||||||||||||||äänne (foneemi)|fonem|||
+fon.loj.i.|• fonelojie||||phonology|||fonología||||||||||||||fonologia (äänneoppi)|fonologia|||
 for|for|num.|FF BGE ||four (4)||||||||||||||||kvar (4)|neljä (4)|cztery (4)|||
 fork.|forke||FF  |eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork|||tenedor|||||||||||||forko|haarukka|widelec|||
 form.|forme||BGE Globish|eng:deu:form, fra:forme, spa:por:forma, rus:форма (forma)|form (shape)|Form (Gestalt)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma, kształt||shape|the form of a thing
@@ -719,12 +722,12 @@ Kenya|Kenya|lande|KE||Kenya|||Kenia||||||||||||||Kenia|Kenia|||
 khan|khan|||eng:fra:khan, spa:kan, por:cã, rus:хан (khan), zho:可汗 (kèhán), ara:خَان‎ (khān), hin:खान (khān)|khan||khan|kan|cã|хан||:可汗||||खान|||||ĥano|kaani||||
 Khartum|Khartum|chefe citi|SD||Khartoum||Khartoum|Jartum|Cartum|Хартум|الخرطوم|喀土穆|ハルツーム|||||Khartoum|Khartoum|Hartum|Ĥartumo|Khartoum||||
 kide|kide||FF BGE Globish||child (kid)||||||||||||||||||||child|a young person, not an adult
-kim.e|kime|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|substance (physical material from which something is made)|substance|sustancia|substância|вещество||物质|物質|물질|vật chất|पदार्थ|পদার্থ|||||aine (aines, materia)|||||
-kim.e/loj.er|• kimelojer||BEIW||chemist|Chemiker|chimiste|químico|químico|химик||化学家|化学者|화학자||||kimiawan||kimyacı|kemiisto|kemisti|chemik|||
-kim.e/loj/ie|• kimelojie (kimie)||BEIW||chemistry|Chemie|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|kemio (ĥemio)|kemia|chemia|||
+kim.|kime|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|substance (physical material from which something is made)|substance|sustancia|substância|вещество||物质|物質|물질|vật chất|पदार्थ|পদার্থ|||||aine (aines, materia)|||||
+kim.loj.er.|• kimelojer||BEIW||chemist|Chemiker|chimiste|químico|químico|химик||化学家|化学者|화학자||||kimiawan||kimyacı|kemiisto|kemisti|chemik|||
+kim.loj.i.|• kimelojie (kimie)||BEIW||chemistry|Chemie|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|kemio (ĥemio)|kemia|chemia|||
 Kinshasa|Kinshasa|chefe citi|CD||Kinshasa|Kinshasa|Kinshasa|||||||||||||||Kinshasa||||
 Kinshasa Kongo|Kinshasa Kongo|lande|CD||Congo Kinshasa|||República Democrática del Congo||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga|||
-kiosk.e|kioske||Simplish|eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku), fas:کوشک‎ (kôšk)|kiosk|||quiosco (kiosco)|quiosque|киоск|||キオスク|||कीओस्क||kios||||kioski|kiosk|||
+kiosk.|kioske||Simplish|eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku), fas:کوشک‎ (kôšk)|kiosk|||quiosco (kiosco)|quiosque|киоск|||キオスク|||कीओस्क||kios||||kioski|kiosk|||
 Kipris|Kipris|lande|CY||Cyprus|||Chipre||||||||||||||Kypros|Cypr|||
 Kirgizie|Kirgizie|lande|KG||Kyrgyzstan|||Kirguizistán||||||||||||||Kirgistan (Kirgisia)|Kirgistan|||
 Kiribati|Kiribati|lande|KI||Kiribati|||Kiribati||||||||||||||Kiribati|Kiribati|||
@@ -900,15 +903,18 @@ lok/a.|aloke||AWL||allocate |||||||||||||||||||||
 long|long||FF BGE Globish|eng:fra:long, deu:lang, por:longo|long (lengthy)|lang|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)||panjang|uzun|longa|pitkä|długi||long |measuring much
 lote|lote||BGE Globish|eng:fra:lot, spa:por:lote|lot (batch)|Partie|lot|lote|lote|партия (серия)||批量|束 (群れ)|||||||||erä (satsi, nippu)|||lot|a large number or amount
 lov.|love||FF BGE Globish|eng:love|love (like)|lieben|aimer|amar (querer)|amar|любить|حب|爱|愛する|사랑하다|yêu|प्यार करना (प्रेम करना)|ভালবাসা|cinta|kupenda|sevmek|ami (ŝati)|rakastaa (pitää, tykätä)|kochać||love |great attachment
-lov.er|lover||||lover|Geliebter||amante|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja||||
+lov.er|• lover||||lover|Geliebter||amante|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja||||
 lune|lune|planete 3 lune 1|FF BGE Globish|fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|Mond|lune|luna|lua|луна|||||||||||luno|kuu|księżyc||moon |the natural satellite of the earth
 lunedi|lunedi|wike dey 1|FF BGE ||Monday|Montag|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|lundo|maanantai|poniedziałek|||
 lut.|lute||Globish|hin:लूटना (lūṭnā), ben:লুটা (luṭā), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)|||saquear (desvalijar, robar)||||掠夺||||लूटना |লুটা||||rabi|ryöstää (ryövätä)|obrabować, splądrować||rob|to steal from
 lutecium|lutecium|mate|Lu||lutetium|||lutecio|||||||||||||lutecio|lutetium|lutet|||
 Luxemburge|Luxemburge|lande|LU||Luxembourg|||Luxemburgo||||||||||||||Luxemburg|Luksemburg|||
-luze|luze||FF BGE Globish|eng:lose|lose (fail)|verlieren|perdre|perder (no ganar)|perder|проиграть||||||खोना (हारना)||||||hävitä (menettää, kärsiä tappio)|przegrać (przegrywać)||lose |to be unable to keep
-luzer|luzer||||loser|Verlierer|perdant|perdedor|perdedor|||输家|敗者|||||||||häviäjä|przegrany (pokonany)|||
+luz.|luze||FF BGE Globish|eng:lose|lose (fail)|verlieren|perdre|perder (no ganar)|perder|проиграть||||||खोना (हारना)||||||hävitä (menettää, kärsiä tappio)|przegrać (przegrywać)||lose |to be unable to keep
+luz.er.|• luzer||||loser|Verlierer|perdant|perdedor|perdedor|||输家|敗者|||||||||häviäjä|przegrany (pokonany)|||
 M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|||
+ma.|ma||FF BGE Globish|spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mom (mama)|Mama|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama||mother |a female parent who has given birth to a child
+ma.tr.|• matre||||mother|Mutter|mère|madre|mãe|мать||母亲||||||||||äiti|matka|||
+ma.tr.i.|• matrie||||motherland|Mutterland|||pátria-mãe|родина||||||||||||emämaa (synnyinmaa)|macierz|||
 Madagasi|Madagasi|lande|MG||Madagascar|||Madagascar||||||||||||||Madagaskar|Madagaskar|||
 Madyar|Madyar|lande|HU||Hungary|||Hungría||||||||||||||Unkari|Węgry|||
 Magribe|Magribe|lande|MA||Morocco||Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko|||
@@ -921,7 +927,6 @@ Malawi|Malawi|lande|MW||Malawi|||Malaui||||||||||||||Malawi|Malawi|||
 Mali|Mali|lande|ML||Mali|||Mali|||||||||||||Malio|Mali|Mali|||
 Malta|Malta|lande|MT||Malta|||Malta||||||||||||||Malta|Malta|||
 Malvinas|Malvinas|lande|FK||Falkland Islands (Malvinas)|||Islas Malvinas||||||||||||||Falklandin saaret|Falklandy, Malwiny|||
-mama|mama||FF BGE Globish|spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mother (mom, mama)||mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama||mother |a female parent who has given birth to a child
 man|man||FF BGE Globish|eng:man, deu:Mann, zho:男 (nán)|man|Mann|homme|hombre|homem|мужчина||男人|男性|사내 (남자)|đàn ông|आदमी|আদমি|lelaki (laki-laki)|mwanaume|adam (erkek)|viro|mies|mężczyzna||man|an adult person who is male
 man/al|manal||FF Globish||male (masculine)|||||||||||||||||miespuolinen (uros)|||male |a man or a boy
 mangane|mangane|mate|Mn||manganese|||manganeso|||||||||||||mangano|mangaani|mangan|||
@@ -1015,8 +1020,8 @@ mir.aj.e|• miraje||||mirage|Luftspiegelung (Fata Morgana)|mirage|espejismo|mir
 mir.e|mire||||reflect|||reflejar|||||||||||||speguli|heijastaa (peilata)|odbić, odbijać|||
 mir.er|• mirer||BGE |eng:mirror, fra:miroir, ara: مرآة (mirʾāh), tur:mirat|mirror|Spiegel|miroir|espejo (retrovisor)|espelho|зеркало|مرآة|镜子|鏡|거울|gương|दर्पण (आईना)|আয়না|cermin|kioo|ayna (mirat)|spegulo|peili|lustro|||
 Miranda|Miranda|planete 7 lune 1|||Miranda|Miranda||||||||||||||||||||
-mis.aj.e|• misaje||Globish|eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej|message||message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość||message|a communication from one person to another
 mis.|mise||||send|||||||||||||||||lähettää||||
+mis.aj.e|• misaje||Globish|eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej|message||message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość||message|a communication from one person to another
 mis.ex.e|• exmise||||emit|||||||||||||||||||||
 mis.ion|• mision||||mission (sending)||mission|misión|missão|миссия||||||||misi||||lähetys||||
 mis.ion.er|• misioner|||eng:missionary, deu:Missionar, fra:missionnaire, spa:misionero, por:misionário, rus:миссионер (missioner), may:misioinaris, swa:mmisionari, tur:misyoner|missionary|Missionar|missionnaire|misionero|missionário|миссионер||传教士|宣教師|선교사|người truyền giáo|||misionaris|mmisionari|misyoner|misiisto|lähetti (lähetyssaarnaaja)|misjonarz|||
@@ -1189,6 +1194,12 @@ ov.al|• oval|||eng:deu:tur:oval, fra:ovale, spa:óvalo, rus:овал (oval)|ov
 ove cele|ove cele||||ovum (egg cell)|ovule|óvulo|óvulo|яйцеклетка|||||||||||||munasolu||||
 ox.|oxe|mate|O||oxygen|||oxígeno|||||||||||||oksigeno|happi|tlen|||
 P|P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|||
+pa.|pa||FF BGE Globish|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|dad (papa)||pere (papa)|papá|pai|папа|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak)|baba|baba|paĉjo|isi|ojciec||father |a male parent
+pa.tr.|• patre||||father|||padre||отец||父亲||||||ayah||ata|patro|isä||||
+pa.tr.i.|• patrie||||fatherland|Vaterland|patrie|patria|pátria|отечество|||||||||||patrujo|isänmaa|ojczyzna|||
+pa.tr.i/ex.an.|• expatrian||||expatriate|Expertriate|expatrié|expatriado|expatriado|экспатриант||||||||||||ekspatriaatti (maastamuuttaja)||||
+pa.tr.i/kon.an.|• konpatrian||||compatriot (fellow citizen)|Landsmann|compatriote|compatriota (cotérraneo)|compatriota (compatrício)|соотечественник||||||||||vatandaş|samlandano|maanmies|kompatriota|||
+pa.tr.i/re.at.|• repatriate||||repatriate|||||||||||||||||kotouttaa (palauttaa isänmaahan)||||
 pac.|pace||FF BGE Globish|eng:peace, fra:paix, spa:por:paz, ita:pace|peace||paix|paz|paz|||和平|||||||||paco|rauha|pokój||peace|no war 
 pac.if.ism.|pacifisme||||pacifism|||pacifismo||||和平主义|||||||||pacifismo|rauhanaate (pasifismi)|pacyfizm|||
 pac.if.ist.|pacifiste||||pacifist||pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista|||
@@ -1212,9 +1223,8 @@ pandite|pandite||Globish AWL|hin:पण्डित (paṇḍit), ben:পণ্�
 panir|panir|||hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer|quark (paneer)||fromage blanc|queso fresco|queijo fresco|творог|||クワルク|||||||||rahka|twaróg|||
 pankreas|pankreas|organ||eng:fra:spa:por:pancreas, deu:may:tur:pankreas|pancreas|Bauchspeicheldrüse (Pankreas)|pancréas|páncreas|pâncreas|поджелу́дочная железа||胰脏|膵臓|이자|tụy|अग्न्याशय|অগ্ন্যাশয়|pankreas|kongosho|pankreas|pankreato|haima|trzustka|||
 pant.|pante||FF Globish||pants (trousers)|||pantalones|||||||||||||pantalonoj|housut|spodnie (pantalony, portki)||pants|a piece of clothing for the lower body
-papa|papa||FF BGE Globish|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)||pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec||father |a male parent
+pap.|pape|||eng:pap, spa:papilla|pap (soft food)|||papilla||||||||||||||mössö|papka|||
 papaya|papaya|frute||eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), Hin:पपीता (papītā), ben:পেঁপে (pẽpe)|papaya||papaye|papaya|mamão (papaia)|папайя||木瓜|パパイヤ|파파야|đu đủ|पपीता|পেঁপে|pepaya (betik)|papai|papaya|papajo|papaija|papaja|||
-pape|pape|||eng:pap, spa:papilla|pap (soft food)|||papilla||||||||||||||mössö|papka|||
 papir.|papir||FF BGE Globish||paper||||||||||||||||||||paper|a material used mainly for writing
 Papua Nuve Ginea|Papua Nuve Ginea|lande|PG||Papua New Guinea|||Papúa Nueva Guinea||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea|||
 par/kon.|• konpare||Globish||compare||||||||||||||||||||compare|to examine similarities and differences
@@ -1546,8 +1556,8 @@ strut/infra.ur.|• infrastrutur||AWL||infrastructure  |||||||||||||||||infrastr
 strut/kon.|• konstrute||FF BGE Globish AWL||construct (build)|bauen (konstruieren)|construire|construir||строить||||||||||||rakentaa|||build|make by putting materials together
 strut/kon.ion|• konstrution|||ita:costruzione, eng:fra:construction, por:construção, spa:construcción, deu:konstruieren, rus:конструкция (konstrukciya), jpn:コンストラクト (konsutorakuto)|construction|Bau|construction|construcción|construção|строение||||||निर्माण||||||rakentaminen||||
 stud.e|stude||BGE Globish||learn (study)||||||||||||||||||||study|to give careful consideration to
-stud/an|studan||FF BGE |deu:eng:student, fra:étudiant, spa:estudiante, por:estudante, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|Student|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|student|||
 stud.i.|studie||||study room||étude|estudio||кабинет (студия)||||||||||||opisto||||
+stud/an|studan||FF BGE |deu:eng:student, fra:étudiant, spa:estudiante, por:estudante, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|Student|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|student|||
 stupid.|stupide||Globish||stupid||||||||||||||||||||stupid |not intelligent
 Sudan|Sudan|lande|SD||Sudan|||Sudán||||||||||||||Sudan|Sudan|||
 sude|sude|kompas|FF BGE Globish|fra:sud, spa:sur, por:sul, eng:south, deu:Süden|south||sud|sur|sul||||||||||||sudo|etelä|południe||south|the direction to the left when facing the sunset
@@ -1567,31 +1577,31 @@ Sverie|Sverie|lande|SE||Sweden|||Suecia||||||||||||||Ruotsi|Szwecja|||
 Swati|Swati|lande|SZ||Eswatini (Swaziland)|||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi|||
 Swice|Swice|lande|CH||Switzerland||Suisse|Suiza||||||||||||||Sveitsi|Szwajcaria|||
 T|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|||
-tabake|tabake|||eng:tobacco, deu:Tabak, fra:tabac, spa:por:tabaco, rus:табак (tabak), jpn:タバコ (tabako), hin:तंबाकू (tambākū), may:tembakau|tobacco|Tabak|tabac|tabaco|tobaco|табак|||タバコ|||तंबाकू||tembakau|||tabako|tupakka|tytoń|||
-tabakiste|tabakiste||||smoker|Raucher|fumeur|fumador|fumante|курильщик||吸烟者|喫煙者|||||||||tupakoitsija|palacz|||
+tabak.|tabake|||eng:tobacco, deu:Tabak, fra:tabac, spa:por:tabaco, rus:табак (tabak), jpn:タバコ (tabako), hin:तंबाकू (tambākū), may:tembakau|tobacco|Tabak|tabac|tabaco|tobaco|табак|||タバコ|||तंबाकू||tembakau|||tabako|tupakka|tytoń|||
+tabak.ist.|tabakiste||||smoker|Raucher|fumeur|fumador|fumante|курильщик||吸烟者|喫煙者|||||||||tupakoitsija|palacz|||
 Taiwan|Taiwan|lande|TW||Taiwan (Republic of China)|||Taiwán||||||||||||||Taiwan|Tajwan, Republika Chińska|||
 Tajike|Tajike|lande|TJ||Tajikistan|||Tayikistán||||||||||||||Tadžikistan|Tadżykistan|||
 talium|talium|mate|Tl||thallium|||talio|||||||||||||talio|tallium|tal|||
 tango|tango|dance|RadCom||tango|||tango||||||||||||||tango||||
 tantalum|tantalum|mate|Ta||tantalum|||tántalo|||||||||||||tantalo||tantal|||
 Tanzanie|Tanzanie|lande|TZ||Tanzania|||Tanzania|||||||||||||Tanzanio|Tansania|Tanzania|||
-tatal|tatal||||tactile (tangible)|fühlbar|tactile|táctil|tátil|||||||||||||kosketus-||||
-tate|tate||||touch (be in contact)|||||||||||||||||koskettaa (olla kosketuksissa)||||
-tatu|tatu|||eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu), may:tato|tattoo||tatouage|tatuaje||татуировка (тату)|||||||||tato||tatuo|tatuointi|tatuaż|||
-taun|taun|n.|FF Globish||town||||||||||||||||||||town |a population centre smaller than a city
-tauzen|tauzen|num.|BGE |eng:thousand, deu:Tausend|thousand|Tausend||mil|||||||||||||mil|tuhat|tysiąc|||
+tat.|tate||||touch (be in contact)|||||||||||||||||koskettaa (olla kosketuksissa)||||
+tat.al.|• tatal||||tactile (tangible)|fühlbar|tactile|táctil|tátil|||||||||||||kosketus-||||
+tatu.|tatu|||eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu), may:tato|tattoo||tatouage|tatuaje||татуировка (тату)|||||||||tato||tatuo|tatuointi|tatuaż|||
+taun.|taun|n.|FF Globish||town||||||||||||||||||||town |a population centre smaller than a city
+tauzen.|tauzen|num.|BGE |eng:thousand, deu:Tausend|thousand|Tausend||mil|||||||||||||mil|tuhat|tysiąc|||
 taxi|taxi|||deu:eng:fra:spa:taxi, rus:такси (taksi), jpn:タクシー (takushī), kor:택시 (taeksi), vie:tắc xi, hin:टैक्सी (ṭaiksī), ben:ট্যাক্সি (ṭyaksi), tur:may:taksi, swa:teksi|taxi (cab)|Taxi|taxi|taxi|táxi|такси||出租汽车 (的士)|タクシー|택시|xe tắc xi|टैक्सी|ট্যাক্সি|taksi (teksi)|teksi|taksi|taksio|taksi|taxi (taksówka)|||
-te|te|||eng:tea, fra:thé, spa:té, vie:chè, may:teh|herbal tea|Kräutertee|tisane|tisana|infusão|травяной чай||凉茶|ハーブティー|허브티||||||bitki çayı||yrttitee (haude)|herbata|||
-teatral|teatral||||theatrical|Theatralisch|théâtra|teatral|teatral|театральный|||||||||||teatra|teatraalinen|teatralny|||
-teatre|teatre|||deu:eng:theater, fra:théâtre, spa:por:teatro, rus:театр (teatr), hin:थिएटर (thieṭar), ben:থিয়েটার (thiyeṭar), may:teater, tur:tiyatro, jpn:シアター (shiatā)|theater (theatre)|Theater|théâtre|teatro|teatro|театр||剧场 (剧院)|劇場 (シアター)|극장|nhà hát|थिएटर|মঞ্চনাটক (থিয়েটার)|teater|ukumbi|tiyatro|teatrejo|teatteri (näyttämösali)|teatr|||
+te.|te|||eng:tea, fra:thé, spa:té, vie:chè, may:teh|herbal tea|Kräutertee|tisane|tisana|infusão|травяной чай||凉茶|ハーブティー|허브티||||||bitki çayı||yrttitee (haude)|herbata|||
+teatr.|teatre|||deu:eng:theater, fra:théâtre, spa:por:teatro, rus:театр (teatr), hin:थिएटर (thieṭar), ben:থিয়েটার (thiyeṭar), may:teater, tur:tiyatro, jpn:シアター (shiatā)|theater (theatre)|Theater|théâtre|teatro|teatro|театр||剧场 (剧院)|劇場 (シアター)|극장|nhà hát|थिएटर|মঞ্চনাটক (থিয়েটার)|teater|ukumbi|tiyatro|teatrejo|teatteri (näyttämösali)|teatr|||
+teatr.al.|• teatral||||theatrical|Theatralisch|théâtra|teatral|teatral|театральный|||||||||||teatra|teatraalinen|teatralny|||
 tekn.|tekne||AWL|fra:eng:technique, deu:Technik, spa:por:técnica, rus:техника (tehnika), ara:(tiqniya), hin:तकनीक (taknīk), may:tur:teknik, swa:teknolojia|technique (technology)||technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|तकनीक||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia|||
-tekn.krat.i.|teknekratie||||technocracy|||tecnocracia||||||||||||||teknokratia|technokracja|||
-tekn.loj.i.|teknelojie||FF AWL||technology (study of techniques)||technologie|tecnología||технология||工艺学|||||||teknolojia|teknoloji|teknologio|tekniikka (teknologia)|technologia, nauka o technikach|||
+tekn.krat.i.|• teknekratie||||technocracy|||tecnocracia||||||||||||||teknokratia|technokracja|||
+tekn.loj.i.|• teknelojie||FF AWL||technology (study of techniques)||technologie|tecnología||технология||工艺学|||||||teknolojia|teknoloji|teknologio|tekniikka (teknologia)|technologia, nauka o technikach|||
 tekn.t.ium|teknetium|mate|Tc||technetium|||tecnetio|||||||||||||teknecio||technet|||
 tel.fon.|telefone||FF Simplish BEIW||telephone||téléphone|telefono||телефон||电话机|||||||||telefono|puhelin|telefon|||
 tel.port.|teleporte||||teleport|teleportieren|téléporter||teletransportar (teleportar)|||||||||||||teleportata (kaukosiirtää)||||
 tel.port.at.ion|teleportation||||taleportation|Teleportation|téléportation|teleportación (teletransporte)|teletransporte|телепортация||瞬间移动||||||||||||||
-teel.viz.|televize||||televise (broadcast by television)||téléviser|televisar|televisar|||电视播放||||||||||lähettää televisioon||||
+tel.viz.|televize||||televise (broadcast by television)||téléviser|televisar|televisar|||电视播放||||||||||lähettää televisioon||||
 tel.viz.er.|televizer||FF RadCom|fra:téléviseur, por:televisor, rus:телевизор (televizor), eng:spa:television, ara: تلفزيون (tilifizyūn), jpn:テレビジョン (terebijon), kor:텔레비전 (tellebijeon), hin:टेलीविज़न (ṭelīvizan), ben:টেলিভিশন (ṭelibhiśôn), may:televisi, swa:televisheni, tur:televizyon|television (telly, tube)|Fernseher|téléviseur|televisión|televisor|телевизор||电视机|テレビジョン|텔레비전|máy thu hình (TV)|टेलीविज़न (दूरदर्शन)|টেলিভিশন|televisi|televisheni (runinga)|televizyon|televidilo|televisio|telewizja|||
 tel.viz.ion|televizion||||television media||télévision||televisão|||||||||||||televisiolähetys||||
 telurium|telurium|mate|Te||tellurium|||telurio|||||||||||||teluro||tellur|||

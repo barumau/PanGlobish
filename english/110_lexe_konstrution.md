@@ -131,7 +131,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'thrust out, eject'
 
 **in-**
-'in, into, in-, en-' :
+'in, into, in-, en-' :  
 **jete**
 'thrust'
 → **injete**

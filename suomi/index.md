@@ -30,7 +30,7 @@ Kaikki voivat oppia panglobishin alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää panglobishia kuin huonoa englantia.
 
-![](http://www.kupsala.net/panglobish/grafe/Panglobish.png)
+Panglobishin kielioppi on [täällä yhdellä verkkosivulla](pan.md) ja [täällä PDF-tiedostona](pan.pdf).
 
 ## Panglobishin perusteet
 

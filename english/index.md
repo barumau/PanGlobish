@@ -29,6 +29,7 @@ Everybody can learn Panglobish to a good level in a short period of time!
 Panglobish is an excellent choice for the global second language because it improves the quality of international communication.
 It's better to speak good Panglobish than bad English.
 
+The Panglobish grammar is [here in one web page](pan.md) and [here in one PDF file](pan.pdf).
 
 ## The Basics of Panglobish
 

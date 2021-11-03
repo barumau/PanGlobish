@@ -15,7 +15,7 @@ Yksikön toisen persoonan pronominia **tu** saa käyttää kaikissa tilanteissa
 puhuteltavan henkilön asemasta ja iästä riippumatta.
 Panglobishissa on siis lupa sinutella.
 Kuitenkin jotkut puhujat saattavat puhutella sanalla **tu** vain perheenjäseniä ja läheisiä ystäviä.
-Silloin se on käytössä ikään kuin saksan _du_, ranskan _tu_, venäjän _ты_ (ty) ja hindin तू (tū).
+Silloin se on käytössä ikään kuin saksan _du_, ranskan _tu_, venäjän _ты_ (ty) ja hindin _tū_.
 
 Monikon toisen persoonan pronominia **yu** saa aina käyttää
 yksikön pronominin **tu** sijasta.

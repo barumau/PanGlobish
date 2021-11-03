@@ -65,7 +65,7 @@ mutta useimmat ovat aitoja liitteitä, jotka eivät toimi itsenäisinä sanoina.
 → **alige**
 'sitoutua, liittoutua'
 
-**an-** :
+**an-** :  
 vastakohta, epä-:  
 **hapi**
 'onnellinen'
@@ -138,7 +138,7 @@ vastakohta, epä-:
 
 
 **kon-**
-̈́'yhdessä, yhteen' :  
+'yhdessä, yhteen' :  
 **strute**
 'rakentaa'
 → **konstrute**

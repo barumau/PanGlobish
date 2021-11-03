@@ -1,3 +1,4 @@
+sh bin/skribe_di_PDF.sh
 sh bin/liste_vokable.sh
 sh bin/make_webe_paje.sh
 

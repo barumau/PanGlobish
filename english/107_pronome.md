@@ -16,7 +16,7 @@ The singular pronoun **tu** can be used in all situations, both formal and infor
 regardless of the differences of social status and age of the speakers.
 In this way it is similar to Swedish _du_.
 However, some speakers may prefer to use **tu** only with family and intimate friends.
-Then its usage is comparable to German _du_, French _tu_, Russian _ты_ (ty) and Hindi तू (tū).
+Then its usage is comparable to German _du_, French _tu_, Russian _ты_ (ty) and Hindi _tū_.
 
 It is always acceptable to use the plural pronoun **yu**
 instead of the singular pronoun **tu**.

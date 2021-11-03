@@ -10,7 +10,7 @@ extra_css:
 nav:
     - 'Grammar':
         - 'The 10 rules': 100_baze_regule.md
-        - 'World Words': 101_dunia_worde.md
+        - 'World Words': 101_global_lexe.md
         - 'Spelling and pronunciation': 102_ortografie.md
         - 'Regular Accent': 103_aksente.md
         - Nouns : 104_nome.md

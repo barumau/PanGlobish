@@ -89,7 +89,6 @@ and **di** is used when we refer to _many_ things.
 Proper names are typically adapted to the writing system of Panglobish.
 For example, it is obviously better to use
 **Moskva** (Moscow) instead of "Москва",
-**Dilli** (Delhi) instead of "दिल्ली",
 and **Beijing** (Peking) instead of "北京"
 in the international language.
 Likewise it is probably better to use

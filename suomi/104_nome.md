@@ -86,7 +86,6 @@ ja sanalla **di** viitataan useampiin asioihin.
 Erisnimet yleensä sovitetaan panglobishin kirjoitusjärjestelmään.
 Kaikkien kannalta on järkevämpää kirjoittaa latinalaisilla kirjaimilla
 **Moskva** (Moskova) eikä "Москва",
-**Dilli** (Delhi) eikä "दिल्ली",
 ja **Beijing** (Peking) eikä "北京"
 koska kyseessä on kaikkien yhteinen kieli.
 Samoin on parempi kirjoittaa esim.

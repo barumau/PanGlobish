@@ -209,6 +209,10 @@ cep/kon.e|• koncepe||AWL||concept |||||||||||||||||||||
 cep/re.e|• recepe||Globish||receive (take back)||recevoir|recibir|receber|||||||||||||ottaa takaisin|||receive|to take or get
 cep/re.er|• receper||||receiver (receptor)||receveur (récepteur)|receptor|receptor|||||||||||||vastaanottaja||||
 cep/re.ion|• recepion|||eng:reception, deu:Rezeption, fra:réception, spa:recepción, por:recepção, rus:рецепция (recepciya), jpn:レセプション (resepushon), kor:리셉션 (risepsyeon)|reception|Aufnahme (Rezeption)|réception|recepción|recepção|приём||||||||||||vastaanotto||||
+cerebr.|cerebre||FF Globish|eng:cerebrum, fra:cerveau, spa:cerebro, por:cérebro|brain||cerveau (cervelle)|cerebro|cérebro|мозг|دِمَاغ‎|脑|脳|뇌|óc (não)|मस्तिष्क (दिमाग़)|মগজ|otak (benak)|ubongo|beyin|cerbo|aivot|mózg||brain|in the head, for the exercise of emotion and thought
+cerebr.al.|cerebral||||cerebral||cérébral|cerebral|cerebral|мозговой (церебральный)||大脑的||||||||beyinsel|cerba|aivoperäinen (aivo-)|mózgowy|||
+cerebr.al. lob.tom.|cerebral lobetome||||lobotomy|Lobotomie|lobotomie|lobotomía|lobotomio|лоботомия|||||||||||lobotomio|lobotomia|lobotomia|||
+cerebr.os.|cerebros||||brainy|||||||||||||||||||||
 Ceres|Ceres|mini planete A1|||Ceres (dwarf planet)||Céres|Ceres (planeta enano)|||||||||||||Cereso|Ceres|Ceres (planeta karłowata)|||
 cerium|cerium|mate|Ce||cerium|||cerio|||||||||||||cerio|cerium|cer|||
 Cerna Gora|Cerna Gora|lande|ME||Montenegro|||Montenegro||||||||||||||Montenegro|Czarnogóra|||
@@ -769,7 +773,7 @@ koko ov.e|koko ove||||chicken egg|||||||鸡蛋||계란||||||||kananmuna||||
 kola|kola|||eng:spa:por:cola, rus:кола (kola), zho:可乐 (kělè), swa:mkola, hin:कोला (kolā)|cola nut (kola)|||cola|cola|кола||可乐||||कोला||||kola|kolao|koolapähkinä||||
 Kolombie|Kolombie|lande|CO||Colombia|||Colombia||||||||||||||Kolumbia|Kolumbia|||
 kolon.|kolone||||settle (colonize)|||||||||||||||||käyttää siirtomaana||||
-kolon.i.|• kolonie||BEIW|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|colony (settlement)|||colonia||||||||||||||kolonia (siirtomaa)|kolonia, osada|||
+kolon.i.|• kolonie||BEIW Globish|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|colony (settlement)|||colonia||||||||||||||kolonia (siirtomaa)|kolonia, osada||colony |a group of people who settle far from their parent country
 kolon.i.al.|• kolonial||||colonial|kolonial|colonial|colonial|colonial|колониальный||||||||||||siirtomaa-aikainen|kolonialny|||
 kolon.ism.e|• kolonisme||||colonialism|||colonialismo||||||||||||||siirtomaavalta (kolonialismi)|kolonializm|||
 kolon.ist.e|• koloniste||||colonialist|||colonialista||||||||||||||kolonialisti|kolonialista|||
@@ -905,6 +909,7 @@ litium|litium|mate|Li||lithium|||litio|||||||||||||litio|litium|lit|||
 litr.|litre|SI|l|eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|Liter|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr|||
 live|live||NSM  BGE Globish|eng:live, deu:leben|live (life, alive)|leben|vivre|vivir|viver|жить||生 (活)|生きる|살다|sống|जीना||hidup|ishi|yaşamak|vivi|elää (olla elossa)|żyć||live |to have life, to exist,
 livermorium|livermorium|mate|Lv||livermorium|||livermorio||||||||||||||livermorium|liwermor|||
+lob.|lobe||||lobe||lobe|lóbulo|lobo||||||||||||lobo|lohko (kieleke)||||
 log.|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), ara:(luğa), swa:lugha, tur:lügat, ind:logat|speak (talk)||||||||||||||||paroli|puhua||||
 log.gram|• logegram||||logogram (logo)|||||||||||||||||logogrammi (logo)||||
 log.ped.ie|• logepedie||||logopedics|Logopädie|orthophonie (logopédie)|logopedia|logopedia|||||||||||||logopedia||||
@@ -1110,6 +1115,10 @@ nefritis|nefritis||||nephritis|||nefritis||||||||||||||munuaistulehdus (nefriitt
 neg.|nege||AWL||negate|||||||||||||||||||||
 neg.at.iv.|• negative||||negative|||||||||||||||||||||
 neg/de.|• denege||Globish AWL||deny (refuse, turn away)||||||||||||||||||||deny |to declare untrue
+nekr.|nekre||||dead (deceised)|||||||||||||||||ruumis (vainaja)||||
+nekr.list.|• nekreliste||||necrology (listing of people who have died)|||||||||||||||||kuolinluettelo||||
+nekr.log.|• nekreloge||||obituary (necrology)|Nekrolog|nécrologie|necrología (obituario)|obituário|некролог||||||||berita duka||||muistosanat (muistopuhe, muistokirjoitus)|nekrolog|||
+nekr.tom.|• nekretome||||autopsy (necrotomy)|Leichenöffnung (Autopsie, Obduktion)|autopsie|autopsia|autopsía|вскрытие (аутопсия)||尸检|検視|검시 (부검)|||||||obdukcio (nekropsio)|ruumiinavaus (obduktio)|sekcja zwłok (obdukcja)|||
 neodimium|neodimium|mate|Nd||neodymium|||neodimio||||||||||||||neodyymi|neodym|||
 neon|neon|mate|Ne||neon|||neón|||||||||||||neono|neon|neon|||
 Nepal|Nepal|lande|NP||Nepal|||Nepal|||||||||||||Nepalo|Nepal|Nepal|||
@@ -1687,9 +1696,9 @@ tret.|trete||BGE Globish||treat (deal with)|||||||||||||||||käsitellä|||treat|
 tret.aj.|• tretaje||||treatise (tractate)|Abhandlung (Traktat)|traité|tratado|tratado|трактат||||||||||||käsittely (tutkielma)||||
 tri.|tri|num.|BGE |eng:three, rus:три (tri), spa:tres, por:três|three (3)||trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)|||
 tri.gon.|• trigone||||triangle|||||||||||||||||kolmio||||
-tri.gon.metr.ie|• trigonemetrie||||trigonometry|||||||||||||||||trigonometria||||
+tri.gon.metr.i.|• trigonemetrie||||trigonometry|||||||||||||||||trigonometria||||
 tri.it.|• trite||||trinity (threeness)||trinité|trinidad|trinidade||||||||||utatu||trieco|kolminaisuus (kolmeus)||||
-tri.log.ie|• trilogie||||trilogy|||||||||||||||||trilogia||||
+tri.log.i.|• trilogie||||trilogy|||||||||||||||||trilogia||||
 tri.pl.|• triple||||triple (threefold)|dreifach|triple|triple|triplo|||||||||||||tripla (kolminkertainen)||||
 tribal|tribal||||tribal|||tribal|tribal|племенной||||||||||||||||
 tribe|tribe||Globish|eng:tribe, deu:Tribus, fra:spa:tribu, por:tribo|tribe|Stamm|tribu|tribu|tribo|племя|قبيلة|部族|部族|겨레 (부족)|bộ lạc (bộ tộc)|जनजाति|উপজাতি|suku|kabila|kabile|tribo|heimo|plemię||tribe|a social organization or division
@@ -2035,7 +2044,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||RadCom||bouquet|||||||||||||||||||||
 |||BGE ||bowl|||||||||||||||||||||
 |||Globish||boycott||||||||||||||||||||boycott|to refuse dealing with, as a way of protest
-|||FF Globish||brain||||||||||||||||||||brain|in the head, for the exercise of emotion and thought
 |||Globish||brake||||||||||||||||||||brake|a device for slowing or stopping motion
 |||Globish||branch||||||||||||||||||||branch |a division of something
 |||Globish||brave||||||||||||||||||||brave|controlling one's fear when facing a danger
@@ -2175,9 +2183,7 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||collapse |||||||||||||||||||||
 |||AWL||colleague |||||||||||||||||||||
 |||Globish||collect||||||||||||||||||||collect|to get or gather together
-|||BEIW||College|||||||||||||||||||||
-|||Globish||college||||||||||||||||||||college|an organization of higher learning
-|||Globish||colony||||||||||||||||||||colony |a group of people who settle far from their parent country
+|||BEIW Globish||college||||||||||||||||||||college|an organization of higher learning
 |||Globish||combine||||||||||||||||||||combine|to put or add together
 |||Globish||command||||||||||||||||||||command|orders(s) to do something
 |||AWL||commence |||||||||||||||||||||

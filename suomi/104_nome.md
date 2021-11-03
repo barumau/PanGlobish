@@ -48,26 +48,18 @@ ja käytä epämääräistä artikkelia, kun et tiedä mitä haluat.
 ### Epämääräiset artikkelit
 
 Panglobishissa on kaksi epämääräistä artikkelia.
-Sanalla **a** viitataan yhteen asiaan,
+Sanalla **un** viitataan yhteen asiaan,
 ja sanalla **som** moneen asiaan.
 
-**a apel**
+**un apel**
 – jokin omena  
 **som apel**
 – joitakin omenoita
 
-**a haus**
+**un haus**
 – jokin talo  
 **som haus**
 – joitakin taloja
-
-Toisinaan käytetään sanaa **un** sanan **a** sijasta.
-Se tarkoittaa kirjaimellisesti _yhtä_.
-
-**un apel**
-– yksi omena _tai_ jokin omena  
-**un haus**
-– yksi talo _tai_ jokin talo
 
 
 ### Määräiset artikkelit

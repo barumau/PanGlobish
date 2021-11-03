@@ -51,26 +51,18 @@ and if you don’t know what you want, you use an indefinite article.
 ### Indefinite articles
 
 There are two indefinite articles in Panglobish,
-**a** is used when we refer to _one_ non-specific thing,
+**un** is used when we refer to _one_ non-specific thing,
 and **som** is used when we refer to _many_ things.
-
-**a apel**
-– an apple  
-**som apel**
-– some apples
-
-**a haus**
-– a house  
-**som haus**
-– some houses
-
-Sometimes **un** is used instead of **a**.
-It means literally _one_.
 
 **un apel**
 – an apple _or_ one apple  
+**som apel**
+– some apples
+
 **un haus**
-– a house _or_ one house
+– a house _or_ one house  
+**som haus**
+– some houses
 
 
 ### Definite articles

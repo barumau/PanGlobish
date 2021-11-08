@@ -29,7 +29,7 @@ Katsokaamme esimerkiksi alla olevaa lausetta englanniksi ja muilla germaanisilla
 | Norja        | Jeg er sønnen til faren min og moren min.        |
 | Ruotsi       | Jag är son till min far och min mor.             |
 | Islanti      | Ég er sonur föður míns og móður minnar.          |
-|**Panglobish**| **mi is da boi of mi's pa en mi's ma.**          |
+|**Panglobish**| **mi is da boi of mi's patre en mi's matre.**    |
 
 Panglobishin kielellä tämä sama lause muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
 Voisi jopa sanoa, että Panglobish on lähempänä afrikaansia kuin englantia.

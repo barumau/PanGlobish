@@ -1,24 +1,27 @@
 liste_di_worde_from_PanGlobish_to_X() {
-    first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
-    second=`echo $2 | cut -c2-`
-    other="$first$second"
-    filename="$2/PanGlobish-$other.md"
+    filename="$2/panglobish-$2.md"
     echo "make da file $filename"
     #PanGlobish unordi
     cat vokable.csv | awk -F "|" "{print \$2 \" - \" \$$1 \"  \"}" > $filename
     #morta unordi linye
     sed -i '1d' $filename
     # alfebete
-    sed -i 's/[A-Z] - .*$/####&/' $filename
+    sed -i 's/^[A-Z] - .*$/\n## &/' $filename
+    # Modify pattern "A - A" to "A\n"
+#    sed 's/#[A-Z] -//g' -i $filename
+    sed 's/ - [A-Z] /\n/g' -i $filename
     #Add header
-    headername="$2/PanGlobish-$other.header.md"
+    headername="$2/panglobish-$2.header.md"
     if test -f "$headername"; then
        echo "$headername exists"
        cat $headername $filename > temp/temp.txt
        mv temp/temp.txt $filename
     else
        echo "$headername doesn't exist. Writing default heading."
-       sed -i "1s/^/# PanGlobish-$2\n/" $filename
+       first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
+       second=`echo $2 | cut -c2-`
+       otre="$first$second"
+       sed -i "1s/^/# PanGlobish-$otre\n/" $filename
     fi
     #Delete empty translations
     sed -i '/^ - /d' $filename
@@ -26,10 +29,7 @@ liste_di_worde_from_PanGlobish_to_X() {
 }
 
 liste_di_worde_from_X_to_PanGlobish() {
-    first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
-    second=`echo $2 | cut -c2-`
-    other="$first$second"
-    filename="$2/$other-PanGlobish.md"
+    filename="$2/$2-panglobish.md"
     echo "make da file $filename"
     #ali bax unordi
     cat vokable.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $filename
@@ -37,9 +37,15 @@ liste_di_worde_from_X_to_PanGlobish() {
     sed -i '1d' $filename
     # alfobeta
     cat temp/ABC.txt $filename | LC_ALL=C sort -f > temp/temp.txt
-    sed 's/.00/###/g' temp/temp.txt > $filename
+    sed 's/.00/\n## /g' temp/temp.txt > $filename
+    # Modify pattern "A - A" to "A\n"
+#    sed 's/#[A-Z] -//g' -i $filename
+    sed 's/[A-Z] - [A-Z] //g' -i $filename
     #Add header
-    sed -i "1s/^/# $2-PanGlobish\n/" $filename
+    first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
+    second=`echo $2 | cut -c2-`
+    otre="$first$second"
+    sed -i "1s/^/# $otre-PanGlobish\n/" $filename
     #Delete bullets
     sed 's/• //g' -i $filename
     #Delete empty translations

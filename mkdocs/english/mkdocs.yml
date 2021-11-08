@@ -27,6 +27,6 @@ nav:
         - 'The idea': 301_idea_of_Panglobish.md
         - 'PanGlobish vs English': 302_Panglobish_vs_English.md
     - Vocabulary:
-        - "PanGlobish–English" : PanGlobish-English.md
-        - "English–PanGlobish" : English-PanGlobish.md
+        - "PanGlobish–English" : panglobish-english.md
+        - "English–PanGlobish" : english-panglobish.md
 

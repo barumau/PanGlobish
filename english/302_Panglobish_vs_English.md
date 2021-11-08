@@ -30,7 +30,7 @@ of the same sentence in English and other Germanic languages.
 | Norwegian    | Jeg er sønnen til faren min og moren min.        |
 | Swedish      | Jag är son till min far och min mor.             |
 | Icelandic    | Ég er sonur föður míns og móður minnar.          |
-|**Panglobish**| **mi is da boi of mi's pa en mi's ma.**          |
+|**Panglobish**| **mi is da boi of mi's patre en mi's matre.**    |
 
 The same sentence in Panglobish is also somewhat similar with _all Germanic languages_.  
 So English is nothing special in this regard.

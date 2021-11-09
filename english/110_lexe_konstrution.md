@@ -389,9 +389,9 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'philosophy, world view'
 → **filsofie**
 'philosophy as a discipline'  
-**keme**
+**kime**
 'chemical'
-→ **kemie**
+→ **kimie**
 'chemistry'
 
 **-ife**

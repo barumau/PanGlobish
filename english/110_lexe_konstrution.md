@@ -279,11 +279,11 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'America'
 → **Amerikan**
 'American'  
-**Italie**
+**Italia**
 'Italy'
 → **Italian**
 'Italian'  
-**Rusie**
+**Rusia**
 'Russia'
 → **Rusian**
 'Russian'  
@@ -291,7 +291,7 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'the city of Paris'
 → **Parisan**
 'Parisian'  
-**Kristie**
+**Kristia**
 'Christendom'
 → **kristian**
 'Christian'  
@@ -336,12 +336,23 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **beker**
 'baker'
 
-**-erie**
-'workplace' :  
+**-eria**
+'name of place for making, producing or selling' :  
 **beker**
 'baker'
-→ **bekerie**
-'bakery'
+→ **bekeria**
+'bakery'  
+**perfume**
+'perfume'
+→ **perfumeria**
+'perfumery'
+
+**-erie**
+'profession or typical behaviour associated with the suffixed word'
+**injener**
+'engineer'
+→ **injenerie**
+'engineering'
 
 **-ete**
 'diminutive, -ette, -let' :  
@@ -357,20 +368,23 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **helpeful**
 'helpful'
 
-**-ie**
-'area, region, field (also of knowledge)' :  
+**-ia**
+'area, region, country' :  
 **Arabe**
 'Arab'
-→ **Arabie**
+→ **Arabia**
 'Arabia'  
 **Itale**
 'Italian'
-→ **Italie**
+→ **Italia**
 'Italy'  
 **Rus**
 'Russian, Ruski'
-→ **Rusie**
-'Russia'  
+→ **Rusia**
+'Russia'
+
+**-ie**
+'an abstract collective or an area or field of knowledge' :  
 **filsofe**
 'philosophy, world view'
 → **filsofie**

@@ -15,7 +15,7 @@ air.plan.|airplane||Globish|eng:airplane, fra:aéroplane, spa:por:aeroplano, rus
 air.port.|airporte||FF  ||airport (aeroport)||aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)|||
 air.port. gat.|airporte gate||||airport gate|Gate|||||||ゲート|||||||||portti lentokentällä||||
 air.sfer.|airsfere||RadCom||atmosphere|Atmospäre|atmosphère|atmósfera|atmosfera|атмосфера||大气 (气圈)|大気圏|대기|khí quyển|वायुमण्डल|বায়ুমণ্ডল|atmosfera|angahewa|atmosfer (havaküre)|atmosfero|ilmakehä|atmosfera|||
-akadem.i.|akademie||FF AWL RadCom|end:academy, deu:Akademie, fra:académie, spa:por:academia, rus:академия (akademiya), may:tur:akademi|academy (university, college)|Hochschule (Akademie, Universität)|université (académie)|academia (universidad)|academia (universidade)|академия (университет)||大学|大学|대학|đại học|विश्वविद्यालय|বিশ্ববিদ্যালয়|universitas (akademi)|chuo kikuu|bilimyurdu (akademi, üniversite)|akademio (universitato)|yliopisto (korkeakoulu, akatemia)|uniwersytet|||
+akadem.ia.|akademia||FF AWL RadCom|end:academy, deu:Akademie, fra:académie, spa:por:academia, rus:академия (akademiya), may:tur:akademi|academy (university, college)|Hochschule (Akademie, Universität)|université (académie)|academia (universidad)|academia (universidade)|академия (университет)||大学|大学|대학|đại học|विश्वविद्यालय|বিশ্ববিদ্যালয়|universitas (akademi)|chuo kikuu|bilimyurdu (akademi, üniversite)|akademio (universitato)|yliopisto (korkeakoulu, akatemia)|uniwersytet|||
 al|al||NSM  BGE |deu;eng;all|all|all|||||||||||||||||||kaikki|
 Alaska|Alaska|lande|||Alaska|||Alaska||||||||||||||Alaska|Alaska|||
 alkohol|alkohol||Simplish|eng:alcohol, deu:may:alkohol, fra:alcool, spa:alcohol, por:álcool, rus:алкоголь (alkohol), pol:alkohol, ara:(kuhul), jpn:アルコール (arukoru), kor:알콜 (alkol), ben:এলকোহল (elkohôl)|alcohol (spirits)|Alkohol|alcool|alcohol|álcool|алкоголь|كحول|酒|アルコール|술 (알콜)|rượu|शराब (मद्यसार)|মদ্য (এলকোহল)|alkohol (arak)||alkol|alkoholo|alkoholi|alkohol|||
@@ -26,7 +26,7 @@ am.|ame||||affection|||||||||||||||||||||
 am.at.er.|• amater||||amateur||amateur|amateur (aficionado)|amador|любитель||爱好者|アマチュア|아마추어||||||amatör||harrastaja (amatööri)||||
 am.ur.|• amure||||amor||amour|amor|amor|||||||||||||||||
 ambas.er|ambaser||||ambassador||ambassadeur|embajador|embaixador|посол|سَفِير‎|大使|大使|대사|đại sứ|दूत|রাষ্ট্রদূত|duta|balozi|elçi|ambasadoro|lähettiläs|ambasador|||
-ambas.i.|ambasie||BGE Globish|eng:embassy, fra:ambassade, spa:embajada, por:embaixada, rus:амбасада (ambasada)|embassy|Botschaft|ambassade|embajada|embaixada|посольство (амбасада)||大使馆|大使館|대사관|đại sứ quán|दूतावास||kedutaan|ubalozi|sefarethane (elçilik)|ambasadorejo|suurlähetystö|ambasada||embassy|a diplomatic building in a foreign country
+ambas.ia|ambasia||BGE Globish|eng:embassy, fra:ambassade, spa:embajada, por:embaixada, rus:амбасада (ambasada)|embassy|Botschaft|ambassade|embajada|embaixada|посольство (амбасада)||大使馆|大使館|대사관|đại sứ quán|दूतावास||kedutaan|ubalozi|sefarethane (elçilik)|ambasadorejo|suurlähetystö|ambasada||embassy|a diplomatic building in a foreign country
 amen|amen|||ara:(ʾāmin), tur:amin,emin, heb:hbo:אמן, ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen)|amen (certainly)||sûrement|amén (seguramente)|||||||||||||amen (certe)|aamen (totisesti)||||
 Amerik.a|Amerika||||America (continent)||Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)|||
 amerik.ium|amerikium|mate|Am||americium|||americio|||||||||||||americio|amerikium|ameryk|||
@@ -50,7 +50,7 @@ Argentina|Argentina|lande|AR||Argentina||Argentine|Argentina|||||||||||||Argenti
 argon|argon|mate|Ar||argon||argon|argón|||||||||||||argono|argon|argon|||
 Ariel|Ariel|planete 7 lune 2|||Ariel|Ariel||||||||||||||||||||
 arm.|arme||BGE Globish|fra:arme, eng:arms, spa:por:arma|weapon (arms)||arme|arma|arma|||武器|||||||||armilo|ase|broń|||an instrument used in wars
-arm.i.|armie||FF Globish|rus:армия (armiya), eng:army, fra:armée|army (armed forces)||armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotaväki)|armia||army |a group of people armed for war
+arm.ia|armia||FF Globish|rus:армия (armiya), eng:army, fra:armée|army (armed forces)||armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotaväki)|armia||army |a group of people armed for war
 armari|armari||Globish|eng:fra:armoire, spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:almari|cupboard (closet, cabinet, wardrobe)||placard|armario|armário|шкаф||碗碟橱||||अलमारी|আলমারি|lemari (almari)||dolap|ŝranko|kaappi|kredens (szafa, szafka)||cabinet|piece of furniture to store things
 aroma|aroma|||deu:eng:por:spa:aroma, fra:arôme, rus:аромат (aromat), jpn:アロマ (aroma)|aroma (flavor)|Aroma|arôme|aroma|aroma|аромат||||||||||||aromi||||
 arsene|arsene|mate|As||arsenic||arsenic|arsénico|||||||||||||arseno|arseeni|arsen|||
@@ -83,7 +83,7 @@ Athina|Athina|chefe citi|GR||Athens||Athènes|Atenas|Atenas|Афины|اتين�
 atom.|atom||RadCom||atom|||||||||||||||||||||
 auguste|auguste|mes|FF BGE |eng:August, spa:por:agosto, ara:(aǧustus), hin:अगस्त (agasta), ben:আগস্ট (agôstô)|August||août|agosto|agosto||أغسطس|八 月 ||||अगस्त|আগস্ট|Agustus|Agosti|Ağustos|aŭgusto|elokuu||||
 aur.um|aurum|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold||or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto|||
-Austral.i.|Australie|lande|AU||Australia|||Australia|||||||||||||Aŭstralio|Australia|Australia|||
+Austral.ia|Australia|lande|AU||Australia|||Australia|||||||||||||Aŭstralio|Australia|Australia|||
 aut.|aute||||auto- (self-)|||||||||||||||||||||
 aut.er|• auter||FF AWL|fra:auteur, spa:por:autor, eng:author, rus:автор|author (auteur, independent actor)|Autor|auteur|autor|autor|автор|||||||||||aŭtoro|itsenäinen tekijä (auktori)||||
 aut.er.it.|• auterite||Globish AWL||authority||||||||||||||||||||authority|the power to enforce something on someone
@@ -132,7 +132,7 @@ beb.|bebe||FF Globish RadCom|fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:ba
 bed.|bede||FF BGE Globish|eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede|bed|Bett|lit|cama|cama||||||||||||lito|vuode (sänky, peti)|łóżko||bed|anything to sleep on
 bek.|beke||BGE ||bake|backen|cuire au four|hornear (cocer)|assar|печь (выпекать)||烘烤|||||||||baki|leipoa|piec|||
 bek.er|• beker||||baker|Bäcker|boulanger|panadero|padeiro|пекарь (хлебопёк)||面包师傅|パン屋さん|||नानबाई||||fırıncı|bakisto|leipuri|piekarz|||
-bek.er.i.|• bekerie|||eng:bakery, deu:Bäckerei, rus:(pekariya), hin:बेकरी (bekrī), ben:বেকারি (bekari)|bakery|Bäckerei|boulangerie|panadería|padaria|пекарня||面包店|パン屋|||बेकरी|বেকারি||||bakejo|leipomo|piekarnia|||
+bek.er.ia|• bekeria|||eng:bakery, deu:Bäckerei, rus:(pekariya), hin:बेकरी (bekrī), ben:বেকারি (bekari)|bakery|Bäckerei|boulangerie|panadería|padaria|пекарня||面包店|パン屋|||बेकरी|বেকারি||||bakejo|leipomo|piekarnia|||
 Belarus|Belarus|lande|BY||Belarus|||Belarús|||||||||||||Belorusio|Valkovenäjä|Białoruś|||
 Belgie|Belgie|lande|BE||Belgium|||Bélgica|||||||||||||Belgio|Belgia|Belgia|||
 Belize|Belize|lande|BZ||Belize|||Belice|||||||||||||Beliceo|Belize|Belize|||
@@ -336,7 +336,7 @@ dom.in.|• domine||AWL||dominate|||||||||||||||||isännöidä (hallita, dominoi
 dom.in.at.ion|• domination||||domination (dominion)|domination||||||||||||||||hallinta (dominointi)||||
 dom.in.ent.|• dominente||||dominant|||||||||||||||||hallitseva||||
 dom.in.er.|• dominer||||dominator|||||||||||||||||isäntä||||
-domin.i.|• dominie||BEIW||domain (dominion)|Domäne (Machtgebiet, Dominion)|domaine|dominio|domínio|владычество (доминион)||||||डोमीनियन||domini||||hallinta-alue (hallintopiiri, dominio)||||
+domin.ia|• dominia||BEIW||domain (dominion)|Domäne (Machtgebiet, Dominion)|domaine|dominio|domínio|владычество (доминион)||||||डोमीनियन||domini||||hallinta-alue (hallintopiiri, dominio)||||
 Dominika|Dominika|lande|DM||Dominica|||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)|||
 Dominikan Republike|Dominikan Republike|lande|DO||Dominican Republic|||Republica Dominicana||||||||||||||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)|||
 dorse|dorse|bode|FF BGE |fra:dos, ita:spa:por:dorso|back (of the body)|Rücken|dos|espalda (lomo, dorso)|costás (lombo, dorso)|спина||背部|背|등|lưng|पीठ|পিঠ|punggung (belakang)|mgongo|sırt|dorso|selkä|placy|||
@@ -365,7 +365,7 @@ duc/pro.aj.|• producaje||Globish||product||||||||||||||||||||product|a thing t
 duc/pro.er.|• producer||||producer|||||||||||||||||||||
 duc/pro/pos.|• posproduce||||post-production|Nachproduktion|post-production|posproducción|pós-produção|завершающий этап создания||||||||||||jälkituotanto||||
 duc/re.|• reduce||Globish||reduce (take back)||||||||||||||||||||reduce |to make less
-dun.i.|dunie||FF BGE Globish|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), hau:duniya, fas:(donya)|world|Welt|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat||world|the earth
+dun.ia|dunia||FF BGE Globish|may:swa:dunia, ara:(dunyā), hindi:दुनिया (duniyā), hau:duniya, fas:(donya)|world|Welt|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat||world|the earth
 dush.|dushe|||deu:Dusche, fra:douche, spa:por:ducha, rus:душ (duš), ara:(duš), tur:duş, may:dus|shower (bathing ”rain”)|Dusche|douch|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर|স্নান|dus||duş|duŝo|suihku|prysznic|||
 E|E||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|||
 einsteinium|einsteinium|mate|Es||einsteinium||Einsteinium|einsteinium|||||||||||||ejnŝtejnio|einsteinium|einstein|||
@@ -379,14 +379,14 @@ Englande|Englande|lande|||England|||Inglaterra||||||||||||||Englanti|Anglia|||
 ent.it.|entite||AWL||entity |||||||||||||||||||||
 erbium|erbium|mate|Er||erbium|||erbio|||||||||||||erbio|erbium|erb|||
 Eris|Eris|mini planete 4|||Eris|Eris|Éris|Eris||||||||||||Eris||||||
-Eritr.i.|Eritrie|lande|ER||Eritrea|||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea|||
+Eritr.ia|Eritria|lande|ER||Eritrea|||Eritrea|||||||||||||Eritreo|Eritrea|Erytrea|||
 es.|ese||||exist|||||||||||||||||||||
 es.ent.|• esente||||being|||||||||||||||||||||
 es.ent.i.|• esentie||||essence|||||||||||||||||||||
 es.ent.i.al.|• esential||||essential|||||||||||||||||||||
 es/ex.|• exese||Globish||exist (be out there)||||||||||||||||||||exist|to be or live
 es/pre.ent.|• presente||BGE Globish||present (now, current)|||||||||||||||||||||
-Espan.i.|Espanie|lande|ES||Spain|||España|||||||||||||Hispanio|Espanja|Hiszpania|||
+Espan.ia|Espania|lande|ES||Spain|||España|||||||||||||Hispanio|Espanja|Hiszpania|||
 Espan.ish|Espanish||||Spanish|||español|||||||||||||hispana|espanjan kieli||||
 est.|este|kompas|FF BGE Globish|deu:Ost, rus:ост (ost), eng:east, fra:est, spa:éste, por:este|east (orient)||est (orient)|éste (oriente)|este (leste)|восток (ост)|شَرْق‎|东|東|동|đông|पूर्व|পূর্ব|timur|mashariki|doğu|oriento|itä|wschód||east |opposite to west, the region where the sun rises in the morning
 Este Timor|Este Timor|lande|TL||East Timor (Timor-Leste)|||Timor Oriental||||||||||||||Itä-Timor|Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)|||
@@ -395,7 +395,7 @@ Etiopie|Etiopie|lande|ET||Ethiopia|||Etiopía|||||||||||||Etiopio|Etiopia|Etiopi
 euro|euro|mone|€||euro (€)|||euro|||||||||||||eŭro|euro (€)|euro (€)|||
 Europ.|Europe||||Europe|Europa|Europe|Europa|Europa|Европа||欧洲|ヨーロッパ (欧州)|유럽|châu Âu|||Eropa|Ulaya (Uropa)|Avrupa|Eŭropo|Eurooppa|Europa|||
 Europ.an.|Europan||||European|europäisch|européen|europeo|europeu|европейский||欧洲的|ヨーロッパの|유럽의||||||Avrupalı|eŭropa|eurooppalaineen||||
-Europ.an. Un.i.|Europan Unie||||European Union (EU)|Europäische Union|Union européenne|Unión Europea|União Europeia|Европейский союз (Евросоюз)||欧洲联盟|欧州連合|유럽 연합|Liên minh châu Âu|यूरोपीय संघ|ইউরোপীয় ইউনিয়ন|Uni Eropa|Umoja wa Ulaya|Avrupa Birliği|Eŭropa Unio (EU)|Euroopan unioni|Unia Europejska (EU)|||
+Europ.an. Un.ia|Europan Unia||||European Union (EU)|Europäische Union|Union européenne|Unión Europea|União Europeia|Европейский союз (Евросоюз)||欧洲联盟|欧州連合|유럽 연합|Liên minh châu Âu|यूरोपीय संघ|ইউরোপীয় ইউনিয়ন|Uni Eropa|Umoja wa Ulaya|Avrupa Birliği|Eŭropa Unio (EU)|Euroopan unioni|Unia Europejska (EU)|||
 europ.ium|europium|mate|Eu||europium|||europio|||||||||||||eŭropio|europium|europ|||
 Europa|Europa|planete 5 lune 2|||Europa (a moon)|Europa||||||||||||||||Europa (eräs kuu)||||
 evri|evri||BGE Globish|eng:every|every (each)||chaque|cada|cada|каждый||每|||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy||each |every single one considered individually
@@ -425,14 +425,14 @@ fantas. let.er.at.ur.|fantase leterature||||fiction|Fiktion (Belletristik )|fict
 fantas.ik.|fantasike||||fantastic|||||||||||||||||mielikuvituksellinen (fantastinen)||||
 farm.|farme||||farm (cultivate)|||cultivar|cultivar|||||||||||||viljellä|uprawić, uprawiać|||
 farm.er|• farmer||||farmer||fermier (agriculteur)|granjero (agricultor)|fazendeiro (agricultor)|фермер (крестьянин)||农夫 (农民)|農夫|||किसान|||||farmisto|maanviljelijä|rolnik (farmer)|||
-farm.i.|• farmie||FF BGE |eng:deu:farm, fra:ferme, rus:ферма, hin:फ़ार्म (fārma)|farm (ranch)||ferme|granja (finca)|fazenda (granja)|ферма||农场||||खेत (फ़ार्म)|||||farmo|maatila||||
+farm.ia|• farmia||FF BGE |eng:deu:farm, fra:ferme, rus:ферма, hin:फ़ार्म (fārma)|farm (ranch)||ferme|granja (finca)|fazenda (granja)|ферма||农场||||खेत (फ़ार्म)|||||farmo|maatila||||
 favor,|favore||||favor||||||فَضَّلَ|比较喜欢||||पसंद करना||||tercih etmek||suosia||ترجیح دادن||
 favor.ad.|favorade||BGE |eng:favorite, fra:favori, spa:por:favorito|favorite (preferred)||favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||お気に入りの|||||kegemaran||||suosikki (suosittu)||||
 febl.|feble||FF BGE Globish|fra:faible, spa:feble, eng:feeble|weak (feeble)||faible|débil (feble)|fraco (débil)|слабый||弱|弱い|약하다||दुर्बल (निर्बल, कमज़ोर)||lemah||zayıf (güçsüz)|malforta|heikko|||weak |lacking power
 februari|februari|mes|FF BGE |eng:February, may:swa:Februari, spa:febrero, ara:(fibrāyir), hin:फ़रवरी (farvāri), ben:ফেব্রুয়ারী (phebruyari)|February||février|febrero|fevereiro|февраль|فبراير|二 月 ||||फ़रवरी|ফেব্রুয়ারী|Februari|Februari|Şubat|februaro|helmikuu||||
 feder.al|federal||AWL||federal |föderal (Bundes-)|fédéral|federal |federal |федеральный||||||||||||federaalinen (federatiivinen)||||
-feder.i.|federie|||eng:federation, deu:Föderation, fra:fédération, spa:federación, por:federação, rus:федерация (federaciya), tur:federasyon, may:federasi, hin:फ़ेडरेशन (feḍreśan), ben:ফেডারেশন (pheḍareśôn)|federation|Föderation (Bund)|fédération|federación|federação|федерация||联邦|連邦|연방|liên bang|महासंघ (फ़ेडरेशन)|ফেডারেশন|federasi||federasyon (ittifak)||liittovaltio (federaatio)||||
-feder/kon.i.|konfederie||||confederation|||||||||||||||||||||
+feder.ia|federia|||eng:federation, deu:Föderation, fra:fédération, spa:federación, por:federação, rus:федерация (federaciya), tur:federasyon, may:federasi, hin:फ़ेडरेशन (feḍreśan), ben:ফেডারেশন (pheḍareśôn)|federation|Föderation (Bund)|fédération|federación|federação|федерация||联邦|連邦|연방|liên bang|महासंघ (फ़ेडरेशन)|ফেডারেশন|federasi||federasyon (ittifak)||liittovaltio (federaatio)||||
+feder/kon.ia|konfederia||||confederation|||||||||||||||||||||
 fem.|fem|n.|FF BGE Globish|fra:femme, ita:femmina, eng:female, spa:por:femenino|woman|Frau (Weib)|femme|mujer|mulher|женщина||女人|女|여성||औरत (महिला)|নারী|perempuan (wanita)|mwanamke|kadın|virino|nainen|kobieta||woman|an adult female
 fem.al|• femal||FF Globish||female (feminine)|weiblich|femelle|femenino|fêmeo (femenino)|женский||||||||||||naispuolinen (naaras)|||female |a woman or girl, or the equivalent in animals
 fer.|fere||||deem (consider, regard, assign some quality to)|||||||||||||||||pitää jnkn (suhtautua)||||
@@ -446,7 +446,7 @@ fest.|feste||BGE Globish|eng:feast,festival, deu:Fest, fra:fête, spa:fiesta, po
 fest.iv.|• festive||||festive (solemn)|||||||||||||||||||||
 fet.|fete||BGE Globish|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|fact (concrete deed)|Fakt|fait|hecho|fato (facto)|факт||事实|事実||||||||fakto|fakta (teko)|czyn, uczynek||fact |an event known to have happened or something known to have existed
 fet.er|• feter||AWL||factor||faiseur (facteur)|factor|fator (fazedor)|фактор||||||||||faktör||||||
-fet.er.i.|• feteriet||Globish||factory (plant)|||fábrica|||||||||||||fabriko|tehdas|fabryka, manufaktura||factory|a building in which goods are manufactured
+fet.er.ia|• feteria||Globish||factory (plant)|||fábrica|||||||||||||fabriko|tehdas|fabryka, manufaktura||factory|a building in which goods are manufactured
 fet.ur.|• feture||BGE Globish AWL||feature (product of work)||fait (faiture)|hecho (hechura)|feito (feitura)||||||||||||||||feature|structure, appearance, form of someone or something
 fet/ex.|• exfete||BGE Globish AWL|fra:effet, por:efeito, eng:effect, spa:efecto, rus:эффект (effekt)|effect (impact, influence, affect)|Wirkung|effet|efecto|efeito|эффект|||効果|||असर||||etki||vaikutus (teho)|||effect |whatever is produced by a cause
 fet/ex.iv.|• exfetive||||effective (influential)|||||||||||||||||tehokas (tehoava, vaikuttava)||||
@@ -520,7 +520,7 @@ Ganda|Ganda|lande|UG||Uganda|||Uganda||||||||||||||Uganda|Uganda|||
 gandum|gandum||Globish|ind:gandum, fas:گندم‎(gandom), urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|wheat||blé|trigo|trigo|пшеница|قمح‎|麦|小麦|밀|lúa mì|गेहूँ|গম|gandum|ngano|buğday|tritiko|vehnä|pszenica||wheat|the substance with which you make bread
 Ganimede|Ganimede|planete 5 lune 3|||Ganymede|Ganymed||||||||||||||||||||
 gard.|garde||Globish||guard (watch)|||||||||||||||||vartioida (vahtia)|||guard|a person who keeps watch
-gard.i.|• gardie||||guard|||||||||||||||||vartio||||
+gard.ia|• gardia||||guard|||||||||||||||||vartio||||
 gard/re.|• regarde||BGE ||regard|||||||||||||||||||||
 gas|gas||Globish|deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz)|gas|Gas|gaz|gas|gás|газ|||ガス|가스||गैस||gas||gaz|gaso|kaasu|gaz||gas|any fluid substance that can expand without limit
 gate|gate|||eng:gate, deu:Gate, jpn:ゲート (gēto)|gate|Tor|porte (portail)|puerta|portão|ворота|بوابة|门口 (闸口)|門|문||||||||portti||||
@@ -626,7 +626,7 @@ Honduras|Honduras|lande|HN||Honduras|||Honduras|||||||||||||Honduro|Honduras|Hon
 Hong Gong|Hong Gong|lande|HK||Hong Kong, SAR China|||Hong Kong||||||||||||||Hong Kong|Hong Kong|||
 hope|hope||BGE Globish|eng:hope, deu:hoffen|hope (wish, desire)|hoffen|espérer|esperar|esperar|надеяться||希望|希望する (望む)|바라다 (원하다)|hy vọng|आशा|আশা|harap|tumaini|ummak|esperi|toivoa|nadzieja||hope |expectation that what one desires will happen
 hor|hor||FF BGE Globish|spa:por:hora, fra:heure, eng:hour|hour (60 minutes)||heure|hora|hora|час|سَاعَة|小时|時|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina||hour |a unit of time measuring 60 minutes
-Horvat.i.|Horvatie|lande|HR||Croatia|||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja|||
+Horvat.ia|Horvatia|lande|HR||Croatia|||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja|||
 hotel|hotel||FF  |eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel||hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel|||
 hu|hu|pron.|BGE Globish||who||||||||||||||||||||who|used to ask the name of a person
 hu’s|hu’s|poss.pron.|||whose||||||||||||||||kies|kenen||||
@@ -650,7 +650,7 @@ if|if||NSM  Globish|eng:if|if|wenn|si|si|se (caso)|если||如果 (要是)|も
 if no|if no||Globish||unless||||||||||||||||||||unless |if not, if it were not that
 imper.|impere||||reign (rule as an emperor)|||reinar (reinar como emperador)||||||||||||||hallita yksinvaltaisesti|władać, panować, rządzić jako imperator|||
 imper.er|• imperer||||emperor||empereur|emperador|imperador|император||皇帝 (帝王)|皇帝|황제|hoàng đế|सम्राट|সম্রাট|kaisar (maharaja)|kaisari|imparator|imperiestro|keisari|imperator|||
-imper.i.|• imperie|||eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk|empire||empire|imperio|império|империя|إمبراطورية|帝国|帝国|제국|đế quốc|साम्राज्य|সাম্রাজ্য|kekaisaran||imperatorluk|imperio|keisarikunta|imperium|||
+imper.ia|• imperia|||eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk|empire||empire|imperio|império|империя|إمبراطورية|帝国|帝国|제국|đế quốc|साम्राज्य|সাম্রাজ্য|kekaisaran||imperatorluk|imperio|keisarikunta|imperium|||
 imper.i.al.|• imperial||BEIW RadCom||Imperial|||||||||||||||||||||
 imper.i.al.ism.|• imperialisme||||imperialism|||imperialismo||||||||||||||imperialismi|imperializm|||
 imper.i.al.ist.|• imperialiste||||imperialist|||imperialista||||||||||||||imperialisti|imperialista|||
@@ -759,7 +759,7 @@ kar|kar||FF BGE Globish|eng:car, por:spa:carro, deu:Karre, hin:गाड़ी (
 karakte|karakte||Globish|eng:deu:character, fra:caractère, spa:por:carácter, rus:характер (kharakter), may:tur:karakter, jpn:キャラクター (kyarakutā), kor:캐릭터 (kaerikteo)|character (demeanor, temper)|Character|caractère|carácter|caráter|характер||||||||karakter||karakter||luonne (temperamentti)|||character|combination of qualities of a person
 karbone|karbone|mate|C||carbon|||carbón|||||||||||||karbono|hiili|węgiel|||
 kard.|karde||FF BGE Globish RadCom|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), zho:卡 (kǎ), jpn:カード (kādo), swa:kadi, may:kartu|card|Kart|carte|tarjeta (carta)|carta|карта||牌|カルタ|||ताश||kartu|karata||karto|kortti|karta||card |a small flat piece of thin cardboard
-Kartul.i.|Kartulie|lande|GE||Georgia (Republic of Georgia)|||Georgia (República de Georgia)||||||||||||||Georgia|Gruzja (Republika Gruzji)|||
+Kartul.ia|Kartulia|lande|GE||Georgia (Republic of Georgia)|||Georgia (República de Georgia)||||||||||||||Georgia|Gruzja (Republika Gruzji)|||
 karvan.|karvan||RadCom|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|caravan (convoy)|Karawane|caraven|caravana|caravana|караван|||キャラバン|카라반||||||kervan|karavano|karavaani (saattue)|karawana|||
 karwi|karwi|masala||ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|caraway|Kümmel|carvi|carvis (alcaravea)|alcaravia (cariz)|тмин|كرويا|葛缕子||||||jintan|||karvio|kumina|kminek|||
 kashe|kashe|||eng:cash register, deu:Kasse, fra:caisse, spa:caja, por:caixa, rus:касса (kassa), tur:kasa|cash register (till)|Kasse|caisse|caja|caixa|касса||||||||||kasa||kassa||||
@@ -808,8 +808,8 @@ koko ov.e|koko ove||||chicken egg|||||||鸡蛋||계란||||||||kananmuna||||
 kola|kola|||eng:spa:por:cola, rus:кола (kola), zho:可乐 (kělè), swa:mkola, hin:कोला (kolā)|cola nut (kola)|||cola|cola|кола||可乐||||कोला||||kola|kolao|koolapähkinä||||
 Kolombie|Kolombie|lande|CO||Colombia|||Colombia||||||||||||||Kolumbia|Kolumbia|||
 kolon.|kolone||||settle (colonize)|||||||||||||||||käyttää siirtomaana||||
-kolon.i.|• kolonie||BEIW Globish|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|colony (settlement)|||colonia||||||||||||||kolonia (siirtomaa)|kolonia, osada||colony |a group of people who settle far from their parent country
-kolon.i.al.|• kolonial||||colonial|kolonial|colonial|colonial|colonial|колониальный||||||||||||siirtomaa-aikainen|kolonialny|||
+kolon.ia|• kolonia||BEIW Globish|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|colony (settlement)|||colonia||||||||||||||kolonia (siirtomaa)|kolonia, osada||colony |a group of people who settle far from their parent country
+kolon.ia.al.|• kolonial||||colonial|kolonial|colonial|colonial|colonial|колониальный||||||||||||siirtomaa-aikainen|kolonialny|||
 kolon.ism.e|• kolonisme||||colonialism|||colonialismo||||||||||||||siirtomaavalta (kolonialismi)|kolonializm|||
 kolon.ist.e|• koloniste||||colonialist|||colonialista||||||||||||||kolonialisti|kolonialista|||
 kolon/pos.i.al.|• poskolonial||||postcolonial|postkolonial||||||||||||||||||||
@@ -821,7 +821,7 @@ kom.|kom||BGE Globish||come||||||||||||||||||||come |to move toward, travel towa
 Komoro|Komoro|lande|KM||Comoros|||Comoros||||||||||||||Komorit|Komory|||
 kompan.|kompane||AWL||accompany |||||||||||||||||olla seurana||||
 kompan.er|kompaner||Globish|spa:compañero, por:companheiro, fra:compagnon, eng:companion, rus:компаньон (kompan’on)|companion|Begleiter (Kamerad)|compagnon|compañero|companheiro|товарищ (компаньон)||同伴|同伴者|동반자|||||||kunulo|seuralainen (kumppani)|towarzysz (kompan)||company|a person who is frequently with another
-kompan.i.|kompanie||BGE |eng:company, fra:compagnie, spa:compañia, por:companhia, rus:компания (kompaniya), hin:कंपनी (kampanī), may:kompeni, swa:kampuni|company (party)|||compañia|companhia|компания||||||||kompeni|kampuni||kunularo|seurue (yhtiö)||||
+kompan.ia|kompania||BGE |eng:company, fra:compagnie, spa:compañia, por:companhia, rus:компания (kompaniya), hin:कंपनी (kampanī), may:kompeni, swa:kampuni|company (party)|||compañia|companhia|компания||||||||kompeni|kampuni||kunularo|seurue (yhtiö)||||
 komun.|komun||Globish||common||||||||||||||||||||common |belonging to a community as a whole
 komun.ik.|• kommunike||Globish AWL||communicate||||||||||||||||||||communicate|to give and receive information
 komun.ist.|• komuniste||RadCom||communist|||||||||||||||||||||
@@ -869,8 +869,9 @@ kreperie|kreperie||||crêperie||crêperie||||||||||||||krepejo|kreppikoju|naleś
 kres.|krese||FF BGE Globish|eng:increase, fra:croître, spa:crecer, por:crescer|grow (increase)||croître|crecer|crescer|расти (вырастать)||生长|生長する|자라다|lớn|बढ़ना||tumbuh||büyümek|kreski|kasvaa (enentyä)|wzrastać|||
 kres/di.|• dikrese||Globish||decrease (shrink)||diminuer (réduire)|disminuir|diminuir (reduzir)|||||||||||||kutistua (vähentyä)|||decrease |change to a lower degree
 Krist.|Kriste||||Christ||Christ (messie)|Cristo (mesías)|||مَسِيح|||||मसीह|মসিহ|Kristus (al-Masih)|Kristo|İsa Mesih|kristo|kristus (messias)|Chrystus, mesjasz|||
-Krist.i.|• Kristie||||Christendom||||||||||||||||kristujo|kristikunta||||
-krist.i.an.|• kristian||||Christian|Christ|chrétien|cristiano|cristão|христианин|مَسِيحِيّ‎|基督教徒|クリスチャン (キリスト教徒)|그리스도인|người theo đạo Cơ đốc|ईसाई (मसीही, क्रिश्चियन)|খ্রীষ্টান (নাসারা)|Kristen (Nasrani)|Mkristo|Hristiyan|kristano|kristitty|chrześcijanin|||
+Krist.i.|• Kristie||||Christianity|||||||||||||||||kristinusko||||
+Krist.ia|• Kristia||||Christendom||||||||||||||||kristujo|kristikunta||||
+krist.ia.an.|• kristian||||Christian|Christ|chrétien|cristiano|cristão|христианин|مَسِيحِيّ‎|基督教徒|クリスチャン (キリスト教徒)|그리스도인|người theo đạo Cơ đốc|ईसाई (मसीही, क्रिश्चियन)|খ্রীষ্টান (নাসারা)|Kristen (Nasrani)|Mkristo|Hristiyan|kristano|kristitty|chrześcijanin|||
 kritike|kritike||Globish|eng:fra:critique, deu:Kritik, spa:por:crítica, rus:критика (kritika)|critique (criticism)|Kritik|critique|crítica|crítica|критика (рецензия)||批评|批評|비평|phê bình|आलोचना||||tenkit (eleştiri)|kritiko|arvostelu (arvio, kritiikki)|krytyka||criticize|to find something wrong with
 kritiker|kritiker||||critic|Kritiker|critique|crítico|crítico|критик||批评家|批評家||nhà phê bình||||||kritikisto|arvostelija (kriitikko)|krytyk|||
 kriton|kriton|mate|Kr||krypton|||criptón (kriptón)|||||||||||||kriptono|kryptoni|krypton|||
@@ -949,8 +950,7 @@ livermorium|livermorium|mate|Lv||livermorium|||livermorio||||||||||||||livermori
 lob.|lobe||||lobe||lobe|lóbulo|lobo||||||||||||lobo|lohko (kieleke)||||
 log.|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), ara:(luğa), swa:lugha, tur:lügat, ind:logat|speak (talk)||||||||||||||||paroli|puhua||||
 log.gram|• logegram||||logogram (logo)|||||||||||||||||logogrammi (logo)||||
-log.ped.i.|• logepedie||||logopedics|Logopädie|orthophonie (logopédie)|logopedia|ortofonia|||||||||||||logopedia (puheterapia)||||
-log.ped.ie|• logepedie||||logopedics|Logopädie|orthophonie (logopédie)|logopedia|logopedia|||||||||||||logopedia||||
+log.ped.i.|• logepedie||||logopedics|Logopädie|orthophonie (logopédie)|logopedia|ortofonia (logopedia)|||||||||||||logopedia (puheterapia)||||
 log/dia.|• dialoge||BGE AWL||conversation (dialog, discussion, talk)||dialogue|diálogo|diálogo|диалог||对话 (会话)|対話||đối thoại (hội thoại)|बातचीत||dialog|||dialogo|keskustelu (dialogi)|dialog|||
 logu|logu|||eng:log, jpn:録 (roku), kor:록 (lok), yue:錄 (luk6), zho:录 (lù)|record (register, log)||enregistrement|||||纪录|記録 (ログ)|||||||||tallenne (loki)||||
 lok.|loke||BGE Globish||place (location)||||||||||||||||||||place|a part of space
@@ -971,7 +971,7 @@ luz.er.|• luzer||||loser|Verlierer|perdant|perdedor|perdedor|||输家|敗者||
 M|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|||
 ma.|ma||FF BGE Globish|spa:mamá, fra:maman, eng:swa:mama, rus:мама (mama), zho: 妈妈 (māma), jpn:ママ (mama), kor:엄마 (eomma), vie:má, ben:মা (ma), hin:मां (mã)|mom (mama)|Mama|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama||mother |a female parent who has given birth to a child
 ma.tr.|• matre||||mother|Mutter|mère|madre|mãe|мать||母亲||||||||||äiti|matka|||
-ma.tr.i.|• matrie||||motherland|Mutterland|||pátria-mãe|родина||||||||||||emämaa (synnyinmaa)|macierz|||
+ma.tr.ia|• matria||||motherland|Mutterland|||pátria-mãe|родина||||||||||||emämaa (synnyinmaa)|macierz|||
 Madagasi|Madagasi|lande|MG||Madagascar|||Madagascar||||||||||||||Madagaskar|Madagaskar|||
 Madyar|Madyar|lande|HU||Hungary|||Hungría||||||||||||||Unkari|Węgry|||
 Magribe|Magribe|lande|MA||Morocco||Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko|||
@@ -1071,7 +1071,7 @@ minim.iz.|• minimize||AWL||minimise |||||||||||||||||minimoida||||
 ministr.|ministre||||administer|||||||||||||||||||||
 ministr.at.ion.|• ministration||AWL||administration|||||||||||||||||||||
 ministr.er.|• ministrer||Globish|deu:eng:minister, fra:ministre, spa:por:ministro, rus:министр (ministr) + may:menteri, hin:मंत्री (mantrī), ben:মন্ত্রী (môntrī)|minister (politician in the government)|Minister|ministre|ministro|ministro|министр|وزير|大臣|大臣|대신|bộ trưởng|वज़ीर (मंत्री)|মন্ত্রী|menteri|waziri|bakan (vezir)|ministro|ministeri|minister||minister |a person taking part in the charge of a government
-ministr.i.|• ministrie||AWL||ministry|Ministerium|ministère|ministerio|ministério|министерство||||||मंत्रालय|মন্ত্রক|kementerian|wizara|bakanlık|ministrejo (ministerio)|ministeriö|ministerstwo|||
+ministr.ia|• ministria||AWL||ministry|Ministerium|ministère|ministerio|ministério|министерство||||||मंत्रालय|মন্ত্রক|kementerian|wizara|bakanlık|ministrejo (ministerio)|ministeriö|ministerstwo|||
 minute|minute||FF BGE |deu:eng:fra:minute, spa:por:minuto, rus:минута (minuta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:menit|minute (60 seconds)|Minute|minute|minuto|minuto|минута||分钟|分|분|phút|मिनट|মিনিট|menit (minit)|dakika|dakika|minuto|minuutti|minuta|||
 mir.aj.e|• miraje||||mirage|Luftspiegelung (Fata Morgana)|mirage|espejismo|miragem|мираж|سَرَاب‎|海市蜃楼|蜃気楼|신기루|ảo ảnh|मरीचिका|মরীচিকা|fata morgana (khayalan belaka)||serap||kangastus|miraż (fatamorgana)|||
 mir.e|mire||||reflect|||reflejar|||||||||||||speguli|heijastaa (peilata)|odbić, odbijać|||
@@ -1083,8 +1083,7 @@ mis.ex.e|• exmise||||emit|||||||||||||||||||||
 mis.ion|• mision||||mission (sending)||mission|misión|missão|миссия||||||||misi||||lähetys||||
 mis.ion.er|• misioner|||eng:missionary, deu:Missionar, fra:missionnaire, spa:misionero, por:misionário, rus:миссионер (missioner), may:misioinaris, swa:mmisionari, tur:misyoner|missionary|Missionar|missionnaire|misionero|missionário|миссионер||传教士|宣教師|선교사|người truyền giáo|||misionaris|mmisionari|misyoner|misiisto|lähetti (lähetyssaarnaaja)|misjonarz|||
 mis/kon.|• konmise||AWL||commit|||||||||||||||||||||
-mis/kon.i.|• konmisie||Globish||committee (commission)||||||||||||||||||||committee|a group to perform a job
-mis/kon/i.|• komisie||AWL|rus:комиссия (komissiya), pol:komisja, eng:fra:commission, deu:Kommission, spa:comisión, por:comissão, tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn), may:komisi|commission (committee)|Kommission|commission (comité)|comisión (comité)|comissão (comité)|комиссия (комитет)||委员会|委員会|위원회|uỷ ban|आयोग (कमीशन)|কমিশন|komisi (komite)||komisyon|komisiono (komitea)|komission (komitea)|komisja (komitet)|||
+mis/kon/ia|• konmisia||AWL Globish|rus:комиссия (komissiya), pol:komisja, eng:fra:commission, deu:Kommission, spa:comisión, por:comissão, tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn), may:komisi|commission (committee)|Kommission|commission (comité)|comisión (comité)|comissão (comité)|комиссия (комитет)||委员会|委員会|위원회|uỷ ban|आयोग (कमीशन)|কমিশন|komisi (komite)||komisyon|komisiono (komitea)|komission (komitea)|komisja (komitet)||committee|a group to perform a job
 mis/tras.e|• trasmise||AWL||transmit ||transmettre|transmitir|transmitir|||||||||||||välittää (siirtää, lähettää)||||
 mis/tras.er|• trasmiser||||transmitter|Sendegerät|transmetteur|transmisor|transmissor|передатчик||||||ट्रांसमीटर||||||lähetin||||
 mis/tras/ion|• trasmision||||transmission||transmission|transmisión|transmissão|передача||||||||||||välitys (siirtäminen, lähetys)||||
@@ -1133,11 +1132,11 @@ mwa|mwa|onom.|||smack (mwah, smooch)|||||||||||||||||muisku (suudelma)||||
 Myanma|Myanma|lande|MM||Myanmar (Burma)|||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma|||
 N|N||||N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|N|||
 nac.|nace|||ara: نَاس (nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|folk|||||||||||||||||kansa (väki)||||
-nac.i.|• nacie||BGE Globish||nation||nation|nación|nação|нация||||||||||||kansakunta|naród (narodowość)||nation |community of people occupying a defined territory
-nac.i.al|• nacial||||national|||nacional||||||||||||||kansallinen|narodowy (ludowy)|||
-nac.i.al soc.i.al.ism.|• nacial socialisme||||national socialism|||socialismo nacional||||||||||||||kansallissosialismi|narodowy socjalizm|||
-nac.i.an.it.|• nacianite||||nationality|||||||||||||||||kansallisuus||||
-nac/inter.i.al|• internacial||Globish||international|intenazional|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy||international|between or among nations
+nac.ia.|• nacia||BGE Globish||nation||nation|nación|nação|нация||||||||||||kansakunta|naród (narodowość)||nation |community of people occupying a defined territory
+nac.ia.al|• nacial||||national|||nacional||||||||||||||kansallinen|narodowy (ludowy)|||
+nac.ia.al soc.ia.al.ism.|• nacial socialisme||||national socialism|||socialismo nacional||||||||||||||kansallissosialismi|narodowy socjalizm|||
+nac.ia.an.it.|• nacianite||||nationality|||||||||||||||||kansallisuus||||
+nac/inter.ia.al|• internacial||Globish||international|intenazional|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy||international|between or among nations
 Naijirie|Naijirie|lande|NG||Nigeria|||Nigeria|||||||||||||Niĝerio|Nigeria|Nigeria|||
 nain|nain|num.|FF BGE |eng:nine, deu:neun|nine (9)||neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||||||||yhdeksän|dziewięć (9)|||
 nam.|name||BGE Globish|deu:eng:name, fra:nom, por:nome, hin:नाम (nām), ben:নাম (nam), may:nama, jpn:名前 (namae)|name|Name|nom|nombre|nome|имя|اسم|名字|名前|이름|tên|नाम|নাম|nama|jina|ad (isim)|nomo|nimi|imię (nazwa)||name |a word to call someone or something
@@ -1183,7 +1182,7 @@ niobium|niobium|mate|Nb||niobium|||niobio|||||||||||||niobo|niobium|niob|||
 Nipon|Nipon|lande|JP||Japan||Japon|Japón|Japão|Япония||日本|日本|일본|Nhật Bản|जापान|জাপান|Jepang|Japani|Japonya|Japanio|Japani|Japonia|||
 niponium|niponium|mate|Nh||nihonium|||nihonio|||||||||||||nihonio|nihonium|nihonium|||
 Nistr.|Nistre|rive|||Dniester|||||Днестр||||||||||||||||
-nistr/tras.i.|Transnistrie|lande|||Transnistria|||Transnistria (Cisdniéster)||||||||||||||Transdnistria|Naddniestrze|||
+nistr/tras.ia.|Transnistria|lande|||Transnistria|||Transnistria (Cisdniéster)||||||||||||||Transdnistria|Naddniestrze|||
 nitr.|nitre|mate|N||nitrogen|||nitrógeno|||||||||||||nitrogeno|typpi|azot|||
 Niwe|Niwe|lande|NU||Niue|||Niue||||||||||||||Niue|Niue|||
 no|no||NSM FF BGE Globish|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye)|no (not)||non (ne...pas)|no|não|нет (не)||不||||नहीं|না|tidak|||ne|ei|nie||not|to express the opposite for a word or a group of words
@@ -1232,7 +1231,7 @@ O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|||
 Oberon|Oberon|planete 7 lune 5|||Oberon|Oberon||||||||||||||||||||
 ofic.|ofice||||office (position, post)||poste|cargo (puesto)|cargo|должность (пост, позиция)||||||||||||virka (virka-asema)|urząd,(ozycja, stanowisko, funkcja)|||
 ofic.er|• oficer||Globish||officer|||funcionario||||||||||||||virkailija (virkamies)|funkcjonariusz (urzędnik)||officer|any person in the armed services
-ofic.i.|• oficie||FF Globish|eng:fra:office, spa:oficina, rus:офис (ofis), jpn:オフィス (ofisu), hin:ऑफ़िस (ŏfis), ben:অফিস (ôphis), tur:ofis, swa:afisi, may:opis|office (bureau)||bureau (office)|oficina|escritório|контора (офис, бюро)||办公室 (事务所)|事務所 (オフィス)|사무소|văn phòng|दफ़तर (ऑफ़िस)|দপ্তর (অফিস)|kantor (biro, opis)|afisi|kontor (ofis)|oficejo|toimisto (konttori)|biuro||office |a place of business
+ofic.ia.|• oficia||FF Globish|eng:fra:office, spa:oficina, rus:офис (ofis), jpn:オフィス (ofisu), hin:ऑफ़िस (ŏfis), ben:অফিস (ôphis), tur:ofis, swa:afisi, may:opis|office (bureau)||bureau (office)|oficina|escritório|контора (офис, бюро)||办公室 (事务所)|事務所 (オフィス)|사무소|văn phòng|दफ़तर (ऑफ़िस)|দপ্তর (অফিস)|kantor (biro, opis)|afisi|kontor (ofis)|oficejo|toimisto (konttori)|biuro||office |a place of business
 oganeson|oganeson|mate|Og||oganesson|||oganesón|||||||||||||oganesono|oganesson|oganesson|||
 ojet.|ojete||Globish||object||||||||||||||||||||object |anything that can be seen or touched
 ojet.iv.|• ojetive||AWL||objective  |||||||||||||||||||||
@@ -1253,7 +1252,7 @@ Oromo|Oromo|lande|||Oromia|||Oromía||||||||||||||Oromia|Oromia|||
 osmium|osmium|mate|Os||osmium|||osmio|||||||||||||osmio|osmium|osm|||
 ost.e|oste|bode|FF Globish|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|bone||os|hueso|osso||||||||||||osto|luu|kość||bone |material that makes up the skeleton
 ost.e/por/os/it.e|osteporosite||||osteoporosis||ostéoporose|osteoporosis|osteoporose|остеопороз||骨质疏松||||||||||luukato (osteoporoosi)|osteoporoza|||
-Ostr.i.|Ostrie|lande|AT||Austria|Österreich||Austria||||||||||||||Itävalta|Austria|||
+Ostr.ia.|Ostria|lande|AT||Austria|Österreich||Austria||||||||||||||Itävalta|Austria|||
 ot.|ote||||opt (prefer, choose)|optieren (wählen)|opter|optar|optar||||||||||||preferi|suosia (pitää parempana)||||
 ot.im.|• otime||||optimum|||||||||||||||||optimi (paras)||||
 ot.im.al.|• otimal||||optimal|optimal|optimal|óptimo|ótimo (óptimo)|оптимальный (наилучший)||||||||||||optimaalinen||||
@@ -1272,10 +1271,10 @@ ox.|oxe|mate|O||oxygen|||oxígeno|||||||||||||oksigeno|happi|tlen|||
 P|P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|||
 pa.|pa||FF BGE Globish|eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|dad (papa)||pere (papa)|papá|pai|папа|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak)|baba|baba|paĉjo|isi|ojciec||father |a male parent
 pa.tr.|• patre||||father|||padre||отец||父亲||||||ayah||ata|patro|isä||||
-pa.tr.i.|• patrie||||fatherland|Vaterland|patrie|patria|pátria|отечество|||||||||||patrujo|isänmaa|ojczyzna|||
-pa.tr.i/ex.an.|• expatrian||||expatriate|Expertriate|expatrié|expatriado|expatriado|экспатриант||||||||||||ekspatriaatti (maastamuuttaja)||||
-pa.tr.i/kon.an.|• konpatrian||||compatriot (fellow citizen)|Landsmann|compatriote|compatriota (cotérraneo)|compatriota (compatrício)|соотечественник||||||||||vatandaş|samlandano|maanmies|kompatriota|||
-pa.tr.i/re.at.|• repatriate||||repatriate|||||||||||||||||kotouttaa (palauttaa isänmaahan)||||
+pa.tr.ia.|• patria||||fatherland|Vaterland|patrie|patria|pátria|отечество|||||||||||patrujo|isänmaa|ojczyzna|||
+pa.tr.ia/ex.an.|• expatrian||||expatriate|Expertriate|expatrié|expatriado|expatriado|экспатриант||||||||||||ekspatriaatti (maastamuuttaja)||||
+pa.tr.ia/kon.an.|• konpatrian||||compatriot (fellow citizen)|Landsmann|compatriote|compatriota (cotérraneo)|compatriota (compatrício)|соотечественник||||||||||vatandaş|samlandano|maanmies|kompatriota|||
+pa.tr.ia/re.at.|• repatriate||||repatriate|||||||||||||||||kotouttaa (palauttaa isänmaahan)||||
 pac.|pace||FF BGE Globish|eng:peace, fra:paix, spa:por:paz, ita:pace|peace||paix|paz|paz|||和平|||||||||paco|rauha|pokój||peace|no war 
 pac.if.ism.|pacifisme||||pacifism|||pacifismo||||和平主义|||||||||pacifismo|rauhanaate (pasifismi)|pacyfizm|||
 pac.if.ist.|pacifiste||||pacifist||pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista|||
@@ -1289,7 +1288,7 @@ Palau|Palau|lande|PW||Palau|||Palaos||||||||||||||Palau|Palau|||
 pan.|pan-||||pan- (concerning all)|||||||||||||||||pan- (yleis-)||||
 pan.afrik.an|panafrikan||||pan-African|||panafricano||||||||||||||panafrikkalainen|panafrykański|||
 pan.amerik.an|panamerikan||||pan-American|||panamericano||||||||||||||panamerikkalainen|panamerykański|||
-pan.as.i.an|panasian||||pan-Asian|||panasiano||||||||||||||panaasialainen|panazjatycki|||
+pan.as.ia.an|panasian||||pan-Asian|||panasiano||||||||||||||panaasialainen|panazjatycki|||
 pan.dem.ie|pandemie||||pandemic|Pandemie|pandémie|pandemia|pandemia|пандемия|||パンデミック|||||||pandemi||pandemia|pandemia|||
 pan.europ.an|paneuropan||||pan-European|||paneuropeo||||||||||||||yleiseurooppalainen (paneurooppalainen)|paneuropejski|||
 pan.glob.ish|Panglobish|bax|||Panglobish|Panglobisch|||||||||||||||la pangloba lingvo|panglobishin kieli||||
@@ -1344,7 +1343,7 @@ pil/kon.er.|• konpiler||||compiler|||||||||||||||||||||
 pirame|pirame|||eng:pyramid, + ara:(haram)|pyramid|||pirámide|||||||||||||piramido|pyramidi|piramida|||
 Pitkerne|Pitkerne|lande|PN||Pitcairn|||Islas Pitcairn||||||||||||||Pitcairn|Pitcairn|||
 piz.a|piza|yam||deu:eng:fra:spa:por:tur:vie:pizza, rus:пицца (pitsa), ara:(bītzā), zho:比萨 (bǐsà), jpn:ピザ (piza), kor:피자 (pija), hin:पिज़्ज़ा (pizzā), ben:পিৎজা (pitja), may:piza|pizza|Pizza|pizza|pizza|pizza|пицца|بيتزا|比萨|ピザ|피자|bánh pizza|पिज़्ज़ा|পিৎজা (pitja)|piza||pizza|pico|pitsa (pizza)|pizza|پیتزا‎||
-piz.er.i.|pizerie||||pizzeria|Pizzeria|pizzeria|pizzería|pizzaria|пиццерия||比萨店|ピザ屋||||||||picejo|pitseria|pizzeria|||
+piz.er.ia.|pizeria||||pizzeria|Pizzeria|pizzeria|pizzería|pizzaria|пиццерия||比萨店|ピザ屋||||||||picejo|pitseria|pizzeria|||
 plan.|plan||BGE Globish|eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|Plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan||plan |a scale drawing of a structure
 platinum|platinum|mate|Pt||platinum|||platino|||||||||||||plateno|platina|platyna|||
 pley|pley||BGE ||play (play back)|||||||||||||||||toistaa (soittaa)||||
@@ -1381,10 +1380,10 @@ Porto Riko|Porto Riko|lande|PR||Puerto Rico|||Puerto Rico||||||||||||||Puerto Ri
 Portugal|Portugal|lande|PT||Portugal|||Portugal||||||||||||||Portugali|Portugalia|||
 pospore|pospore|mate|P||phosphorus|||fósforo|||||||||||||fosforo|fosfor|fosfor|||
 post.|poste||Globish|deu:fra:eng:post, rus:почта (pochta), tur:posta, may:pos|mail (post)|Post|poste (courrier)|correo|correio|почта|بَرِيد|邮件|郵便|우편||डाक|ডাক|pos||posta|poŝto|posti (postilähetys)|poczta||mail |things and messages sent by post or internet
-post.ofic.i.|postoficie||BGE ||post office||bureau de poste|oficina de correos|estação de correios|почтамт||邮局|郵便局|우체국 (우펀국)|sở bưu điện|डाकघर (पोस्ट-ऑफ़िस)|ডাক বিভাগ|kantor pos|posta|postane|poŝtejo|postitoimisto|poczta, budynek poczty|||
+post.ofic.ia.|postoficia||BGE ||post office||bureau de poste|oficina de correos|estação de correios|почтамт||邮局|郵便局|우체국 (우펀국)|sở bưu điện|डाकघर (पोस्ट-ऑफ़िस)|ডাক বিভাগ|kantor pos|posta|postane|poŝtejo|postitoimisto|poczta, budynek poczty|||
 pot.|pote||BGE |eng:fra:pot, spa:por:pote|pot||pot (marmite)|olla (pote)||горшок||||||||||||pata (ruukku)||||
 poz.|poze||FF BGE Globish AWL||put (set, place, pose)|||||||||||||||||panna (asettaa, laittaa)|||put|to cause to be in some place
-poz.i.|• pozie||BGE Globish||position|||||||||||||||||asema (sijainti)|||position |a place where a thing or person is
+poz.ia.|• pozia||BGE Globish||position|||||||||||||||||asema (sijainti)|||position |a place where a thing or person is
 poz/ex.|• expose||AWL||expose  |||||||||||||||||paljastaa (panna esiin)||||
 poz/in|• inpoze||AWL||put in (impose)|||||||||||||||||panna sisään||||
 poz/kon.aj.|• konpozaje||AWL||component|||||||||||||||||||||
@@ -1477,7 +1476,8 @@ rul.et.|• rulete||RadCom||roulette|||||||||||||||||||||
 Rundi|Rundi|lande|BI||Burundi|||Burundi||||||||||||||Burundi|Burundi|||
 Rus. kaiser|Rus kaiser||RadCom||tsar (czar)|Zar|tsar|zar|tsar|царь||沙皇||||||||çar|caro|tsaari||||
 rus. krepe|rus krepe|yam|||blini||||||||||||||||rusa krepo|blini|rosyjski naleśnik (blin)|||
-Rus.i.|Rusie|lande|RU||Russia|||Rusia||||||||||||||Venäjä|Rosja|||
+Rus.ia.|Rusia|lande|RU||Russia|||Rusia|||||||||||||Rusio|Venäjä|Rosja|||
+Rus.ia.an.|Rusian||||Russian||||||||||||||||rusiano|venäläinen||||
 rut.|rute||AWL||route |||||||||||||||||||||
 rutenium|rutenium|mate|Ru||ruthenium|||rutenio|||||||||||||rutenio||rut|||
 ruterfordium|ruterfordium|mate|Rf||rutherfordium|||rutherfordio|||||||||||||ruterfordio||rutherford|||
@@ -1513,7 +1513,7 @@ Sant. Vinsente en Grenadine|Sante Vinsente en Grenadine|lande|VC||Saint Vincent 
 sante gere|sante gere||||holy war|heiliger Krieg|guerre sainte|guerra santa|guerra santa (guerra sagrada)|священная война|حَرْب مُقَدَّسَة‎|圣战|聖戦|성전||||perang agama||din savaşı|sankta milito|pyhä sota||||
 saturdi|saturdi|wike dey 6|FF BGE |fra:samedi, spa:por:sábado, rus:суббота (subbota), ara:يَوم السبت (yom as-sabt), may:sabtu, hau:Asabar + eng:Sabbath, deu:Sabbat|Saturday|Samstag (Sabbat)|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota|شنبه‎||
 Saturne|Saturne|planete 6|||Saturn|Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn|||Saturn|||
-Saudi Arab.i.|Saudi Arabie|lande|SA||Saudi Arabia|||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska|||
+Saudi Arab.ia.|Saudi Arabia|lande|SA||Saudi Arabia|||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska|||
 sav.|save|||eng:savvy, fra:savoir, spa:por:saber, pcm:sabi|savvy (understand, know how)|||||||||||||||||||||
 seaborgium|seaborgium|mate|Sg||seaborgium|||seaborgio|||||||||||||seborgio||seaborg|||
 sekur.ant.i.|• sekurantie||Globish||insurance||assurance|seguro|seguro|||||||||asuransi||sigorta||vakuutus|||insurance|protection against future damage or loss
@@ -1527,7 +1527,7 @@ sen.|sene||||old person (senex)|||||||||||||||||vanhus||||
 sen.ach.|senache||||senile (deteriorated by old age)||sénile|senil|senil|||||||||||||vanhuudenhöperö (seniili)||||
 sen.al.|senal||||senile (of old age)|||||||年老的|老年の|||||||||vanhuuden||||
 sen.at.er.|• senater||||senator|Senator|sénateur|senador|senador|сенатор||||||सीनेटर||senator||senatör|senatano|senaattori|senator|||
-sen.at.i.|• senatie||Globish||senate (council of elders)|Senat|sénat (conseil de anciens)|senado|senado|сенат||||||||||senato|senato|senaatti (vanhimpien neuvosto)|senat (rada starszych)||senate |a lawmaking body of the government
+sen.at.ia.|• senatia||Globish||senate (council of elders)|Senat|sénat (conseil de anciens)|senado|senado|сенат||||||||||senato|senato|senaatti (vanhimpien neuvosto)|senat (rada starszych)||senate |a lawmaking body of the government
 sen.ior|senior||||senior (older)|||||||||||||||||seniori (vanha, vanhempi)||||
 sen.ior mid. skol.|senior mide skole||||senior high school||lycée||||||高校|||||||||lukio||||
 sence|sence||BGE ||sense (reason)|||||||||||||||||järki (mieli)||||
@@ -1539,8 +1539,8 @@ serv.|serve||Globish||serve||||||||||||||||||||serve|to work for
 serv.er|• server||FF  ||servant (waiter)|||||||||||||||||||||
 Seshel|Seshel|lande|SC||Seychelles|||Seychelles||||||||||||||Seychellit|Seszele|||
 set.|sete||||cut off|||||||||||||||||leikata (lohkota)||||
-set.i.|• setie|||eng:sect, fra:secte, rus:секта (sekta), may:sekte|sect (cult)||secte|||секта||||||||sekte||||||||
-set.i.an|• setian||||sectarian (cultist)|||||сектант||||||||||||lahkolainen||||
+set.ia.|• setia|||eng:sect, fra:secte, rus:секта (sekta), may:sekte|sect (cult)||secte|||секта||||||||sekte||||||||
+set.ia.an|• setian||||sectarian (cultist)|||||сектант||||||||||||lahkolainen||||
 set.ion|• setion||Globish AWL|eng:fra:section, spa:sección, por:seção, rus:секция (sekciya)|section (sector)|Abschnitt (Teil)|section|sección|seção|сечение (секция)||||||||||||lohko (lahko)|||section|a part, a division
 setembr.|setembre|mes|FF BGE |eng:September, fra:septembre, spa:septiembre, por:setembro, ara:(sibtambir), hin:सितम्बर sitambar), ben:সেপ্টেম্বর (septembôrô)|September||septembre|septiembre|setembro|сентябрь|سبتمبر|九 月 ||||सितम्बर|সেপ্টেম্বর|September|Septemba|Eylül|septembro|syyskuu||||
 seven|seven|num.|FF BGE |eng:seven, deu:sieben|seven (7)||sept (7)|siete (7)|sete (7)|семь (7)|七 (7)|七 (7)||||||||||sep (7)|seitsemän (7)|siedem (7)||
@@ -1553,7 +1553,7 @@ sharke|sharke|||eng:shark, zho:鲨鱼 (shāyú), hin:शार्क (śārk)|sh
 shawe|shawe|||eng:shower, deu:Schauer, ara:(šatwa) (jpn:シャワー (shawā), 샤워 (syawo), hin:शावर (śāvar))|shower (rainshower)|Schauer|averse|chubasco|aguaceiro|дождик||阵雨||소나기||बौछार||||||kuurosade (sadekuuro)||||
 shifu|shifu|||zho:师傅 (shīfu), yue:师傅 (si1 fu6), rus:шифу (shifu), eng:fra:shifu|sensei (shifu, martial arts master)|||||||||||||||||||||
 shish|shish|onom.|FF Globish|eng:shush, fra:chut, spa:chito, zho:噓 (xū), jpn:叱 (shi), kor:쉿 (swit), vie:suyt, tur:şişş|quiet (silent, still, shh)|||silencioso|||||||||||||silenta|hiljainen|cichy||still|quiet
-Shkiper.i.|Shkiperie|lande|AL||Albania|||Albania||||||||||||||Albania|Albania|||
+Shkiper.ia.|Shkiperia|lande|AL||Albania|||Albania||||||||||||||Albania|Albania|||
 shof.er|shofer||BEIW|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)||chauffeur|conductor (chofer)|condutor (chofer, motorista)|шофёр||司机||||||||sürücü (şoför)|ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)|||
 shop.|shope||FF BGE Globish|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn) |buy (purchase)||acheter|comprar|comprar|покупать (купить)|اِشْتَرَى‎|买|買う|사다|mua|मोल लेना (ख़रीदना)|কেনা|membeli|kununua|satın almak|aĉeti|ostaa|kupić||buy|to get by giving money
 shop. centr.|shope centre||||shopping centre|Einkaufszentrum|centre commercial|centro comercial|centro comercial|торговый центр||购物中心|ショッピングセンター|쇼핑 센터||शॉपिंग सेंटर||||||ostoskeskus||||
@@ -1583,7 +1583,7 @@ skandium|skandium|mate|Sc||scandium|||escandio|||||||||||||skandio|skandium|skan
 ski|ski||||ski|||||||||||||||||suksi||||
 ski|ski|esporte|RadCom||skiing|||||||||||||||||hiihto||||
 skol.|skole||FF BGE Globish|eng:school, deu:Schule, fra:école, spa:escuela, por:escola, rus:школа (shkola), pol:szkoła, hin:स्कूल (skūl), may:sekolah, swa:shule|school (institution)|Schule|école|escuela|escola|школа|مدرسة|学校|学校 (学び舎)|학교|trường học|विद्यालय (स्कूल, मद्रसा)|বিদ্যালয় (মাদ্রাসা)|sekolah (madrasah)|shule|okul (mektep, madrese)|lernejo|koulu (opisto)|szkoła||school |a place for teaching and learning
-Skot.i.|Skotie|lande|||Scotland|||Escocia||||||||||||||Skotlanti|Szkocja|||
+Skot.ia.|Skotia|lande|||Scotland|||Escocia||||||||||||||Skotlanti|Szkocja|||
 skrib.|skribe||FF BGE Globish||writing (script, scripture)|Schrift|texte|escritura|escrita|письмо||写||||लिखना||menulis|kuandika|yazmak|skribi|kirjoitus (teksti)|napisać, pisać||write|communicate by marking letters on a surface
 skrib.aj.|• skribaje||Globish||script||||||||||||||||||||script |something written by hand
 skrib.er|• skriber||||writer (scribe)|Schreiber|écrivain|escritor|escritor|писатель||作家 (笔者)||||लेखक||penulis|mwandishi|yazar (yazıcı)|skribisto|kirjoittaja|pisarz|||
@@ -1591,12 +1591,12 @@ skrib/de.|• deskribe||Globish||describe (write about)||||||||||||||||||||descr
 skrib/su.|• suskribe||||signature (autograph name)|Unterschrift|signature|firma|firma (assinatura)|подпись|مْضَاء‎|签字 (签名)|署名 (サイン)|서명 (사인)|chữ ký|हस्ताक्षर (दस्तख़त)|দস্তখত|tanda tangan|saini|imza|subskribo|allekirjoitus (nimikirjoitus)|podpis||sign |to mark with one's name
 skrib/tran.|• transkribe||||transcribe (convert script)|||||||||||||||||||||
 skribe mashin.|skribe mashine||||typewriter|Schreibmaschine|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania|||
-Slovak.i.|Slovakie|lande|SK||Slovakia|||Eslovaquia||||||||||||||Slovakia|Słowacja|||
-Sloven.i.|Slovenie|lande|SI||Slovenia|||Eslovenia||||||||||||||Slovenia|Słowenia|||
+Slovak.ia.|Slovakia|lande|SK||Slovakia|||Eslovaquia||||||||||||||Slovakia|Słowacja|||
+Sloven.ia.|Slovenia|lande|SI||Slovenia|||Eslovenia||||||||||||||Slovenia|Słowenia|||
 so|so||BGE ||so (therefore)|||||||||||||||||||||
-soc.i.|socie||BGE Globish|eng:society, fra:société, spa:sociedad, por:sociedade, rus:социум (socium)|society (community)|Gesellschaft|société|sociedad|sociedade|общество (социум)||社会|社会|사회|xã hội|समाज|সমাজ|masyarakat|jamii|toplum|socio|yhteiskunta|społeczeństwo, system społeczny||society|the totality of human relationships
+soc.ia.|socia||BGE Globish|eng:society, fra:société, spa:sociedad, por:sociedade, rus:социум (socium)|society (community)|Gesellschaft|société|sociedad|sociedade|общество (социум)||社会|社会|사회|xã hội|समाज|সমাজ|masyarakat|jamii|toplum|socio|yhteiskunta|społeczeństwo, system społeczny||society|the totality of human relationships
 soc.i.al|• social||Globish||social|||social||||||||||||||yhteiskunnallinen (sosiaalinen)|społeczny||social |living in groups, of human society
-soc.i.al med.i.|• social medie||||social media|||redes sociales||||||||||||||sosiaalinen media|media społecznościowe|||
+soc.i.al med.ia.|• social media||||social media|||redes sociales||||||||||||||sosiaalinen media|media społecznościowe|||
 soc.i.al.ism.|• socialisme||RadCom||socialism|||socialismo||||||||||||||sosialismi|socjalizm|||
 soc.i.al.ist.|• socialiste||||socialist|||socialista||||||||||||||sosialisti|socjalista|||
 soc.i.et.|• societe||||society (association)|Verein (Assoziation)|association||associação|||会社 (协会)|組織|||||||||yhteisö (seura, yhdistys)||||
@@ -1635,7 +1635,7 @@ spond/re.|• responde|||eng:respond, fra:répondre, spa:por:responder|answer (r
 sport.|sporte||FF BGE BEIW Simplish|eng:deu:fra:sport, spa:deporte, por:esporte, rus:спорт (sport), jpn:スポーツ (supōtsu), kor:스포츠 (seupocheu), hin:स्पोर्ट (sporṭ), swa:spoti, tur:spor|sport (athletics)|Sport|sport|deporte|esporte (desporto)|спорт|رِيَاضَة|运动|運動 (スポーツ)|운동 (스포츠)|thể thao|वर्ज़िश (खेल, स्पोर्ट)|ক্রীড়া (খেল)|olahraga|spoti (riadha)|spor|sporto|urheilu|sport (lekkoatletyka)|||
 sport.al|• sportal||||athletic|||||||||||||||||urheilullinen||||
 sport.er|• sporter||||athlete (sportsman)|Sportler (Athlet)|athlète|deportista (atleta)|atleta|легкоатлет||运动选手||운동선수|||||||sportisto|urheilija|atleta (sportowiec)|||
-stad.i.|stadie||RadCom|eng:stadium, fra:stade, spa:estadio, por:estádio, rus:стадион (stadion), tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||stade|estadio (arena)|estádio|стадион||||||स्टेडियम|||||stadiono (areno)|stadioni (areena)|stadion, arena|||
+stad.ia.|stadia||RadCom|eng:stadium, fra:stade, spa:estadio, por:estádio, rus:стадион (stadion), tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||stade|estadio (arena)|estádio|стадион||||||स्टेडियम|||||stadiono (areno)|stadioni (areena)|stadion, arena|||
 stan.|stane|mate|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin|tin||étain|estaño|estanho|||锡|珍|||||||||tina|cynk|||
 star.|stare||FF BGE Globish|eng:star, spa:estrella, por:estrela, hin:सितारा (sitārā), fas:ستاره‎ (setâre),|star||étoile (astre)|estrella (astro)|estrela|звезда||星||||तारा (सितारा)|তারা|bintang|nyota|yıldız|stelo|tähti|gwiazda||star |a space body one can see at night
 stibium|stibium|mate|Sb||antimony|||antimonio||||锑|アンチモン||||||||||antymon|||
@@ -1648,9 +1648,9 @@ strut/in.|• instrute||AWL||build in (instruct)|||||||||||||||||||||
 strut/infra.ur.|• infrastrutur||AWL||infrastructure  |||||||||||||||||infrastruktuuri (perusrakenteet)||||
 strut/kon.|• konstrute||FF BGE Globish AWL||construct (build)|bauen (konstruieren)|construire|construir||строить||||||||||||rakentaa|||build|make by putting materials together
 strut/kon.ion|• konstrution|||ita:costruzione, eng:fra:construction, por:construção, spa:construcción, deu:konstruieren, rus:конструкция (konstrukciya), jpn:コンストラクト (konsutorakuto)|construction|Bau|construction|construcción|construção|строение||||||निर्माण||||||rakentaminen||||
-stud.e|stude||BGE Globish||learn (study)||||||||||||||||||||study|to give careful consideration to
-stud.i.|studie||||study room||étude|estudio||кабинет (студия)||||||||||||opisto||||
-stud/an|studan||FF BGE |deu:eng:student, fra:étudiant, spa:estudiante, por:estudante, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|Student|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|student|||
+stud.|stude||BGE Globish||learn (study)||||||||||||||||||||study|to give careful consideration to
+stud.ent.|• studente||FF BGE |deu:eng:student, fra:étudiant, spa:estudiante, por:estudante, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|Student|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|student|||
+stud.ia.|• studia||||study room||étude|estudio||кабинет (студия)||||||||||||opisto||||
 stupid.|stupide||Globish||stupid||||||||||||||||||||stupid |not intelligent
 Sudan|Sudan|lande|SD||Sudan|||Sudán||||||||||||||Sudan|Sudan|||
 sude|sude|kompas|FF BGE Globish|fra:sud, spa:sur, por:sul, eng:south, deu:Süden|south||sud|sur|sul||||||||||||sudo|etelä|południe||south|the direction to the left when facing the sunset
@@ -1781,7 +1781,7 @@ tu’s|tu’s|poss.pron.|||your||||||||||||||||cia|sinun||||
 tube|tube||Globish|spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu|tube (pipe)||tube|tubo|tubo||||||||||||tubo|putki (tuubi)|tuba (rura)||tube |a round container
 tule|tule||FF BGE Globish|eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|tool (instrument)|||herramienta||||工具|道具 (ツール)|도구 (툴)|dụng cụ|उपकरण (औज़ार)||alat|kifaa|alet|ilo|työkalu|narzędzie||tool |a hand instrument
 tulium|tulium|mate|Tm||thulium|||tulio|||||||||||||tulio||tul|||
-Tunis.i.|Tunisie|lande|TN||Tunisia||Tunisie|Túnez||||||||||||||Tunisia|Tunezja|||
+Tunis.ia.|Tunisia|lande|TN||Tunisia||Tunisie|Túnez||||||||||||||Tunisia|Tunezja|||
 tur.|ture|||eng:deu:spa:tour, fra:tournée, por:turnê, rus:турне (turne), may:tur, jpn:ツアー (tsuā), kor:투어 (tueo), zho:旅途 (lǚtú)|tour (excursion, trip)|Reise (Tour)|excursion (tournée)|recorrido (tour)|turnê|путешествие (турне)|||旅行 (ツアー)|여행 (투어)||||||||reissu (retki)||||
 tur. gid.er|ture gider||||tour guide|Reiseleiter|guide touristique|guía turístico|guia turístico||||案内人|||||||||matkaopas (retkiopas)||||
 tur.ism.e|turisme||||tourism|Tourismus|tourisme|turismo|turismo|туризм||||||||||turizm|turismo|turismi (matkailu)|turystyka|||
@@ -1921,7 +1921,7 @@ yumor|yumor||Globish|rus:юмор (yumor), deu:eng:spa:por:may:humor, fra:humour
 yumor.ist.e|yumoriste||||humoriste|Humorist|humoriste|humorista|humorista|юморист||||||||||||||||
 yust.|yuste||BGE Globish|eng:just, fra:juste, spa:por:justo + deu:Justiz, rus:юстиция (yusticiya)|right (just, fair)||juste|justo|justo|||正义的 (公正的)|公正な (公平な)|공정하다|ông bằng|उचित||adil||adil|justa|oikea (oikeudenmukainen)|||fair |free from self-interest
 yust.it.e|• yustite||||justice (fairness)|Gerechtigkeit|justice|justeza (justedad)|justeza|справедливость|عدل‎|正义|正義|정의||न्याय|আদালত|keadilan||adalet|justeco|oikeudenmukaisuus (reiluus)|sprawiedliwość|||
-yust.it.i.|• yustitie||FF BGE Globish||court (justice)|Justiz|justice|justicia|justiça|правосудие (юстиция)||法官|法官|법관||||||||oikeus (oikeustalo)|||court|a place where justice is given
+yust.it.ia.|• yustitia||FF BGE Globish||court (justice)|Justiz|justice|justicia|justiça|правосудие (юстиция)||法官|法官|법관||||||||oikeus (oikeustalo)|||court|a place where justice is given
 yust/an.|• anyuste||||unjust (unfair)|ungerecht|injuste|injusto|injusto|несправедливый||非正义的|不正な|||||||adaletsiz|maljusta|epäoikeudenmukainen (epäreilu)|niesprawiedliwy|||
 yuste pley|yuste pley||||fair play|Fairplay|fair-play (franc-jeu)|juego limpio|jogo limpo (fair play)||||フェアプレー|||||||||reilu peli||||
 yuterbium|yuterbium|mate|Yb||ytterbium|||iterbio|||||||||||||iterbio|ytterbium|iterb|||
@@ -1934,7 +1934,7 @@ zerv/kon.|• konzerve||||conserve|||||||||||||||||||||
 zerv/kon.at.iv.|• konzervative||||conservative|||||||||||||||||||||
 zerv/pre.|• prezerve||||preserve (store beforehand)|||||||||||||||||||||
 zerv/re.|• rezerve||||reserve|||||||||||||||||||||
-zerv/re.i.|• rezervie||||reservation (tract of land)||||резервация|||||||||||||reservaatti||||
+zerv/re.ia.|• rezervia||||reservation (tract of land)||||резервация|||||||||||||reservaatti||||
 zigure|zigure||||ziggurat|Zikkurat|ziggourat|zigurat||зиккурат||金字形神塔|ジッグラト|지구라트||||||ziggurat||zikkurat|ziggurat|||
 Zimbabwe|Zimbabwe|lande|ZW||Zimbabwe|||Zimbabue||Зимбабве||||||||||||Zimbabwe|Zimbabwe|||
 zinke|zinke|mate|Zn||zinc|||cinc||цинк|||||||||||zinko|sinkki|cynk|||

@@ -233,15 +233,15 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 ### Suffixes
 
 **-ade**
-'group or series of' :  
-**kolun**
-'column'
-→ **kolunade**
-'colonnade'  
-**sene**
-'old person'
-→ **senade**
-'council of elders, senate'
+'object of' :  
+**favore**
+'to favor'
+→ **favorade**
+'favored, favorite'  
+**tere**
+'to scare or frighten'
+→ **terade**
+'scared, frightened'
 
 **-aje**
 'thing made of' :  
@@ -299,6 +299,13 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'earth, soil'
 → **human**
 'earthling' and, _by extension_, 'human being'
+
+**-ar**
+'group or series of' :  
+**kolun**
+'column'
+→ **kolunar**
+'colonnade'
 
 **-ate**
 'act in the specified manner' :  

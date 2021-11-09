@@ -816,7 +816,7 @@ kolon/pos.i.al.|• poskolonial||||postcolonial|postkolonial||||||||||||||||||||
 kolor|kolor||FF BGE Globish|end:spa:color, fra:couleur, por:cor, pol:kolor, rus:колер|color|Farbe|couleur|color|cor|цвет (колер)|لون‎|颜色|色|색깔|màu sắc|रंग|রং|warna|rangi|renk|koloro|väri|kolor||color|quality of light of an object
 kolor. skal.|kolor skale||RadCom||spectrum (color range)|Spektrum|spectre|espectro|espetro|спектр||||||||||||||||
 kolun.|kolun|||eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|column (pillar, pole, post)|||columna|||||||||||||kolono|pylväs (pilari)|kolumna, filar|||
-kolun.ad.|• kolunade||||colonnade|Kolonnade|colonnade|columnata|colunata|колоннада||||||||||||pylväikkö||||
+kolun.ar.|• kolunar||||colonnade|Kolonnade|colonnade|columnata|colunata|колоннада||||||||||||pylväikkö||||
 kom.|kom||BGE Globish||come||||||||||||||||||||come |to move toward, travel toward
 Komoro|Komoro|lande|KM||Comoros|||Comoros||||||||||||||Komorit|Komory|||
 kompan.|kompane||AWL||accompany |||||||||||||||||olla seurana||||
@@ -1525,9 +1525,9 @@ sem.for.er.|• semeforer||||semaphore||sémaphore|semáforo||семафор||||
 sem.loj.i.|• semelojie||||semantics||sémantique|semántica|semântica|семантика||语义学|意味論|의미론|ngữ nghĩa học|||semantik|semantiki|anlambilim|semantiko|merkitysoppi (semantiikka)||||
 sen.|sene||||old person (senex)|||||||||||||||||vanhus||||
 sen.ach.|senache||||senile (deteriorated by old age)||sénile|senil|senil|||||||||||||vanhuudenhöperö (seniili)||||
-sen.ad.|• senade||Globish||senate (council of elders)|Senat|sénat (conseil de anciens)|senado|senado|сенат||||||||||senato|senato|senaatti (vanhimpien neuvosto)|senat (rada starszych)||senate |a lawmaking body of the government
-sen.ad.er.|• senader||||senator|Senator|sénateur|senador|senador|сенатор||||||सीनेटर||senator||senatör|senatano|senaattori|senator|||
 sen.al.|senal||||senile (of old age)|||||||年老的|老年の|||||||||vanhuuden||||
+sen.at.er.|• senater||||senator|Senator|sénateur|senador|senador|сенатор||||||सीनेटर||senator||senatör|senatano|senaattori|senator|||
+sen.at.i.|• senatie||Globish||senate (council of elders)|Senat|sénat (conseil de anciens)|senado|senado|сенат||||||||||senato|senato|senaatti (vanhimpien neuvosto)|senat (rada starszych)||senate |a lawmaking body of the government
 sen.ior|senior||||senior (older)|||||||||||||||||seniori (vanha, vanhempi)||||
 sen.ior mid. skol.|senior mide skole||||senior high school||lycée||||||高校|||||||||lukio||||
 sence|sence||BGE ||sense (reason)|||||||||||||||||järki (mieli)||||
@@ -1708,11 +1708,12 @@ ten/su.|• sutene||AWL||sustain (hold from below)|||||||||||||||||||||
 ten/su.er|• sutener||||souteneur (pimp)|Zuhälter|souteneur (maquereau)|proxeneta (chulo)|proxeneta (cafetão)|сутенёр||||||||||||||||
 tenesin|tenesin|mate|Ts||tennessine|||teneso|||||||||||||teneso||tenesyn, tennessine|||
 tenis|tenis|sporte|RadCom||tennis|||tennis|||||||||||||teniso|tennis|tenis|||
-ter.|tere|||eng:spa:por:terror, fra:terreur, jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme|scare (frighten)|||||||||||||||||||||
+ter.|tere|||eng:spa:por:terror, fra:terreur + rus:терроризм (terrorizm), jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme|scare (frighten)|||||||||||||||||||||
 ter.ad.|• terade||||scared (frightened)|||||||||||||||||||||
 ter.if.|• terife||||terrify||terrifier|aterrar||||||||||||||||||
 ter.ur.|• terure||Globish||terror|||terror|||||||||||||teroro|kauhu (terrori)|terror||terror |a huge feeling of fear
 ter.ur.ism.|• terurisme||||terrorism|Terrorismus|terrorisme|terrorismo|terrorismo|терроризм||恐怖行为|テロリズム|테러리즘|chủ nghĩa khủng bố|आतंकवाद|সন্ত্রাসবাদ|pengganasan (terorisme)||terörizm (yıldırıcılık)|terorismo|terrorismi|terroryzm|||
+ter.ur.ism/kon/tr.|• kontre-terurisme||||counter-terrorism (antiterrorism)|Antiterrorismus (Terrorabwehr)|antiterrorisme (contreterrorisme|antiterrorismo (contraterrorismo)|antiterrorismo (contraterrorismo)|антитерроризм (контртерроризм)||反恐怖主义|反テロ|||||||||terrorisminvastainen toiminta|antyterroryzm|||
 ter.ur.ist.|• teruriste||||terrorist||terroriste|terrorista|||||||||||||teroristo|terroristi|terrorysta|||
 ter/de.|• detere||||deter (scare away)|||||||||||||||||||||
 terbium|terbium|mate|Tb||terbium|||terbio|||||||||||||terbio||terb|||
@@ -3840,3 +3841,4 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||zebra|||||||||||||||||||||
 |||RadCom||zigzag|||||||||||||||||||||
 |||BEIW||Zoology|||||||||||||||||||||
+sagu.|sagu|bio|Metroxylon sagu|eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)|sago palm||sagoutier|sagú|sagu|саго|سَاغُو‎|西谷米|サゴ|||सागू||pokok sagu||||saagopalmu|sago|||

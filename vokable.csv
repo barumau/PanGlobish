@@ -89,14 +89,14 @@ aut.er|• auter||FF AWL|fra:auteur, spa:por:autor, eng:author, rus:автор|a
 aut.er.it.|• auterite||Globish AWL||authority||||||||||||||||||||authority|the power to enforce something on someone
 aut.mat.|• autemate||Globish||automatic|automatisch|automatique|automático|automático|автомати́ческий||自动的|自動な||tự động|||||||automaattinen (itsetoimiva)|||automatic|acting or operating by itself
 aut.mat.iz.|• autematize||AWL||automate |automatisieren|automatiser|automatizar|automatizar|автоматизировать||自动化|自動化する|||||||||automatisoida|automatyzować|||
-aut.mot.iv.|• autemotive||||automotive (self-propelling)||automobile|automotor|automotivo|самоходный||||||||||||itseliikkuva||||
+aut.mov.il.|• autemovile||||automobile (self-moving)||automobile|automotor|automotivo|самоходный||||||||||||itseliikkuva||||
 autum|autum|sezon|FF BGE Globish|fra:automne, spa:otoño, por:outono, eng:autumn|autumn (fall)|Herbst|automne|otoño|outono|осень|خريف|秋天|||||||||aŭtuno|syksy (syys)|jesień||autumn |the season between summer and winter, the fall
 axe|axe|||eng:axis, fra:axe, por:eixo, deu:Achse, hin:अक्ष (akṣ), tur:eksen, swa:ekseli|axis (axle)|Achse|axe (essieu)|eje|eixo|ось||轴线||||अक्ष||gandar (paksi)|ekseli|eksen|akso|akseli|oś|||
 aye|aye||FF BGE Globish|eng:eye|eye||œil|ojo|olho|глаз||眼睛|目|눈|mắt|आँख|চোখ|mata|jicho|göz|okulo|silmä|oko||eye|body part by which we see
 aye glas|aye glas||BGE ||eyeglasses (spectacles)||lunettes|anteojos (gafas)|óculos|очки||眼镜|眼鏡|안경||ऐनक (चश्मा)|চশমা|kaca mata|miwani|gözlük|okulvitroj|silmälasit|okulary|||
 Azere|Azere|lande|AZ||Azerbaijan|||Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan|||
 B|B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|||
-bacheler|bacheler|akadem.||deu:eng:bachelor, spa:bachiller, por:bacharel, ita:baccelliere|bachelor (bachelor’s degree)|Bachelor|licence|bachiller|bacharel|бакалавр||学士|学士|||||sarjana||||kandidaatti (tutkinto)||||
+bachel.er.|bacheler|akadem.||deu:eng:bachelor, spa:bachiller, por:bacharel, ita:baccelliere|bachelor (bachelor’s degree)|Bachelor|licence|bachiller|bacharel|бакалавр||学士|学士|||||sarjana||||kandidaatti (tutkinto)||||
 badam|badam|||may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|almond||amande|almendra|amêndoa|миндаль|لَوْز|杏仁 (巴旦木)|アーモンド (扁桃)|아몬드 (편도)|hạnh nhân|बादाम|বাদাম|badam|lozi|badem||manteli|migdał|||
 bade|bade||NSM FF BGE Globish|eng:bad, hin:बद (bad), fas: بد (bad)|bad (unpleasant)|||||||||||||||||||بد|bad|not good 
 bag.e|bage||FF BGE Globish|eng:bag, hin:बैग (bæg), may:beg, jpn:バッグ (baggu)|bag||sac||||كيس|包| 鞄 (バッグ)|||बैग||tas (beg)|mfuko|çanta|sako|laukku|||bag|a soft container with a single opening
@@ -242,6 +242,7 @@ chili|chili|masala||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (ch
 chiz.|chize||FF BGE Globish|eng:cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|cheese||fromage|queso|queijo|сыр|جُبْن|酪 (起司)|チーズ|치즈|pho mát|पनीर|পনির|keju|jibini (chizi)|peynir|fromaĝo|juusto|ser||cheese |food made from milk
 chize burge|chize burge|yam|||cheeseburger|Cheeseburger|cheeseburger (hamburger au fromage)|hamburguesa con queso|cheeseburguer|чизбургер||起司堡|チーズバーガー|치즈버거||||||||juustohampurilainen|cheeseburger|چیزبرگر‎||
 chokolate|chokolate||Simplish|spa:por:eng:chocolate, fra:chocolat, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), may:cokelat, tur:çikolata|chocolate||chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada|||
+Chosen|Chosen|lande||kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|Korea|||Corea||||||||||||||Korea|Korea|||
 ci.tr.|ci.tr.||||this side|||||||||||||||||tämä puoli||||
 cient.i.|cientie||FF BGE Globish|eng:fra:science, spa:ciencia, por:ciência, hin:साइंस (sāins), jpn:サイエンス (saiensu), may:sains|science|Wissenschaft|science|ciencia|ciência|наука||科学|科学 (サイエンス)|과학|khoa học|विज्ञान (साइंस)|বিজ্ঞান|ilmu (sains)|ilmu|bilim (ilim)|scienco|tiede|nauka||science|knowledge of general facts
 cient.ik.|cientike||||scientific||scientifique|científico|científico|научный||||||||||||tiede-||||
@@ -253,7 +254,13 @@ cikl.|cikle||FF BGE |eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, t
 cit.|cite||FF Globish||city||||||||||||||||||||city |a large town
 cit.an.|• citan||Globish||citizen||citoyen||||||||||||||||||citizen|a person belonging to a nation
 citar.|citare|musike||deu:eng:zither, fra:cithare, spa:por:cítara, rus:цитра (citra)|zither|Zither|cithare|cítara|cítara|цитра||古琴|ツィター|||||||||sitra (kantele)||||
-Cosen|Cosen|lande||kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|Korea|||Corea||||||||||||||Korea|Korea|||
+civ.|cive||||citizen|||||||||||||||||||||
+civ.ik.|• civike||||civic||civique|cívico|cívico|||||||||||||||||
+civ.il.|• civile||AWL|eng:fra:spa:por:civil, por:civil, hin:सिविल (sivil), may:sipil|civil|bürgerlich (zivil)|civil|civil|civil|гражданский||||||सिविल (नागरिक)||sipil||sivil||siviili (kansalais-)|cywilny|||
+civ.il.ad.|• civilade||||civilized (civil)|||civilizado||||||||||||||sivistynyt|cywilizowany (ucywilizowany)|||
+civ.il.ia.|• civilia||RadCom||civilization|||||||||||||||||||||
+civ.il.ia.an.|• civilian||Globish||civilian||||||||||||||||||||civilian |a person in civil life, not in the armed forces
+civ.ped.i.|• civepedie||||civics||éducation civique|educación cívica|educação cívica|граждановедение||||||||||||kansalaistaito||||
 coy|coy|||zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|greens|||verduras|verdura|зелень||||||||||||vihannes|zielenina|||
 Cuana|Cuana|lande|BW||Botswana|||Botsuana||||||||||||||Botswana|Botswana|||
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|||
@@ -479,6 +486,7 @@ fix/pos.|• posfixe||||suffix (postfix)||suffixe|sufijo||||||||||||||loppuliite
 fix/pre.|• prefixe||||prefix|||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)|||
 flerov.ium.|flerovium|kimeme 114|Fl|eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi|flerovium||flérovium|flerovio|fleróvio|флеровий|ٲنون كواديوم||フレロビウム|플레로븀|flerovi|||flerovium|flerovi|fleroviyum||flerovium|flerow|||
 flit/kon.|• konflite||AWL||conflict (clash together)|||||||||||||||||||||
+flor.|flor||FF BGE Globish|eng:flower, fra:fleur, spa:por:flor|flower|Blume|fleur|flor|flor|цветок|زَهْرَة|花|花|꽃 (화)|hoa|फूल (पुष्प)|ফুল|bunga|ua||floro|kukka|kwiat||flower |the brightly-coloured part of plant
 fluor.|fluor|kimeme 009|F|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|fluorine||fluor|flúor|flúor|фтор|فلور|氟|フッ素|플루오르|flo|फ्लोरीन|ফ্লুরিন|fluor|florini|fluor|fluoro|fluori|fluor|||
 Fobos|Fobos|planete 4 lune 1|||Phobos|Phobos||||||||||||||||||||
 fol.|fol||Globish||mad (fool, crazy)||fol|||||||||||||||hölmö (kahjo, hullua)|||fool |a person without sense
@@ -787,6 +795,7 @@ Khartum|Khartum|chefe citi|SD||Khartoum||Khartoum|Jartum|Cartum|Хартум|ا�
 kide|kide||FF BGE Globish||child (kid)||||||||||||||||||||child|a young person, not an adult
 kim.|kime|||eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|substance (physical material from which something is made)|substance|sustancia|substância|вещество||物质|物質|물질|vật chất|पदार्थ|পদার্থ|||||aine (aines, materia)|||||
 kim.em.|kimeme||||chemical element||élément chimique|elemento químico|elemento químico|химический элемент||元素|元素|원소|nguyên tố|रासायनिक तत्व||unsur kimia||kimyasal element|kemia elemento|alkuaine||||
+kim.ik.|• kimike||Globish AWL||chemical||||||||||||||||||||chemical |dealing with the composition of substances and their properties and reactions
 kim.loj.er.|• kimelojer||BEIW||chemist|Chemiker|chimiste|químico|químico|химик||化学家|化学者|화학자||||kimiawan||kimyacı|kemiisto|kemisti|chemik|||
 kim.loj.i.|• kimelojie (kimie)||BEIW||chemistry|Chemie|chimie|química|química|химия|كِيمِيَاء‎|化学|化学|화학|hóa học|रसायन शास्त्र|রসায়ন|kimia|kemia|kimya|kemio (ĥemio)|kemia|chemia|||
 Kinshasa|Kinshasa|chefe citi|CD||Kinshasa|Kinshasa|Kinshasa|||||||||||||||Kinshasa||||
@@ -1131,7 +1140,10 @@ mot.|mote||||move (change place, transport)|||||||||||||||||||||
 mot.er.|• moter||FF Globish|fra:moteur, eng:spa:por:tur:may:motor, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|Motor|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|motor||engine |a machine that can start others moving
 mot.ion|• motion||Globish||motion|||||||||||||||||liikunta (liikkuminen)|||motion |the condition of moving
 mot.iv.|• motive||AWL||motive |Motiv|motif (mobile)|motivo|motivo|мотив||||||||||||vaikutin (motiivi)||||
-mov.|move||NSM  BGE Globish||move (change position)|||||||||||||||||||||to change position
+mov.|move||NSM  BGE Globish||move (change position)|||||||||||||||||liikkua||||to change position
+mov.abl.|• movable||||movable|||||||||||||||||liikuteltava||||
+mov.il.|• movile||||mobile|mobil|mobile|móvil|móvel|мобильный||||||||||||||||
+mov.il. tel.fon.|• movile telefon||||mobile phone|Mobiltelefon|téléphone mobile|teléfono móvil (teléfono celular)|telefone móvel (telefone celula)|мобильный телефон||||||||||||matkapuhelin||||
 Mozambike|Mozambike|lande|MZ||Mozambique|||Mozambique||||||||||||||Mosambik|Mozambik|||
 much.|muche||NSM FF Globish|eng:much, spa:mucho|much (a lot)|viel|beaucoup|mucho|muito|много||很多|多くの  (沢山)|많은|nhiều|बहुत|বহু|banyak||çok|multa|paljon|dużo (wiele)||much |in great quantity
 multi.|multi||||many|||||||||||||||||||||
@@ -1341,6 +1353,16 @@ ped.centr.ist.|• pedecentriste||||pedocentrist|||||||||||||||||kasvatuskeskein
 ped.fil.i.|• pedefilie||||pedophilia|||||||||||||||||pedofilia||||
 ped.fob.i.|• pedefobie||||pedophobia|||||||||||||||||pedofobia (lastenpelko)||||
 ped.i.|• pedie||||education (upbringing)|||||||||||||||||kasvatus (lasten~)||||
+pel.|pele||FF BGE Globish||drive (operate a vehicle)||||||||||||||||peli|ajaa|||drive|to operate a vehicle
+pel/a.|• apele||Globish||appeal (drive to oneself)||||||||||||||||alpeli|ajaa luokseen|||appeal |make a request
+pel/de.|• depele||||drive away||||||||||||||||elpeli|ajaa pois (poistaa)||||
+pel/dis.|• dispele||||dispel (disperse, drive asunder)||||||||||||||||dispeli|ajaa erilleen (hajauttaa)||||
+pel/ex.|• expele||||expel (drive out)||expulser|expeler (expulsar)|expelir||||||||||||forpeli|ajaa ulos||||
+pel/in.|• inpele||||impel (drive into)|||impeler|impelir|||||||||||||ajaa sisään||||
+pel/kon.|• konpele||||drive together|||||||||||||||||ajaa yhteen||||
+pel/pro.|• propele||||propel (drive forward)|||||||||||||||||ajaa eteenpäin||||
+pel/pro.or.|• propelor||||propeller|Propeller|hélice|propulsor (hélice)|propulsor (hélice)|пропеллер (винт)||螺旋桨|プロペラ (推進器)|프로펠러|cánh quạt|||baling-baling|rafardha|pervane|helico|potkuri (propelli)||||
+pel/re.|• repele||||repel (drive back)|||||||||||||||||ajaa takaisin||||
 pen.|pene||BGE Globish|eng:penalty, fra:peine, spa:por:pena, rus:пенальти (penalti)|punishment (penalty)|Strafe|punition (peine)|castigo (pena)|castigo (pena)|||惩罚|罰|벌 (처벌)|hình phạt|दण्ड (सज़ा)||||||rangaistus|||punish |to cause discomfort to a person because of some offense
 pen.al kik.e|penal kike||||penalty kick|Strafstoß|penalty|tiro penal|pênalti|пенальти||罚球|ペナルティーキック|||||||||rangaistuspotku||||
 pepe|pepe|masala||eng:pepper, deu:Pfeffer, ita:pepe, tur:biber|pepper (peppercorn)|Pfeffer|poivre|pimienta|pimenta|перец||胡椒||||गोलमिर्च||lada hitam|||pipro|pippuri|pieprz|||
@@ -1537,10 +1559,10 @@ sem.em.|• sememe||||sememe|||||||||||||||||semeemi||||
 sem.for.er.|• semeforer||||semaphore||sémaphore|semáforo||семафор||||||||||||||||
 sem.loj.i.|• semelojie||||semantics||sémantique|semántica|semântica|семантика||语义学|意味論|의미론|ngữ nghĩa học|||semantik|semantiki|anlambilim|semantiko|merkitysoppi (semantiikka)||||
 sen.|sene||||old person (senex)|||||||||||||||||vanhus||||
-sen.ach.|senache||||senile (deteriorated by old age)||sénile|senil|senil|||||||||||||vanhuudenhöperö (seniili)||||
-sen.al.|senal||||senile (of old age)|||||||年老的|老年の|||||||||vanhuuden||||
+sen.ach.|• senache||||senile (deteriorated by old age)||sénile|senil|senil|||||||||||||vanhuudenhöperö (seniili)||||
 sen.at.er.|• senater||||senator|Senator|sénateur|senador|senador|сенатор||||||सीनेटर||senator||senatör|senatano|senaattori|senator|||
 sen.at.ia.|• senatia||Globish||senate (council of elders)|Senat|sénat (conseil de anciens)|senado|senado|сенат||||||||||senato|senato|senaatti (vanhimpien neuvosto)|senat (rada starszych)||senate |a lawmaking body of the government
+sen.il.|• senile||||senile|||||||年老的|老年の|||||||||vanhuuden||||
 sen.ior|senior||||senior (older)|||||||||||||||||seniori (vanha, vanhempi)||||
 sen.ior mid. skol.|senior mide skole||||senior high school||lycée||||||高校|||||||||lukio||||
 sence|sence||BGE ||sense (reason)|||||||||||||||||järki (mieli)||||
@@ -2032,7 +2054,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||apologize||||||||||||||||||||apologize|to express regret
 |||RadCom||apostrophe|||||||||||||||||||||
 |||AWL||apparent|||||||||||||||||||||
-|||Globish||appeal||||||||||||||||||||appeal |make a request
 |||BGE Globish||appear||||||||||||||||||||appear |to come to be seen
 |||AWL||append |||||||||||||||||||||
 |||BGE Globish||apply||||||||||||||||||||apply|1°to put into service 2°to ask for something
@@ -2219,25 +2240,19 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||chance (opportunity, occasion)||||||||||||||||||||chance |a possibility due to a good combination of conditions
 |||BGE ||chance (unexpected event)|||||||||||||||||||||
 |||BGE Globish||change||||||||||||||||||||change |1° to make different 2° the money received when what you give is too high
-|||Globish||channel||||||||||||||||||||channel|a body of water joining two larger ones, a television broadcasting station
-|||AWL||channel |||||||||||||||||||||
+|||Globish AWL||channel||||||||||||||||||||channel|a body of water joining two larger ones, a television broadcasting station
 |||RadCom||chaos|||||||||||||||||||||
 |||AWL||chapter|||||||||||||||||||||
 |||Globish||charge||||||||||||||||||||charge |1° to ask as a price 2° to accuse
 |||AWL||chart |||||||||||||||||||||
 |||Globish||chase||||||||||||||||||||chase|to go after to try to catch
 |||FF Globish||cheap (not expensive)||||||||||||||||||||cheap|not dear ( in terms of money )
-|||BEIW||check|||||||||||||||||||||
-|||BGE Globish||check||||||||||||||||||||check|to prove true or right
-|||Simplish||check|||||||||||||||||||||
+|||BEIW BGE Globish Simplish||check||||||||||||||||||||check|to prove true or right
 |||Globish||cheer||||||||||||||||||||cheer|shout of approval
-|||AWL||chemical|||||||||||||||||||||
-|||Globish||chemical||||||||||||||||||||chemical |dealing with the composition of substances and their properties and reactions
 |||Globish||chest||||||||||||||||||||chest|the part of the body between neck and stomach
 |||BGE Globish||choose||||||||||||||||||||choose |select among others
 |||BGE ||chop|||||||||||||||||||||
-|||BEIW||chorus|||||||||||||||||||||
-|||Simplish||chorus|||||||||||||||||||||
+|||BEIW Simplish||chorus|||||||||||||||||||||
 |||BGE Globish||church||||||||||||||||||||church |a building for religious meetings
 |||FF BGE Globish||circle||||||||||||||||||||circle |a round line always at the same distance from a central point
 |||FF Globish||circle (ring)||||||||||||||||||||ring |
@@ -2245,9 +2260,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||circus|||||||||||||||||||||
 |||AWL||cite  |||||||||||||||||||||
 |||BEIW||citron|||||||||||||||||||||
-|||AWL||civil|||||||||||||||||||||
-|||Globish||civilian||||||||||||||||||||civilian |a person in civil life, not in the armed forces
-|||RadCom||civilization|||||||||||||||||||||
 |||Globish||claim||||||||||||||||||||claim|to demand as one's due
 |||Globish||clash||||||||||||||||||||clash|make or cause to make a loud sound
 |||BGE Globish||class||||||||||||||||||||class|a group of students working together
@@ -2438,7 +2450,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF  ||draw (verb)|||||||||||||||||||||
 |||FF BGE Globish||dress (noun)||||||||||||||||||||dress|a piece of clothing for women or girls
 |||FF BGE Globish|eng:glug, fra:glou, |drink||boire|bebir|||||||||||||||||drink|to take in liquids
-|||FF BGE Globish||drive||||||||||||||||||||drive|to operate a vehicle
 |||Globish||drop||||||||||||||||||||drop |1°a small, rounded body of liquid 2° to let something fall down
 |||FF Globish||drug (medicine)||||||||||||||||||||drug |a medicine
 |||FF BGE Globish||dry||||||||||||||||||||dry|free from liquid
@@ -2586,7 +2597,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF BGE Globish||floor (bottom)||||||||||||||||||||floor|the inside lower surface of a room
 |||||floor (storey, story)|||||||||||||||||||||
 |||Globish||flow||||||||||||||||||||flow |to move in or as if in a liquid
-|||FF BGE Globish||flower||||||||||||||||||||flower |the brightly-coloured part of plant
 |||AWL||fluctuate |||||||||||||||||||||
 |||Globish||fluid||||||||||||||||||||fluid|a substance that flows easily
 |||FF Globish||fly (move through air)||||||||||||||||||||fly|move through the air with wings
@@ -2681,11 +2691,9 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||RadCom||gymnastics|||||||||||||||||||||
 |||BGE ||habit|||||||||||||||||||||
 |||FF BGE Globish||hair||||||||||||||||||||hair |growing from the skin of humans and animals
-|||BEIW||half|||||||||||||||||||||
-|||FF Globish||half||||||||||||||||||||half |one of two equal parts
+|||BEIW FF Globish||half||||||||||||||||||||half |one of two equal parts
 |||FF Globish||hang (suspend)||||||||||||||||||||hang |be suspended
-|||Globish||happening (event)||||||||||||||||||||event|a happening
-|||NSM  BGE Globish||happening (event)|||||||||||||||||||||
+|||NSM  BGE Globish||happening (event)||||||||||||||||||||event|a happening
 |||FF BGE Globish||hard||||||||||||||||||||hard |strong, resisting weight or pressure
 |||FF Globish||harm (damage, injury)||||||||||||||||||||harm |damage, injury, to hurt another person
 |||FF BGE Globish||hat||||||||||||||||||||hat|a covering for the head

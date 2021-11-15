@@ -279,9 +279,9 @@ da hir|da hir|dem.pron.|NSM  Globish||this|dieser|ce … ci|este|este|этот||
 dam.|dame||||damn|||||||||||||||||||||
 dam.aj.|• damaje||Globish||damage||dommage|daño|dano||||||||||||||||damage |the occurrence of a change for the worse
 dam/kon.|• kondame||Globish||condemn||||||||||||||||||||condemn|to express strong disapproval of
+dan.|dane|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)|||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)|||
 danc.|dance|dance|FF BGE Globish|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|dance||dance|baile (danza)|baile (danza)|танец||||||||tari||dans|danco|tanssi|taniec||dance|to move according to music
 Dane|Dane|lande|DK||Denmark|||Dinamarca|||||||||||||Danio|Tanska|Dania|||
-dane|dane|||hin:दाना (dānā), tur:tane, jpn:種 (tane), 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)|||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)|||
 danje|danje||BGE Globish|eng:fra:danger|danger|Gefahr|danger|peligro|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara|zagrożenie, niebezpieczeństwo||danger |the condition of being harmed or injured
 dank.|danke|||eng:thank, deu:Danke, pol:dzięki, ukr:дякувати (dyakuvati)|thanks|Danke|merci|gracias|obrigado|спасибо|شُكْرًا|谢谢|ありがとう (どうも)|고마워|cám ơn|धन्यवाद (शुक्रिया)|ধন্যবাদ (শুকরিয়া)|terima kasih|asante (shukrani)|teşekkürler|danko|kiitos|dzięki, dzięki ci|||
 darme|darme||AWL|hin:धर्म (dharm), urd:(dharm), ben:ধর্ম (dhôrmô), guj:ધર્મ (dharma), tel:ధర్మము (dharmamu), tam:தருமம் (tarumam), tha:ธรรม (tam), mya:ဓမ္မ (dhamma), may:derma, zho:達摩 (dámó), kor:달마 (dalma), eng:deu:fra:spa:dharma, por:darma, rus:дхарма (dharma)|morality (ethics)|||moralidad (ética)||||||||||||||moraali|moralność, etyka|||
@@ -497,6 +497,14 @@ fix/a.|• afixe||||affix|||||||||||||||||||||
 fix/pos.|• posfixe||||suffix (postfix)||suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)|||
 fix/pre.|• prefixe||||prefix|||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)|||
 flerov.ium.|flerovium|kimeme 114|Fl|eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi|flerovium||flérovium|flerovio|fleróvio|флеровий|ٲنون كواديوم||フレロビウム|플레로븀|flerovi|||flerovium|flerovi|fleroviyum||flerovium|flerow|||
+flex.|flexe||||bend (flex)|||||||||||||||||||||
+flex.abl.|• flexable||AWL||flexible |||||||||||||||||||||
+flex.ion.|flexion|||||||||||||||||||||||||
+flex/cirk.|cirkeflexe||||bend around|||||||||||||||||||||
+flex/de.|deflexe||||deflect (bend away)|||||||||||||||||||||
+flex/re.|reflexe||||reflect (bend back)|||||||||||||||||heijastaa (taittaa takaisin)||||
+flex/re.ion.|reflexion||||reflection|||||||||||||||||heijastus||||
+flex/re.or.|reflexor||||reflector|||||||||||||||||heijastin||||
 flit/kon.|• konflite||AWL||conflict (clash together)|||||||||||||||||||||
 flor.|flor||FF BGE Globish|eng:flower, fra:fleur, spa:por:flor|flower|Blume|fleur|flor|flor|цветок|زَهْرَة|花|花|꽃 (화)|hoa|फूल (पुष्प)|ফুল|bunga|ua||floro|kukka|kwiat||flower |the brightly-coloured part of plant
 fluor.|fluor|kimeme 009|F|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|fluorine||fluor|flúor|flúor|фтор|فلور|氟|フッ素|플루오르|flo|फ्लोरीन|ফ্লুরিন|fluor|florini|fluor|fluoro|fluori|fluor|||
@@ -521,6 +529,10 @@ France Giana|France Giana|lande|GF||French Guiana|||Guyana Francesa|||||||||||||
 France krep.|France krepe||||crepe||crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)|||
 france krepe|france krepe|yame|||crepe||crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)|||
 Franse Polinesia|Franse Polinesia|lande|PF||French Polynesia|||Polinesia Francesa||||||||||||||Ranskan Polynesia|Polinezja Francuska|||
+frat.|frate||||break (fracture)|||||||||||||||||murtua (särkyä)||||
+frat.abl.|fratable||||fragile|||||||||||||||||särkyvä||||
+frat.ion.|fration||||fraction|||||||||||||||||murros (murto-osa)||||
+frat.ur.|frature||||fracture|||||||||||||||||murtuma||||
 frende|frende||FF BGE Globish|eng:friend, deu:Freund|friend|Freund|ami (copain)|amigo|amigo|друг (приятель)|صاحب‎|朋友 (友人)|友達 (友人)|친구 (동무)|bạn|दोस्त (मित्र, साथी)|বন্ধু|teman (kawan, sahabat)|rafiki|arkadaş (dost)|amiko|ystävä (kaveri)|przyjaciel||friend |a person one likes
 from|from|prep.|Globish|eng:from, sve:från|from|von (aus)|de|de|de|из (от)|من‎|从 (自)|から|에서|từ|से||dari (daripada)|toka|-den|de (el)|luota (-sta, -lta)|z (od)||from |
 frute|frute||BGE Globish|eng:fra:fruit, spa:por:fruta, deu:Frucht, rus:фрукт (frukt), jpn:フルーツ (furūtsu)|fruit|Frucht|fruit|fruta|fruta|плод (фрукт)||果|果実 (フルーツ)|과일|quả|फल|ফল|buah|tunda|meyve|frukto|hedelmä|owoc||fruit|
@@ -1124,9 +1136,13 @@ ministr.at.ion.|• ministration||AWL||administration|||||||||||||||||||||
 ministr.er.|• ministrer||Globish|deu:eng:minister, fra:ministre, spa:por:ministro, rus:министр (ministr) + may:menteri, hin:मंत्री (mantrī), ben:মন্ত্রী (môntrī)|minister (politician in the government)|Minister|ministre|ministro|ministro|министр|وزير|大臣|大臣|대신|bộ trưởng|वज़ीर (मंत्री)|মন্ত্রী|menteri|waziri|bakan (vezir)|ministro|ministeri|minister||minister |a person taking part in the charge of a government
 ministr.ia|• ministria||AWL||ministry|Ministerium|ministère|ministerio|ministério|министерство||||||मंत्रालय|মন্ত্রক|kementerian|wizara|bakanlık|ministrejo (ministerio)|ministeriö|ministerstwo|||
 minute|minute||FF BGE |deu:eng:fra:minute, spa:por:minuto, rus:минута (minuta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:menit|minute (60 seconds)|Minute|minute|minuto|minuto|минута||分钟|分|분|phút|मिनट|মিনিট|menit (minit)|dakika|dakika|minuto|minuutti|minuta|||
+mir.|mire||||wonder||mirar|||||||||||||||ihmetellä||||
+mir.abl.|• mirable||||wonderfularvel), mirable||merveille|maravilla|maravilha|||||||||||||ihmeteltävä||||
 mir.aj.e|• miraje||||mirage|Luftspiegelung (Fata Morgana)|mirage|espejismo|miragem|мираж|سَرَاب‎|海市蜃楼|蜃気楼|신기루|ảo ảnh|मरीचिका|মরীচিকা|fata morgana (khayalan belaka)||serap||kangastus|miraż (fatamorgana)|||
-mir.e|mire||||reflect|||reflejar|||||||||||||speguli|heijastaa (peilata)|odbić, odbijać|||
-mir.er|• mirer||BGE |eng:mirror, fra:miroir, ara: مرآة (mirʾāh), tur:mirat|mirror|Spiegel|miroir|espejo (retrovisor)|espelho|зеркало|مرآة|镜子|鏡|거울|gương|दर्पण (आईना)|আয়না|cermin|kioo|ayna (mirat)|spegulo|peili|lustro|||
+mir.kul|• mirekul||||miracle|Wunder (Mirakel)|miracle|milagro|milagre|чудо||||||||||||ihme||||
+mir.kul.os.|• mirekulos||||miraculous|mirakulös|miraculeux|milagroso|milagroso|чудотворный||||||||||||ihmeellinen||||
+mir.or.|• miror||BGE ||mirror|Spiegel|miroir|espejo (retrovisor)|espelho|зеркало|مرآة|镜子|鏡|거울|gương|दर्पण (आईना)|আয়না|cermin|kioo|ayna (mirat)|spegulo|peili|lustro|||
+mir/a.|• amire||||admire|||admirar|admirar|||||||||||||ihailla||||
 Miranda|Miranda|planete 7 lune 1|||Miranda|Miranda||||||||||||||||||||
 mis.|mise||||send|||||||||||||||||lähettää||||
 mis.aj.e|• misaje||Globish|eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej|message||message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość||message|a communication from one person to another
@@ -1368,8 +1384,11 @@ part.an.er/i.|• partanerie||||partnership|Personengesellschaft||||партнё
 part.e.cep.|• partecepe||AWL||participate|||||||||||||||||osallistua||||
 part.e.cep.er|• parteceper||||participant|||||||||||||||||osallistuja||||
 part.i.|• partie||Globish|eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|party (fellowship)|Partei|partie|partido|partido|партия||||||||||parti||puolue (osasto)|partia||party|a group of people doing something together
+part.kul.|• partekul||||particle|||||||||||||||||||||
+part.kull.al.|• partekulal||||particular|||||||||||||||||||||
 part/de.ur.|• departure||Globish||departure||||||||||||||||||||departure|the act of going away
 paste|paste||Globish|deu:eng:paste, fra:pâte, spa:por:pasta, rus:паста (pasta), may:pasta|paste|Pasta|pâte|pasta|pasta|паста||||||||||||tahna (tahdas)|pasta||paste|something that will stick papers together
+pat.|pate||FF  ||disease|||||||||||||||||tauti||||
 pat.gen.|• pategene||||pathogen||agent pathogène|patógeno|patógeno|патоген||病原体||||||||patojen||patogeeni|patogen|||
 pat.loj.i.|• patelojie||||pathology||pathologie|patología|patologia|патология||病理学||||विकृतिविज्ञान||patologi||patoloji|patologio|patologia (tautioppi)|patologia|||
 patate|patate||BGE Globish|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), eng:potato, tgl:patatas|potato||patate|patata (papa)|batata|||||||||||patates|terpomo|peruna (potaatti)|ziemniak||potato |eaten as cooked vegetable
@@ -1690,8 +1709,8 @@ spec.al.|• specal||BGE Globish||special||||||||||||||||||||special|of a given 
 spec.if.|• specife||AWL||specify |||||||||||||||||||||
 spec.if.ik.|• specifike||AWL||specific|||||||||||||||||||||
 spet.|spete||||view (specate)|||||||||||||||||||||
-spet.akl.|• spetakle||||spectacle|Spektakel|spectacle|espectáculo|espetáculo|спектакль|||||||||||spektaklo|spektaakkeli (näky)||||
 spet.er.|speter||||viewer (spectator)|||||||||||||||||||||
+spet.kul.|• spetekul||||spectacle|Spektakel|spectacle|espectáculo|espetáculo|спектакль|||||||||||spektaklo|spektaakkeli (näky)||||
 spet.men.|• spetemen||||specimen||spécimen|espécimen|espécime|||||||||||||||||
 spet/a.|• aspete||AWL||aspect|||||||||||||||||||||
 spet/ex.|• exspete||Globish||expect||||||||||||||||||||expect |to consider something as probable
@@ -2451,7 +2470,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||disappear||disparaître|desaparacer|desaparacer||||||||||||||||disappear|to pass out of existence or not to be seen any longer
 |||AWL||discrete |||||||||||||||||||||
 |||AWL||discriminate |||||||||||||||||||||
-|||FF  ||disease|||||||||||||||||||||
 |||BGE ||dish|||||||||||||||||||||
 |||Globish||dismiss||||||||||||||||||||dismiss|to send away
 |||AWL||displace |||||||||||||||||||||
@@ -2614,7 +2632,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||fit||||||||||||||||||||fit|to suit
 |||BEIW||five|||||||||||||||||||||
 |||FF Globish||flat (even, smooth)||||||||||||||||||||flat |an even smooth surface
-|||AWL||flexible |||||||||||||||||||||
 |||RadCom||flirt|||||||||||||||||||||
 |||Globish||float||||||||||||||||||||float|to be suspended on water, in space
 |||FF BGE Globish||floor (bottom)||||||||||||||||||||floor|the inside lower surface of a room
@@ -3859,7 +3876,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||with||||||||||||||||||||with |in the company of
 |||Globish||withdraw||||||||||||||||||||withdraw |draw back
 |||Globish||without||||||||||||||||||||without|not having
-|||||wonder (marvel)|||||||||||||||||ihme||||
 |||Globish|eng:ponder, spa:por:ponderar|wonder (ponder)|grübeln||ponderar|ponderar|||||||||||||miettiä (pohtia, aprikoida)|||wonder |to have a wish or desire to know something
 |||BGE ||wonderful|||||||||||||||||ihmeellinen (hämmästyttävä)||||
 |||FF BGE Globish||wood||||||||||||||||||||wood |the hard substance of a tree

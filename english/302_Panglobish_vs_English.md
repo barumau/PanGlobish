@@ -144,11 +144,11 @@ one - won, two - too - to, four - for - fore, eight - ate - great.
 For more examples, read [The Chaos](http://ncf.idallen.com/english.html), a poem by Gerard Nolst Trenité.
 
 Panglobish, on the other hand, is a regular language.
-Each letter (or combination of letters) is pronounced in the same way in every word.
+Each letter (or combination of letters like _ch_ and _sh_) is pronounced in the same way in every word.
 If you hear a word, you can always spell it.
 If you read a word, you can always pronounce it.
 
-In addition, the Panglobish spelling system is quite similar to other language.
+In addition, the Panglobish spelling system is quite similar to other languages.
 In fact, Panglobish spelling is very much like the international norm.
 
 Let's compare the pronunciation of the word "nature" in selected European languages and Panglobish.
@@ -163,5 +163,9 @@ Let's compare the pronunciation of the word "nature" in selected European langua
 | German     | Natur        | /natuʁ/ |
 | Polish     | natura       | /natura/ |
 | Russian    | натура       | /nɐturə/ |
-| Panglobish     | nature       | /naturə/ |
+| Panglobish | nature       | /naturə/ |
+
+Every language has a pure _ah_ vowel and a normal _t_ consonant except English.
+Written English is more international than spoken English.
+That's why Panglobish is often closer to written English than to spoken English.
 

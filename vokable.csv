@@ -42,7 +42,7 @@ apel|apel|frute|FF BGE Globish|eng:apple, deu:Apfel, may:apel, ben:আেপল 
 Aphaz.ia|Aphazia|lande|||Abkhazia|||abjazia||Абхазия||||||||||||Abhaasia|Abchazja|||
 april|april|mes|FF BGE |eng:may:April, rus:апрель, swa:aprili, spa:por:abril, ara:(abrīl), hin:अप्रैल (aprail), ben:এপ্রিল (epril)|April||avril|abril|abril|апрель|إبريل|四 月 ||||अप्रैल|এপ্রিল|April|Aprili|Nisan|aprilo|huhtikuu||||
 Arcahe|Arcahe|lande|||Artsakh|||Artsaj|||||||||||||||Abchazja|||
-Arde|Arde|planete 3||eng:earth, deu:Erde, ara:(ʾarḍ), swa:ardhi|Earth|Erde|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer||||||
+Arde|Arde|planete 3|||Earth|Erde|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer||||||
 arde|arde||FF Globish|eng:earth, deu:Erde, ara:(ʾarḍ), swa:ardhi|earth (ground)|Erde (Grund)|terre|tierra|terra|земля||土地|土|땅 (뭍, 토지)|đất|भूमि (ज़मीन)||tanah (darat, bumi)|ardhi|kara|tero|maa (maaperä)|||land |the solid part of the earth's surface
 area|area||Globish AWL|eng:area, por:spa:área, pol:areał, fra:aire|area (extent of surface)||aire (superficie)|área (superficie)||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia||area |a space
 argent.ium.|argentium|kimeme 048|Ag|por:ita:argento, fra:argent, may:argentum, swa:agenti|silver||argent|plata|prata|серебро|فضة|银|銀|은|bạc|चाँदी|রূপা|perak|agenti|gümüş|arĝento|hopea|srebro|||
@@ -727,6 +727,7 @@ januari|januari|mes|FF BGE |eng:January, may:swa:Januari, fra:janvier, por:janei
 jawabe|jawabe||BGE Globish|ara:(jawāb), swa:jibu,jawabu, tur:cevap, fas:(javāb), hin:जवाब (javāb), may:jawab|answer (reply, response)|Antwort|réponse|repuesta (contestación)|resposta|ответ|جواب‎|回答 (答覆)|答え (解答)|대답|trả lời|जवाब (उत्तर, अनुक्रिया)||jawab|jibu (jawabu)|cevap|respondo|vastaus|odpowiedź, odzew||answer |words in return to a question
 Jayer|Jayer|lande|DZ||Algeria|||Argelia||||||||||||||Algeria|Algieria|||
 jaz.|jaze||BEIW||jazz|||||||||||||||||||||
+jel.|jele||FF BGE Globish|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|prison (jail)||prison (geôle)|cárcel||||监狱 (监牢)|監獄|감옥|nhà tù|कारागार (बन्दीघर, जेल, क़ैदख़ाना)||penjara|jela (gereza)|hapishane|malliberejo|vankila|więzienie, zakład karny||prison |a public building in which criminals are kept
 jense|jense||FF Globish AWL|ara:urd:جنس (jins), fas:جنس (jens), tus:cins, eng:genus,gender|sex (gender)||||||جنس||||||||||||||sex|either of the two divisions: male or female
 Jersi|Jersi|lande|JE||Jersey|||Jersey||||||||||||||Jersey|Jersey|||
 jest. lingu.aj.|jeste linguaje||||sign language|Gebärdensprache (Zeichensprache)|langue des signes|lenguaje de signos (lenguaje de señas)|linguagem de sinais|язык жестов||手语|手話|수화 (수어)||||bahasa isyarat||işaret dili||viittomakieli||||
@@ -963,9 +964,9 @@ lex. buk.|• lexe buke||||dictionary (wordbook, lexicon)|Wörterbuch|dictionnai
 lex. list.|• lexe liste||||word list|Wortliste||||словник||||||||||||sanasto (sanalista)||||
 lex.em.|• lexeme||||lexeme|||||||||||||||||||||
 lex.ik.|• lexike||||lexicon (vocabulary)|||||||||||||||||||||
+Lib.ia.|Libia|lande|LY||Libya|||Libia||||||||||||||Libya|Libia|||
 Libanun|Libanun|lande|LB||Lebanon|||Líbano||||||||||||||Libanon|Liban|||
 Liber.ia.|Liberia|lande|LR||Liberia|||Liberia||||||||||||||Liberia|Liberia|||
-Lib.ia.|Libia|lande|LY||Libya|||Libia||||||||||||||Libya|Libia|||
 lid.|lide||BGE Globish||lead||||||||||||||||||||lead |to take somebody to some place
 lid.er.|• lider||BGE ||head (leader)|||||||||||||||||||||
 lid/mes.|• meslide||||mislead (deceive)|||||||||||||||||johtaa harhaan||||
@@ -1067,8 +1068,8 @@ maximize|maximize||AWL||maximise|||||||||||||||||maksimoida||||
 may|may|mes|FF BGE |fra:mai, rus:май (may), spa:mayo, por:maiu, ara:(māyū), eng:May, may:swa:Mei|May||mai|mayo|maio|май|مايو|五 月 ||||मई|মে|Mei|Mei|Mayıs|majo|toukokuu||||
 Mayote|Mayote|lande|YT||Mayotte|||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta|||
 med/para.ik.|• paramedike||||paramedic|||||||||||||||||||||
-medikal|medikal||AWL||medical |medizinisch|médical|médico|médico|медицинский||||||||||||||||
 medik.i.|medikie||BGE ||medicine (medical discipline)|Heilkunde (Medizin)|médecine|medicina|medicina|медицина||医学|医学|의학||आयुर्विज्ञान||kedokteran (perubatan)||tıp|medicino|lääketiede|medycyna|||
+medikal|medikal||AWL||medical |medizinisch|médical|médico|médico|медицинский||||||||||||||||
 mei bi|mei bi||NSM BGE Globish|eng:maybe, fra:peut-être, rus:может быть, zho:或是 (huòshì)|maybe (perhaps)|vielleicht|peut-être|quizás (tal vez)|talvez|может быть||也许 (或是, 可能)||||शायद||barangkali (mungkin)||belki (olabilir)|eble|ehkä (mahdollisesti)|może||perhaps|possibly 
 meitner.ium.|meitnerium|kimeme 109|Mt|eng:meitnerium, fra:meitnérium, spa:meitnerio, por:meitnério, rus:майтнерий, jpn:マイトネリウム, kor:마이트너륨, vie:meitneri, hin:मेइट्नेरियम, ben:মিটনেরিয়াম, may:meitnerium, swa:meitneri, ara: مايتنريوم|meitnerium||meitnérium|meitnerio|meitnério|майтнерий|مايتنريوم||マイトネリウム|마이트너륨|meitneri|मेइट्नेरियम|মিটনেরিয়াম|meitnerium|meitneri|meitneriyum|mejtnerio|meitnerium|meitner|||
 memo|memo||FF Globish|eng:memo, jpn:メモ (memo), kor:메모 (memo)|note (memo, memorandum, minute)||note (mémorandum)|nota (memorándum)|nota (lembrete)|заметка (меморандум, протокол)||备忘录||||||||||muistio (muistilappu)||||a short written document
@@ -1421,8 +1422,9 @@ polic.er.|policer||||police officer|Polizist|policier|agente de polícia|agente 
 polic.i.|policie||FF BGE |eng:fra:police, deu:Polizei, spa:por:policía, rus:полиция (policiya), hin:पुलिस (pulis), ben:পুলিশ (puliś), may:tur:polis, swa:polisi|police (law enforcement organization)|Polizei|police|policía|policía|полиция||警察|警察|경찰|cảnh sát|पुलिस|পুলিশ|polis|polisi (askari)|polis|polico|poliisilaitos|policja|||
 polit.ik.|politike||Globish|ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)|politics||politique|política|política|политика||||||||politik||politika|politiko|politiikka|polityka||politics |the science of government
 Polsk.|Polske|lande|PL||Poland|||Polonia||||||||||||||puola|Polska|||
-popl.|pople||||people (population)|Volk|peuple (population)|pueblo (población)|população|общественность|||||||||||popolo|rahvas (väestö)|lud (społeczeństwo)|||
-popl.al.|• poplal||BGE Globish|eng:spa:por:popular, fra:populaire, deu:populär, rus:популярный (populyarnïy), may:populer, tur:popüler|popular|populär (Volks-)|populaire|popular|popular|народный (популярный)|محبوب‎|||||||populer|popüler||populara|kansanomainen (populääri)|popularny|محبوب‎|popular|widely liked
+popul.|popula||||people (population)|Volk|peuple (population)|pueblo (población)|população|общественность|||||||||||popolo|rahvas (väestö)|lud (społeczeństwo)|||
+popul.al.|• populal||BGE Globish|eng:spa:por:popular, fra:populaire, deu:populär, rus:популярный (populyarnïy), may:populer, tur:popüler|popular|populär (Volks-)|populaire|popular|popular|народный (популярный)|محبوب‎|||||||populer|popüler||populara|kansanomainen (populääri)|popularny|محبوب‎|popular|widely liked
+popul.at.|• populate||||populate|||||||||||||||||kansoittaa||||
 por.|pore|||eng:fra:deu:pore, spa:por:poro, rus:пора (pora)|pore||pore|poro|poro|пора|||線|||||||||huokonen||||
 por.os|• poros||||porous||poreux|poroso|poroso|пористый||多孔的|多孔質の|||||||||huokoinen||||
 port.|porte||FF BGE Globish|fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya)|carry (bear)|tragen|porter||portar|носить||||||||||||kantaa|||carry|to take from one place to another
@@ -2000,7 +2002,7 @@ yutr.ium.|yutrium|kimeme 039|Y|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, r
 Z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|||
 Zamb.ia.|Zambia|lande|ZM||Zambia|||Zambia||Замбия|||||||||||Zambio|Sambia|Zambia|||
 zebra.|zebra||Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra||zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra|||
-zero|zero|num.|FF BGE |eng:deu:por:pol:zero, fra:zéro, spa:cero, jpn:ゼロ (zero), kor:제로 (jero), hin:ज़ीरो (zīro)|zero|null (zero)|zéro|cero|zero|нуль (ноль, зеро)|صفر‎|零|零 (ゼロ)|영 (령)|không|शून्य|শূন্য|nol (sifar)|sifuri|sıfır|nul|nolla|zero|||
+zero|zero|num.|FF BGE |ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô|zero|null (zero)|zéro|cero|zero|нуль (ноль, зеро)|صفر‎|零|零 (ゼロ)|영 (령)|không|शून्य|শূন্য|nol (sifar)|sifuri|sıfır|nul|nolla|zero|||
 zerv.|zerve||||store (spare, save for later)|||||||||||||||||||||
 zerv/kon.|• konzerve||||conserve|||||||||||||||||||||
 zerv/kon.at.iv.|• konzervative||||conservative|||||||||||||||||||||
@@ -2819,7 +2821,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||isolate |||||||||||||||||||||
 |||Globish AWL||issue||||||||||||||||||||issue|a point of discussion
 |||Globish AWL||item||||||||||||||||||||item |a single unit
-|||Globish||jail||||||||||||||||||||jail |a prison 
 |||BEIW||January|||||||||||||||||||||
 |||Simplish||jeans|||||||||||||||||||||
 |||Globish||jewel||||||||||||||||||||jewel|a valuable stone
@@ -3245,7 +3246,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF Globish||print||||||||||||||||||||print|to reproduce things on paper
 |||AWL||prior|||||||||||||||||||||
 |||AWL||priority |||||||||||||||||||||
-|||FF BGE Globish||prison (jail)||||||||||||||||||||prison |a public building in which criminals are kept
 |||BGE Globish||private||||||||||||||||||||private|belonging to one person or persons
 |||Globish||prize||||||||||||||||||||prize|a reward won in a competition
 |||BGE ||probable|||||||||||||||||||||

@@ -325,6 +325,17 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **rotation**
 'rotation'
 
+**-eme**
+'a distinct meaningful element' :  
+**fone**
+'speech sound'
+→ **foneme**
+'phoneme, distinct speech sound'  
+**lexe**
+'word'
+→ **lexeme**
+'lexeme'
+
 **-er**
 'doer, agent, -er' :  
 **helpe**

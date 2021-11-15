@@ -130,7 +130,7 @@ like **tekne** (_technique_), **akse** (_axis_), **etne** (_ethnicity_) and **ri
 
 ## Adapting Loan Words
 
-As a general rule, loan words are adapted to the phonetic spelling system of Dunisn.
+As a general rule, loan words are adapted to the phonetic spelling system of Panglobish.
 This rule is applied to both common words and proper names.
 
 ### Common words

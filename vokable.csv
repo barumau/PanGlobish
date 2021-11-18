@@ -923,7 +923,6 @@ Kosta Rika|Kosta Rika|lande|CR||Costa Rica|||Costa Rica||||||||||||||Costa Rica|
 koste|koste||FF BGE Globish|eng:cost, spa:coste, por:custo, deu:Kosten|cost (price)||côut|precio (coste)|custo|||||||दाम (क़ीमत)||||||hinta (maksu)|koszt, cena||cost |money asked or given for something
 kote|kote||FF BGE Globish|eng:coat, jpn:コート (kōto), hin:कोट (kot), swa:koti, orm:koota|coat|||abrigo (chaqueta)||||||||कोट|||||palto|takki|płaszcz||coat |a warm article of clothing covering the whole body, worn outside
 Kotedivuar|Kotedivuar|lande|CI||Côte d’Ivoire (Ivory Coast)|||Costa de Marfil||||||||||||||Norsunluurannikko|Wybrzeże Kości Słowniowej|||
-kotrate|kotrate||||pact (contract, covenant, alliance)||convention (alliance, pacte)|convenion (pacto)|pacto|контракт||||||||||||liittosopimus||||
 kotribu|kotribu||AWL||contribute||contribuer|contribuir|contribuir|||||||||||||myötävaikuttaa||||
 kovr.|kovre||Globish|eng:cover, fra:couvrir, por:cobrir, spa:cubrir|cover (conceal)||couvrir|cubrir|cobrir (acobertar)|||||||ढकना|ঢাকা||||kovri|peittää||||
 kovr/di.|• dikovre||Globish AWL|fra:découvrir, por:descobrir, spa:descubrir, eng:discover|discover (detect)|erleben|découvrir|descubrir|descobrir|раскрывать||暴露||발견하다|||||||malkovri|paljastaa|||discover |to arrive at through search and study
@@ -1291,6 +1290,19 @@ Norte Kipris|Norte Kipris|lande|||Northen Cyprus|||Chipre del Norte|||||||||||||
 Norte Makedon.ia.|Norte Makedonia|lande|MK||Republic of North Macedonia|||Macedonia del Norte||||||||||||||Makedonia|Republika Macedonii, Macedonia|||
 Norte Mariana|Norte Mariana|lande|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||Mariany Północne|||
 Norte Somali|Norte Somali|lande|||Somaliland|||Solamilandia||||||||||||||Somalimaa|Somaliland|||
+nos.ism.|• nosisme||||Gnosticism|Gnostizismus|gnosticisme|gnosticismo|gnosticismo|гностицизм||诺斯底主义|グノーシス主義|||||||||gnostilaisuus|gnostycyzm|||
+nos.ist.|• nosiste||||Gnostic|Gnostiker|gnostique|gnóstico|gnóstico|гностик||||||||||||gnostilainen|gnostyk|||
+nos/an.|• annose||||ignore||ignorer|ignorar|ignorar|игнорировать||||||||||||ohittaa (olla tuntematta tai välittämättä)||||
+nos/an.ant.|• annosante||||ignorant|ignorant|ignorant|ignorante (ignaro)|ignorante|невежественный||无知||||||||||tietämätön||||
+nos/an.ism.|• annosisme||||agnosticism|Agnostizismus|agnosticisme|agnosticismo|agnosticismo|агностицизм||不可知论||||||agnostisisme|||agnostikismo|agnostismi|agnostycyzm|||
+nos/an.ist.|• annosiste||||agnostic|Agnostiker|agnostique|agnóstico|agnóstico|агностик||||||||||bilinemezci|agnostiko|agnostikko|agnostyk|||
+nos/dia.|• dianose||||diagnosis|Diagnose|diagnose (diagnostic)|diagnosis (diagnóstico)|diagnose (diagnóstico)|диагноз||诊断|診断|진단|chẩn đoán|निदान||diagnosis||tanı (teşhis)|diagnozo|diagnoosi||||
+nos/kon.|• konnose||||recognize (associate with)||connaître|conocer|conhecer|знать||||||||||||tuntea||||
+nos/kon.ant.|• konnosante||AWL||aware (cognizant, conscient)|gewahr|conscient|consciente||||||||||||||tietoinen||||
+nos/kon.ion.|• konnosion||||cognition|Erkenntnis (Kognition)|connaissance|cognición|cognição|познание||||||||||||tajunta (kognitio)||||
+nos/kon/ri.|• rikonnose||Globish||recognize|wiedererkennen|reconnaître|reconocer|reconhecer|||||||||||||tunnistaa|||recognize|to identify from past experience
+nos/kon/ri.ion.|• rikonnosion||||recognition||reconnaissance||reconhecimento|||||||||||||tunnistaminen||||
+nos/pro.|• pronose||||prognosis|Prognose|pronostic|pronóstico|pronóstico (prognóstico)|прогноз||预后||||||||||ennuste (prognoosi)||||
 not.|note|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark)||note|nota|nota|запись (заметка)||便条||||||||not|noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja||note |
 not/a.|• anote||||annotation (comment, side note)|||||||||||||||||||||
 not/de.|• denote||AWL||denote |||||||||||||||||||||
@@ -1863,7 +1875,7 @@ trat/a.|• atrate||||attract|||||||||||||||||viehättää (vetää puoleensa)||
 trat/a.iv.|• atrative||||attractive|||||||||||||||||puoleensavetävä (viehättävä)||||
 trat/dis.|• distrate||||distract (pull apart)||distraire|distraer|distrair|||||||||||||vetää hajalleen (harhauttaa)||||
 trat/ex.|• extrate||AWL||extract (pull out)|||||||||||||||||||||
-trat/kon.|• kontrate||FF AWL|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty, contract)||contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||||||||kontrak||sözleşme (kontrat)||sopimus||||
+trat/kon.|• kontrate||FF AWL|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty, contract)||contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор (контракт)||||||||kontrak||sözleşme (kontrat)||sopimus||||
 tret.|trete||BGE Globish||treat (deal with)|||||||||||||||||käsitellä|||treat|to act toward, to handle
 tret.aj.|• tretaje||||treatise (tractate)|Abhandlung (Traktat)|traité|tratado|tratado|трактат||||||||||||käsittely (tutkielma)||||
 tri.|tri|num.|BGE |eng:three, rus:три (tri), spa:tres, por:três|three (3)||trois (3)|tres (3)|três (3)|три (3)||三 (3)|三 (3)||||||||tri (3)|kolme (3)|trzy (3)|||
@@ -1923,8 +1935,23 @@ vel.|vele|||eng;veil, fra:voile, spa:velo, por:véu, jpn:ベール (bêru), kor:
 vel/di.|• divele||AWL||unveil (reveal, uncover)||dévoiler (révéler)|develar (revelar)|revelar|||||||||||||paljastaa||||
 vel/di.at.ion.|• divelation|||||||||||||||||||||||||
 vel/in.|• invelaje||||envelope (enfold)|||||||||||||||||||||
+ven.|vene||||come||venir|venir|vir|приходить|جاء|来|来る|오다|lại|आना|আসা|datang|kuja|gelmek|veni|tulla (saapua)|przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać|||
+ven/a.|• avene||||advent|||||||||||||||||saapua (tulla luokse)||||
+ven/cirk.|• cirkevene||||get around (avoid, circumvent)|||||||||||||||||mennä ympäri||||
+ven/ex.|• exvene||||come out (happen, event)|||||||||||||||||tulla ulos (ilmestyä, tapahtua)||||
+ven/in.|• invene||Globish||invent|||||||||||||||||keksiä|||invent |to make for the first time ever
+ven/inter.|• intervene||AWL||intervene (come between)|||||||||||||||||tulla väliin||||
+ven/kon.|• konvene||AWL||convene (come together)|||||||||||||||||kohdata (tulla yhteen)||||
+ven/per.|• pervene||||reach (arrive)||parvenir|||||||||||||||tulla perille||||
+ven/pre.|• prevene||Globish||prevent (stop, keep from, be in the way of)|||||||||||||||||olla edessä (olla haittona)|||prevent|to keep from happening
+ven/re.|• revene||||come back (return)||revenir||||||||||||||reveni|tulla takaisin||||
+ven/su.|• suvene||||subvene|||||||||||||||||||||
 venerdi|venerdi|wike dey 5|FF BGE ||Friday|Freitag|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek|||
 Venezuela|Venezuela|lande|VE||Venezuela||Venezuela|Venezuela||||||||||||||Venezuela|Wenezuela|||
+vent.|vente||||chance (accident, risk)|||||||||||||||||riski (vaara)||||
+vent.ur.|• venture||||venture (risky or daring undertaking)|||||||||||||||||vaara||||
+vent/a.ur.|• aventure||||adventure||aventure|aventura|aventura|авантюра||冒险||||||petualangan||avantür (macera)|aventuro|seikkailu|przygoda|||
+vent/a.ur.er.|• aventurer||||adventurer||aventurier|aventurero|aventureiro|авантюрист||冒险者||||||||maceracı|aventuristo|seikkailija|poszukiwacz przygód (awanturnik)|||
 Venus|Venus|planete 2|||Venus|Venus|Vénus|Venus|Vénus|Венера|الزهرة||||||||Zuhura|Venüs|||Wenus|||
 ver.|vere||BGE Globish||true |wahr|vrai|verdadero|verdadeiro|верный||||||||benar|||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)||true |not false, agreeing with the facts
 ver.it.|• verite||BGE |fra:vérité, spa:verdad, por:verdade, rus:верность (vernost’)|truth|Wahrheit|vérité|verdad|verdade|верность (правда)||保真度|誠|진실||सचाई|সত্য|kebenaran|ukweli|hakikat|vereco|totuus|wierność (prawda)|||
@@ -2147,7 +2174,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||avoid||||||||||||||||||||avoid|to keep away from
 |||Globish||awake||||||||||||||||||||awake|to stop sleeping
 |||Globish||award||||||||||||||||||||award|to give for high performance or quality
-|||AWL||aware |||||||||||||||||||||
 |||BGE Globish||away||||||||||||||||||||away |at a distance from a given place or position
 |||RadCom||bacillus|||||||||||||||||||||
 |||Globish||balance||||||||||||||||||||balance|equality between two parts or two quantities
@@ -2378,7 +2404,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||AWL||context|||||||||||||||||||||
 |||RadCom||contralto|||||||||||||||||||||
 |||AWL||contrast|||||||||||||||||||||
-|||AWL||convene|||||||||||||||||||||
 |||AWL||convert |||||||||||||||||||||
 |||AWL||convince |||||||||||||||||||||
 |||FF BGE Globish||cook (prepare food)||||||||||||||||||||cook |to get food ready for eating by heat
@@ -2836,10 +2861,8 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BEIW||international|||||||||||||||||||||
 |||AWL||interpret|||||||||||||||||||||
 |||AWL||interval |||||||||||||||||||||
-|||AWL||intervene |||||||||||||||||||||
 ||prep.|Globish||into||||||||||||||||||||into |motion to a point within something
 |||Globish||invade||||||||||||||||||||invade |to enter by force in order to get by fighting
-|||Globish||invent||||||||||||||||||||invent |to make for the first time ever
 |||Globish AWL||invest||||||||||||||||||||invest |to buy something that is expected to produce a profit
 |||Globish AWL||investigate||||||||||||||||||||investigate|to search into carefully
 |||BGE Globish||invite||||||||||||||||||||invite |to ask to come to some place
@@ -3263,7 +3286,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE ||presentation (talk)|||||||||||||||||||||
 |||AWL||presume |||||||||||||||||||||
 |||Globish||pretty||||||||||||||||||||pretty |nice-looking or pleasing
-|||Globish||prevent||||||||||||||||||||prevent|to keep from happening
 |||AWL||previous|||||||||||||||||||||
 |||FF  ||priest|||||||||||||||||||||
 |||RadCom||prima-donna|||||||||||||||||||||
@@ -3341,7 +3363,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||BGE Globish||ready||||||||||||||||||||ready|set for immediate action
 |||BGE Globish||reason (cause)||||||||||||||||||||cause|a reason 
 |||BGE ||reason (explanation)|||||||||||||||||||||
-|||Globish||recognize||||||||||||||||||||recognize|to identify from past experience
 |||Globish||record*||||||||||||||||||||record*|1° written account 2° set down in permanent form
 |||Globish||recover||||||||||||||||||||recover|1° to get back 2° to find a former condition
 |||AWL||recover |||||||||||||||||||||

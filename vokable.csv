@@ -399,6 +399,7 @@ eite|eite|num.|FF BGE |eng:eight|eight (8)||huit (8)|ocho (8)|oito (8)|восе�
 eletr.|eletre||BEIW FF Globish|por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik|electricity||électricité|electricidad|eletricidade||||電気|||||||cereyan (elektrik)|elektro|sähkö|elektryczność||electricity|
 eletr. kar.|• eletre kar||||electric car|||||||||||||||||sähköauto||||
 eletr. post.|• eletre poste (e-poste)||||e-mail|||email (correo electrónico)||||||||||||||sähköposti|poczta elektroniczna|||
+eletr. skut.er|eletre skuter||||e-scooter||trottinette électrique|patinete eléctrico|patinete elétrico|||||||||||||sähköpotkulauta||||
 eletr.ik.|• eletrike||RadCom||electric|||eléctrico|||||||||||||elektra|sähköinen|elektryczny|||
 eletr.loj.i.|• eletrelojie||FF  ||electronics|Elektronik|électronique|electrónica|eletrônica|электроника||电子学|電子工学|전자공학|điện tử học|इलेक्ट्रॉनिक्स|ইলেকট্রনিক্স|elektronika|elektroniki|elektronik|elektroniko|sähköoppi (elektroniikka)|elektronika|||
 eletr.on.|• eletron||RadCom||electron|||||||||||||||||||||
@@ -856,6 +857,11 @@ klar.vid.er.|klarvider||||clairvoyant|Hellseher|clairvoyant||clarividente|ясн
 klas.|klase||BGE Globish||class|||||||||||||||||luokka|||class|a group of students working together
 klas.if.|• klasife||||classify (categorize)||clasificar|||||||||||||||luokitella (kategorisoida)|klasyfikować, kategoryzować|||
 klas.ik.|• klasike||AWL||classic ||classique|clásico|||||古典的|||||||||klassinen|klasyczny|||
+klim.|klime||Globish|ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|climate|||clima||климат|||||||||||klimato|ilmasto|klimat||climate|the weather of the place
+klim. chanj.|• klime chanje||||climate change||changement climatique|cambio climático|mudança climática|изменение климата||气候变化|気候変動|기후 변화|biến đổi khí hậu|||||iklim değişikliği||ilmastonmuutos|zmiana klimatu|||
+klim.loj.er.|• klimelojer||||climatologist|||||||||||||||||||||
+klim.loj.i.|• klimelojie||||climatology|||climatología|||||||||||||klimatscienco|ilmastotiede (klimatologia)|klimatologia|||
+klon.|klone|||en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:クローン (kurōn)|clone (replica)||||||||||||||||klono|klooni (identtinen kopio)|klon (replika)|||
 klor.|klor|kimeme 017|Cl|eng:chlorine, fra:chlore, spa:cloro, por:cloro, rus:хлор, vie:clo, hin:क्लोरीन, ben:ক্লোরিন, may:klor, swa:klorini, ara: كلور|chlorine||chlore|cloro|cloro|хлор|كلور|氯|塩素|염소|clo|क्लोरीन|ক্লোরিন|klor|klorini|klor|kloro|kloori|chlor|||
 klub.e|klube||FF Simplish|eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|club|Klub|club|club|clube|клуб|||||||||klabu|kulüp|klubo|kerho (klubi)|klub|||
 kluz.|kluze||FF BGE Globish||close (shut)|||||||||||||||||||||to cause to stop operation, to suppress an opening ( door, window…)
@@ -1196,6 +1202,7 @@ mot.|mote||||move (change place, transport)|||||||||||||||||||||
 mot.er.|• moter||FF Globish|fra:moteur, eng:spa:por:tur:may:motor, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr)|engine (motor)|Motor|moteur|motor|motor|мотор||马达 (发动机)|モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|मोटर|ইঞ্জিন (মোটর)|motor|injini (ntambo)|motor|motoro|moottori|motor||engine |a machine that can start others moving
 mot.ion|• motion||Globish||motion|||||||||||||||||liikunta (liikkuminen)|||motion |the condition of moving
 mot.iv.|• motive||AWL||motive |Motiv|motif (mobile)|motivo|motivo|мотив||||||||||||vaikutin (motiivi)||||
+motor skuter|motor skuter||||motor scooter||scooter|scooter|motoneta (lambreta)|мотороллер (скутер)||||||स्कूटर|স্কুটার|skuter||scooter||moposkootteri||||
 mov.|move||NSM  BGE Globish||move (change position)|||||||||||||||||liikkua||||to change position
 mov.abl.|• movable||||movable|||||||||||||||||liikuteltava||||
 mov.il.|• movile||||mobile|mobil|mobile|móvil|móvel|мобильный||||||||||||||||
@@ -1420,6 +1427,7 @@ paunde|paunde|mone|£||pound (£)|||libra (£)||||||||||||||punta|funt (£)|||
 pauz.|pauze||BGE ||pause (break)|||||||||||||||||||||
 pauz/re.e|• repauze||Globish|ita:riposo, eng:repose, fra:repos, spa:reposo, por:repouso|rest (repose)|Ruhe|repos|reposo|repouso|отдых||休息|||||||||ripozo|lepo|zostawić, zostawiać||rest |to stop acting when tired
 pauz/re.e in pac.e|• repauze in pace||||rest in peace (RIP)|Ruhe in Frieden|repose en paix (REP)|descase en paz|descanse em paz|покойся с миром||安息|安らかに眠れ|편히 쉬라||शांति से आराम करना|শন্তিতে থাক|||huzur içinde yatsın|ripozu pace|lepää rauhassa (RIP)|spoczywaj w pokoju|||
+payac.|payace|||ita:pagliaccio, fra:paillassa, spa:payaso, por:palhaço, rus:паяц (payac), tur:palyaço|clown|Clown (Pajass)|clown (paillasse)|payaso (clown)|palhaço|клоун (паяц)||小丑|ピエロ (道化師)|||||badut||palyaço|klaŭno|pelle (klovni)|klaun|||
 ped.|pede||||educate (bring up, raise)|||||||||||||||||kasvattaa lapsia||||
 ped.centr.ist.|• pedecentriste||||pedocentrist|||||||||||||||||kasvatuskeskeinen||||
 ped.fil.i.|• pedefilie||||pedophilia|||||||||||||||||pedofilia||||
@@ -1704,6 +1712,8 @@ skrib/de.|• deskribe||Globish||describe (write about)||||||||||||||||||||descr
 skrib/su.|• suskribe||||signature (autograph name)|Unterschrift|signature|firma|firma (assinatura)|подпись|مْضَاء‎|签字 (签名)|署名 (サイン)|서명 (사인)|chữ ký|हस्ताक्षर (दस्तख़त)|দস্তখত|tanda tangan|saini|imza|subskribo|allekirjoitus (nimikirjoitus)|podpis||sign |to mark with one's name
 skrib/tran.|• transkribe||||transcribe (convert script)|||||||||||||||||||||
 skribe mashin.|skribe mashine||||typewriter|Schreibmaschine|machine à écrire|máquina de escribir|máquina de escrever|пишущая машинка||打字机||||टंकण मशीन||mesin tik (mesin taip)||daktilo|tajpilo|kirjoituskone|maszyna do pisania|||
+skut.|skute||||scoot (ride a scooter, move while sitting)|||||||||||||||||||||
+skut.er.|• skuter|||eng:fra:spa:scooter, rus:скутер (skuter), zho:速克达 (sùkèdá), jpn:スクーター (sukūtā), kor:스쿠터 (seukuteo), hin:स्कूटर (skūṭar), ben:স্কুটার (śkuṭar), may:skuter|scooter||trottinette|patinete|patinete (trotineta)||||スクーター|스쿠터||||skuter||trotinet||potkulauta||||
 Slovak.ia.|Slovakia|lande|SK||Slovakia|||Eslovaquia||||||||||||||Slovakia|Słowacja|||
 Sloven.ia.|Slovenia|lande|SI||Slovenia|||Eslovenia||||||||||||||Slovenia|Słowenia|||
 so|so||BGE ||so (therefore)|||||||||||||||||||||
@@ -2019,7 +2029,8 @@ was.|wase||RadCom|ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, r
 washe|washe||FF BGE Globish|eng:wash, deu:waschen, zho:洗 (xǐ)|wash||laver|lavar|lavar|мыть||洗|洗う|씻다||धोना|ধোয়া|mencuci|kuosha (kufua, kunawa)||lavi|pestä|prać, umyć, myć||wash |to clean with water or other liquid
 washe mashine|washe mashine||||washing machine||machine à laver|lavadora (lavarropas)|máquina de lavar roupa|стиральная машина||洗衣机 |洗濯機|세탁기||कपड़ा धोने की मशीन|ওয়াশিং মেশিন|mesin cuci||çamaşır makinası|lavmaŝino|pesukone||||
 Washington|Washington|chefe citi|||Washington DC|||||||||||||||||Washington DC||||
-wate|wate||FF BGE Globish|eng:water, deu:Wasser, rus:вода (voda)|water||eau|agua|água|вода||水|水|물 (수)|nước|पानी|জল (পানি)|air|maji|su|akvo|vesi|woda||water|a clear liquid necessary for life
+wat.|wate||FF BGE Globish|eng:water, deu:Wasser, rus:вода (voda), pol:woda|water|Wasser|eau|agua|água|вода||水|水|물 (수)|nước|पानी|জল (পানি)|air|maji|su|akvo|vesi|woda||water|a clear liquid necessary for life
+wate skuter|wate skuter||||water scooter||motomarine|||||||||||||||vesiskootteri||||
 web.|webe|||eng:deu:fra:por:may:tur:vie:web, rus:веб (veb), jpn:ウェブ (webu), kor:웹 (wep)|web (network)|Web|réseau (web)||rede (net, web)|сеть (веб, интернет)||网络||웹|||য়েব|web||web|reto|verkosto|sieć|||
 web. paj.|webe paje||||web page|Webseite|page web|pagina web|página web|Веб-страница||网页|ホームページ|웹 페이지|trang web|जालपृष्ठ (वेबपेज)|ওয়েব পাতা|laman web||Web sahifesi|retpaĝo|verkkosivu (nettisivu)|strona internetowa|||
 wer|wer||NSM  BGE Globish|eng:where, sve:var, dan:nor:hvor|where|wo|où|dónde|onde|где||哪里 (哪儿)|何処 (どこ)|어디|ở đâu|कहाँ|কোথায়|di mana|wapi|nerede|kie?|missä|||where|at what place
@@ -2347,7 +2358,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||FF BGE Globish||clean||||||||||||||||||||clean|1° not dirty 2° to make clean by removing dirt
 |||BGE ||clear (bright)|||||||||||||||||||||
 |||BGE ||clever|||||||||||||||||||||
-|||Globish||climate||||||||||||||||||||climate|the weather of the place
 |||Globish||climb||||||||||||||||||||climb|to go upward with continuous progress
 |||FF BGE Globish||clock(watch)||||||||||||||||||||clock|an instrument showing time
 |||BGE ||close (near)|||||||||||||||||||||

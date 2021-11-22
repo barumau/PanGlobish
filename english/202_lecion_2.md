@@ -45,7 +45,7 @@
 **yu du wa as hobi?**
 – What do you do as a hobby?  
 <big>👩</big>
-**mi estude di linguaje.**
+**mi stude di linguaje.**
 – I study languages.
 
 ## Word List

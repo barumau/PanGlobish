@@ -77,7 +77,7 @@ It means that you can make yourself understood.
 Panglobish is open.
 You are allowed to use words from other languages in Panglobish.
 Use whatever is necessary to make yourself understood!
-You may say, for example, **mi wan gou do "fan dien"** in China,
+You may say, for example, **mi wan gow do "fan dien"** in China,
 even though **restoran** is the normal word for restaurant in Panglobish.
 It's more important to get to the restaurant than to speak perfect Panglobish, isn't it?
 

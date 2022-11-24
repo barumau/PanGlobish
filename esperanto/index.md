@@ -126,7 +126,10 @@ Do ne atendu!
 Uzu Panglobiŝon kun viaj amikoj en ĉiutaga vivo aŭ provu ĝin kun fremduloj dum vojaĝoj.
 Ĝi funkcias!
 
-Nun vi povas paroli en Panglobiŝo en [ĉi tiu Fejsbuka grupo](https://www.facebook.com/groups/PanglobishFB/) kaj en [ĉi tiu Telegramokanalo](https://t.me/Panglobish1).
+Nun vi povas paroli en Panglobiŝo en niaj
+[Fejsbuka grupo](https://www.facebook.com/groups/PanglobishFB/),
+[Redditforumo](https://www.reddit.com/r/panglobish/),
+kaj [Telegramokanalo](https://t.me/Panglobish1).
 
 Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Panglobiŝo estas bona ideo, ankaŭ _aliuloj_ pensus same.

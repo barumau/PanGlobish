@@ -137,8 +137,10 @@ Panglobishia on myös helppo alkaa käyttää välittömästi.
 Kokeile panglobishia kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaisten kanssa kun olet matkoilla.
 Se toimii!
 
-Tällä hetkellä voit kokeilla panglobishia ainakin
-[tässä Facebook-ryhmässä](https://www.facebook.com/groups/panglobish).
+Tällä hetkellä voit kokeilla panglobishia ainakin meidän
+[Facebook-ryhmässämme](https://www.facebook.com/groups/panglobish),
+[Reddit-foorumillamme](https://www.reddit.com/r/panglobish/)
+ja [Telegram-keskustelukanavallamme](https://t.me/+1AzKvH6RjZhmZmIy).
 
 Panglobishia ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät panglobishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.

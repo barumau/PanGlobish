@@ -130,7 +130,10 @@ So don't wait!
 Use it with your friends in everyday life or try it with strangers when you are traveling.
 It works!
 
-At the moment you can speak Panglobish in [this group in Facebook](https://www.facebook.com/groups/panglobish).
+At the moment you can speak Panglobish in our [Facebook group](https://www.facebook.com/groups/panglobish),
+[Reddit forum](https://www.reddit.com/r/panglobish/)
+and [Telegram chat room](https://t.me/+1AzKvH6RjZhmZmIy).
+
 
 There aren't many speakers yet
 but if _you_ think Panglobish is a good idea, then _others_ will think so too.

@@ -263,10 +263,10 @@ make_di_liste 6 english
 #tarja_leksaslia_pa_angli
 
 # Esperanto en PanGlobish
-make_di_liste 22 esperanto
+make_di_liste 23 esperanto
 #tarja_leksaslia_pa_esperanti
 
 # Suomi en PanGlobish
-make_di_liste 23 suomi
+make_di_liste 24 suomi
 #tarja_leksaslia_pa_suomi
 

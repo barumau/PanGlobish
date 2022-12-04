@@ -592,3 +592,74 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **mixure**
 'mixture'
 
+### Affixes for chemistry
+
+**-al**
+'aldehyde' :  
+**metanal**
+'formaldehyde, methanal'
+
+**-an**
+'alkane group' :  
+**metil**
+'methyl'
+→ **metan**
+'methane'
+
+**-ate**
+'salt or ester' :  
+**sulfe**
+'sulfur'
+→ **sulfate**
+'sulfate'  
+
+**-en**
+'alkene group' :  
+**meten**
+'methen'
+
+**-il**
+'alkyl group' :  
+**bute**
+'butter'
+→ **butil**
+'butyl'  
+**metan**
+'methane'
+→ **metil**
+'methyl'
+
+**-in**
+'alkyne group' :  
+**meten**
+'methyne'
+
+**-ite**
+'salt or ester' :  
+**sulfe**
+'sulfur'
+→ **sulfite**
+'sulfite'
+
+**-ol**
+'alcoholic compound' :  
+**etan**
+'ethane'
+→ **etanol**
+'ethanol'
+
+**-on**
+'ketone group' :  
+**meten**
+'methen'
+
+**-os**
+'sugar' :  
+**frute**
+'fruit'
+→ **frutos**
+'fructose'  
+**malte**
+'malt'
+→ **maltos**
+'maltose'

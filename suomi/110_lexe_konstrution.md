@@ -507,3 +507,59 @@ tupakoimaton
 'sekoitus, mikstuura'
 
 
+### Kemialliset liitteet
+
+**-al**
+'aldehydi' :  
+**metanal**
+'formaldehydi, metanaali'
+
+**-an**
+'alkaani, yksinkertaisia sidoksia sisältävä hiilivety' :  
+**metil**
+'metyyli'
+→ **metan**
+'metaani'
+
+**-ate**
+'suola tai esteri' :  
+**sulfe**
+'rikki'
+→ **sulfate**
+'sulfaatti'
+
+**-il**
+'alkyyli, eräs radikaali hiilivety' :  
+**bute**
+'voi'
+→ **butil**
+'butyyli'  
+**metan**
+'metaani'
+→ **metil**
+'metyyli'
+
+**-ite**
+'suola tai esteri' :  
+**sulfe**
+'rikki'
+→ **sulfite**
+'sulfiitti'
+
+**-ol**
+'alkoholi' :  
+**etan**
+'etaani'
+→ **etanol**
+'etanoli'
+
+**-os**
+'sokeri' :  
+**frute**
+'hedelmä'
+→ **frutos**
+'hedelmäsokeri, frukooti'  
+**malte**
+'mallas'
+→ **maltos**
+'mallassokeri, maltoosi'

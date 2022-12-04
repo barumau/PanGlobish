@@ -9,7 +9,8 @@ kansainvälistä liiketoimintaa ja ystävyyttä varten luotua apukieltä.
 
 ## Mitä panglobish on?
 
-Panglobish on yksinkertainen kieli, jonka tehtävä on auttaa ihmisiä puhumaan keskenään
+**Panglobish** (tai lyhyemmin **panglo**) on yksinkertainen kieli,
+jonka tehtävä on auttaa ihmisiä puhumaan keskenään
 silloin kun he eivät osaa muuta yhteistä kieltä.
 
 Kaikki panglobishin sanat ovat kansainvälisiä.

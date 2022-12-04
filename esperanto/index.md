@@ -8,7 +8,8 @@ Bonvenon al lerni pri Panglobiŝo, la helpanta lingvo por internacia komerco kaj
 
 ## Kio estas Panglobiŝo?
 
-Panglobiŝo estas simpla lingvo kiu helpas homojn interparoli
+**Panglobiŝo** (aŭ pli mallonge **Panglo**) estas simpla lingvo
+kiu helpas homojn interparoli
 kiam ili ne havas iun alian komunan lingvon.
 
 Ĉiuj vortoj de Panglobiŝo estas internaciaj.

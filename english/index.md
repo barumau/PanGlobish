@@ -8,7 +8,7 @@ Welcome to learn about Panglobish, the helping language for international busine
 
 ## What is Panglobish?
 
-Panglobish is a simple language that helps people to talk with each other
+**Panglobish** (or, more casually, **Panglo**) is a simple language that helps people to talk with each other
 when they don't have any other language in common.
 
 All words in Panglobish are international.

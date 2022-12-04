@@ -16,7 +16,6 @@ air.port.|airporte||FF  ||airport (aeroport)||aéroport|aeropuerto|aeroporto|а�
 air.port. gat.|airporte gate||||airport gate|Gate|||||||ゲート|||||||||portti lentokentällä||||
 air.sfer.|airsfere||RadCom||atmosphere|Atmospäre|atmosphère|atmósfera|atmosfera|атмосфера||大气 (气圈)|大気圏|대기|khí quyển|वायुमण्डल|বায়ুমণ্ডল|atmosfera|angahewa|atmosfer (havaküre)|atmosfero|ilmakehä|atmosfera|||
 akadem.ia.|akademia||FF AWL RadCom|end:academy, deu:Akademie, fra:académie, spa:por:academia, rus:академия (akademiya), may:tur:akademi|academy (university, college)|Hochschule (Akademie, Universität)|université (académie)|academia (universidad)|academia (universidade)|академия (университет)||大学|大学|대학|đại học|विश्वविद्यालय|বিশ্ববিদ্যালয়|universitas (akademi)|chuo kikuu|bilimyurdu (akademi, üniversite)|akademio (universitato)|yliopisto (korkeakoulu, akatemia)|uniwersytet|||
-al|al||NSM  BGE |deu;eng;all|all|all|||||||||||||||||||kaikki|
 Alaska|Alaska|lande|||Alaska|||Alaska||||||||||||||Alaska|Alaska|||
 alkohol|alkohol||Simplish|eng:alcohol, deu:may:alkohol, fra:alcool, spa:alcohol, por:álcool, rus:алкоголь (alkohol), pol:alkohol, ara:(kuhul), jpn:アルコール (arukoru), kor:알콜 (alkol), ben:এলকোহল (elkohôl)|alcohol (spirits)|Alkohol|alcool|alcohol|álcool|алкоголь|كحول|酒|アルコール|술 (알콜)|rượu|शराब (मद्यसार)|মদ্য (এলকোহল)|alkohol (arak)||alkol|alkoholo|alkoholi|alkohol|||
 alkohol.ist.|• alkoholiste||||alcoholist|||||||||||||||||alkoholisti (juoppo)||||
@@ -267,6 +266,7 @@ cikl.|cikle||AWL||cycle|||||||||||||||||kierros (sykli)||||
 cikl/ri.|• ricikle||||recycle||recycler|reciclar|reciclar|рециркулировать||循环再造|再生する (リサイクルする)|재활용하다||पुनः चक्रित करना||kitar semula||geri dönüştürmek|recikligi|kierrättää|przetwarzać|||
 cikl2|cikle||FF BGE |eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|bike (cycle)||bicyclette|bicicleta||||||||साइकिल|সাইকেল|||bisiklet||pyörä (polkupyörä, moottoripyörä)|rower|||
 cikl2ist.|• cikliste||||cyclist||cycliste|ciclista|ciclista|велосипедист||骑自行车的人|チャリダー|||||||bisikletçi|biciklisto|pyöräilyn harrastaja|rowerzysta|||
+cin.gram.|cinograme||||Chinese character|||sinograma||||||||||||||kiinamerkki||||
 cit.|cite||FF Globish||city||||||||||||||||||||city |a large town
 cit.an.|• citan||Globish||citizen||citoyen||||||||||||||||||citizen|a person belonging to a nation
 citar.|citare|musike||deu:eng:zither, fra:cithare, spa:por:cítara, rus:цитра (citra)|zither|Zither|cithare|cítara|cítara|цитра||古琴|ツィター|||||||||sitra (kantele)||||
@@ -433,8 +433,6 @@ europ.ium.|europium|kimeme 063|Eu|eng:europium, fra:europium, spa:europio, por:e
 Europa|Europa|planete 5 lune 2|||Europa (a moon)|Europa||||||||||||||||Europa (eräs kuu)||||
 evri|evri||BGE Globish|eng:every|every (each)||chaque|cada|cada|каждый||每|||||||||ĉiu(j)|joka (jokainen)|każdy, wszyscy||each |every single one considered individually
 ex.|ex||||out||||||||||||||||ekster|ulkona||||
-ex.per.aj.|experaje||BGE Globish||experience||||||||||||||||||||experience|the quantity of knowledge or skill that results from direct activity
-ex.per.men.|expermen||Globish||experiment||||||||||||||||||||experiment|a test to find out something
 ex.tr.|• extre||Globish|deu:eng:fra:spa:por:extra, rus:экстренный (ekstrennyy), tur:ekstra|extra||supplémentaire|extra (adicional)|extra|экстренный||||||||||ekstra|aldona (ekstra)|ylimääräinen (lisä, ekstra)|||extra|added to a regular quantity
 ex.tr.al|• extral||AWL||external  ||||||||||||||||ekstera|ulkoinen||||
 ex.tr.an.|• extran||BGE Globish||strange (foreign)|||||||||||||||||vieras (ulkopuolinen)|||strange|not familiar, unusual
@@ -625,6 +623,8 @@ goton|goton||Globish|ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:c
 gow|gow||FF BGE Globish|eng:go, deu:gehen, kor:가다 (gada)|go (move around)|gehen|aller|ir|ir|ходить (идти)||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść (przemieścić się)||go |move along
 grac.|grace||BGE Globish||thank||||||||||||||||||||thank|to express and show pleasure afrer receiving a present or help
 grac/kon.|• kongrace||Globish||congratulate (”congrats”)||||||||||||||||||||congratulate|to express pleasure at someone’s success
+gram|gram||BEIW||gram|||||||||||||||||||||
+gram.|grame||||written character|||||||||||||||||||||
 Grenada|Grenada|lande|GD||Grenada|||Granada||||||||||||||Grenada|Grenada|||
 grey|grey|kolor|FF BGE Globish||gray (grey)||||||||||||||||||||gray (grey)|
 grin|grin|kolor|FF BGE Globish||green||||||||||||||||||||green|the color of most plants and leaves
@@ -682,6 +682,12 @@ histor.i.|historie||BGE Globish||history||||||||||||||||||||history|a record of 
 hobi|hobi||BGE |eng:deu:fra:por:spa:hobby, rus:хобби (hobbi), may:tur:hobi|hobby (passtime)|Hobby|passe-temps (hobby)|pasatiempo (hobby, afición)|passatempo (hobby)|хобби||爱好 (嗜好)|趣味|취미|sở thích|शौक़|শখ|hobi (kegemaran)||hobi (merak)|hobio|harrastus|hobby|||
 hoho|hoho|onom.||rus:хохотать (hohotat’)|guffaw||||gargalhar|хохотать||哄笑|哄笑する|||||||||hekottaa (hohottaa)||||
 hokey.|hokey||RadCom|eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|hockey||hockey|hockey|hóquei|хоккей||曲棍球|ホッケー|khúc côn cầu||हाकी|হকি|hoki||hokey|hokeo|hockey (jääkiekko)|hokej|||
+hol|hol||BGE Globish|eng:whole; all; holo-, deu:fra:spa:por:holo-, rus:голо- (golo-); хол- (hol-), jpn:ホログ- (holo-), kor:홀로- (hollo-) + ara: كُلّ‎ (kull)|whole (complete)|ganz (heil)||||целый (полный)||||||||||||koko (kaikenkattava)|||whole|complete 
+hol di|hol di||NSM  BGE ||all|all|||||||||||||||||||kaikki|
+hol.graf.|holografe||||hologram (holograph)||hologramme|holograma|holograma|||全息图||||||||||hologrammi (kokokuva)||||
+hol.graf.i.|holografie||||holography|Holografie|holographie|holografia|holografia|голография||全息摄影|ホログラフィー|홀로그래피||||||||holografia||||
+hol.ism.|holisme||||holism|Holismus|holisme|holismo|holismo|холизм|||||||||||||holismi|||
+hol.ist.|holiste||||holist||||||||||||||||||holisti|||
 holm.ium.|holmium|kimeme 067|Ho|eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم|holmium||holmium|holmio|hólmio|гольмий|هلميوم|钬|ホルミウム|홀뮴|holmi, honmi|होल्मियम|হলমিয়াম|holmium|homi|holmiyum|holmio|holmium|holm|||
 Honduras|Honduras|lande|HN||Honduras|||Honduras|||||||||||||Honduro|Honduras|Honduras|||
 Hong Gong|Hong Gong|lande|HK||Hong Kong, SAR China|||Hong Kong||||||||||||||Hong Kong|Hong Kong|||
@@ -700,7 +706,8 @@ hum/ex.|• exhume||||exhume|||||||||||||||||kaivaa mullasta (kaivaa haudasta)||
 hum/in.|• inhume||Globish||bury (inter, inhume)|||||||||||||||||haudata multaan|||bury |to place in the ground
 hunde|hunde|num.|FF BGE |eng:hundred, deu:Hundert|hundred|hundert||cien|||||||||||||cent|sata|sto|||
 I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|||
-idea|idea||BGE Globish|eng:spa:idea, fra:idée, deu:Idee, por:ideia, rus:идея (ideya), may:ide, jpn:アイデア (aidea), kor:아이디어 (aidieo), vie:ý định|idea (concept)|Idée (Ahnung)|idée|idea (noción, concepto)||идея (мысль)||主意|着想 (主意, アイデア)|생각 (아이디어)|||||||ideo|idea (aate, ajatus, mielikuva)|idea (pomysł)||idea |a thought
+ide.|idee||BGE Globish|eng:spa:idea, fra:idée, deu:Idee, por:ideia, rus:идея (ideya), may:ide, jpn:アイデア (aidea), kor:아이디어 (aidieo), vie:ý định|idea (concept)|Idée (Ahnung)|idée|idea (noción, concepto)||идея (мысль)||主意|着想 (主意, アイデア)|생각 (아이디어)|||||||ideo|idea (aate, ajatus, mielikuva)|idea (pomysł)||idea |a thought
+ide.gram.|ideograme||||ideogram|Ideogramm|idéogramme|ideograma|ideograma|идеограмма||表意文字|表意文字|||||||||ideogrammi||||
 idea.al.|• ideal||||ideal (conceptual)|ideell|idéal|ideal|ideal|идеальный|||||||||||idea|ideaalinen (ajatuksellinen)||||
 idea.al.ism.|• idealisme||||idealism||idéalisme|idealismo|idealismo|идеализм||||||||||||idealismi||||
 ident.|idente||||the same|||||||||||||||||||||
@@ -711,10 +718,10 @@ if|if||NSM  Globish|eng:if|if|wenn|si|si|se (caso)|если||如果 (要是)|も
 if no|if no||Globish||unless||||||||||||||||||||unless |if not, if it were not that
 imper.|impere||||reign (rule as an emperor)|||reinar (reinar como emperador)||||||||||||||hallita yksinvaltaisesti|władać, panować, rządzić jako imperator|||
 imper.er|• imperer||||emperor||empereur|emperador|imperador|император||皇帝 (帝王)|皇帝|황제|hoàng đế|सम्राट|সম্রাট|kaisar (maharaja)|kaisari|imparator|imperiestro|keisari|imperator|||
-imper.i.al.|• imperial||BEIW RadCom||Imperial|||||||||||||||||||||
-imper.i.al.ism.|• imperialisme||||imperialism|||imperialismo||||||||||||||imperialismi|imperializm|||
-imper.i.al.ist.|• imperialiste||||imperialist|||imperialista||||||||||||||imperialisti|imperialista|||
 imper.ia|• imperia|||eng:fra:empire, spa:imperio, por:império, rus:империя (imperiya), ara:(ʾimbirāṭūriyya), tur:imparatorluk|empire||empire|imperio|império|империя|إمبراطورية|帝国|帝国|제국|đế quốc|साम्राज्य|সাম্রাজ্য|kekaisaran||imperatorluk|imperio|keisarikunta|imperium|||
+imper.ia.al.|• imperial||BEIW RadCom||Imperial|||||||||||||||||||||
+imper.ia.al.ism.|• imperialisme||||imperialism|||imperialismo||||||||||||||imperialismi|imperializm|||
+imper.ia.al.ist.|• imperialiste||||imperialist|||imperialista||||||||||||||imperialisti|imperialista|||
 in.|in|prep.|Globish|eng:deu:ita:in, fra:spa:en|in||en (dans)|en|em||||||||||||en|sisässä (-ssa)|||in |to or toward the inside of
 in. fet.|in fete||||in fact|en fait||||||||||||||||tosiasiassa||||
 in. sam tem|in sam tem||Globish||at the same time (while)||||||||||||||||samtempe|samaan aikaan (sillä välin)|||while|1° at the same time that
@@ -1025,7 +1032,7 @@ live|live||NSM  BGE Globish|eng:live, deu:leben|live (life, alive)|leben|vivre|v
 livermor.ium.|livermorium|kimeme 116|Lv|eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori|livermorium||livermorium|livermorio|livermório|ливерморий|ليفرموريوم||リバモリウム|리버모륨|livermori|||livermorium|livermori|livermoriyum||livermorium|liwermor|||
 lob.|lobe||||lobe||lobe|lóbulo|lobo||||||||||||lobo|lohko (kieleke)||||
 log.|loge|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), ara:(luğa), swa:lugha, tur:lügat, ind:logat|speak (talk)||||||||||||||||paroli|puhua||||
-log.gram|• logegram||||logogram (logo)|||||||||||||||||logogrammi (logo)||||
+log.gram.|• logegrame||||logogram (logo)|||||||||||||||||logogrammi (logo)||||
 log.ped.i.|• logepedie||||logopedics|Logopädie|orthophonie (logopédie)|logopedia|ortofonia (logopedia)|||||||||||||logopedia (puheterapia)||||
 log/dia.|• dialoge||BGE AWL||conversation (dialog, discussion, talk)||dialogue|diálogo|diálogo|диалог||对话 (会话)|対話||đối thoại (hội thoại)|बातचीत||dialog|||dialogo|keskustelu (dialogi)|dialog|||
 logu|logu|||eng:log, jpn:録 (roku), kor:록 (lok), yue:錄 (luk6), zho:录 (lù)|record (register, log)||enregistrement|||||纪录|記録 (ログ)|||||||||tallenne (loki)||||
@@ -1184,6 +1191,7 @@ momente|momente||BGE |eng:fra:moment, spa:por:momento, rus:момент|moment (
 mon.|mone||FF BGE Globish AWL|eng:money, fra:monnaie|money (currency)|Geld|argent|dinero (plata)|dinheiro|деньги|فلوس‎|钱|金|||पैसा||uang (wang)|pesa||mono|raha|pieniądze||money|the most common means of exchange
 mon. bilet.|• mone bilete||||banknote|Geldschein (Banknote)|billet de banque|billete|cédula|банкнота (билет)||钞票 (纸币)|紙幣|지폐|giấy bạc|नोट (बैंक के नोट)||uang kertas|noti|banknot|monbileto (banknoto)|seteli||||
 mon.et.|• monete||||coin|||moneda|moeda|||||||||||||kolikko||||
+mon.gram.|monograme||||monogram|Monogramm|monogramme|monograma|monograma|монограмма (вензель)||花押字|||||||monogram|||monogrammi||||
 Monako|Monako|lande|MC||Monaco|||Mónaco||||||||||||||Monaco|Monako|||
 Mongol.ia.|Mongolia|lande|MN||Mongolia|||Mongolia|||||||||||||Mongolio|Mongolia|Mongolia|||
 mont.|monte||FF BGE Globish|eng:mountain, por:spa:monte, fra:montaigne|mountain (mount, hill)|||montaña (monte)|montanha (monte)|||山|||||||||monto|vuori (mäki)|góra, wzgórze||mountain |very high hill
@@ -1446,6 +1454,13 @@ pel/re.|• repele||||repel (drive back)|||||||||||||||||ajaa takaisin||||
 pen.|pene||BGE Globish|eng:penalty, fra:peine, spa:por:pena, rus:пенальти (penalti)|punishment (penalty)|Strafe|punition (peine)|castigo (pena)|castigo (pena)|||惩罚|罰|벌 (처벌)|hình phạt|दण्ड (सज़ा)||||||rangaistus|||punish |to cause discomfort to a person because of some offense
 pen.al kik.e|penal kike||||penalty kick|Strafstoß|penalty|tiro penal|pênalti|пенальти||罚球|ペナルティーキック|||||||||rangaistuspotku||||
 pepe|pepe|masala||eng:pepper, deu:Pfeffer, ita:pepe, tur:biber|pepper (peppercorn)|Pfeffer|poivre|pimienta|pimenta|перец||胡椒||||गोलमिर्च||lada hitam|||pipro|pippuri|pieprz|||
+per|per||||through|||||||||||||||||läpi (kautta, per)||||
+per.|pere||||go through|||||||||||||||||käydä läpi||||
+per<ex.|• expere||||experience (go through)|||||||||||||||||kokea (käydä läpi)||||
+per<ex.aj.|• experaje||BGE Globish||experience|||||||||||||||||kokemus|||experience|the quantity of knowledge or skill that results from direct activity
+per<ex.ik.|• experike||||experimental|||||||||||||||||kokeellinen||||
+per<ex.men.|• expermen||Globish||experiment|||||||||||||||||koe (kokeilu)|||experiment|a test to find out something
+perin.ik.|• inperike||||empirical|||||||||||||||||empiirinen (kokeellinen)||||
 person.|person||FF BGE Globish|eng:person, fra:personne, spa:persona, por:pessoa, rus:персона (persona)|person (character, figure)||personne|persona|pessoa|персона||||||||||||henkilö|||person |a human being
 person.aj.e|personaje||||character in a story||personnage|personaje||персонаж||人物|登場人物|등장인물||||||||henkilöhahmo||||
 person.al|personal||||personal|||||||||||||||||persoonallinen (ominainen)||||
@@ -1821,6 +1836,7 @@ tel.port.at.ion|teleportation||||taleportation|Teleportation|téléportation|tel
 tel.viz.|televize||||televise (broadcast by television)||téléviser|televisar|televisar|||电视播放||||||||||lähettää televisioon||||
 tel.viz.er.|televizer||FF RadCom|fra:téléviseur, por:televisor, rus:телевизор (televizor), eng:spa:television, ara: تلفزيون (tilifizyūn), jpn:テレビジョン (terebijon), kor:텔레비전 (tellebijeon), hin:टेलीविज़न (ṭelīvizan), ben:টেলিভিশন (ṭelibhiśôn), may:televisi, swa:televisheni, tur:televizyon|television (telly, tube)|Fernseher|téléviseur|televisión|televisor|телевизор||电视机|テレビジョン|텔레비전|máy thu hình (TV)|टेलीविज़न (दूरदर्शन)|টেলিভিশন|televisi|televisheni (runinga)|televizyon|televidilo|televisio|telewizja|||
 tel.viz.ion|televizion||||television media||télévision||televisão|||||||||||||televisiolähetys||||
+tele.gram.|telegrame||||telegram|||||||||||||||||sähkösanoma||||
 telur.ium.|telurium|kimeme 052|Te|eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم|tellurium||tellure|telurio|telúrio|теллур|تيلوريوم|碲|テルル|텔루르|telua, telu|टेलुरियम|টেলুরিয়াম|telurium|teluri|tellur|teluro|telluuri|tellur|||
 tem (tempe)|tem (tempe)||Globish|eng:time, fra:temps, por:tempo, spa:tiempo, jpn:タイム (taimu)|time (quantity of time)||temps|tiempo|tempo|время|وقت|时间|時間|시간|thời gian|समय (वक़्त)||waktu|wakati|vakit|tempo|aika|czas||time |
 ten|ten|num.|FF BGE |eng:ten, deu:zehn|ten|zehn|dix|diez|dez|десять|عشرة|十|十 (１０)|열 (십)|mười|दस (१०)|দশ (১০)|sepuluh|kumi|on|dek (10)|kymmenen (10)|dziesięć (10)|ده‎||
@@ -2092,7 +2108,7 @@ zink.|zinke|kimeme 030|Zn|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк,
 zip.|zipe||||zip up|||cerrar con cremallera|||||||||||||zipi|sulkea vetoketjulla|zamknąć zamkiem błyskawicznym|||
 zip.er|• ziper|||eng:zipper, por:ziper, hin:ज़िपर (zipar), ben:জিপার (jipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo)|zipper|Reißverschluss|fermeture éclair|cremallera|ziper (fecho ecler)|Застёжка-молния||拉链|ジッパー|지퍼|khoá kéo|ज़िपर|জিপার|resleting (zip)||fermuar|zipilo|vetoketju|zamek błyskawiczny|||
 zirkon.ium.|zirkonium|kimeme 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|zirconium||zirconium|circonio|zircónio|цирконий|زيركونيوم|锆|ジルコニウム|지르코늄|ziriconi|जर्कोनियम|জিরকোনিয়াম|zirkonium|zirikoni|zirkonyum|zirkonio|zirkonium|cyrkon|||
-zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (zombī)|zombie||zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi|||
+zombi.|zombi|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (zombī)|zombie||zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi|||
 ||prep.|NSM  Globish||above (over)||||||||||||||||||||above|overhead 
 |||AWL||abstract |||||||||||||||||||||
 |||RadCom||academic|||||||||||||||||||||
@@ -2743,7 +2759,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Simplish||Google|||||||||||||||||||||
 |||BGE Globish||govern||||||||||||||||||||govern |to exercise authority on
 |||AWL||grade |||||||||||||||||||||
-|||BEIW||gram|||||||||||||||||||||
 |||RadCom||grammar|||||||||||||||||||||
 |||FF  ||grandfather|||||||||||||||||||||
 |||FF  ||grandmother|||||||||||||||||||||
@@ -3899,7 +3914,6 @@ zomb.|zombe|||eng:zombie, fra:spa:may:zombi, por:zumbi, hin:ज़ोंबी (
 |||Globish||whether||||||||||||||||||||whether|if it is so that
 |||BGE Globish||which||||||||||||||||||||which|pronoun used in asking about one person in a group
 |||RadCom||whist|||||||||||||||||||||
-|||BGE Globish||whole (complete)||||||||||||||||||||whole|complete 
 |||Globish||whole (entire, total)||||||||||||||||||||total|whole
 |||BGE Globish||why||||||||||||||||||||why|for what cause
 |||AWL||widespread |||||||||||||||||||||

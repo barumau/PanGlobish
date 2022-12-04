@@ -34,6 +34,20 @@ and the children of English
 
 ## Evenly global
 
+### Is it really global?
+
+Panglobish really is global!
+The first thing that you probably notice about Panglobish
+is that it looks and sounds something like English
+but in fact the English words are only the tip of the iceberg.
+A lot more is hidden under the surface!
+Panglobish is much more diverse than what one might see at first sight.
+
+![](http://www.kupsala.net/PanGlobish/grafe/aismonte_eng.png "picture of an iceberg")
+
+The more you study Panglobish, the more cosmopolitan it appears.
+
+
 ### Why all languages are not included?
 
 The figure below shows cumulative distribution of the 50 most spoken native languages.
@@ -93,19 +107,28 @@ Panglobish is spoken in the "continental" manner.
 It means that the Germanic part of Panglobish sounds rather like German, Dutch and the Scandinavian languages,
 and the Romance part sounds like Spanish, Portuguese, Italian and French.
 
-https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English
+Continental pronunciation is typically the original way of pronouncing words.
+That's why spelling is much more phonetic in Panglobish than in English!
 
+For example, the words *nation* and *native* are related.
+So let's compare how they are spelled and pronounced in different languages.
 
-English: nation /neɪʃən/
-German: Nation /natsio:n/
-Dutch: natie /na:tsi/
-Russian: нация /natsiya/
-French: nation /nasyõ/
-Spanish: nación /nasyon/
-Portuguese: nação /nasãũ/
+| Language   |        |            |        |           |
+|------------|--------|------------|--------|-----------|
+| English    | nation | /neɪʃən/   | native | /neɪtiv/  |
+| German     | Nation | /natsio:n/ | native | /nativə/  |
+| Dutch      | natie  | /na:tsi/   | –      | –         |
+| Russian    | нация  | /natsiya/  | –      | –         |
+| French     | nation | /nasyõ/    | natif  | /natif/   |
+| Spanish    | nación | /nasyon/   | nativo | /natiβo/  |
+| Portuguese | nação  | /nasãũ/    | nativo | /natʃivu/ |
+| Panglobish | nation | /nation/   | native | /nativə/  |
 
+In this case Panglobish brings the spelling and pronunciation back to their roots.
 
-[University Word List](http://jbauman.com/aboutUWL.html)
+<!-- https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English -->
+
+<!-- [University Word List](http://jbauman.com/aboutUWL.html) -->
 
 ## Minimalism?
 

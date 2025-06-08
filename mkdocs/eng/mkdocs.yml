@@ -9,17 +9,17 @@ extra_css:
     - extra.css
 nav:
     - 'Grammar':
-        - 'The 10 rules': 100_baze_regule.md
+        - 'The 10 rules': G_baze.md
         - 'World Words': 101_global_lexe.md
-        - 'Spelling and pronunciation': 102_ortografie.md
+        - 'Spelling and pronunciation': G_ABC.md
         - 'Regular Accent': 103_aksente.md
-        - Nouns : 104_nome.md
-        - Numerals: 105_numbe.md
+        - Nouns : G_N.md
+        - Numerals: G_NUM.md
         - Modifiers: 106_modife.md
-        - Pronouns: 107_pronome.md
-        - Verbs: 108_verbe.md
+        - Pronouns: G_PRO.md
+        - Verbs: G_V.md
         - 'Sentence Structure': 109_lexe_orde.md
-        - 'Word building': 110_lexe_konstrution.md
+        - 'Word building': G_AFX.md
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md

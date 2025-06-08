@@ -7,14 +7,14 @@ theme: material
 nav:
     - Home: 'index.md'
 #    - 'Grammar and Rules':
-    - 'กฎ 10 ข้อของ PanGlobish': 100_baze_regule.md
+    - 'กฎ 10 ข้อของ PanGlobish': G_baze.md
 #        - 'World Words': 101_dunia_worde.md
-#        - 'Spelling and pronunciation': 102_ortografie.md
+#        - 'Spelling and pronunciation': G_ABC.md
 #        - 'Regular Accent': 103_aksente.md
-#        - Nouns : 104_nome.md
-#        - Numerals: 105_numbe.md
-#        - Pronouns: 107_pronome.md
-#        - Verbs: 108_verbe.md
+#        - Nouns : G_N.md
+#        - Numerals: G_NUM.md
+#        - Pronouns: G_PRO.md
+#        - Verbs: G_V.md
 #        - 'Word building': 110_worde_kostruktion.md
 #    - Lessons:
 #        - 'Lesson 1': 201_lecion_1.md

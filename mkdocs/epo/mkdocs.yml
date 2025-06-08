@@ -9,14 +9,14 @@ extra_css:
     - extra.css
 nav:
     - 'Gramatiko':
-        - 'La 10 reguloj': 100_baze_regule.md
+        - 'La 10 reguloj': G_baze.md
 #        - 'Mondaj vortoj': 101_dunia_worde.md
-#        - 'Prononcado kaj skribado': 102_ortografie.md
+#        - 'Prononcado kaj skribado': G_ABC.md
 #        - 'Laŭregula akcento': 103_aksente.md
-#        - Substantivoj : 104_nome.md
-        - Nombrovortoj: 105_numbe.md
-        - Pronomoj: 107_pronome.md
-#        - Verboj: 108_verbe.md
+#        - Substantivoj : G_N.md
+        - Nombrovortoj: G_NUM.md
+        - Pronomoj: G_PRO.md
+#        - Verboj: G_V.md
 #        - Vortfarado: 110_worde_kostruktion.md
 #    - Lecionoj:
 #        - '1a leciono': 201_lecion_1.md

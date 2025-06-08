@@ -17,10 +17,48 @@ So it can be typed, printed and used with computers and smart devices in most co
 
 > A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
+A specialty of the Panglo writing system is that
+every consonant letter by itself includes a short mid central vowel sound unless otherwise specified.
+(In this regard Panglo's writing system works like those of India.)
+This short vowel sound is called **schwa**,
+and it is the most basic vowel sound that can be created without much effort.
+It is like the *a* in English *career* /kərir/ or *sofa* /soufə/.
+A consonant's schwa can also be silent and it can be replaced by any written vowel.
+Therefore for example **did** can be pronounced /did/ or /didə/ but **didi** is always pronounced /didi/.
+
+## Note on phonetic notation
+
+In this page, we use the symbols of the International Phonetic Alphabet (IPA) to show pronunciation in writing.
+We use square brackets and slashes to show that we're talking about a sound and not a letter.
+
+Physical speech sounds are written between square brackets,
+for example [r] and [ɹ] indicate two different *r*-sounds, the trill and the glide.
+However, [r] and [ɹ] are not distinguished in Panglo, but they are perceived as one sound.
+These mental sounds or **phonemes** can cover several physical sounds and are written between slashes.
+So, speakers of Panglo perceive mentally always one sound, /r/, regardless of which physical sound, [r] or [ɹ], is actually heard.
+It is said that Panglo has the phoneme /r/, which has alternative physical pronunciations [r] and [ɹ].
+This can be annotated `/r/ = [r] ~ [ɹ]`.
+
 ## Sounds
 
 Panglo has its own sound system and its own spelling system
 that are mostly similar to those of the languages of continental Europe and Latin America.
+
+The complete speech sound inventory of Panglo is presented in the table below.
+
+|                    | Labial  |Alveolar | Palatal | Velar   | Glottal |
+|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
+| **Stops**          | b p     | t d     | ch j    | k g     |         |
+| **Fricatives**     | f       | s z     | sh      |         | h       |
+| **Nasals**         | m       | n       |         | ng      |         |
+| **Lateral**        |         | l       |         |         |         |
+| **Trill**          |         | r       |         |         |         |
+| **Semivowels**     | v       |         | y       |         |         |
+| ---------------    | ------- | ------- | ------- | ------- | ------- |
+| **High vowels**    | u       |         | i       |         |         |
+| **Mid vowels**     | o       | ə       | e       |         |         |
+| **Low vowels**     |         | a       |         |         |         |
+|                    |**Back**|**Central**|**Front**|        |         |
 
 ### Vowels
 
@@ -72,7 +110,7 @@ They are represented in the writing system by 19 Latin letters and their combina
 | Z      | /z/  | |
 
 
-## External Sounds
+## External letters and sounds
 
 There are also additional letters and letter-combinations, which can be used only in _external words_,
 which do not belong to the  common Panglo vocabulary, like names of specific places and individual people.
@@ -92,8 +130,8 @@ They are not used in any common Panglo words.
 | Zh     | /ʒ/  | Like _z_ in _azure_. |
 
 The additional letters and digraphs are used locally.
-Their purpose is to help to transfer names in the local language to the international language,
-so that the local people can recognize them.
+Their purpose is to help to transfer names in local languages to the international language,
+so that local people can recognize them.
 It's OK if you don't know how to pronounce any of these sounds.
 Just pronounce the first letter and ignore the H.
 
@@ -125,7 +163,7 @@ Some of the heaviest words in practice are **kristal** and **simple**.
 
 In addition, the following middle consonant groups are allowed: -kn-, -ks-, -tn- and -tm-.
 They are found in a handful of loan words from Greek and Latin,
-like **tekne** (_technique_), **akse** (_axis_), **etne** (_ethnicity_) and **ritme** (_rhythm_).
+like **tekne** (_technique_), **axe** (_axis_), **etne** (_ethnicity_) and **ritme** (_rhythm_).
 
 
 ## Adapting Loan Words
@@ -141,14 +179,10 @@ For example _dog_ is a common word but _Mutt_ is not, it is a proper name.
 Common words, which are in general use, must fit into the normal word structure,
 and they can include only the normal sounds of Panglo.
 
-Most Panglo words are structurally simpler than the corresponding English words.
-Difficult consonant groups are avoided in the beginning, middle and end of words,
-so _state_ becomes **estate**, _actor_ becomes **ater**, and _saint_ becomes **sante** in Panglo.
-Also final stop consonants are avoided, so for example _good_ becomes **gude** in Panglo.
 
 Panglo doesn't have the TH sounds that exist in English,
 so they are usually realized as T and D in words that are borrowed from English.
-For example **da** (_the_), **de** (_they_), **tri** (_three_), and **ting** (_thing_).
+For example **di** ('the'), **de** ('they'), **tri** ('three'), and **ting** ('thing').
 
 ### Proper names
 
@@ -160,7 +194,7 @@ although it is structurally more complex than common Panglo words, and
 it has the external TH sound.
 
 
-## Large and Small Letters
+## Large and small letters
 
 Both large and small letters (i.e. upper-case and lower-case letters) are used in writing Panglo.
 
@@ -178,7 +212,7 @@ and it can be abbreviated to initial letters variously
 **Tomas S Eliot**, **TS Eliot** and **TSE**.
 
 In titles of artistic works, like books, songs and films, every word begins with a large letter. For example,
-**Da Senyer Of Di Ring**
+**Di Senyer Of Di Ring**
 (The Lord of the Rings).
 
 #### Acronyms
@@ -189,9 +223,9 @@ like for example **GULag**, which is an acronym of the Russian words "Glavnoye U
 
 Capital letters are also used in the standard international acronyms.
 For example:
-10 Mb (ten megabite),
-100 GB (hunde gigabaite),
-2 mm (due milimetre),
+10 Mb (ten megabit),
+100 GB (hunde gigabait),
+2 mm (due milimitre),
 1 kJ (un kilojul).
 
 
@@ -204,32 +238,32 @@ For example: bus, ka-fe, yu-mor, pos-te, a-me-ri-ka-nis-me.
 
 ## Punctuation
 
-<.> All kinds of sentences may end with a full stop.
+« . » All kinds of sentences may end with a full stop.
 
-<?> Questions may end alternatively with a question mark.
+« ? » Questions may end alternatively with a question mark.
 
-<!> Exclamation mark indicates loudness or emphasis.
+« ! » Exclamation mark indicates loudness or emphasis.
 
-<...> Three dots (i.e. ellipsis) indicates incompleteness or uncertainty.
+« ... » Three dots (i.e. ellipsis) indicates incompleteness or uncertainty.
 
-<:> Colon indicates the beginning of an explanation, quotation or list.
+« : » Colon indicates the beginning of an explanation, quotation or list.
 
-<,> Comma indicates a small pause or separation between clauses or listed items.
+« , » Comma indicates a small pause or separation between clauses or listed items.
 
 Because the first word of sentences is not capitalized,
 a space may be inserted _before_ and _after_ the punctuation mark
 that ends the sentence.
 This practice helps to put sentences clearly apart.
 
-> un dei, mi wan gow to da bazar . mi mite mi's frende der .
-> he sey: halo ! yu gude, wa ? mi sey: mi gude !
-> den wi gow to mi's haus en yam som piza .
+    (1) sal!  tu gud, he?  mi van go to bazar.  tu van kom kon mi, he?
+    (2) sal ! tu gud, he ? mi van go to bazar. tu van kom kon mi, he ?
 
-In informal texts, smileys, emoticons and emojis may be used to indicate mood.
+In informal texts, smileys, emoticons and emojis may be used like punctuation marks to end sentences
+but in addition they indicate the mood of the speaker.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
 **mi love yu :)**
-= I love you.  
+– I love you.  
 **yu no love mi :(**
-= You don't love me.
+– You don't love me.
 

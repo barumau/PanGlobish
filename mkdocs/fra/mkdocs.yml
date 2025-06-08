@@ -1,0 +1,50 @@
+site_name: langue Panglo
+site_url: https://www.kupsala.net/panglo/fra
+repo_url: https://github.com/barumau/PanGlobish/
+docs_dir: ../../fra
+site_dir: ../../html/fra
+use_directory_urls: false
+theme:
+  name: material
+  language: fr
+  logo: logo.png
+  favicon: favicon.png
+extra_css:
+  - stile.css
+plugins:
+    - search:
+        lang: fr
+nav:
+    - Accueil: 'index.md'
+    - 'Présentation': I-idea.md
+    - 'Grammaire':
+        - G-baze.md
+        - L-lexe.md
+        - G-ABC.md
+        - G-PRO.md
+        - G-N.md
+        - G-NUM.md
+        - G-ADJ.md
+        - G-V.md
+        - G-P.md
+        - G-AFX.md
+    - 'Leçons':
+        - 'Phrases courantes': B03_baze_jumla.md
+        - 'Leçons': K-kurse.md
+    - 'Vocabulaire':
+        - 'Panglo → français': panglo-fra.md
+        - 'Français → panglo': fra-panglo.md
+    - 'Appendix':
+        - 'Questions et réponses': FAQ.md
+        - 'Traduire ce site': tarja_netoloke.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/panglobish/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/panglobish
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+1AzKvH6RjZhmZmIy
+markdown_extensions:
+  - toc:
+      toc_depth: 2

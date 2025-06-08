@@ -1,9 +1,9 @@
-site_name: PanGlobish
-site_url: http://www.kupsala.net/PanGlobish/esperanto
+site_name: Panglo
+site_url: http://www.kupsala.net/panglo/esperanto
 repo_url: https://github.com/barumau/PanGlobish/
-site_author: Risto "Rippe" Kupsala
-docs_dir: ../../esperanto
-site_dir: ../../html/esperanto
+site_author: Risto Kupsala
+docs_dir: ../../epo
+site_dir: ../../html/epo
 theme: material
 extra_css:
     - extra.css
@@ -24,8 +24,8 @@ nav:
 #        - 'La ideo': I-idea.md
 #        - 'Panglo kontraŭ la angla': I_Panglo_vs_English.md
     - Vortaro:
-        - "Panglobiŝo–Esperanto" : panglobish-esperanto.md
-        - "Esperanto–Panglobiŝo" : esperanto-panglobish.md
+        - "Panglo–Esperanto" : panglo-esperanto.md
+        - "Esperanto–Panglo" : esperanto-panglo.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

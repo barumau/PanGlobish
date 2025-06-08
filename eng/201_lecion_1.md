@@ -1,3 +1,4 @@
+
 # Lesson 1: Introducing yourself
 
 ## Dialog 1
@@ -12,16 +13,16 @@
 **halo!**
 – Hello!  
 <big>👨🏾</big>
-**wa is yu's name?**
+**vat es yu's name?**
 – What is your name?  
 <big>👩</big>
-**mi's name is Mari. en yu's?**
+**mi's name es Mari. en yu's?**
 – My name is Mari. And your?  
 <big>👨🏾</big>
-**mi is Yusef.**
+**mi es Yusef.**
 = I am Yusef.  
 <big>👩</big>
-**mi is hapi du mite yu, Yusef.**
+**mi es hapi du mite yu, Yusef.**
 – I'm happy to meet you, Yusef.  
 <big>👨🏾</big>
 **mi olso, Mari.**
@@ -34,16 +35,16 @@
 **halo!**
 – Hello!  
 <big>👩</big>
-**halo! hu is yu?**
+**halo! hu es yu?**
 – Hello! Who are you?  
 <big>👨🏾</big>
-**mi is Yusef? en yu?**
+**mi es Yusef? en yu?**
 – I am Yusef. And you?  
 <big>👩</big>
-**mi is Mari.**
+**mi es Mari.**
 – I am Mari.  
 <big>👨🏾</big>
-**mi is hapi du mite yu, Mari.**
+**mi es hapi du mite yu, Mari.**
 – I'm happy to meet you, Mari.  
 <big>👩</big>
 **mi olso, Yusef.**
@@ -64,9 +65,9 @@ Here are the personal pronouns in Panglo:
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
-| **mi** – _I_               | **wi** – _we_              |
+| **mi** – _I_               | **vi** – _we_              |
 | **tu** – _you_             | **yu** – _you all_         |
-| **he** – _he or she_       | **de** – _they_            |
+| **hi** – _he or she_       | **de** – _they_            |
 
 The personal pronouns, like all words in Panglo, never change.
 The same word form is used as the subject (i.e. the "doer") and as the object.
@@ -76,7 +77,7 @@ So there aren't separate word forms like "I" and "me" or "we" and "us".
 – I meet you.  
 **yu mite mi.**
 – You meet me.  
-**wi mite de.**
+**vi mite de.**
 – We meet them.
 
 ### Possessive pronouns
@@ -85,36 +86,36 @@ The possessive pronouns (_my_, _your_, etc.) are created regularly by adding the
 
 | Singular                   | Plural                     |
 |----------------------------|----------------------------|
-| **mi's** – _my_            | **wi's** – _our_           |
+| **mi's** – _my_            | **vi's** – _our_           |
 | **tu's** – _your_          | **yu's** – _your_          |
-| **he's** – _his or her_    | **de's** – _their_         |
+| **hi's** – _his or her_    | **de's** – _their_         |
 
 ### The same verb in all persons
 
 The verb for being is also regular and it's the same for all persons.
 
-**mi is**
+**mi es**
 – I am  
-**tu is**
+**tu es**
 – you are (thou art)  
-**he is**
+**hi es**
 – he or she is  
-**wi is**
+**vi es**
 – we are  
-**yu is**
+**yu es**
 – you are  
-**de is**
+**de es**
 – they are
 
 So verbs don't change to indicate the person.
 And nouns don't change either!
 The word **name**, in the same single form, can refer to one name or many names.
 
-**he's name is Mari.**
+**hi's name es Mari.**
 – Her name is Mari.  
-**he's name is Yusef.**
+**hi's name es Yusef.**
 – His name is Yusef.  
-**de's name is Mari en Yusef.**
+**de's name es Mari en Yusef.**
 – Their names are Mari and Yusef.
 
 Panglo is free from all sorts of inflection, declination, conjugation or whatever it's called.
@@ -149,13 +150,13 @@ The correct answers are after the word list.
 – to (the tag word for verbs)  
 **halo**
 – hello  
-**he**
+**hi**
 – he or she, him or her  
-**he's**
+**hi's**
 – his or her  
 **hu**
 – who  
-**is**
+**es**
 – is, am, are  
 **mi**
 – I, me  
@@ -173,11 +174,11 @@ The correct answers are after the word list.
 – you (singular), thou, thee  
 **tu's**
 – your, thine  
-**wa**
+**vat**
 – what  
-**wi**
+**vi**
 – we, us  
-**wi's**
+**vi's**
 – our  
 **yu**
 – you (plural)  
@@ -186,16 +187,16 @@ The correct answers are after the word list.
 
 ## Answers to the Exercises
 
-1. he's name is Adam.
-2. he's name is Sara.
-3. de's name is Adam en Sara.
-4. he is Adam.
-5. he is Sara.
-6. de is Adam en Sara.
-7. Adam en Sara is hapi.
-8. wa is yu's name.
-9. mi's name is _ _ _ _ _ _.
-10. mi is _ _ _ _ _ _.
-11. mi is hapi.
-12. wi is hapi du mite tu/yu.
+1. hi's name es Adam.
+2. hi's name es Sara.
+3. de's name es Adam en Sara.
+4. hi es Adam.
+5. hi es Sara.
+6. de es Adam en Sara.
+7. Adam en Sara es hapi.
+8. vat es yu's name.
+9. mi's name es _ _ _ _ _ _.
+10. mi es _ _ _ _ _ _.
+11. mi es hapi.
+12. vi es hapi du mite tu/yu.
 

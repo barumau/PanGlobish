@@ -1,0 +1,40 @@
+site_name: lingua Panglo
+site_url: https://www.kupsala.net/panglo/ita
+repo_url: https://github.com/barumau/PanGlobish/
+docs_dir: ../../ita
+site_dir: ../../html/ita
+use_directory_urls: false
+theme:
+  name: material
+  language: it
+  logo: logo.png
+  favicon: favicon.png
+extra_css:
+  - stile.css
+nav:
+    - 'Lingua ausiliaria globale': I-idea.md
+    - I-filosofia.md
+    - I-suma.md
+    - 'Regole basilari': B01_baze_kanun.md
+    - 'Ortografia e pronuncia': G-ABC.md
+    - 'Classi di parole': G-PoS.md
+    - 'Pronomi': G-PRO.md
+    - 'Sostantivi': G-N.md
+    - 'Numerali': G-NUM.md
+    - 'Modificatori': G-ADJ.md
+    - 'Verbi': G-V.md
+    - 'Vocabolario':
+        - 'panglo → italiano': panglo-ita.md
+        - 'italiano → panglo': ita-panglo.md
+    - 'Da dove vengono le parole': L-lexe.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/panglobish/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/panglobish
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+1AzKvH6RjZhmZmIy
+markdown_extensions:
+  - toc:
+      toc_depth: 2

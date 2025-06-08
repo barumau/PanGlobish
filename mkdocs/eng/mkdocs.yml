@@ -1,9 +1,9 @@
-site_name: PanGlobish
-site_url: http://www.kupsala.net/PanGlobish/english
+site_name: Panglo
+site_url: https://www.kupsala.net/panglo/english
 repo_url: https://github.com/barumau/PanGlobish/
-site_author: Risto "Rippe" Kupsala
-docs_dir: ../../english
-site_dir: ../../html/english
+site_author: Risto Kupsala
+docs_dir: ../../eng
+site_dir: ../../html/eng
 theme: material
 extra_css:
     - extra.css
@@ -27,8 +27,8 @@ nav:
         - 'The idea': I-idea.md
         - 'PanGlobish vs English': I_Panglo_vs_English.md
     - Vocabulary:
-        - "PanGlobish–English" : panglobish-english.md
-        - "English–PanGlobish" : english-panglobish.md
+        - "Panglo–English" : panglobish-english.md
+        - "English–Panglo" : english-panglobish.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

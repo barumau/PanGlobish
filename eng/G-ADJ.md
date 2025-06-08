@@ -1,9 +1,26 @@
 # Modifiers
 
-A modifier is a word that adds some quality or description to another word,
-for example good, bad, big, and fast.
+A modifier is a word that adds a particular quality or description,
+such as good, bad, big, and fast, to another word.
+In Panglo, there is only one class of modifiers.
+The same word can modify nouns and verbs,
+whereas in English only _adjectives_ can modify nouns
+and only _adverbs_ can modify verbs.
+For example, the word
+**bele**
+('beautiful' or 'beautifully')
+modifies a noun in sentence A
+and a verb in sentence B.
 
-The adjective is always placed before the noun.
+A. **da der es un _bele_ kitab.**
+– That is a beautiful writing.  
+B. **tu _bele_ li kitab.**
+– You write _beautifully_.
+
+
+## Modifying nouns
+
+In Panglo, "adjectives" are modifiers that are placed before the noun that they modify.
 
 **da nuve haus**
 – the new house  
@@ -16,10 +33,10 @@ The adjective is always placed before the noun.
 ## Comparison
 
 Equality is expressed with the word
-**as**
+**az**
 (as, like).
 
-**da as nuve haus**
+**da az nuve haus**
 – the equally new house
 
 Comparatives are made using the words
@@ -45,17 +62,18 @@ Superlatives are made using the words
 – the least beautiful house
 
 The point of comparison is introduced with
-**dan**
-(than).
+**az**
+('than').
 
-**yu's haus is mor nuve dan de's haus.**
+**yu's haus is mor nuve az de's haus.**
 – Your house is newer than their house.  
-**de's haus is les nuve dan yu's haus.**
+**de's haus is les nuve az yu's haus.**
 – Their house is less new than your house.
 
 Equality is introduced with
-**as**.
+**sim**
+('same, equally').
 
-**wi's haus is as nuve as yu's haus.**
+**vi's haus is sim nuve az yu's haus.**
 – Our house is as new as your house.
 

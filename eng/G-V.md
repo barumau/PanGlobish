@@ -1,228 +1,424 @@
+
 # Verbs
 
 Verbs are unchanging in Panglo.
-They don't change in person, number and time like in English.
-Verbs are not conjugated at all.
+Things like person, number, time and mood are indicated by separate words,
+not by changing the form of verbs as in English and other languages.
 
 ## Person and number
 
-Person and number are indicated by a personal pronoun or a noun.
+Person and number are indicated by the subject.
+For example, the verb
+**es**
+('to be') has the same form in all persons.
 
-**mi love tu.**
-– I love you.  
-**wi love yu.**
-– We love you.  
-**he love tu.**
-– He or she loves you.
+**_mi_ es frende.**
+– I am a friend.  
+**_tu_ es frende.**
+– You are a friend.  
+**_hi_ es frende.**
+– He/she is a friend.  
+**_vi_ es frende.**
+– We are friends.  
+**_yu_ es frende.**
+– You are friends.  
+**_de_ es frende.**
+– They are friends.
 
-There is normally a particle of time before the verb, when the subject is a noun (instead of a pronoun).
+Also a noun can serve as subject.
 
-**Jorje is love Mari.**
-– George loves Mary.  
-**tri siste is love un man.**
-– Three sisters love one man.
-
-## Time
-
-Panglo does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
-Ordinary expressions of time,
-such as **laste dei** (yesterday), **neste dei** (tomorrow), and **nau** (now),
-can be used for telling when exactly something happened.
-
-Panglo does have grammatical words for expressing temporal aspects.
-Aspects describe how an event can be viewed in relation to other events in time.
-
-- The progressive aspect (**is**) indicates an event that is ongoing.
-- The perfect aspects
-    - The resultative aspect (**haf**) indicates a completed event whose results have an effect on the present situation.
-    - The experiential aspect (**was**) indicates a completed event that has no connection to the present situation.
-- The future aspect (**wil**) indicates a situation that hasn't taken place yet.
-
-The figure below illustrates how the different aspects relate to the time under discussion i.e. the "present time" in the narrative.
-
-    Figure. The aspects in relation to the narrative present.
-    
-         ┌─────────┐       │
-         │   was   │  ···  │
-         └─────────┘       │
-         ┌─────────┐       │
-         │   haf   ├───────┤
-         └─────────┘       │
-                      ┌────┴────┐
-                      │   is    │
-                      └────┬────┘
-                           │       ┌─────────┐   
-                           │       │   wil   │
-                           │       └─────────┘
-    ◀──────────────────────┼──────────────────────▶
-    earlier          at present               later
+**mau es hevan.**
+– The cat is an animal.
 
 
-### Progressive aspect
+## Voice, time and mood
 
-The progressive aspect indicates that an event is ongoing ("in progress") and incomplete at the time under consideration.
-It is marked with **is** before the verb.
+Verb tenses, moods and voices are expressed with auxiliary verbs,
+which come first in the verb phrase.
+The order of the auxiliaries is tense, mood and aspect.
+The tense marker is first, the mood marker is next, and the aspect marker is last.
 
-**Sara is vide da TV.**
-– Sara is watching the TV.  
-**wi is vizite yu's lande.**
-– We are visiting your land.
+### Tense
 
-Note: Normally **is** can be used instead of **is bi**.
+Tense is a property that expresses time reference.
+The main tenses are the past, present, and future.
+The marker
+**did**
+indicates the past tense,
+**nun**
+indicates the present tense, and
+**vil**
+indicates the future tense.
+More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
-**Sara is mi's frende.**
-– Sarah is my friend.  
-**wi is in London.**
-– We are in London.
+**man** ***did*** **yam ban.**
+– The man *ate* (or *did eat*) bread.  
+**man** ***nun*** **yam ban.**
+– The man *eats* bread (now).  
+**man** ***vil*** **yam ban.**
+– The man *will eat* bread.
 
+It is also possible to express the future in the past
+with a combination of two tense markers.
 
-### Experiential aspect
-
-The experiential aspect describes a completed past situation that is not linked to a later time.
-It is marked with **was** before the verb.
-
-**mi's mama was vizite da Kanada tri ves.**
-– My mother visited Canada three times (but she won't go there anymore).  
-**mi was luze mi's chabi laste dei**
-– I lost my keys yesterday (but I found them).  
-**Juli was bi mi's frende fo ten yer.**
-– Julie was my friend for ten years. (She's not anymore my friend.)
-
-
-### Resultative aspect
-
-The resultative aspect describes a completed past situation whose consequences are relevant to the time under discussion.
-It is marked with **haf** before the verb.
-
-**mi haf nou Juli fo ten yer.**
-– I have known Julie for ten years. (I still know her.)  
-**he haf safare do Kanada.**
-– He has traveled to Canada. (And he still is there.)  
-**mi haf luze mi's chabi!**
-– I have lost my keys! (They are still missing.)  
-**Juli haf bi mi's frende fo ten yer.**
-– Julie has been my friend for ten years. (And she still is.)
+**man** ***did vil*** **yam ban.**
+– The man *was going to* eat bread.
 
 
-### Future aspect
+### Aspect
 
-The future aspect describes that the situation will probably take place after the time under consideration.
-It is marked with **wil** before the verb.
+Aspect expresses how an action or event extends over time.
+There are two aspect markers in Panglo,
+**bi** and **hav**.
 
-**wi wil toke da Panglo.**
-– We will speak Panglo.  
-**mi wil bi yu's frende.**
-– I will be your friend.
+The marker
+**bi**
+indicates that the action or event is *on-going* or *in progress*
+at the time, which the speaker is talking about.
+The time can be indicated with a tense marker.
 
-## To be
+**man** ***bi*** **yam ban.**
+– The man *is*, *was* or *will be* eating bread.  
+**man** ***did bi*** **yam ban.**
+– The man was eating bread.  
+**man** ***nun bi*** **yam ban.**
+– The man is eating bread.  
+**man** ***vil bi*** **yam ban.**
+– The man will be eating bread.
 
-The verb **bi** (to be) is used for indicating
-identity or sameness (ex. "She _is_ Maria"),
-membership of a class (ex. "The cat _is_ an animal"),
-and properties (ex. "The sky _is_ blue").
+The marker
+**hav**
+indicates that the action or event is completed
+and its results still has an effect at the time, which the speaker is talking about.
+The time can be indicated with a tense markers.
 
-In Panglo, **bi** is a normal, unchanging verb.
-The aspect markers can be used together with **bi**.
-
-**mi is bi hapi.**
-– I am happy. / I am being happy.  
-**mi haf bi hapi.**
-– I have been happy.  
-**mi was bi hapi.**
-– I was happy.  
-**mi wil bi hapi.**
-– I will be happy.
-
-It is common to leave **bi** out in the progressive and experiential aspects.
-So **is** is normally used instead of **is bi**
-and **was** instead of **was bi**.
-
-**mi is hapi.**
-– I am happy.  
-**mi was hapi.**
-– I was happy.  
-
-The form of **bi** doesn't change in persons.
-Only one form is used in all persons.
-
-**mi is (bi) hapi.**
-– I am happy.  
-**wi is (bi) hapi.**
-– We are happy.  
-**tu is (bi) hapi.**
-– You are happy. (singular)  
-**yu is (bi) hapi.**
-– You are happy. (plural)  
-**he is (bi) hapi.**
-– He or she is happy.  
-**de is (bi) hapi.**
-– They are happy.
+**man** ***hav*** **yam ban.**
+– The man *had*, *has* or *will have* eaten bread.  
+**man** ***did hav*** **yam ban.**
+– The man had eaten bread.  
+**man** ***nun hav*** **yam ban.**
+– The man has eaten bread.  
+**man** ***vil hav*** **yam ban.**
+– The man will have eaten bread.
 
 
-## Infinitive
+### Mood
 
-An infinitive verb is a verb that can function as a noun.
-The helping verb **du** marks the following verb as an infinitive.
+The conditional mood is used for anything that could take place.
+It indicates that the realization of an action or event depends on another condition.
+The conditional mood is expressed with the auxiliary verb
+**vud**
+('would').
+This marker is used in both main and subordinate clauses.
 
-**du bi**
-– to be  
-**du now**
-– to know  
-**du love**
-– to love
+**mi** ***vud*** **van yam.**
+– I *would* like to eat.  
+**mi** ***vud*** **go to Dubai.**
+– I *would* go to Dubai.  
+**mi** ***vud*** **go, if tu vud las mi.**
+– I *would* go if you would let me.  
+**tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
+– You would not be happy, if I would go.
 
-![](http://www.kupsala.net/Panglo/grafe/du_bi_or_no_du_bi.png)  
-[Designed by Freepik](http://www.freepik.com)
+The auxiliary verb
+**shud**
+('should, ought') indicates some kind of expectation like duty, obligation, requirement, desire, advisability or likelihood.
 
-An infinitive verb can function as a subject or object.
+**ma voka vi. vi shud go.**
+– Mother called us. We should go.  
+**hi shud hav kom pre nun.**
+– He should have come by now.  
+**evri von shud vote.**
+– Everyone should vote.
 
-**mi love du yam.**
-– I love to eat.  
-**du yam is gude.**
-– To eat is good.  
-**du yam is du joy.**
-– To eat is to enjoy.
+The imperative mood is used to form a command or request.
+In Panglo, the imperative is created with the auxiliary verb
+**shal**.
+It can be used to give commands to any person, not just "you".
 
-An infinitive verb can take a noun complement.
+**vi shal go!**
+– Let us go! ~ Let's go!  
+**de shal kurse!**
+– Let them run!
 
-**du yam un apel**
-– to eat an apple  
-**du love da live**
-– to love the life  
-**is gude du love da live.**
-– It is good to love the life.
+**shal**
+can be used to give commands also to the second person,
+but it is common to drop both the personal pronoun and the auxiliary verb
+in order to give the command more force.
 
-The infinitive marker is not used with helping verbs.
+**tu shal kom!** = **kom!**
+– Come!  
+**yu shal kom!** = **kom!**
+– Come (you all)!
 
-**mi wan gow.**
-– I want to go.  
-**mi kan gow.**
-– I can go.  
-**wi mus gow.**
-– We have to go. / We must go.  
-**yu mey gow.**
-– You may go.
+### Passive clause
 
-Sometimes there are alternatives for using the infinitive.
-For example, adjectives that involve a verb can be formed with a plain verb or with an infinitive verb.
+The passive clause expresses that the subject undergoes the action or has its state changed.
+In other words, the subject has a passive role.
+This contrasts with the active clause where the subject is the agent or the doer of the action.
+In Panglo, the passive clause is constructed with the help of the auxiliary verb
+**ben**.
 
-**un pley izi gitare**
-– an easy playing guitar  
-**un izi du pley gitare**
-– an easy to play guitar
+Active:
+**de yam piza.**
+– They eat pizza.  
+Passive:
+**piza ben yam.**
+– Pizza is eaten.
+
+The agent of the action can be expressed also in passive clauses by using the preposition
+**be**.
+
+**mi's kar did ben bate be tren.**
+– My car was hit by a train.
 
 
-## Verbs in series
+### Summary of verb forms
 
-There can be two, three or even more verbs in a series,
-and all of them are about the same subject.
+#### Active
 
-**mi yam un pay.**
-– I eat a pay.  
-**mi gow yam un pay.**
-– I go to eat a pie.  
-**mi kan gow yam un pay.**
-– I can go to eat a pie.  
-**mi wan kan gow yam un pay.**
-– I want to can go to eat a pie.
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>hi did yam</em></strong><br/>
+            'he ate ~ did eat'
+        </td>
+        <td>
+            <strong><em>hi yam</em></strong><br/>
+            'he eats'
+        </td>
+        <td>
+            <strong><em>hi vil yam</em></strong><br/>
+            'he will eat'
+        </td>
+        <td>
+            <strong><em>hi vud yam</em></strong><br/>
+            'he would eat'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>hi did hav yam</em></strong><br/>
+            'he had eaten'
+        </td>
+        <td>
+            <strong><em>hi hav yam</em></strong><br/>
+            'he has eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav yam</em></strong><br/>
+            'he will have eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav yam</em></strong><br/>
+            'he would have eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>hi did bi yam</em></strong><br/>
+            'he was eating'
+        </td>
+        <td>
+            <strong><em>hi bi yam</em></strong><br/>
+            'he is eating'
+        </td>
+        <td>
+            <strong><em>hi vil bi yam</em></strong><br/>
+            'he will be eating'
+        </td>
+        <td>
+            <strong><em>hi vud bi yam</em></strong><br/>
+            'he would be eating'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>hi did hav bi yam</em></strong><br/>
+            'he had been eating'
+        </td>
+        <td>
+            <strong><em>hi hav bi yam</em></strong><br/>
+            'he has been eating'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi yam</em></strong><br/>
+            'he will have been eating'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi yam</em></strong><br/>
+            'he would have been eating'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>yam!</em></strong><br/>
+            'Eat!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+Note!
+In the above table, **hi** is translated only 'he' instead of the usual 'he or she' in order to save space.
+
+#### Passive
+
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>hi did ben yam</em></strong><br/>
+            'it was eaten'
+        </td>
+        <td>
+            <strong><em>hi ben yam</em></strong><br/>
+            'it is eaten'
+        </td>
+        <td>
+            <strong><em>hi vil ben yam</em></strong><br/>
+            'it will be eaten'
+        </td>
+        <td>
+            <strong><em>hi vud ben yam</em></strong><br/>
+            'it would be eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>hi did hav ben yam</em></strong><br/>
+            'it had been eaten'
+        </td>
+        <td>
+            <strong><em>hi hav ben yam</em></strong><br/>
+            'it has been eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav ben yam</em></strong><br/>
+            'I will have been eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav ben yam</em></strong><br/>
+            'it would have been eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>hi did bi ben yam</em></strong><br/>
+            'it was being eaten'
+        </td>
+        <td>
+            <strong><em>hi bi ben yam</em></strong><br/>
+            'it is being eaten'
+        </td>
+        <td>
+            <strong><em>hi vil bi ben yam</em></strong><br/>
+            'it will be being eaten'
+        </td>
+        <td>
+            <strong><em>hi vud bi ben yam</em></strong><br/>
+            'it would be being eaten'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>hi did hav bi ben yam</em></strong><br/>
+            'it had been being eaten'
+        </td>
+        <td>
+            <strong><em>hi hav bi ben yam</em></strong><br/>
+            'it has been being eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi ben yam</em></strong><br/>
+            'it will have be being eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi ben yam</em></strong><br/>
+            'it would have been being eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>ben yam!</em></strong><br/>
+            'Be eaten!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
+## Transitivity
+
+In general, there are three types of verbs.
+
+1. Transitive verbs need a direct object, which is the target of the action.
+2. Intransitive verbs don't accept an object. Then the action is directed to the subject.
+3. Ambitransitive verbs can be both transitive and intransitive.
+
+Panglo verbs are typically ambitransitive
+i.e. they may or may not require an object depending on the sentence structure.
+When there is an object, the verb is transtive,
+and when there isn't an object, the verb is intransitive.
+
+**mi bule sui.**
+– I boil water. (transitive sentence)  
+**sui bule.**
+– Water boils. (intransitive sentence)  
+**baker bake ban.**
+– The baker bakes bread. (transitive sentence)  
+**ban bake in tanur.**
+– Bread bakes in the oven. (intransitive sentence)
+
+
+## Serial verb construction
+
+Serial verb construction is a string of verbs that share the same subject,
+which is before the verbs.
+In serial verb constructions the verbs are interpreted so that
+the first verb (an auxiliary verb) is something that the subject possesses
+and the second verb is something that the subject does (when there is an object in the end)
+or experiences (when there is no object).
+
+**mi kan kitab da javab.**  
+≈ *I have the ability to write the answer.*  
+– I can write the answer.  
+**mi halal kitab da javab.**  
+≈ *I have the permission to write the answer.*  
+– I may write the answer.  
+**mi mus kitab da javab.**  
+≈ *I have the compulsion to write the answer.*  
+– I must write the answer.
+
+Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
+
+**guru halal mi kitab da javab.**
+– The teacher permits me to write the answer.  
+**guru mus mi kitab da javab.**
+– The teacher compels me to write the answer.
 

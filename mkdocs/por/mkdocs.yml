@@ -1,0 +1,32 @@
+site_name: língua Panglo
+site_url: https://www.kupsala.net/panglo/por
+repo_url: https://github.com/barumau/PanGlobish/
+docs_dir: ../../por
+site_dir: ../../html/por
+use_directory_urls: false
+theme:
+  name: material
+  language: pt
+  logo: logo.png
+  favicon: favicon.png
+extra_css:
+  - stile.css
+nav:
+    - 'Ortografía': G-ABC.md
+    - 'Pronomes': G-PRO.md
+    - 'Frases básicas': B03_baze_jumla.md
+    - 'Números': G-NUM.md
+    - 'Dicionarios':
+        - 'Panglo-Português': panglo-por.md
+        - 'Português-Panglo': por-panglo.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/panglobish/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/panglobish
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+1AzKvH6RjZhmZmIy
+markdown_extensions:
+  - toc:
+      toc_depth: 2

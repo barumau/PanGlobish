@@ -1,10 +1,19 @@
-# HALO DUNIA!  
+---
+hide:
+  - footer
+  - toc
+---
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png)  
-[Designed by Freepik](http://www.freepik.com)
+# Panglo
 
-Hello world!
-Welcome to learn about Panglo, the helping language for international business and friendship.
+**halo, dunia!**
+– Hello, world!
+
+Welcome to learn about Panglo,
+the helping language for international interaction and friendship.
+
+![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Panglo?
 
@@ -17,36 +26,39 @@ and the rest come from other important languages,
 including French, Spanish, Japanese, Chinese, Russian, Arabic, Hindi and Swahili.
 
 Panglo is compatible with English on a basic level.
-It's like a simplified version of English that is spoken with a foreign accent.
 So you can use Panglo already now everywhere in the world where English is understood
 to get a hotel room, to order a taxi, to buy souvenirs and to do many other things.
 
 Panglo is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
-There aren't any exceptions or complex grammatical rules in Panglo.
-Panglo is so simple that its basic grammar can be described in [only ten rules](100_baze_regule.md).
+There aren't any grammatical exceptions or complex rules in Panglo.
+Panglo is so simple that its basic grammar can be described in [only ten rules](B01_baze_kanun.md).
 Everybody can learn Panglo to a good level in a short period of time!
-Panglo is an excellent choice for the global second language because it improves the quality of international communication.
+Panglo would be an excellent choice for the global second language
+because it can improve the quality of international communication.
 It's better to speak good Panglo than bad English.
 
-The Panglo grammar is [here in one web page](pan.md) and [here in one PDF file](pan.pdf).
 
-## The Basics of Panglo
+## Learn it now!
 
-Panglo is written in the English/Latin alphabet:  
-A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
+Panglo is written in the Latin (and English!) alphabet:  
+A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
 Only one letter is pronounced different than what is normal in English:
-**C** = ts as in _cats_.
+**c** = ts as in _cats_.
+However, this letter is used rarely alone.
+It is normally part of the digraph **ch**, which is pronounced as in the English word *church*.
 
-All the vowels are pure vowels.
-The letter **E** is pronounced as the central vowel /ə/ in unaccented syllables.
+All vowels are pure vowels.
+They are pronounced as in
+<i><u>a</u>re th<u>e</u>re thr<u>ee</u> <u>o</u>r tw<u>o</u></i>.
 
 The spelling of Panglo is nearly phonetic.
 One sound = one letter.
 
-The stressed syllable is the first one in short words and the second one in longer words.  
-**méni pérson kán tóke da Énglish in Amérika.**
+The stress is on that syllable that is before the last consonant of the root word.
+Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
+**méni hóm kán básh Englísh in Amérika.**
 – Many people can speak English in America.
 
 Words stay always the same in Panglo.
@@ -57,74 +69,78 @@ so the doer comes first, then the action word and finally the object of the acti
 **mi love yu.**
 – I love you.
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**yu love mi, wa?**
-– You love me, eh? (i.e. Do you love me?)
+**yu love hu?**
+– Who do you love?  
+**yu love mi, he?**
+– Do you love me? (i.e. Do you love, eh?)
 
-Singular and plurals are indicated with number words.
+Singular and plural are indicated with number words.
 
-- **un buke**
-  – (one) book;
-- **due buke**
-  – two books;
-- **tri buke**
-  – three books;
-- **meni buke**
-  – many books
+**buk**
+– one or more books  
+**un buk**
+– (one) book  
+**du buk**
+– two books  
+**tri buk**
+– three books  
+**meni buk**
+– many books
 
 Comparison is done with helping words:
 **mor**
 – more;
 **les**
 – less;
-**dan**
+**az**
 – than; and
-**as**
-– as, equally.
+**sim**
+– as, same, equally.
 
-**mi is mor gude dan yu.**
+**mi es mor gud az yu.**
 – I am better (_more good_) than you.  
-**no, mi is as gude as yu.**
-– No, I am as good as you.  
-**he toke mor faste dan yu.**
+**no, tu es sim gud az mi.**
+– No, you are as good as me.  
+**hi bi tok mor rapid az yu.**
 – He or she talks faster (_more fast_) than you.
 
-Time is expressed with helping verbs:
-**was**
-– past events;
-**haf**
-– past events that are still relevant;
-**is**
-– currently ongoing events; and
-**wil**
-– future events.
+Time is expressed with auxiliary verbs:
+**did**
+– past events  
+**vil**
+– future events  
+**hav**
+– past events that are still relevant  
+**bi**
+– ongoing events
 
-**de was ride mi's buke.**
+**de did lese mi's buk.**
 – They read my book.  
-**wi haf ride meni buke.**
+**vi hav lese meni buk.**
 – We have read many books.  
-**mi is ride un buke.**
+**mi bi lese un buk.**
 – I am reading one book.  
-**yu wil toke Panglo.**
+**yu vil tok Panglo.**
 – You will talk Panglo.
 
-A sentence-final particle expresses why the sentence is said,
+Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**yu love da kafe, wa?**
+**yu love kafe, he?**
 – You love coffee, eh? (question)  
-**yu love da kafe, ye.**
+**yu love kafe, ye.**
 – You love coffee, indeed. (statement)  
-**yu love da kafe, or...**
-– You love coffee, or... (need for answers)
+**yu love kafe, ne?**
+– You love coffee, or... (need for response)
 
 
 ## Use it!
 
-As you can see, it's easy to learn the basics of Panglo,
-and it's even easier for you because you speak English!
+As you can see, it's easy for everyone to learn the basics of Panglo,
+and it's even easier for those who speak some English!
 It's also easy to start using the language immediately.
 So don't wait!
 Use it with your friends in everyday life or try it with strangers when you are traveling.

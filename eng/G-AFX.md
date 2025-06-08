@@ -1,214 +1,427 @@
 # Word Derivation
 
-Forming a new word from an existing word is called word derivation.
-Often a new word is formed by adding a prefix or suffix, such as _un-_ or _-ness_.
-For example, _unhappy_ and _happiness_ derive from the root word _happy_.
+Making new words from existing words is called word derivation.
+Often a new word is made by adding a prefix or suffix, such as _un-_ and _-ness_ in English.
+For example, _un-happy_ and _happi-ness_ are derived from the root word _happy_.
+
+New words can be built freely in Panglo!
+Panglo has a word derivation system that is regular and productive.
 
 ## Zero Derivation
 
 Zero derivation means conversion of a word of a certain word class to a different word class without any change in form.
-In Panglo, this is very common.
-In fact, most words don't belong to any fixed word classes.
+This is very common in Panglo,
+where most words don't belong to any fixed word classes.
 Instead, the word class is determined by the word's place in the sentence.
 
-For example, the word **blanke** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
+For example, the word
+**hali**
+can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**yu have som blanke papir, no?**
+**tu hav hali papir, he?**
 – Do you have some blank paper?  
-**give mi un blanke!**
+**don mi un hali!**
 – Give me a blank!  
-**yu mus blanke da texte.**
-– You must blank out the text.
+**tu mus hali da lexe.**
+– You must blank out that word.
 
-Likewise, the word **skribe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+Likewise, the word
+**kitab**
+can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi skribe un letre.**
+**mi kitab letre.**
 – I write a letter.  
-**un letre is un skribe misaje.**
+**letre es kitab misaje.**
 – A letter is a written message.  
-**mi love yu's skribe.**
+**mi love yu's kitab.**
 – I love your writings.
 
 
 ## Compound Words
 
-Words can be combined freely in Panglo to express new concepts.
-The last element in the combination is the main one in determining the meaning,
-while the preceding element only modifies the meaning.
+A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
+The last word is the most meaningful part in the compound
+and the preceding words only modify its meaning.
+New compound words can be created freely and easily in Panglo.
+There are two types of compound words in Panglo, open compounds and closed compounds.
 
-For example, **skribe meza** means a type of table, 'a writing table'.
-Similarly,
-**kristal klare**
-'crystal-clear',
-**love lete**
-'love letter',
-**kafe kupe**
-'coffeecup'.
+An open compound is simply a series of base words put next to each other.
+They are written separately and there is a space between each pair of words.
+For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
 
-Compound words may be written together or separately.
-Especially established compound words are usually written together.
-For example, the word for _democracy_ is more commonly **demekratie** than **deme kratie**.
+Closed compounds are written together and there is no space between the words.
+For example, **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
+Typically closed compounds include affixes.
+Affixes are word-like units that have special properties.
+Some of them are not stand-alone words,
+they can only appear as part of another word.
+
+Panglo's system of word derivation is designed to produce compound words
+that look and/or sound so close to international words that they are easy to recognize.
+They are not meant to be identical with words in English or in any other language,
+because international words tend to be written and pronounced in more or less different ways from language to language, anyway.
+In fact, many compound words are built in a different way in Panglo than in European languages,
+though the results usually look mostly similar.
 
 
-## Affixation
+## Affixes
 
-Prefixes and suffixes are very important and give great flexibility to the language.
-The most useful ones are listed here.
-A few of these are in fact ordinary words which are also used on their own,
-but most are true prefixes or suffixes and can be used only as such, not as separate words.
+Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
+They are joined together with the base word.
+
+Panglo has adopted international prefixes,
+including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
+in order to re-create many international words as native Panglo words.
+
+             a-      'to, toward'
+       +    ses      'go, pass'
+    ____________
+    =      ases      'get past to, access'
+
+           pro-      'forward, to the front'
+       +    ses      'go, pass'
+    ____________
+    =    proses      'pass forward, process'
+
+            re-      'back to'
+       +    ses      'go, pass'
+    ____________
+    =     reses      'pass back, recede'
+
+            de-      'away, off'
+       +    ses      'go, pass'
+    ____________
+    =     deses      'pass away, die'
+
+            su-      'good, well'
+       +    ses      'go, pass'
+    ____________
+    =     suses      'go well, succeed'
+
+Note that these international prefixes are used only in compound words that really mean the sum their parts.
+Fossilized words whose meanings are no longer the sum of their parts,
+like *evolution* (originally 'rolling out'),
+are not compound words in Panglo.
+
+Many suffixes have two forms, one that begins with a vowel and one that begins with a consonant.
+The vowel-initial form is used when the base word ends in a consonant or in the vowel **-e**,
+which disappears before the suffix.
+Below we add the vowel-initial suffix **-ik** to a base word that ends in a consonant.
+
+             fiz       'body'
+       +     -ik       'adjectival suffix'
+    _____________
+    =      fizik       'bodily, physical'
+
+The consonant-intial form is used when the base word ends in any other vowel except **-e**.
+Below we add the consonant-initial suffix **-tik** to a base word that ends in another vowel.
+
+            tema       'theme, topic'
+       +    -tik       'adjectival suffix'
+    _____________
+    =    tematik       'thematic, topical'
+
+The vowel-initial suffix
+**-ik**
+and the consonant-initial suffix
+**-tik**
+are alternative forms of one and the same underlying suffix,
+**(t)ik**,
+which has an optional initial sound.
+The surface form of the suffix depends on the properties of the base word.
+
+Another suffix with two forms is **(o)krat**.
+Its vowel-initial form is **-okrat**
+and its consonant initial form is **-krat**.
+So this time the optional sound is a vowel (and not a consonant as in **(t)ik**).
+
+Below we add this suffix to a base word that ends in **-e**.
+
+             dem      'people, public'
+      +  (o)krat      'rule, govern'
+      +      -ia      'collective noun suffix'
+    ______________
+    =  demokratia     'democracy, rule by the public'
+
+Next we add the suffix to a base word that ends in another vowel.
+
+           media      'the media'
+      +  (o)krat      'rule, govern'
+      +      -ia      'collective noun suffix'
+    ______________
+    = mediakratia     'mediacracy, rule by the media'
+
 
 ### Prefixes
 
+#### a- ~ ad-
+
+The prefix
 **a-**
-'to oneself' :  
-**cepe**
+means that the action brings the agent and the object together.
+
+**sepe**
 'take, catch'
-→ **acepe**
+→ **asepe**
 'take to oneself, accept'  
-**lige**
+**liga**
 'tie'
-→ **alige**
+→ **aliga**
 'tie to oneself, ally'
 
-**an-**
-'opposite, un-, in-' :  
-**hapi**
-'happy'
-→ **anhapi**
-'unhappy'  
-**juste**
-'just, fair'
-→ **anjuste**
-'injust, unfair'  
-**human**
-'human'
-→ **anhuman**
-'inhuman'
+#### de- ~ dez-
 
+The prefix
 **de-**
-'away, off' :  
-**cepe**
+means that the action is directed away from or off something.
+
+**sep**
 'take, catch'
-→ **decepe**
+→ **desep**
 'take away, remove'  
-**duce**
+**dute**
 'lead, conduct'
-→ **deduce**
+→ **dedute**
 'lead away, deduce'  
 **parte**
 'part, chip'
 → **departe**
-'part away, chip off'
-
-**di-**
-'do the opposite of' :  
-**strute**
-'structure'
-→ **distrute**
-'destruct'  
+'part away, chip off'  
 **kode**
-'code, encode'
-→ **dikode**
-'decode, decipher'  
-**kovre**
-'cover'
-→ **dikovre**
-'discover'  
-**krese**
-'grow'
-→ **dikrese**
-'ungrow, decrease'
+'code'
+→ **dekode**
+'decode, remove coding'  
+**tap**
+'plug, cap, stopper'
+→ **detap**
+'unplug, remove the plug, cap or stopper'  
+**information**
+'information'
+→ **dezinformation**
+'disinformation, information that is meant to lead away from the truth'
 
-**ex**
-'out' :  
-**cepe**
-'take, catch'
-→ **excepe**
-'take out, except'  
+
+#### dis-
+
+The prefix
+**dis-**
+means that the action is directed apart or in many directions.
+
+**trat**
+'draw'
+→ **distrat**
+'draw apart, distract'  
+**turbe**
+'whirl, spin'
+→ **disturbe**
+'disturb'
+
+#### dus-
+
+The prefix **dus-** adds a quality of badness to the base word.
+
+**funte**
+'function'
+→ **dusfunte**
+'malfunction, dysfunction'  
+**rup**
+'appearance, looks'
+→ **dusrupik**
+'bad-looking, ugly'  
+**forma**
+'form'
+→ **dusforma**
+'malform'
+
+
+#### en- ~ em-
+
+The prefix
+**en-**
+indicates position in something, when it is prefixed to words with a static meaning.
+There are two forms of this prefix.
+The form **em-** is used when the following word begins with a *b*, *p* or *m*,
+and the form **en-** is used in all other cases.
+
+**demik**
+'populational'
+→ **endemik**
+'endemic, occuring in a population'  
+**tene**
+'keep, hold'
+→ **entene**
+'keep in, hold in, inhold'
+
+It indicates motion or transformation into something when it is prefixed to words with an active meaning.
+
 **jete**
 'thrust'
-→ **exjete**
-'thrust out, eject'
-
-**in-**
-'in, into, in-, en-' :  
-**jete**
-'thrust'
-→ **injete**
+→ **enjete**
 'thrust in, inject'  
 **kluze**
 'close, shut'
-→ **inkluze**
-'close in, enclose, include'
+→ **enkluze**
+'close in, enclose, include'  
+**kode**
+'code'
+→ **enkode**
+'encode'  
+**amur**
+'love'
+→ **enamur**
+'fall in love, enamor'  
+**porta**
+'transfer, bring'
+→ **emporta**
+'bring in, import'  
+**sirke**
+'circle'
+→ **ensirke**
+'encircle, surround'
 
-**kon-**
-'together' :  
-**strute**
-'structure'
-→ **konstrute**
-'construct, put together'  
-**werke**
-'work'
-→ **konwerke**
-'work together, collaborate'
 
-**mes-**
-'wrong, badly' :  
-**uze**
-'use'
-→ **mesuze**
-'misuse'
+#### ex- ~ exo-
 
-**non-**
-'absence of, non-' :  
-**dewiste**
+The prefix
+**ex-**
+means that the action is directed outside from something.
+
+**sep**
+'take, catch'
+→ **exsep**
+'take out, except'  
+**jet**
+'thrust'
+→ **exjet**
+'thrust out, eject'
+
+#### in- ~ im-
+
+The prefix
+**in-**
+reverses the meaning of the adjective or noun to which it is prefixed.
+There are two forms of this prefix.
+The form **im-** is used when the following word begins with a *b*, *p* or *m*,
+and the form **in-** is used in all other cases.
+
+**abilita**
+'ability'
+→ **inabilita**
+'inability'  
+**kredebil**
+'credible, believable'
+→ **inkredebil**
+'incredible, unbelievable'  
+**populik**
+'popular'
+→ **impopulik**
+'unpopular'  
+**perfat**
+'perfect'
+→ **imperfat**
+'imperfect'  
+**deiste**
 'theist'
-→ **nondewiste**
+→ **indeiste**
 'atheist'  
-**sence**
-'sense'
-→ **nonsence**
-'nonsense'  
-**tabakiste**
-'smoker'
-→ **nontabakiste**
-'non-smoker'  
+**alkolik**
+'alcoholic'
+→ **inalkolik**
+'unalcoholic'  
+**homanik**
+'humane'
+→ **inhomanik**
+'unhumane'  
+**uzebil**
+'usable'
+→ **inuzebil**
+'unusable'
 
-**pos**
-'after' :  
-**gere**
-'war'
-→ **posgeral**
-'post-war'  
-**poze**
+#### kon- ~ kom- ~ ko-
+
+The prefixes **kon-** and **kom-** mean 'together'.
+There are three forms of this prefix.
+The form **kom-** is used when the following word begins with a *b*, *p* or *m*,
+the form **ko-** is used when the following word begins with an *n*, *r* or *l*,
+and the form **kon-** is used in all other cases.
+
+**ten**
+'hold, keep'
+→ **konten**
+'keep together'  
+**stru**
+'build, structure'
+→ **konstru**
+'construct, put together'  
+**patia**
+'suffering'
+→ **kompatia**
+'suffering together, compassion'
+
+#### per-
+
+The prefix
+**per-**
+means that something is done completely, entirely or all the way through.
+
+**fat**
+'done'
+→ **perfat**
+'perfect, completely done'  
+**uza**
+'use'
+→ **peruza**
+'use up'
+
+#### pos-
+
+The prefix **pos-** means that something is after in time or order.
+
+**pozi**
 'put, pose'
-→ **pospoze**
-'put after, postpone'
+→ **pospozi**
+'put after, postpone'  
+**prodution**
+'production'
+→ **posprodution**
+'post-production'
 
+#### pre-
+
+The prefix
 **pre-**
-'before' :  
-**dite**
-'tell'  
-→ **predite**
+means that something is before in time or order.
+
+**pozi**
+'put, pose'
+→ **prepozi**
+'put before, prepend'  
+**dit**
+'tell'
+→ **predit**
 'foretell, predict'  
-**vide**
+**viz**
 'see'
-→ **previde**
+→ **previz**
 'foresee, preview'
 
-**pro-**
-'onward, forth' :  
-**poze**
+#### pro-
+
+The prefix **pro-** means that something is moved onward or into the open.
+
+**pozi**
 'put, pose'
-→ **propoze**
+→ **propozi**
 'put forward, propose'  
-**voke**
+**voka**
 'call, summon'
-→ **provoke**
+→ **provoka**
 'call forth, provoke'
 
-**re-**
-'back' :  
+#### re-
+
+The prefix **re-** means that something is done back or in the opposite direction than originally.
+
 **ate**
 'to act'
 → **reate**
@@ -218,408 +431,793 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 → **returne**
 'to turn back'
 
-**ri-**
-'again, repeatedly' :  
-**du**
-'to do'
-→ **ridu**
-'redo, do again'  
-**forme**
-'to form'
-→ **riforme**
-'to reform'
+#### ri-
+
+The prefix **ri-** means repetition or doing again.
+
+**forma**
+'form'
+→ **riforma**
+'form again, reform'  
+**nat**
+'be born'
+→ **rinat**
+'be born again'  
+**pley**
+'play'
+→ **ripley**
+'play again, replay'
+
+#### sin- ~ sim-
+
+The prefixes **sin-** and **sim-** mean '(for, to or at) the same'.
+There are two forms of this prefix.
+The form **sim-** is used when the following word begins with a *b*, *p* or *m*,
+and the form **sin-** is used in all other cases.
+
+**kronik**
+'timely, temporal, chronic'
+→ **sinkronik**
+'synchronic, happening at the same time'  
+**metria**
+'measurement'
+→ **simmetria**
+'symmetry, equal measurements'  
+**patia**
+'suffering'
+→ **simpatia**
+'feeling ~ suffering the same, sympathy'  
+**mixe**
+'mix'
+→ **simmixe**
+'mix together, blend'
+
+#### su-
+
+The prefix **su-** adds the quality of goodness into the base word.
+
+**ses**
+'pass, go by'
+→ **suses**
+'go well, succeed'  
+**rup**
+'appearance, looks'
+→ **surupik**
+'good-looking'
 
 
 ### Suffixes
 
-**-ade**
-'object of' :  
-**favore**
-'to favor'
-→ **favorade**
-'favored, favorite'  
-**tere**
-'to scare or frighten'
-→ **terade**
-'scared, frightened'
+#### -aje
 
+The suffix
 **-aje**
-'thing made of' :  
-**mise**
+means something that is made of or something that consists of the thing indicated by the base word.
+
+**bag**
+'bag'
+→ **bagaje**
+'baggage, luggage'  
+**kor**
+'core'
+**koraje**
+'guts, the things in the core'  
+**mis**
 'send'
 → **misaje**
 'something sent, message'  
-**face**
+**fas**
 'face'
-→ **facaje**
+→ **fasaje**
 'facade, frontage'  
 **limon**
 'lemon'
 → **limonaje**
 'lemonade'
 
-**-al**
-'relating to, concerning' :  
-**nacie**
-'nation'
-→ **nacial**
-'national'  
-**socie**
-'society'
-→ **social**
-'social'  
-**universe**
-'universe'
-→ **universal**
-'universal'
+#### -al ~ -ial
 
+The suffix
+**-al**
+means that something belongs to or is related to the thing or person indicated by the base word.
+
+**fin**
+'end'
+→ **final**
+'final, belonging to the end'  
+**karne**
+'flesh'
+→ **karnal**
+'fleshly, related to flesh'
+
+When **-al** is suffixed to a base word that ends in **-ia**, the endings merge together into **-ial**.
+
+**dunia**
+'world'
+→ **dunial**
+'worldly'  
+**imperia**
+'empire'
+→ **imperial**
+'imperial'  
+**nasia**
+'nation'
+→ **nasial**
+'national'  
+**sosia**
+'society'
+→ **sosial**
+'societal, social'
+**uneversia**
+'universe, everything'  
+→ **uneversial**
+'universal, something that concerns everything and everyone'
+
+#### -an ~ ian
+
+The suffix
 **-an**
-'one who belongs to, one who has membership in the country, city or group' :  
+denotes someone that is a member of a community, such as a country, city or a club.
+When this suffix is added to a base word that ends in
+**-ia**,
+they merge together into
+**-ian**.
+
 **Amerika**
 'America'
-→ **Amerikan**
+→ **amerikan**
 'American'  
 **Italia**
 'Italy'
-→ **Italian**
+→ **italian**
 'Italian'  
 **Rusia**
 'Russia'
-→ **Rusian**
+→ **rusian**
 'Russian'  
 **Paris**
 'the city of Paris'
-→ **Parisan**
+→ **parisan**
 'Parisian'  
-**Kristia**
+**kristia**
 'Christendom'
 → **kristian**
-'Christian'  
-**hume**
-'earth, soil'
-→ **human**
-'earthling' and, _by extension_, 'human being'
+'Christian'
 
-**-ar**
-'group or series of' :  
-**kolun**
-'column'
-→ **kolunar**
-'colonnade'
+#### -bil
 
-**-ate**
-'act in the specified manner' :  
-**rote**
-'wheel'
-→ **rotate**
-'to rotate, to turn like a wheel'  
-**formule**
-'formula'
-→ **formulate**
-'to formulate'
+The suffix
+**-bil**
+means that something is possible or able to be done.
 
-**-ation**
-'action' :  
-**rote**
-'wheel'
-→ **rotation**
-'rotation'
+**vize**
+'see, view'
+→ **vizebil**
+'one that can be seen, visible'  
+**uza**
+'use'
+→ **uzabil**
+'one that can be used, usable'
 
-**-eme**
-'a distinct meaningful element' :  
-**fone**
+#### -em ~ -tem
+
+This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
+For example,
+**lexem**
+('lexeme') is the fundamental unit in the system of
+**lexe**
+'words'.
+For example, *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its fundamental form.
+So the other forms are identified as variations of the fundamental form.
+
+**fon**
 'speech sound'
-→ **foneme**
+→ **fonem**
 'phoneme, distinct speech sound'  
 **lexe**
 'word'
-→ **lexeme**
-'lexeme'
+→ **lexem**
+'lexeme, fundamental unit of a family of words'  
+**mit**
+'myth'
+→ **mitem**
+'mytheme, an archetypal story'
 
-**-er**
-'doer, agent, -er' :  
-**helpe**
-'help, assist'
-→ **helper**
-'helper, assistant'  
-**beke**
-'bake'
-→ **beker**
-'baker'
+#### -en ~ -n
 
-**-eria**
-'name of place for making, producing or selling' :  
-**beker**
-'baker'
-→ **bekeria**
+The active participle suffix
+**-(e)n**
+means 'one who does the action of the base word'.
+
+**es**
+'to be'
+→ **esen**
+'a being, one who is'  
+**log**
+'to talk'
+→ **logen**
+'a talking one, one who talks'
+
+This suffix has additional combining forms
+**-ent-**
+and
+**-nt-**
+which are used before other suffixes.
+
+**esen** + **-ia**
+→ **esentia**
+'being, essence'  
+**esen** + **-ik**
+→ **esentik**
+'essential'
+
+#### -er ~ -ter
+
+The suffix
+**-(t)er**
+means 'a person who is occupied with the action of the base word'.
+It implies often but not always a professional occupation.
+
+**ate**
+'to do, to act'
+→ **ater**
+'doer, actor, one who does or acts'  
+**bak**
+'to bake'
+→ **baker**
+'baker'  
+**lid**
+'to lead'
+→ **lider**
+'leader, the one who leads'  
+**filsof**
+'to think deeply'
+→ **filsofer**
+'philosopher'  
+**sapat**
+'shoe'
+→ **sapater**
+'shoemaker'  
+**musket**
+'musket'
+→ **musketer**
+'musketeer'  
+**kas**
+'box, cash box'
+→ **kaser**
+'cashier'
+
+#### -eria ~ -teria ~ ria
+
+This suffix is the combination of
+**-(t)er** + **-ia**.
+It means the place for making, producing or selling the thing that is indicated by the base word.
+
+**bak**
+'to bake'
+→ **bakeria**
 'bakery'  
-**perfume**
+**perfum**
 'perfume'
 → **perfumeria**
-'perfumery'
-
-**-erie**
-'profession or typical behaviour associated with the suffixed word'
-**injener**
+'perfumery'  
+**enjener**
 'engineer'
-→ **injenerie**
+→ **enjeneria**
 'engineering'
 
-**-ete**
-'diminutive, -ette, -let' :  
-**cigare**
-'cigar'
-→ **cigarete**
-'cigarette'
+In some rare cases this suffix is trimmed into
+**-ria**.
 
-**-ful**
-'full of, -ful' :  
-**helpe**
-'help'
-→ **helpeful**
-'helpful'
+**piza**
+'pizza'
+→ **pizaria**
+'pizzeria, pizza place'
 
-**-ia**
-'area, region, country' :  
-**Arabe**
-'Arab'
-→ **Arabia**
-'Arabia'  
-**Itale**
-'Italian'
-→ **Italia**
-'Italy'  
-**Rus**
-'Russian, Ruski'
-→ **Rusia**
-'Russia'
+#### -et ~ -t
 
-**-ie**
-'an abstract collective or an area or field of knowledge' :  
-**filsofe**
-'philosophy, world view'
-→ **filsofie**
-'philosophy as a discipline'  
-**kime**
-'chemical'
-→ **kimie**
-'chemistry'
+The passive participle suffix
+**-(e)t**
+expresses one who undergoes or has undergone the action of the root.
 
-**-ife**
-'to make, render, turn or transform into' :  
-**petre**
-'stone'
-→ **petrife**
-'petrify, to turn to stone'  
+**fa**
+'to make'
+→ **fat**
+'(that which is or has been) done'  
+**van**
+'to want'
+→ **vanet**
+'(that which is or has been) wanted'  
+**vize**
+'to view or see'
+→ **vizet**
+'(that which is or has been) viewed or seen'  
+**audi**
+'to hear'
+→ **audit**
+'(that which is or has been) heard'  
+
+#### -fa ~ -ifa
+
+The suffix
+**-(i)fa**
+means to make or turn into the thing that is indicated by the base word.
+
+**mei**
+'beautiful'
+→ **meifa**
+'make beautiful, beautify'  
+**komple**
+'complex'
+→ **komplifa**
+'make complex, complexify'  
+**long**
+'long'
+→ **longifa**
+'make long, lengthen'  
 **un**
 'one'
-→ **unife**
-'unify'  
-**klare**
+→ **unifa**
+'unite, unify'  
+**klar**
 'clear'
-→ **klarife**
-'clarify'
+→ **klarifa**
+'make clear, clarify'
 
-**-ike**
-'of the style or manner of, -ish, -esque' :  
-**baze**
+#### -filia ~ ofilia
+
+The suffix
+**-(o)filia**
+means 'extraordinary or abnormal liking of something'.
+
+**bash**
+'language'
+→ **bashofilia**
+'glossophilia, linguaphilia, the love of language'  
+**Rus**
+'Russia'
+→ **rusofilia**
+'Russophilia, strong liking of Russia or Russians'  
+**tekne**
+'technology'
+→ **teknofilia**
+'technophilia, the love of technology'
+
+#### -fobia ~ ofobia
+
+The suffix
+**-(o)fobia**
+means 'extraordinary or abnormal dislike of something'.
+
+**arane**
+'spider'
+→ **aranofobia**
+'arachnophobia, the fear of spiders'  
+**pan**
+'all-embracing'
+→ **panfobia**
+'panphobia, the fear of everything'  
+→ **rusofobia**
+**Rus**
+'Russia'
+→ **rusofobia**
+'Russophobia, strong dislike of Russia or Russians'
+
+#### -ia ~ -ya
+
+The suffix
+**-ia**
+has a variety of meanings,
+but fundamentally it means a collective of things or a community of people.
+
+**nes**
+'island'
+→ **nesia**
+'archipelago'  
+**lexe**
+'word'
+→ **lexia**
+'vocabulary'  
+**homan**
+'human being'
+→ **homania**
+'humanity, mankind, all the human beings as a group'  
+**kriste**
+'Christ'
+→ **kristia**
+'Christianity, all Christians as a group'
+
+This ending is often used in place names, especially in country names.
+However it is not always used,
+and there are also many country names that do not end in **-ia**.
+
+**arab**
+'Arab, Arabic'
+→ **Arabia**
+'Arabia'  
+**rus**
+'Russian, Ruski'
+→ **Rusia**
+'Russia'  
+**turke**
+'Turk, Turkish'
+→ **Turkia**
+'Turkey'  
+**ital**
+'Italic, Italian'
+→ **Italia**
+'Italy'  
+**Asia**
+'Asia'  
+**Indonesia**
+'Indonesia'
+
+The same suffix is sometimes used also in names of smaller establishments.
+
+**sushi**
+'sushi'
+→ **sushiya**
+'sushi place or restaurant'
+
+The suffix
+**-ia**
+is also used in names of scientific disciplines,
+where it can be understood as collection of scientific knowledge and practices.
+
+**kim**
+'chemical'
+→ **kimia**
+'chemistry'  
+**filsof**
+'view, outlook, life wisdom'
+→ **filsofia**
+'philosophy, the discipline of wisdom'  
+**loj**
+'to study and reason systematically'
+→ **lojia**
+'systematic study, logic'  
+**biolojia**
+'biology, systematic study of organic life'  
+**geolojia**
+'geology, systematic study of the ground'
+
+#### -ik ~ -tik
+
+The suffix
+**-(t)ik**
+means something that is characterized by the thing or quality indicated by the base word.
+
+**baz**
 'base, basis'
-→ **bazike**
-'basic, fundamental'  
-**fize**
-'physis'
-→ **fizike**
+→ **bazik**
+'basic'  
+**fiz**
+'body'
+→ **fizik**
 'physical'  
-**muze**
-'muse'
-→ **muzike**
-'of the muses, music'  
-**nuve**
-'uusi'
-→ **nuvike**
-'novice, newbie'
+**un**
+'one'
+→ **unik**
+'only, sole, single'  
+**makin**
+'machine'
+→ **makinik**
+'machine-like, mechanical'  
+**tema**
+'theme'
+→ **tematik**
+'thematic'
 
-**-ime**
-'the most, superlative' :  
+#### -im
+
+The suffix
+**-im**
+means something that is in the position or rank that is indicated by the base word.
+
+**un**
+'one'
+→ **unim**
+'the first'  
 **pre**
 'fore, front'
-→ **prime**
+→ **prim**
 'foremost, prime'  
 **extre**
 'outside, exterior'
-→ **extrime**
+→ **extrim**
 'outermost, extreme'
 
-**-ion**
-'action or process' :  
+#### -ion ~ -tion
+
+The suffix
+**-(t)ion**
+means 'an action or process'.
 **ate**
-'act, deed'
+'act'
 → **ation**
-'action, activity'  
-**konsume**
+'action'  
+**dit**
+'say'
+→ **dition**
+'saying, diction'  
+**konsum**
 'consume'
 → **konsumion**
-'consuming, consumption'
+'consumption'  
+**rota**
+'wheel; to turn like a wheel'
+→ **rotation**
+'turning, rotation'
 
-**-ish**
-'language' :  
-**English**
-'the English language'  
-**Eskotish**
-'Scotch'  
-**Panglo**
-'world language, Panglo'
+#### -isme
 
-**-iste**
-'adherent of a way of life, -ist' :  
-**alkohol**
-'alcohol'
-→ **alkoholiste**
-'alcoholic'  
-**komun**
-'common, shared'
-→ **komuniste**
-'communist, adherent of shared ownership'  
-**pacife**
-'pacify'
-→ **pacifiste**
-'pacifist'  
-**tabake**
-'tobacco'
-→ **tabakiste**
-'smoker'
-
+The suffix
 **-isme**
-'way of thinking or behaving, -ism' :  
-**alkohol**
-'alcohol'
-→ **alkoholisme**
-'alcoholism'  
-**komun**
-'common, shared'
-→ **komunisme**
-'communism'  
-**pacife**
-'pacify'
-→ **pacifisme**
-'pacifism'  
-**tabake**
-'tobacco'
-→ **tabakisme**
-'smoking'
+means an ideology, a way of thinking or a way of life.
 
-**-ite**
-'quality, -ity, -ness' :  
-**juste**
-'just, fair'
-→ **justite**
-'justice, fairness'  
-**sane**
-'healthy, sound'
-→ **sanite**
-'health'  
+**alkol**
+'alcohol'
+→ **alkolisme**
+'alcoholism'  
+**ativ**
+'active'
+→ **ativisme**
+'activism'  
+**deo**
+'god'
+→ **deisme**
+'theism'
+
+#### -iste
+
+The suffix
+**-iste**
+means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
+
+**alkol**
+'alcohol'
+→ **alkoliste**
+'alcoholic, alcoholist'  
+**ativ**
+'active',
+→ **ativiste**
+'activist'  
+**deo**
+'god'
+→ **deiste**
+'theist, one who believes in existence of a god or gods'
+#### -it ~ -lit
+
+The suffix
+**-(l)it**
+expresses 'small size'.
+
+**pak**
+'pack'
+→ **pakit**
+'packet'  
+**kas**
+'case'
+→ **kasit**
+'cassette'  
+**sigar**
+'cigar'
+→ **sigarit**
+'cigarette'
+
+#### -ita ~ -ta
+
+The suffix
+**-(i)ta**
+creates abstract nouns that represent a quality or a state.
+
+**nov**
+'new, novel'
+→ **novita**
+'newness, novelty'  
 **un**
 'one'
-→ **unite**
-'unity, oneness'
+**unita**
+'oneness, unity'
 
-**-ive**
-'inclinaed to' :  
+#### -ium ~ **-um**
+
+The suffix
+**-(i)um**
+means 'chemical element'.
+
+**kali**
+'base, alkali'
+→ **kalium**
+'kalium'  
+**Kuri**
+→ **kurium**
+'curium, the chemical element named after Marie Curie'  
+**Einstein**
+→ **einsteinium**
+'einsteinium, the chemical element named after Albert Einstein'
+
+#### -ive ~ -tive
+
+The suffix
+**-(t)iv**
+means someone who tends to do what the base word says.
 **ate**
 'act, perform'
-→ **ative**
+→ **ativ**
 'active, inclined to act'  
-**exploze**
+**exploz**
 'explode'
-→ **explozive**
-'explosive'
+→ **exploziv**
+'explosive'  
+**dika**
+'point at, indicate'
+→ **dikativ**
+'indicative'
 
-**-ize**
-'equip with, supply with, decorate with, coat with' :  
-**moterize**
-'to motorize'  
-**komputerize**
-'to computerize'  
-**robotize**
-'to robotize'  
-**automatize**
-'to automatize'  
-**eletrize**
-'to electrify'  
-**harmonize**
-'to harmonize'  
-**patinize**
-'to patinize'   
-**galvanize**
-'to galvanize'  
-**salize**
-'to salt'  
-**kolorize**
-'to colorize'  
-**aurize**
-'to gild, to cover with a layer of gold'
+#### -iza ~ -tiza
 
-**-lis**
-'without, -less' :  
+The suffix
+**-(t)iza**
+means 'to furnish or equip with something'.
+
+**aur**
+'gold'
+→ **auriza**
+'to gild, to coat with gold'  
+**makin**
+'machine'
+→ **makiniza**
+'to mechanize, to equip with machinery'
+
+#### -krat ~ okrat
+
+The suffix
+**(o)krat**
+means 'to rule, govern'.
+
+**demo**
+'people, public'
+→ **demokratia**
+'democracy, rule by the people'  
+**tekne**
+'technology'
+→ **teknokratia**
+'technocracy, rule by the technology'  
+**media**
+'the (mass) media'
+→ **mediakratia**
+'mediacracy, rule by the media'
+
+#### -los
+
+The suffix
+**-los**
+means 'lacking'.
+
 **helpe**
-'apu'
-→ **helpelis**
+'help'
+→ **helpelos**
 'helpless'  
-**peni**
-'penny'
-→ **penilis**
-'penniless'
+**nao**
+'brain'
+→ **naolos**
+'brainless'
 
-**-os**
-'plenty of, -ous' :  
-**pore**
-'pore'
-→ **poros**
-– porous.
+#### -metre ~ ometre
 
-**-ure**
-'result or product' :  
-**korete**
-'to correct'
-→ **koreture**
-'a correction'  
+The suffix
+**(o)metre**
+means 'measurement'.
+
+**terme**
+'temperature'
+→ **termometrer**
+'temperature measurer, thermometer'  
+**sim-**
+'same'
+→ **simmetria**
+'equal measurements, symmetry'
+
+#### -nomia ~ onomia
+
+The suffix
+**(o)nomia**
+means 'arrangement, management'.
+
+**astre**
+'celestial body'
+→ **astronomia**
+'astronomy'  
+**agre**
+'farming'
+→ **agronomia**
+agronomy
+
+#### -on
+
+The suffix **-on** indicates great size.
+
+**bol**
+'ball'
+→ **bolon**
+balloon'
+
+#### -or ~ -tor
+
+The suffix
+**-(t)or**
+means an apparatus, device or machine for doing the work that is incidated by the base word.
+
+**trat**
+'drag, haul'
+→ **trator**
+'tractor'  
+**fotograf**
+'to photograph'
+→ **fotografor**
+'photograph apparatus, camera'
+
+#### -ul ~ -kul
+
+The suffix
+**-(k)ul**
+indicates intensification or concentration, frequently but not necessarily into a smaller size.
+
+**kum**
+'mound, hill'
+→ **kumul**
+'small hill, hillock, heap, pile'  
+**bande**
+'band, group of things tied together'
+→ **bandul**
+'bundle'  
+**mira**
+'stare in awe'
+→ **mirakul**
+'wonder, miracle'  
+**lit**
+'small'
+→ **litul**
+'little'
 **kulte**
 'cultivate a way of life'
-→ **kulture**
+→ **kultura**
 'culture'  
 **mixe**
 'mix'
-→ **mixure**
+→ **mixura**
 'mixture'
+
 
 ### Affixes for chemistry
 
 **-al**
-'aldehyde' :  
+'aldehyde':  
 **metanal**
 'formaldehyde, methanal'
 
 **-an**
-'alkane group' :  
+'alkane group':  
 **metil**
 'methyl'
 → **metan**
 'methane'
 
 **-ate**
-'salt or ester' :  
+'salt or ester':  
 **sulfe**
 'sulfur'
 → **sulfate**
 'sulfate'  
 
 **-en**
-'alkene group' :  
+'alkene group':  
 **meten**
 'methen'
 
 **-il**
-'alkyl group' :  
+'alkyl group':  
 **bute**
 'butter'
 → **butil**
@@ -630,31 +1228,33 @@ but most are true prefixes or suffixes and can be used only as such, not as sepa
 'methyl'
 
 **-in**
-'alkyne group' :  
-**meten**
+'alkyne group':  
+**metin**
 'methyne'
 
 **-ite**
-'salt or ester' :  
+'salt or ester':  
 **sulfe**
 'sulfur'
 → **sulfite**
 'sulfite'
 
 **-ol**
-'alcoholic compound' :  
+'alcoholic compound':  
 **etan**
 'ethane'
 → **etanol**
 'ethanol'
 
 **-on**
-'ketone group' :  
-**meten**
-'methen'
+'ketone group':  
+**propan**
+'propane'
+→ **propanon**
+'propanone'
 
 **-os**
-'sugar' :  
+'sugar':  
 **frute**
 'fruit'
 → **frutos**

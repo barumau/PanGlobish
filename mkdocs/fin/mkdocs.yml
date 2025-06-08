@@ -1,7 +1,7 @@
-site_name: Panglobish
-site_url: http://www.kupsala.net/PanGlobish/suomi
+site_name: Panglo
+site_url: https://www.kupsala.net/panglo/fin
 repo_url: https://github.com/barumau/PanGlobish/
-site_author: Risto "Rippe" Kupsala
+site_author: Risto Kupsala
 docs_dir: ../../suomi
 site_dir: ../../html/suomi
 theme: material
@@ -24,8 +24,8 @@ nav:
         - 'Idea': I-idea.md
         - 'Panglobish vs. englanti': I_Panglo_vs_English.md
     - Sanasto:
-        - "Panglobish–suomi" : panglobish-suomi.md
-        - "Suomi–panglobish" : suomi-panglobish.md
+        - "Panglo–suomi" : panglo-suomi.md
+        - "Suomi–panglo" : suomi-panglo.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

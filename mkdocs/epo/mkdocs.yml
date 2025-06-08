@@ -10,31 +10,27 @@ extra_css:
 nav:
     - 'Gramatiko':
         - 'La 10 reguloj': G_baze.md
-#        - 'Mondaj vortoj': 101_dunia_worde.md
+#        - 'Mondaj vortoj': I_lexe.md
 #        - 'Prononcado kaj skribado': G_ABC.md
 #        - 'Laŭregula akcento': 103_aksente.md
 #        - Substantivoj : G_N.md
         - Nombrovortoj: G_NUM.md
         - Pronomoj: G_PRO.md
 #        - Verboj: G_V.md
-#        - Vortfarado: 110_worde_kostruktion.md
+#        - Vortfarado: G_AFX.md
 #    - Lecionoj:
 #        - '1a leciono': 201_lecion_1.md
-#    - 'Pri Duniŝo':
-#        - 'La ideo': 301_idea_of_Panglobish.md
-#        - 'Duniŝo kontraŭ la angla': 302_Panglobish_vs_English.md
+#    - 'Pri Panglo':
+#        - 'La ideo': I_idea.md
+#        - 'Panglo kontraŭ la angla': I_Panglo_vs_English.md
     - Vortaro:
         - "Panglobiŝo–Esperanto" : panglobish-esperanto.md
         - "Esperanto–Panglobiŝo" : esperanto-panglobish.md
 extra:
   social:
     - icon: fontawesome/brands/reddit
-      link: https://www.reddit.com/r/pandunia/
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/jf5GHcHXKk
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/pandunia_
+      link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
-      link: http://www.facebook.com/groups/pandunia
+      link: https://www.facebook.com/groups/panglobish
     - icon: fontawesome/brands/telegram
-      link: https://t.me/+Q9WyJ-ZLrFEsCXFU
+      link: https://t.me/+1AzKvH6RjZhmZmIy

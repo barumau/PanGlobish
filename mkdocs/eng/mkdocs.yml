@@ -10,12 +10,12 @@ extra_css:
 nav:
     - 'Grammar':
         - 'The 10 rules': G_baze.md
-        - 'World Words': 101_global_lexe.md
+        - 'World Words': I_lexe.md
         - 'Spelling and pronunciation': G_ABC.md
         - 'Regular Accent': 103_aksente.md
         - Nouns : G_N.md
         - Numerals: G_NUM.md
-        - Modifiers: 106_modife.md
+        - Modifiers: G_ADJ.md
         - Pronouns: G_PRO.md
         - Verbs: G_V.md
         - 'Sentence Structure': 109_lexe_orde.md
@@ -24,8 +24,8 @@ nav:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md
     - 'About':
-        - 'The idea': 301_idea_of_Panglobish.md
-        - 'PanGlobish vs English': 302_Panglobish_vs_English.md
+        - 'The idea': I_idea.md
+        - 'PanGlobish vs English': I_Panglo_vs_English.md
     - Vocabulary:
         - "PanGlobish–English" : panglobish-english.md
         - "English–PanGlobish" : english-panglobish.md

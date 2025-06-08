@@ -1,14 +1,14 @@
-# PanGlobish language documentation
+# Panglo language documentation
 
 ### Contents
 
-This is a location for the base documentation about PanGlobish, a helping language
+This is a location for the base documentation about Panglo, a helping language
  for international communication that is designed to be simple, neutral and
 evenly global.
 
 #### Locations
 
-This website is available online at http://www.kupsala.net/PanGlobish
+This website is available online at http://www.kupsala.net/panglo
 
 All plain text files are stored in a Git version control repository in GitHub
 at https://github.com/barumau/PanGlobish
@@ -16,7 +16,7 @@ at https://github.com/barumau/PanGlobish
 #### Multilingual documentation
 
 The documentation is in many languages. The first language of the documentation
-is currently English. (It may be changed to PanGlobish in the future.) All other
+is currently English. (It may be changed to Panglo in the future.) All other
 language versions are translated and adapted from the first language.
 
 ### License
@@ -30,7 +30,7 @@ The details are in [LICENSE.md](LICENSE.md)
 
 ### Let's work together!
 
-PanGlobish is meant to be a collaborative project. If you want, you can help in
+Panglo is meant to be a collaborative project. If you want, you can help in
 many ways:
 
 - Improve the documentation.

@@ -8,6 +8,6 @@ THA : [เรียนภาษาPangloเป็นภาษาไทย](tai/i
 
 
 
-![](http://www.pandunia.info/PanGlobish/grafe/Freepik_halo_dunia.png)  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_dunia.png)  
 [Designed by Freepik](http://www.freepik.com)
 

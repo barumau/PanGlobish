@@ -1,6 +1,6 @@
 ## Persoonapronominit
 
-Panglobishin persoonapronominit ovat:
+Panglon persoonapronominit ovat:
 
 |Persoona| Yksikkö              | Monikko            |
 |--------|----------------------|--------------------|
@@ -8,12 +8,12 @@ Panglobishin persoonapronominit ovat:
 | 2.     | **tu** (_sinä_)      | **yu** (_te_)      |
 | 3.     | **he** (_hän_)       | **de** (_he_)      |
 
-Kaikki persoonapronominit ovat sukupuolineutraaleja panglobishissa.
+Kaikki persoonapronominit ovat sukupuolineutraaleja panglossa.
 Yksikön kolmannen persoonan pronomini **he** voi tarkoittaa siis miestä, naista tai muunsukupuolista henkilöä.
 
 Yksikön toisen persoonan pronominia **tu** saa käyttää kaikissa tilanteissa
 puhuteltavan henkilön asemasta ja iästä riippumatta.
-Panglobishissa on siis lupa sinutella.
+Panglossa on siis lupa sinutella.
 Kuitenkin jotkut puhujat saattavat puhutella sanalla **tu** vain perheenjäseniä ja läheisiä ystäviä.
 Silloin se on käytössä ikään kuin saksan _du_, ranskan _tu_, venäjän _ты_ (ty) ja hindin _tū_.
 

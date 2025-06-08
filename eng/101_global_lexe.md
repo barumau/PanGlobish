@@ -2,7 +2,7 @@
 
 ## Let's meet halfway!
 
-Panglobish is an evenly global language.
+Panglo is an evenly global language.
 It's not "English only" and it's not Europe-centric either,
 because that would not be global.
 
@@ -15,13 +15,13 @@ the American has to learn Chinese language and culture
 or the Chinese has to learn English language and American culture.
 So they can only meet at one or the other end of the bridge.
 
-Panglobish helps people to meet halfway.
+Panglo helps people to meet halfway.
 And it's easy!
 Going back to the previous example,
-the American has to learn to speak Panglobish
-but it's easy because Panglobish has so much common with the English language.
-Also the Chinese has to learn Panglobish
-but it's easy for them too because Panglobish has so much common with Chinese too!
+the American has to learn to speak Panglo
+but it's easy because Panglo has so much common with the English language.
+Also the Chinese has to learn Panglo
+but it's easy for them too because Panglo has so much common with Chinese too!
 
 
 ## Re-using English words
@@ -36,7 +36,7 @@ In fact, the level of English speaking skills varies from person to person and f
 At one end there are people who speak it almost like natives.
 At the other end there are people who can grunt only a few words with a thick accent.
 
-Panglobish borrows basic words from English because "everyone knows them already".
+Panglo borrows basic words from English because "everyone knows them already".
 There are less and less English words on higher levels,
 because most people don't know them
 and because many advanced words are specific to a certain culture
@@ -49,35 +49,35 @@ so a local word is most appropriate anyway.
 | Intermediate   |        60%         |
 | Advanced       |        40%         |
 
-English words are only the tip of the iceberg in Panglobish.
-Panglobish is much more diverse than what one might see at first sight.
+English words are only the tip of the iceberg in Panglo.
+Panglo is much more diverse than what one might see at first sight.
 
-![](http://www.kupsala.net/PanGlobish/grafe/aismonte_eng.png "picture of an iceberg")
+![](http://www.kupsala.net/panglo/grafe/aismonte_eng.png "picture of an iceberg")
 
 
 ## International words
 
-International words are borrowed from all parts of the world to Panglobish.
-They are adapted to the Panglobish pronunciation and orthography.
+International words are borrowed from all parts of the world to Panglo.
+They are adapted to the Panglo pronunciation and orthography.
 One base word is admitted and additional words are built from it according to rule 10.
 
-If some word is pronounced differently in Panglobish than in English, it’s because the pronunciation in Panglobish is more international.
+If some word is pronounced differently in Panglo than in English, it’s because the pronunciation in Panglo is more international.
 
 
 ### Latin words
 
-There are many words in Panglobish that come from Latin and the Latin languages.
+There are many words in Panglo that come from Latin and the Latin languages.
 The Latin languages (also known as the Romance languages) are a group of languages which descend from Latin, including French, Romanian, Italian, Spanish and Portuguese.
 
 The same word can take many forms in the Latin languages.
-In Panglobish they are simplified into one form only.
+In Panglo they are simplified into one form only.
 For example, the verb
 **cepe**
 ('take, catch, capture')
-has regular derivatives in Panglobish
+has regular derivatives in Panglo
 that correspond to many irregularly derived words in English and the Latin languages.
 
-| Panglobish     | cepe    | acepe     | recepe   | intercepe    | partecepe   |
+| Panglo         | cepe    | acepe     | recepe   | intercepe    | partecepe   |
 |----------------|:--------|:---------:|:--------:|:------------:|:-----------:|
 | **English**    | catch   | accept    | receive  | intercept    | participate |
 | **French**     | capter  | accepter  | recevoir | intercepter  | participer  | 
@@ -85,13 +85,11 @@ that correspond to many irregularly derived words in English and the Latin langu
 | **Portuguese** | captar  | aceitar   | receber  | interceptar  | participar  | 
 | **Italian**    | captare | accettare | ricevere | intercettare | partecipare | 
 
-| Panglobish     | recepe _v._ | recepe _n._ | recepion    | receper             |
+| Panglo         | recepe _v._ | recepe _n._ | recepion    | receper             |
 |----------------|:-----------:|:-----------:|:-----------:|:-------------------:|
 | **English**    | receive     | receipt     | reception   | receiver, recipient |
 | **French**     | recevoir    | reçu        | réception   | receveur, récepteur |
 | **Spanish**    | recibir     | recibo      | recepción   | receptor            |
 | **Portuguese** | receber     | recibo      | recepção    | recebedor           |
 | **Italian**    | ricevere    | ricevuta    | ricevimento | ricettore           |
-
-
 

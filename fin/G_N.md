@@ -3,14 +3,14 @@
 Substantiivi on sana, joka nimeää jonkin tietyn esineen tai asian,
 kuten elävän olennon, tavaran, paikan, toiminnan, laadun, olotilan tai käsitteen.
 
-Panglobishissa substantiivit ovat taipumattomia.
+Panglossa substantiivit ovat taipumattomia.
 Substantiivista käytetään siis aina samaa muotoa riippumatta luvusta, sijasta, määräisyydestä ym.
 Luku, määräisyys ja muut asiat ilmaistaan erillisillä sanoilla, joilla substantiivia voi määrittää.
 
 
 ## Luku
 
-Panglobishissa substantiivit eivät taivu yksikössä ja monikossa.
+Panglossa substantiivit eivät taivu yksikössä ja monikossa.
 Sen sijaan luku ilmaistaan lukusanoilla ja muilla määrää ilmaisevilla sanoilla.
 
 **un haus**
@@ -47,7 +47,7 @@ ja käytä epämääräistä artikkelia, kun et tiedä mitä haluat.
 
 ### Epämääräiset artikkelit
 
-Panglobishissa on kaksi epämääräistä artikkelia.
+Panglossa on kaksi epämääräistä artikkelia.
 Sanalla **un** viitataan yhteen asiaan,
 ja sanalla **som** moneen asiaan.
 
@@ -64,7 +64,7 @@ ja sanalla **som** moneen asiaan.
 
 ### Määräiset artikkelit
 
-Panglobishissa on kaksi epämääräistä artikkelia.
+Panglossa on kaksi epämääräistä artikkelia.
 Sanalla **da** viitataan yhteen tiettyyn asiaan,
 ja sanalla **di** viitataan useampiin asioihin.
 
@@ -81,9 +81,9 @@ ja sanalla **di** viitataan useampiin asioihin.
 
 ## Erisnimet
 
-### Sovittaminen panglobishiin
+### Sovittaminen pangloin
 
-Erisnimet yleensä sovitetaan panglobishin kirjoitusjärjestelmään.
+Erisnimet yleensä sovitetaan panglon kirjoitusjärjestelmään.
 Kaikkien kannalta on järkevämpää kirjoittaa latinalaisilla kirjaimilla
 **Moskva** (Moskova) eikä "Москва",
 ja **Beijing** (Peking) eikä "北京"

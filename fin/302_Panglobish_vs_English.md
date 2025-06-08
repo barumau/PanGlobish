@@ -1,7 +1,7 @@
-# Panglobish vastaan englanti
+# Panglo vastaan englanti
 
-Tässä kirjoituksessa verrataan Panglobishia englantiin.
-Tarkoituksena on osoittaa, miksi Panglobish olisi englantia parempi välikieli silloin,
+Tässä kirjoituksessa verrataan Pangloa englantiin.
+Tarkoituksena on osoittaa, miksi Panglo olisi englantia parempi välikieli silloin,
 kun ihmisillä ei ole muuta yhteistä kieltä.
 Meillä ei ole mitään englantia vastaan,
 mutta me vastustamme sen asemaa globaalina välikielenä.
@@ -9,9 +9,9 @@ Englanti kelpaa hyvin kansalliseksi kieleksi ja se voi edelleen toimia sellaiste
 joissa englanti on virallinen kieli.
 
 
-## Onko Panglobish vain englannin huono jäljitelmä?
+## Onko Panglo vain englannin huono jäljitelmä?
 
-Panglobish on paljon muutakin kuin vain englannin jäljitelmä.
+Panglo on paljon muutakin kuin vain englannin jäljitelmä.
 
 Englanti on germaaninen kieli eli se on sukua muille germaanisille kielille,
 jotka muistuttavat englantia monin tavoin, mutta silti ne ovat itsenäisiä ja omaehtoisia kieliä.
@@ -29,25 +29,25 @@ Katsokaamme esimerkiksi alla olevaa lausetta englanniksi ja muilla germaanisilla
 | Norja        | Jeg er sønnen til faren min og moren min.        |
 | Ruotsi       | Jag är son till min far och min mor.             |
 | Islanti      | Ég er sonur föður míns og móður minnar.          |
-|**Panglobish**| **mi is da boi of mi's patre en mi's matre.**    |
+|**Panglo**| **mi is da boi of mi's patre en mi's matre.**    |
 
-Panglobishin kielellä tämä sama lause muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
-Voisi jopa sanoa, että Panglobish on lähempänä afrikaansia kuin englantia.
-Englanti ei siis ole erityisasemassa Panglobishiin nähden.
+Panglon kielellä tämä sama lause muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
+Voisi jopa sanoa, että Panglo on lähempänä afrikaansia kuin englantia.
+Englanti ei siis ole erityisasemassa Pangloin nähden.
 
-Panglobish on itsenäinen kieli, joka muistuttaa vahvasti germaanisia kieliä,
+Panglo on itsenäinen kieli, joka muistuttaa vahvasti germaanisia kieliä,
 kuten englantia, saksaa ja hollantia,
 mutta se muistuttaa myös romaanisia kieliä kuten italiaa, espanjaa, portugalia ja ranskaa,
 ja vähemmässä määrin myös muita kieliä.
 Se on siis itsenäinen kieli ja osa suurta maailmanlaajuista kielten verkostoa.
 
 Nyt kun tämä matkimisasia on selvitetty,
-jatkakaamme haastajan, Panglobishin, vertaamista tarkemmin maailman tämän hetken mahtavimpaan kieleen, englantiin.
+jatkakaamme haastajan, Panglon, vertaamista tarkemmin maailman tämän hetken mahtavimpaan kieleen, englantiin.
 
 
 ## Pääkohdat
 
-| Englanti                                                | vs | Panglobish                        |
+| Englanti                                                | vs | Panglo                        |
 |:------------------------------------------------------- |:--:|:----------------------------------|
 | Länsimainen                                             |    | Globaali                          |
 | Monta standardia (Britannia, Yhdysvallat, Intia, jne.)  |    | yksi standardi                    |
@@ -141,16 +141,16 @@ mutta tässä on muutama riimi vertailtavaksi:
 one - won, two - too - to, four - for - fore, eight - ate - great.
 Lisää esimerkkejä on Gerard Nolst Trenitén humoristisessa runossa [The Chaos](http://ncf.idallen.com/english.html).
 
-Panglobish sen sijaan on säännöllinen kieli.
+Panglo sen sijaan on säännöllinen kieli.
 Jokainen kirjain tai kirjainyhdistelmä äännetään aina samalla tavalla.
 Kun kuulet sanan, osaat aina kirjoittaa sen oikein,
 ja kun luet sanan, osaat aina ääntää sen oikein.
 
-Lisäksi panglobishin kirjoitustapa on hyvin samanlainen kuin monissa muissa kielissä.
+Lisäksi panglon kirjoitustapa on hyvin samanlainen kuin monissa muissa kielissä.
 Voisi jopa sanoa, että se on kansainvälinen standardi.
 
-Kun verrataan esimerkiksi "nature" -sanan kirjoitusasua ja ääntämystä Euroopan kielissä ja panglobishissa,
-huomataan että panglobishin ääntämys on paitsi tavanomainen myös selkeä.
+Kun verrataan esimerkiksi "nature" -sanan kirjoitusasua ja ääntämystä Euroopan kielissä ja panglossa,
+huomataan että panglon ääntämys on paitsi tavanomainen myös selkeä.
 
 | Kieli      | Kirjoitusasu | Äänneasu |
 |:-----------|:-------------|:------------|
@@ -162,5 +162,5 @@ huomataan että panglobishin ääntämys on paitsi tavanomainen myös selkeä.
 | Saksa      | Natur        | /natuʁ/ |
 | Puola      | natura       | /natura/ |
 | Venäjä     | натура       | /nɐturə/ |
-| Panglobish | nature       | /naturə/ |
+| Panglo     | nature       | /naturə/ |
 

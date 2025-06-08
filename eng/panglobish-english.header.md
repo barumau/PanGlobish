@@ -1,16 +1,16 @@
-# Panglobish–English word list
+# Panglo–English word list
 
-This word list consists of words in Panglobish and their translations to English.
-The list is arranged in the alphabetical order by Panglobish base words.
+This word list consists of words in Panglo and their translations to English.
+The list is arranged in the alphabetical order by Panglo base words.
 
-Each dictionary entry consists of a word or compound word in Panglobish and its translation to English.
+Each dictionary entry consists of a word or compound word in Panglo and its translation to English.
 There is only one translation
 when the meaning of the word and the meaning of its English translation are almost or completely the same.
 
 > apel - apple  
 > april - April
 
-When the Panglobish word can be translated in more than one way,
+When the Panglo word can be translated in more than one way,
 the most common translation is first
 and it is followed by more specific translations inside parenthesis.
 

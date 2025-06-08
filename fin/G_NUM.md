@@ -1,7 +1,7 @@
 # Lukusanat
 
-Perusluvut ovat kuulostavat panglobishissa melkein samalta kuin englannissa.
-Sen sijaan kymmentä suuremmat luvut muodostetaan panglobishissa itsenäisesti ja järjestelmällisesti.
+Perusluvut ovat kuulostavat panglossa melkein samalta kuin englannissa.
+Sen sijaan kymmentä suuremmat luvut muodostetaan panglossa itsenäisesti ja järjestelmällisesti.
 
 | Ykköset | 10 ja yli    | 20 ja yli        | 30 ja yli        |
 |:--------|:-------------|:-----------------|:-----------------|
@@ -38,12 +38,12 @@ Suuremmat luvut muodostetaan samalla periaatteella.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Huom! Sanoja **miliarde** ja **bilion** ei käytetä panglobishissa,
+Huom! Sanoja **miliarde** ja **bilion** ei käytetä panglossa,
 koska niiden merkitys vaihtelee eri maiden välillä.
 Sen sijaan käytetään sanoja **tauzen milion** (tuhat miljoonaa) tai sanaa **giga**.
 
 [Kansainvälisen yksikköjärjestelmän](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4)
-eli SI-järjestelmän etuliitteitä käytetään panglobishissa ihan normaalisti.
+eli SI-järjestelmän etuliitteitä käytetään panglossa ihan normaalisti.
 On siis ihan tavallista sanoa esimerkiksi:  
 **eite giga person is live in Dunia.**  
 – Kahdeksan miljardia ihmistä asuu maapallolla.
@@ -99,7 +99,7 @@ jotka olivat aurinko, kuu ja viisi paljaalla silmällä näkyvää planeettaa.
 Jokaista taivaankappaletta edusti myös jokin jumala.
 Tämä nimeämisjärjestelmä levisi Roomaan, Intiaan, Kiinaan ja melkein kaikkialle tuolloin tunnettuun maailmaan.
 
-Panglobishissa viikonpäivien nimet seuraavat roomalaista käytäntöä,
+Panglossa viikonpäivien nimet seuraavat roomalaista käytäntöä,
 jossa taivaankappaleen ja viikonpäivän nimet ovat lähellä toisiaan.
 Suomessa käytetään planeetoista roomalaisia nimiä ja viikonpäivistä germaanisia nimiä.
 

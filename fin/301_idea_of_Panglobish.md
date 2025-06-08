@@ -1,29 +1,29 @@
-# Panglobishin idea
+# Panglon idea
 
-## Panglobishin periaatteet
+## Panglon periaatteet
 
-Panglobish on _reilua_.
-Kaikilla on tasavertainen mahdollisuus oppia puhumaan panglobishia hyvin.
+Panglo on _reilua_.
+Kaikilla on tasavertainen mahdollisuus oppia puhumaan pangloa hyvin.
 Sen on määrä on _suuri tasavertaistaja_
 — eli sellainen viestintäväline, jota kaikki voivat käyttää samalla tasolla.
 
-Panglobish on _tasapuolisesti maailmanlaajuinen_.
+Panglo on _tasapuolisesti maailmanlaajuinen_.
 Sen sanat on lainattu maailman joka puolelta ja kaikista kulttuureista.
 Se maailmankieli, joka todella edustaa koko maailmaa!
 
-Panglobish on _käytännöllistä_.
+Panglo on _käytännöllistä_.
 Siinä uusiokäytetään asioita, jotka ovat jo valmiiksi kansainvälisiä, kuten
 latinalainen aakkosto,
 englannin perussanasto ja
 kansainvälistä sanastoa kreikan, latinan, sanskritin, kiinan ja arabian kielistä.
-Tämän ansiosta panglobishia voi käyttää kansainvälisessä viestinnässä heti alusta lähtien.
+Tämän ansiosta pangloa voi käyttää kansainvälisessä viestinnässä heti alusta lähtien.
 
-Panglobish on _yksinkertaista_.
+Panglo on _yksinkertaista_.
 Kansainvälisissä kohtaamisissa on parasta käyttää tavallisia sanoja, lyhyitä virkkeitä ja yksinkertaisia ilmaisuja,
 koska ne ovat paljon tehokkaampia kuin harvinaislaatuiset sanat, polveilevat virkkeet ja monimutkaiset ilmaisut.
 Puhukaamme siis asioista selkeästi!
 
-Panglobish _tuntuu aidolta_.
+Panglo _tuntuu aidolta_.
 Se on kuin englannin kadonnut sukulaiskieli,
 joka muistuttaa paljon englantia mutta on kuitenkin samalla aivan omanlaisensa.
 Tässä suhteessa se muistuttaa englannin todellisia lähisukulaisia
@@ -34,12 +34,12 @@ ja englannista syntyneitä kieliä
 
 ## Tasaisesti maailmanlaajuinen
 
-Panglobish on tasapuolisesti maailmanlaajuinen,
+Panglo on tasapuolisesti maailmanlaajuinen,
 Sen sanasto perustuu maailman puhutuimpiin kieliin,
 jotka edustavat kaikkia maanosia ja kulttuureita.
 
 Kaikkia maapallolla puhuttuja kieliä ei ole kuitenkaan otettu mukaan.
-Voiko panglobish sitten olla todella maailmanlaajuinen ja todella reilu?
+Voiko panglo sitten olla todella maailmanlaajuinen ja todella reilu?
 Kyllä voi.
 
 Alla olevassa kaaviossa näytetään maailman 50 puhutuimman kielen kasautuva jakauma.
@@ -62,31 +62,31 @@ Korotus olisi vaivaiset 0,36 prosenttia!
 mutta loppujen kielten puhujat, joita olisi vielä muhkeat 24,24 % maailman väestöstä,
 eivät kostuisi siitä mitään.
 
-![](http://www.kupsala.net/PanGlobish/grafe/kumule.png)  
+![](http://www.kupsala.net/panglo/grafe/kumule.png)  
 Kaavio. 50 puhutuimman kielen äidinkielisten puhujien osuus maailman väestöstä.
 
 
 ## Käytännöllinen ja hyödyllinen
 
-Panglobish on tarkoitettu olemaan hyödyllinen tosielämässä.
+Panglo on tarkoitettu olemaan hyödyllinen tosielämässä.
 Sen yleisimmät sanat ja ilmaukset muistuttavat englantia,
 joten voit puhua sitä saman tien esim. hotelleissa, kaupoissa, takseissa, lentokentillä ja rautatieasemilla
 ja voit lukea tienviittoja ja erilaisia kylttejä ja opasteita ulkomailla.
 Juju on yksinkertainen:
-sinä puhut panglobishia ja toiset puhuvat englantia.
+sinä puhut pangloa ja toiset puhuvat englantia.
 Se toimii!
 
-Panglobish on myös käytännönläheinen kieli.
+Panglo on myös käytännönläheinen kieli.
 Sinulla on lupa käyttää kaikkia keinoja tullaksesi ymmärretyksi.
 Elekieli on tärkeää.
-Saat myös käyttää muiden kielten sanoja osana panglobishia.
-Se toimii, koska panglobishissa ei ole häiritseviä taivuksia.
+Saat myös käyttää muiden kielten sanoja osana pangloa.
+Se toimii, koska panglossa ei ole häiritseviä taivuksia.
 Ulkomaalainen voi kysyä esimerkiksi **wer is da "ravintola"?**
 ja suomalainen voi kysyä esimerkiksi Kiinassa
 **wer is da "fan dien"?**
-Joka tapauksessa on tärkeämpää päästä ravintolaan kuin puhua virheetöntä panglobishia, eikö totta?
+Joka tapauksessa on tärkeämpää päästä ravintolaan kuin puhua virheetöntä pangloa, eikö totta?
 
-Panglobish ei ole pienen kerhon tai lahkon salainen kieli.
+Panglo ei ole pienen kerhon tai lahkon salainen kieli.
 Se on avoin kaikille!
 On tärkeämpää onnistua keskustelemaan muiden kanssa kuin varjella kielen kuviteltua "puhtautta".
 

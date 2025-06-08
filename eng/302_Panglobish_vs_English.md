@@ -1,7 +1,7 @@
-# Panglobish vs English
+# Panglo vs English
 
-In this page Panglobish is compared to English.
-The goal is to show why Panglobish would be a better global second language
+In this page Panglo is compared to English.
+The goal is to show why Panglo would be a better global second language
 for people who don't have a common language.
 We don't have anything against English as such,
 but we criticize its role as a global language.
@@ -9,9 +9,9 @@ English is perfectly OK as a national language and as an international language
 between countries where it is already spoken.
 
 
-## Is Panglobish just a poor copy of English?
+## Is Panglo just a poor copy of English?
 
-Panglobish is much more than just a copy of English.
+Panglo is much more than just a copy of English.
 
 English is a Germanic language and therefore it is related to other Germanic languages,
 which are in many ways similar to English but they are independent, separate and definitely not copies of English.
@@ -30,24 +30,24 @@ of the same sentence in English and other Germanic languages.
 | Norwegian    | Jeg er sønnen til faren min og moren min.        |
 | Swedish      | Jag är son till min far och min mor.             |
 | Icelandic    | Ég er sonur föður míns og móður minnar.          |
-|**Panglobish**| **mi is da boi of mi's patre en mi's matre.**    |
+|**Panglo**    | **mi is da boi of mi's patre en mi's matre.**    |
 
-The same sentence in Panglobish is also somewhat similar with _all Germanic languages_.  
+The same sentence in Panglo is also somewhat similar with _all Germanic languages_.  
 So English is nothing special in this regard.
 
-Panglobish is an independent language that bears significant similarity to
+Panglo is an independent language that bears significant similarity to
 Germanic languages like English, German and Dutch
 but also to Romance languages like Italian, Spanish, Portuguese and French
 and, to a lesser degree, also to many other languages.
 It is an independent language in the great global network of languages.
 
-Now that this issue is settled, let's continue comparing Panglobish, the challenger,
+Now that this issue is settled, let's continue comparing Panglo, the challenger,
 and English, the reigning world language.
 
 
 ## Main Points of Comparison
 
-| English                                                 | vs | Panglobish                            |
+| English                                                 | vs | Panglo                            |
 |:------------------------------------------------------- |:--:|:----------------------------------|
 | Western                                                 |    | Global                            |
 | Many standards (British, American, Indian, etc.)        |    | One standard                      |
@@ -143,15 +143,15 @@ A few rhymes are enough to show what's the matter:
 one - won, two - too - to, four - for - fore, eight - ate - great.
 For more examples, read [The Chaos](http://ncf.idallen.com/english.html), a poem by Gerard Nolst Trenité.
 
-Panglobish, on the other hand, is a regular language.
+Panglo, on the other hand, is a regular language.
 Each letter (or combination of letters like _ch_ and _sh_) is pronounced in the same way in every word.
 If you hear a word, you can always spell it.
 If you read a word, you can always pronounce it.
 
-In addition, the Panglobish spelling system is quite similar to other languages.
-In fact, Panglobish spelling is very much like the international norm.
+In addition, the Panglo spelling system is quite similar to other languages.
+In fact, Panglo spelling is very much like the international norm.
 
-Let's compare the pronunciation of the word "nature" in selected European languages and Panglobish.
+Let's compare the pronunciation of the word "nature" in selected European languages and Panglo.
 
 | Language   | Written word | Spoken word |
 |:-----------|:-------------|:------------|
@@ -163,9 +163,9 @@ Let's compare the pronunciation of the word "nature" in selected European langua
 | German     | Natur        | /natuʁ/ |
 | Polish     | natura       | /natura/ |
 | Russian    | натура       | /nɐturə/ |
-| Panglobish | nature       | /naturə/ |
+| Panglo     | nature       | /naturə/ |
 
 Every language has a pure _ah_ vowel and a normal _t_ consonant except English.
 Written English is more international than spoken English.
-That's why Panglobish is often closer to written English than to spoken English.
+That's why Panglo is often closer to written English than to spoken English.
 

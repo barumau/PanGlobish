@@ -3,7 +3,7 @@
 ## Nollajohto
 
 Nollajohto on sananmuodostuksen tapa, jossa sanaa käytetään uuden sanaluokan tehtävässä sellaisenaan eli ilman ulkoisesti näkyvää osoitinta sanaluokan vaihdoksesta.
-Panglobishissa se on hyvin yleistä.
+Panglossa se on hyvin yleistä.
 Itse asiassa suurin osa sanoista ei kuulu mihinkään määrättyyn sanaluokkaan,
 vaan sanaluokka määräytyy sen perusteella, mikä tehtävä sanalla on lauseessa.
 
@@ -27,7 +27,7 @@ Samaten sana **skribe** voi toimia niin verbinä 'kirjoittaa', substantiivina 'k
 
 ## Yhdyssanat
 
-Sanoja saa yhdistää panglobishissa vapaasti ilmaisemaan uusia asioita.
+Sanoja saa yhdistää panglossa vapaasti ilmaisemaan uusia asioita.
 Yhdyssanan viimeinen osa on tärkein,
 ja sitä edeltävät sanat vain täydentävät sen merkitystä.
 
@@ -399,8 +399,8 @@ tupakoimaton
 'englanti'  
 **Eskotish**
 'skotlanti'  
-**Panglobish**
-'maailmankieli, panglobish'
+**Panglo**
+'maailmankieli, panglo'
 
 **-iste**
 'ajattelu- tai elämäntavan edustaja' :  

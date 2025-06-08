@@ -1,29 +1,29 @@
-# Ideas of Panglobish
+# Ideas of Panglo
 
-## Principles of Panglobish
+## Principles of Panglo
 
-Panglobish is _fair_.
-Everybody has an equal chance of learning and speaking Panglobish well.
+Panglo is _fair_.
+Everybody has an equal chance of learning and speaking Panglo well.
 It is supposed to be the _great equalizer_
 — a way of communicating that everybody can use on the same level.
 
-Panglobish is _evenly global_.
+Panglo is _evenly global_.
 It borrows words from from all regions and all cultures of the world.
 It is the world language that stands for the whole world!
 
-Panglobish is _practical_.
+Panglo is _practical_.
 It re-uses things that have already become international, including
 the basic Latin alphabet,
 basic words from English, and
 international words from Greek, Latin, Sanskrit, Chinese and Arabic, among others.
-That way Panglobish can be used in real international communication right from the start.
+That way Panglo can be used in real international communication right from the start.
 
-Panglobish is _simple_.
+Panglo is _simple_.
 In international situations it is best to use plain words, short sentences and simple language
 because they are much more effective than specialized words, long sentences and complex language.
 So, let's keep it simple!
 
-Panglobish feels _real_.
+Panglo feels _real_.
 It is like a lost relative of English
 that seems to be of the same kind as English but that is at the same time distinctly its own kind.
 In this regard it is similar to the real relatives of English
@@ -36,16 +36,16 @@ and the children of English
 
 ### Is it really global?
 
-Panglobish really is global!
-The first thing that you probably notice about Panglobish
+Panglo really is global!
+The first thing that you probably notice about Panglo
 is that it looks and sounds something like English
 but in fact the English words are only the tip of the iceberg.
 A lot more is hidden under the surface!
-Panglobish is much more diverse than what one might see at first sight.
+Panglo is much more diverse than what one might see at first sight.
 
-![](http://www.kupsala.net/PanGlobish/grafe/aismonte_eng.png "picture of an iceberg")
+![](http://www.kupsala.net/panglo/grafe/aismonte_eng.png "picture of an iceberg")
 
-The more you study Panglobish, the more cosmopolitan it appears.
+The more you study Panglo, the more cosmopolitan it appears.
 
 
 ### Why all languages are not included?
@@ -71,44 +71,44 @@ One can also question the practical implications of including 51 languages versu
 The increase in coverage would be marginal, only 0.36%,
 and it would not help the remaining 24.24% of the world who speak other, smaller languages!
 
-![](http://www.kupsala.net/PanGlobish/grafe/kumule.png)  
+![](http://www.kupsala.net/panglo/grafe/kumule.png)  
 Figure. Percentage of world population by language by number of native speakers.
 
-The vocabulary of Panglobish is based on the most spoken languages.
+The vocabulary of Panglo is based on the most spoken languages.
 They cover all continents and all major modern cultures of the world.
 They also have a lot of _international words_ in common with less spoken languages.
-That's why Panglobish-like words can be found also in smaller languages.
+That's why Panglo-like words can be found also in smaller languages.
 
 
 ## Useful in real life
 
-Panglobish is meant to be a useful language in real life.
+Panglo is meant to be a useful language in real life.
 What does it mean?
 It means that you can speak it immediately in hotels, shops, taxis, airports, train stations, etc...
 It means that you can understand road signs and signboards of hotels, bars and restaurants.
 It means that you can make yourself understood.
 
-Panglobish is open.
-You are allowed to use words from other languages in Panglobish.
+Panglo is open.
+You are allowed to use words from other languages in Panglo.
 Use whatever is necessary to make yourself understood!
 You may say, for example, **mi wan gow do "fan dien"** in China,
-even though **restoran** is the normal word for restaurant in Panglobish.
-It's more important to get to the restaurant than to speak perfect Panglobish, isn't it?
+even though **restoran** is the normal word for restaurant in Panglo.
+It's more important to get to the restaurant than to speak perfect Panglo, isn't it?
 
-Panglobish is not a secret language for a small club or a cult.
+Panglo is not a secret language for a small club or a cult.
 It's more important to be able to communicate with everybody in practice
 than to protect "the purity of our language" on paper.
 
 
 
-## What Panglobish should sound like?
+## What Panglo should sound like?
 
-Panglobish is spoken in the "continental" manner.
-It means that the Germanic part of Panglobish sounds rather like German, Dutch and the Scandinavian languages,
+Panglo is spoken in the "continental" manner.
+It means that the Germanic part of Panglo sounds rather like German, Dutch and the Scandinavian languages,
 and the Romance part sounds like Spanish, Portuguese, Italian and French.
 
 Continental pronunciation is typically the original way of pronouncing words.
-That's why spelling is much more phonetic in Panglobish than in English!
+That's why spelling is much more phonetic in Panglo than in English!
 
 For example, the words *nation* and *native* are related.
 So let's compare how they are spelled and pronounced in different languages.
@@ -122,9 +122,9 @@ So let's compare how they are spelled and pronounced in different languages.
 | French     | nation | /nasyõ/    | natif  | /natif/   |
 | Spanish    | nación | /nasyon/   | nativo | /natiβo/  |
 | Portuguese | nação  | /nasãũ/    | nativo | /natʃivu/ |
-| Panglobish | nation | /nation/   | native | /nativə/  |
+| Panglo     | nation | /nation/   | native | /nativə/  |
 
-In this case Panglobish brings the spelling and pronunciation back to their roots.
+In this case Panglo brings the spelling and pronunciation back to their roots.
 
 <!-- https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English -->
 
@@ -132,6 +132,6 @@ In this case Panglobish brings the spelling and pronunciation back to their root
 
 ## Minimalism?
 
-One of the goals of Panglobish is to have less words to be memorized than English and other natural languages,
+One of the goals of Panglo is to have less words to be memorized than English and other natural languages,
 but it's not meant to be minimal.
 

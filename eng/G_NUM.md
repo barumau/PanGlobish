@@ -1,7 +1,7 @@
 # Numerals
 
-The basic numbers sound almost the same in Panglobish as in English.
-However, greater numbers are arranged more logically in Panglobish.
+The basic numbers sound almost the same in Panglo as in English.
+However, greater numbers are arranged more logically in Panglo.
 
 | Ones    | Ten and over | 20 and over      | 30 and over      |
 |:--------|:-------------|:-----------------|:-----------------|
@@ -38,12 +38,12 @@ Greater numbers follow the same logic.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Note: The words "billion" and "milliard" are not used in Panglobish
+Note: The words "billion" and "milliard" are not used in Panglo
 because their meanings are different from country to country.
 Instead, one should say **tauzen milion** (thousand millions) or **giga**.
 
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
-(SI) are used in common language in Panglobish.
+(SI) are used in common language in Panglo.
 It is normal to say, for example:  
 **eite giga person is live in Dunia.**  
 – Eight billion (or _milliard_) people live on Earth.
@@ -103,7 +103,7 @@ This system spread to Rome, India, China and almost all across the world.
 In English, the Roman deities were substituted by Germanic deities:
 Sunday = sun's day, Monday = moon's day, Tuesday = Tiw's day, Wednesday = Woden's day, Thursday = Thor's day, and Saturday = Saturn's day.
 
-In Panglobish, the names of the days of the week follow the Roman system,
+In Panglo, the names of the days of the week follow the Roman system,
 whereas the English system involved Germanic deities.
 
 | Luminary    | Day of the week         |

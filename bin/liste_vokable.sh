@@ -1,5 +1,5 @@
 liste_di_worde_from_PanGlobish_to_X() {
-    filename="$2/panglobish-$2.md"
+    filename="$2/panglo-$2.md"
     echo "make da file $filename"
     #PanGlobish unordi
     cat vokable.csv | awk -F "|" "{print \$2 \" - \" \$$1 \"  \"}" > $filename
@@ -11,7 +11,7 @@ liste_di_worde_from_PanGlobish_to_X() {
 #    sed 's/#[A-Z] -//g' -i $filename
     sed 's/ - [A-Z] /\n/g' -i $filename
     #Add header
-    headername="$2/panglobish-$2.header.md"
+    headername="$2/panglo-$2.header.md"
     if test -f "$headername"; then
        echo "$headername exists"
        cat $headername $filename > temp/temp.txt
@@ -29,7 +29,7 @@ liste_di_worde_from_PanGlobish_to_X() {
 }
 
 liste_di_worde_from_X_to_PanGlobish() {
-    filename="$2/$2-panglobish.md"
+    filename="$2/$2-panglo.md"
     echo "make da file $filename"
     #ali bax unordi
     cat vokable.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $filename

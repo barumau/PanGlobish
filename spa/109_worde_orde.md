@@ -1,7 +1,7 @@
 ## Preposiciones
 
 Una preposición comienza una frase que brinda información adicional sobre el evento del que trata la oración.
-Hay un puñado de preposiciones reales en panglobish, como se enumeran a continuación,
+Hay un puñado de preposiciones reales en panglo, como se enumeran a continuación,
 y los demás son verbos que pueden funcionar de la misma manera que las preposiciones.
 
 **a**

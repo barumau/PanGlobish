@@ -1,16 +1,16 @@
-# Panglobishin 10 sääntöä
+# Panglon 10 sääntöä
 
-Panglobish on niin helppo, että sen kieliopin perusteissa on vain kymmenen sääntöä,
+Panglo on niin helppo, että sen kieliopin perusteissa on vain kymmenen sääntöä,
 jotka mahtuvat yhdelle paperiarkille.
 Poikkeuksia ei ole.
 
 1. **Maailman sanasto:**
-   Panglobish on tasapuolisesti kansainvälinen kieli.
+   Panglo on tasapuolisesti kansainvälinen kieli.
    Siihen on lainattu kansainvälisiä sanoja kaikilta mantereilta.
-   Lainasanat sovitetaan panglobishin ääntämis- ja kirjoitustapoihin.
-   Panglobishiin otetaan vain yksi perusmuotoinen sana, josta johdetaan muita sanoja säännön 10 mukaan.
+   Lainasanat sovitetaan panglon ääntämis- ja kirjoitustapoihin.
+   Pangloin otetaan vain yksi perusmuotoinen sana, josta johdetaan muita sanoja säännön 10 mukaan.
 2. **Ääntäminen ja kirjoitus:**
-   Panglobishia ääntäminen ja kirjoitus ovat säännöllisiä.
+   Pangloa ääntäminen ja kirjoitus ovat säännöllisiä.
    Kaikki sanat äännetään täsmälleen niin kuin ne on kirjoitettu.
    Melkein kaikki kirjaimet ja kirjainyhdistelmät tarkoittavat aina samaa äännettä.
 3. **Säännöllinen painotus:**
@@ -53,6 +53,6 @@ Poikkeuksia ei ole.
    Lauseen sanajärjestys on subjekti – verbi – objekti.
    Samaa sanajärjestystä käytetään kaikissa lauseissa mukaan lukien kysymyslauseet ja sivulauseet.
 10. **Sanojen johtaminen:**
-   Panglobishin sanat muuttavat muotoaan vain kun niiden merkitys muuttuu.
+   Panglon sanat muuttavat muotoaan vain kun niiden merkitys muuttuu.
    Sanat eivät koskaan muutu vain kieliopillista tarkoitusta varten.
 

@@ -1,41 +1,41 @@
 # HALO DUNIA!  
 
-![](http://www.kupsala.net/panglobish/grafe/Freepik_halo_globe.png)  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Terve, maailma!
-Tervetuloa oppimaan panglobishia,
+Tervetuloa oppimaan pangloa,
 kansainvälistä liiketoimintaa ja ystävyyttä varten luotua apukieltä.
 
-## Mitä panglobish on?
+## Mitä panglo on?
 
-**Panglobish** (tai lyhyemmin **panglo**) on yksinkertainen kieli,
+**Panglo** on yksinkertainen kieli,
 jonka tehtävä on auttaa ihmisiä puhumaan keskenään
 silloin kun he eivät osaa muuta yhteistä kieltä.
 
-Kaikki panglobishin sanat ovat kansainvälisiä.
+Kaikki panglon sanat ovat kansainvälisiä.
 Perussanat muistuttavat englannin sanoja
 ja loput sanat tulevat muista kansainvälisesti tärkeistä kielistä,
 mukaan lukien ranska, espanja, japani, kiina, venäjä, arabia, hindi ja swahili.
 
-Panglobish on yhteensopivaa englannin kanssa perustasolla.
+Panglo on yhteensopivaa englannin kanssa perustasolla.
 Se on kuin englannin yksinkertaistettu muoto, jota puhutaan vieraalla korostuksella.
-Voit siis käyttää panglobishia heti kaikkialla maailmassa, missä englantia puhutaan,
+Voit siis käyttää pangloa heti kaikkialla maailmassa, missä englantia puhutaan,
 sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaamiseen ja matkamuistojen ostamiseen.
 
-Panglobish on säännöllinen ja yksinkertainen.
+Panglo on säännöllinen ja yksinkertainen.
 Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisiä kieliä.
-Panglobishissa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
-Panglobish on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_regule.md).
-Kaikki voivat oppia panglobishin alkeet lyhyessä ajassa!
+Panglossa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
+Panglo on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_regule.md).
+Kaikki voivat oppia panglon alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
-On parempi puhua hyvää panglobishia kuin huonoa englantia.
+On parempi puhua hyvää pangloa kuin huonoa englantia.
 
-Panglobishin kielioppi on [täällä yhdellä verkkosivulla](pan.md) ja [täällä PDF-tiedostona](pan.pdf).
+Panglon kielioppi on [täällä yhdellä verkkosivulla](pan.md) ja [täällä PDF-tiedostona](pan.pdf).
 
-## Panglobishin perusteet
+## Panglon perusteet
 
-Panglobishia kirjoitetaan latinalaisilla aakkosilla:  
+Pangloa kirjoitetaan latinalaisilla aakkosilla:  
 A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
 Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
@@ -49,14 +49,14 @@ Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 Vokaalit äännetään kuten suomessa.
 Painottomissa tavuissa kirjain **E** ääntyy keskisenä vokaalina /ə/.
 
-Panglobishia kirjoitetaan melkein äänteenmukaisesti.
+Pangloa kirjoitetaan melkein äänteenmukaisesti.
 Yksi äänne = yksi kirjain tai kirjainyhdistelmä.
 
 Lyhyissä sanoissa painotetaan ensimmäistä tavua ja pitemmissä sanoissa toista tavua.  
 **méni pérson kán tóke da Énglish in Amérika.**
 – Monet ihmiset osaavat puhua englantia Amerikassa.
 
-Kaikki panglobishin sanat ovat taipumattomia.
+Kaikki panglon sanat ovat taipumattomia.
 Sanoja ei siis taivuteta lainkaan persoona-, aika-, tapa- tai sijamuodoissa.
 
 Lauseen sanajärjestys on subjekti–verbi–objekti,
@@ -116,8 +116,8 @@ Aika ilmaistaan apusanoilla:
 – Me olemme lukeneet monta kirjaa.  
 **mi is ride un buke.**
 – Minä olen lukemassa yhtä kirjaa.  
-**yu wil toke Panglobish.**
-– Te tulette puhumaan panglobishia.
+**yu wil toke Panglo.**
+– Te tulette puhumaan pangloa.
 
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
 esim. onko se toteamus, kysymys vai käsky.  
@@ -131,19 +131,18 @@ esim. onko se toteamus, kysymys vai käsky.
 
 ## Käytä sitä!
 
-Kuten yllä olevista maistiaisista huomaat, panglobishin perusteet on kenen tahansa helppo oppia.
+Kuten yllä olevista maistiaisista huomaat, panglon perusteet on kenen tahansa helppo oppia.
 Se on vielä helpompaa, jos puhut edes jonkin verran englantia!
-Panglobishia on myös helppo alkaa käyttää välittömästi.
+Pangloa on myös helppo alkaa käyttää välittömästi.
 Älä siis odota!
-Kokeile panglobishia kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaisten kanssa kun olet matkoilla.
+Kokeile pangloa kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaisten kanssa kun olet matkoilla.
 Se toimii!
 
-Tällä hetkellä voit kokeilla panglobishia ainakin meidän
+Tällä hetkellä voit kokeilla pangloa ainakin meidän
 [Facebook-ryhmässämme](https://www.facebook.com/groups/panglobish),
 [Reddit-foorumillamme](https://www.reddit.com/r/panglobish/)
 ja [Telegram-keskustelukanavallamme](https://t.me/+1AzKvH6RjZhmZmIy).
 
-Panglobishia ei harrasta vielä monikaan,
-mutta jos _sinä_ pidät panglobishia hyvänä ideana, niin myös _muut_ ajattelevat samoin.
-Eli ala käyttämään panglobishia ja tehdään siitä yhdessä maailman yhteinen kieli!
-
+Pangloa ei harrasta vielä monikaan,
+mutta jos _sinä_ pidät pangloa hyvänä ideana, niin myös _muut_ ajattelevat samoin.
+Eli ala käyttämään pangloa ja tehdään siitä yhdessä maailman yhteinen kieli!

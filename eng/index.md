@@ -1,39 +1,39 @@
 # HALO DUNIA!  
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_halo_globe.png)  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Hello world!
-Welcome to learn about Panglobish, the helping language for international business and friendship.
+Welcome to learn about Panglo, the helping language for international business and friendship.
 
-## What is Panglobish?
+## What is Panglo?
 
-**Panglobish** (or, more casually, **Panglo**) is a simple language that helps people to talk with each other
+**Panglo** is a simple language that helps people to talk with each other
 when they don't have any other language in common.
 
-All words in Panglobish are international.
+All words in Panglo are international.
 The basic words are similar to English
 and the rest come from other important languages,
 including French, Spanish, Japanese, Chinese, Russian, Arabic, Hindi and Swahili.
 
-Panglobish is compatible with English on a basic level.
+Panglo is compatible with English on a basic level.
 It's like a simplified version of English that is spoken with a foreign accent.
-So you can use Panglobish already now everywhere in the world where English is understood
+So you can use Panglo already now everywhere in the world where English is understood
 to get a hotel room, to order a taxi, to buy souvenirs and to do many other things.
 
-Panglobish is regular and simple.
+Panglo is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
-There aren't any exceptions or complex grammatical rules in Panglobish.
-Panglobish is so simple that its basic grammar can be described in [only ten rules](100_baze_regule.md).
-Everybody can learn Panglobish to a good level in a short period of time!
-Panglobish is an excellent choice for the global second language because it improves the quality of international communication.
-It's better to speak good Panglobish than bad English.
+There aren't any exceptions or complex grammatical rules in Panglo.
+Panglo is so simple that its basic grammar can be described in [only ten rules](100_baze_regule.md).
+Everybody can learn Panglo to a good level in a short period of time!
+Panglo is an excellent choice for the global second language because it improves the quality of international communication.
+It's better to speak good Panglo than bad English.
 
-The Panglobish grammar is [here in one web page](pan.md) and [here in one PDF file](pan.pdf).
+The Panglo grammar is [here in one web page](pan.md) and [here in one PDF file](pan.pdf).
 
-## The Basics of Panglobish
+## The Basics of Panglo
 
-Panglobish is written in the English/Latin alphabet:  
+Panglo is written in the English/Latin alphabet:  
 A B C Ch D E F G H I J K L M N O P R S Sh T U V W X Y Z
 
 Only one letter is pronounced different than what is normal in English:
@@ -42,14 +42,14 @@ Only one letter is pronounced different than what is normal in English:
 All the vowels are pure vowels.
 The letter **E** is pronounced as the central vowel /ə/ in unaccented syllables.
 
-The spelling of Panglobish is nearly phonetic.
+The spelling of Panglo is nearly phonetic.
 One sound = one letter.
 
 The stressed syllable is the first one in short words and the second one in longer words.  
 **méni pérson kán tóke da Énglish in Amérika.**
 – Many people can speak English in America.
 
-Words stay always the same in Panglobish.
+Words stay always the same in Panglo.
 There aren't any special _inflected_ forms for cases, tenses, moods, singular and plural etc.
 
 The normal word order is subject–verb–object
@@ -57,7 +57,7 @@ so the doer comes first, then the action word and finally the object of the acti
 **mi love yu.**
 – I love you.
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/panglo/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
@@ -108,8 +108,8 @@ Time is expressed with helping verbs:
 – We have read many books.  
 **mi is ride un buke.**
 – I am reading one book.  
-**yu wil toke Panglobish.**
-– You will talk Panglobish.
+**yu wil toke Panglo.**
+– You will talk Panglo.
 
 A sentence-final particle expresses why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
@@ -123,19 +123,19 @@ i.e. is the sentence, for example, a statement, a question or a command.
 
 ## Use it!
 
-As you can see, it's easy to learn the basics of Panglobish,
+As you can see, it's easy to learn the basics of Panglo,
 and it's even easier for you because you speak English!
 It's also easy to start using the language immediately.
 So don't wait!
 Use it with your friends in everyday life or try it with strangers when you are traveling.
 It works!
 
-At the moment you can speak Panglobish in our [Facebook group](https://www.facebook.com/groups/panglobish),
+At the moment you can speak Panglo in our [Facebook group](https://www.facebook.com/groups/panglobish),
 [Reddit forum](https://www.reddit.com/r/panglobish/)
 and [Telegram chat room](https://t.me/+1AzKvH6RjZhmZmIy).
 
 
 There aren't many speakers yet
-but if _you_ think Panglobish is a good idea, then _others_ will think so too.
-So just start using Panglobish now and let's make it together our common language!
+but if _you_ think Panglo is a good idea, then _others_ will think so too.
+So just start using Panglo now and let's make it together our common language!
 

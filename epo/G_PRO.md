@@ -1,6 +1,6 @@
 ## Personaj pronomoj
 
-La personaj pronomoj en Panglobiŝo estas:
+La personaj pronomoj en Panglo estas:
 
 | Persono| Singularaj           | Pluralaj           |
 |--------|----------------------|--------------------|
@@ -8,7 +8,7 @@ La personaj pronomoj en Panglobiŝo estas:
 | 2a     | **tu** (_ci_)        | **yu** (_vi ĉiuj_) |
 | 3a     | **he** (_li aŭ ŝi_)  | **de** (_ili_)     |
 
-Ĉiuj pronomoj estas neŭtralaj pri genro en Panglobiŝo.
+Ĉiuj pronomoj estas neŭtralaj pri genro en Panglo.
 Ni ne distingas la seksojn per la pronomoj.
 Do la tria singulara pronomo **he** signifas kaj _li_ kaj _ŝi_ (same kiel _ri_).
 

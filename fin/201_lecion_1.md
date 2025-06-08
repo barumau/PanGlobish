@@ -2,7 +2,7 @@
 
 ## Dialogi 1
 
-![](http://www.kupsala.net/panglobish/grafe/Freepik_halo.png)  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 
 <big>👨🏾</big>
@@ -52,14 +52,14 @@
 
 ## Kielioppia
 
-Panglobish on helposti opittava kieli.
+Panglo on helposti opittava kieli.
 Se on erityisen helppoa, jos osaat ennestään jonkin verran englantia,
 mutta se on helppoa silloinkin, jos et osaa englantia,
-koska panglobish on täysin säännöllinen kieli.
+koska panglo on täysin säännöllinen kieli.
 
 ### Persoonapronominit
 
-Panglobishin persoonapronominit ovat:
+Panglon persoonapronominit ovat:
 
 | Yksikkö                    | Monikko                    |
 |----------------------------|----------------------------|
@@ -67,9 +67,9 @@ Panglobishin persoonapronominit ovat:
 | **tu** – _sinä_            | **yu** – _te_              |
 | **he** – _hän_             | **de** – _he_              |
 
-Persoonapronominit ovat taipumattomia niin kuin kaikki panglobishin sanat.
+Persoonapronominit ovat taipumattomia niin kuin kaikki panglon sanat.
 Samaa sanamuotoa käytetään siis kaikissa tilanteissa ja kaikissa "sijamuodoissa".
-Panglobishista siis puuttuu englannin kaltaiset taivutusmuodot kuten "I" ja "me" taikka "we" ja "us".
+Panglosta siis puuttuu englannin kaltaiset taivutusmuodot kuten "I" ja "me" taikka "we" ja "us".
 
 **mi mite yu.**
 – Minä tapaan teidät.  
@@ -116,14 +116,14 @@ Sana **name** (nimi) on sama sekä yksikössä että monikossa.
 **de's name is Mari en Yusef.**
 – Heidän nimet ovat Mari ja Yusef.
 
-Panglobish on vapaa kaikista taivutusmuodoista, konjugaatioista, deklinaatioista ja sen sellaisista.
+Panglo on vapaa kaikista taivutusmuodoista, konjugaatioista, deklinaatioista ja sen sellaisista.
 Sanat eivät muutu!
 Se on niin yksinkertaista.
 
 
 ## Harjoituksia
 
-Käännä seuraavat lauseet suomesta panglobishiksi.
+Käännä seuraavat lauseet suomesta pangloksi.
 Oikeat vastaukset ovat sanaston jälkeen.
 
 1. Hänen nimensä on Adam.

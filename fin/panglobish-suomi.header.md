@@ -1,9 +1,9 @@
-# Panglobish–suomi-sanasto
+# Panglo–suomi-sanasto
 
-Tämä sanasto sisältää panglobishin sanoja ja niiden käännöksiä suomen kielelle.
-Sanasto on järjestetty aakkosjärjestykseen panglobishin sanojen mukaan.
+Tämä sanasto sisältää panglon sanoja ja niiden käännöksiä suomen kielelle.
+Sanasto on järjestetty aakkosjärjestykseen panglon sanojen mukaan.
 
-Jokainen hakusana koostuu panglobishin sanasta tai yhdyssanasta ja sen suomennoksesta.
+Jokainen hakusana koostuu panglon sanasta tai yhdyssanasta ja sen suomennoksesta.
 Yhtä suomennosta käytetään silloin,
 kun sanojen merkitykset ovat lähellä toisiaan tai täsmälleen samoja kummassakin kielessä.
 

@@ -1,7 +1,7 @@
 # Sentence structure
 
 
-    Figure. The sentence structure in Panglobish.
+    Figure. The sentence structure in Panglo.
     
     ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌──────────┐ ┌────────────────┐
     │ subject │ │   verb  │ │ object  │ │ prep.phr.│ │ modal particle │
@@ -11,7 +11,7 @@
 ## Prepositions
 
 A prepositions begins a preposition phrase that tells additional information about the event that the sentence is about.
-There are a handful of real prepositions in Panglobish, as listed below,
+There are a handful of real prepositions in Panglo, as listed below,
 and the others are verbs that can function in the same way as prepositions.
 
 **a**

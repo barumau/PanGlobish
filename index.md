@@ -1,10 +1,10 @@
-ENG : [Learn about PanGlobish in English](english/index.md)
+ENG : [Learn about Panglo in English](english/index.md)
 
-EPO : [Lernu pri Duniŝo en Esperanto](esperanto/index.md)
+EPO : [Lernu pri Panglo en Esperanto](esperanto/index.md)
 
-FIN : [Tutustu panglobishhiin suomeksi](suomi/index.md)
+FIN : [Tutustu pangloon suomeksi](suomi/index.md)
 
-THA : [เรียนภาษาPanGlobishเป็นภาษาไทย](tai/index.md)
+THA : [เรียนภาษาPangloเป็นภาษาไทย](tai/index.md)
 
 
 

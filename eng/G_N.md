@@ -3,22 +3,22 @@
 A noun is a word that functions as the name of some specific thing or set of things,
 such as living creatures, objects, places, actions, qualities, states of existence, or ideas.
 
-Nouns are unchanging in Panglobish.
+Nouns are unchanging in Panglo.
 The same form of the word is used regardless of number and definiteness.
 Number, definiteness and other categories are expressed by separate words.
 
 
 ## Number
 
-In Panglobish, nouns are the same in all numbers.
+In Panglo, nouns are the same in all numbers.
 Nouns don't change to indicate is there one (i.e. singular) or many (i.e. plural)
 instances of the thing that the noun refers to.
 So it's not like English where the singular and the plural of nouns are usually different:
 one _man_ but many _men_, one _ox_ but many _oxen_, one _cat_ but many _cats_.
-Rather, all Panglobish words are like the word "sheep" is in English,
+Rather, all Panglo words are like the word "sheep" is in English,
 which you count one sheep, two sheep, three sheep, etc.
 
-In Panglobish, the number of things is indicated with number words and other quantity words.
+In Panglo, the number of things is indicated with number words and other quantity words.
 
 **un haus**
 – one house  
@@ -50,7 +50,7 @@ and if you don’t know what you want, you use an indefinite article.
 
 ### Indefinite articles
 
-There are two indefinite articles in Panglobish,
+There are two indefinite articles in Panglo,
 **un** is used when we refer to _one_ non-specific thing,
 and **som** is used when we refer to _many_ things.
 
@@ -67,7 +67,7 @@ and **som** is used when we refer to _many_ things.
 
 ### Definite articles
 
-There are two definite articles in Panglobish,
+There are two definite articles in Panglo,
 **da** is used when we refer to _one_ specific thing,
 and **di** is used when we refer to _many_ things.
 
@@ -84,9 +84,9 @@ and **di** is used when we refer to _many_ things.
 
 ## Proper names
 
-### Adaptation to Panglobish
+### Adaptation to Panglo
 
-Proper names are typically adapted to the writing system of Panglobish.
+Proper names are typically adapted to the writing system of Panglo.
 For example, it is obviously better to use
 **Moskva** (Moscow) instead of "Москва",
 and **Beijing** (Peking) instead of "北京"

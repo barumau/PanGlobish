@@ -1,7 +1,7 @@
 # Nombrovortoj
 
-La bazaj nombroj aŭdiĝas preskaŭ same en Panglobiŝo kaj la angla.
-Tamen pli grandaj nombroj estas pli logike aranĝitaj en Panglobiŝo.
+La bazaj nombroj aŭdiĝas preskaŭ same en Panglo kaj la angla.
+Tamen pli grandaj nombroj estas pli logike aranĝitaj en Panglo.
 
 | Unuj    | Dek kaj plie | 20 kaj plie      | 30 kaj plie      |
 |:--------|:-------------|:-----------------|:-----------------|
@@ -38,12 +38,12 @@ Pli grandaj nombroj sekvas la saman logikon.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Notu! La vortoj "billion" kaj "milliard" ne estas uzata en Panglobiŝo
+Notu! La vortoj "billion" kaj "milliard" ne estas uzata en Panglo
 ĉar ilia uzado estas malsama inter landoj.
 Anstataŭ on devus diri **tauzen milion** (mil milionoj) aŭ **giga**.
 
 La prefiksoj de la [Internacia sistemo de unuoj](https://eo.wikipedia.org/wiki/Internacia_sistemo_de_unuoj)
-(SI) estas uzataj en normala parolado en Panglobiŝo.
+(SI) estas uzataj en normala parolado en Panglo.
 Ekzemple, oni dirus normale:  
 **eite giga person is live in Dunia.**  
 – Ok miliardoj da homoj vivas en la Mondo.

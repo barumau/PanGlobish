@@ -1,17 +1,17 @@
 # Spelling and pronunciation
 
-Panglobish is phonetic in two directions:
+Panglo is phonetic in two directions:
 
 1. When you read a word, you can always pronounce it.
 2. When you hear a word, you can almost always write it.
    (Foreign names can be an exception.)
 
 Once you have learned the few rules and the way letters are pronounced,
-you can read Panglobish aloud and be understood.
+you can read Panglo aloud and be understood.
 
 ## Basic Latin Alphabet
 
-Panglobish is written in the basic Latin alphabet – the same as English!
+Panglo is written in the basic Latin alphabet – the same as English!
 It doesn't have any of the accented letters, which are different from language to language.
 So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
 
@@ -19,16 +19,16 @@ So it can be typed, printed and used with computers and smart devices in most co
 
 ## Sounds
 
-Panglobish has its own sound system and its own spelling system
+Panglo has its own sound system and its own spelling system
 that are mostly similar to those of the languages of continental Europe and Latin America.
 
 ### Vowels
 
-Panglobish has six oral vowels.
+Panglo has six oral vowels.
 They are represented by the five vowel letters A, E, I, O and U in the writing system,
 where E represents both /e/ and /ə/.
 
-| Panglobish | IPA  | Pronunciation advise |
+| Panglo | IPA  | Pronunciation advise |
 |:------:|:----:|:---------------------|
 | A      | /a/  | As in _father_. |
 | E      | /e/  | As in _bet_ when it is in accented syllable. |
@@ -43,10 +43,10 @@ which are pronounced as the consecutive vowels with or without a hiatus in betwe
 
 ### Consonants
 
-Panglobish has 21 consonant sounds.
+Panglo has 21 consonant sounds.
 They are represented in the writing system by 19 Latin letters and their combinations.
 
-| Panglobish | IPA  | Pronunciation advise |
+| Panglo | IPA  | Pronunciation advise |
 |:------:|:----:|:---------------------|
 | B      | /b/  | |
 | C      | /ts/ | Like _ts_ in _bits_ or alternatively like _c_ in _city_. |
@@ -75,10 +75,10 @@ They are represented in the writing system by 19 Latin letters and their combina
 ## External Sounds
 
 There are also additional letters and letter-combinations, which can be used only in _external words_,
-which do not belong to the  common Panglobish vocabulary, like names of specific places and individual people.
-They are not used in any common Panglobish words.
+which do not belong to the  common Panglo vocabulary, like names of specific places and individual people.
+They are not used in any common Panglo words.
 
-| Panglobish | IPA  | Pronunciation advise |
+| Panglo | IPA  | Pronunciation advise |
 |:------:|:----:|:---------------------|
 | Kh     | /x/  | Voiceless velar fricative, like _ch_ in _Loch_ in Scottish. |
 | Gh     | /ɣ/  | Voiced velar fricative |
@@ -98,11 +98,11 @@ It's OK if you don't know how to pronounce any of these sounds.
 Just pronounce the first letter and ignore the H.
 
 For example, the capital of Greece is called "Αθήνα" /aθina/ in the local language, Greek.
-The Panglobish version of this name is "Athina".
+The Panglo version of this name is "Athina".
 It can be pronounced either /aθina/ (as the Greek do) or /atina/ (in the simplified international accent).
 We want to preserve the sound of this word as much as possible,
 but we can't use any of the non-Latin letters,
-so it becomes "Athina" in Panglobish.
+so it becomes "Athina" in Panglo.
 
 Examples:  
 **Athina** Athens (the capital of Greece)  
@@ -113,7 +113,7 @@ Examples:
 
 ## Word Structure
 
-Panglobish words are structurally rather simple.
+Panglo words are structurally rather simple.
 A syllable can include in maximum:
 
 - one initial consonant
@@ -130,7 +130,7 @@ like **tekne** (_technique_), **akse** (_axis_), **etne** (_ethnicity_) and **ri
 
 ## Adapting Loan Words
 
-As a general rule, loan words are adapted to the phonetic spelling system of Panglobish.
+As a general rule, loan words are adapted to the phonetic spelling system of Panglo.
 This rule is applied to both common words and proper names.
 
 ### Common words
@@ -139,30 +139,30 @@ A common word refers to a thing as a member of a group, not as an individual.
 For example _dog_ is a common word but _Mutt_ is not, it is a proper name.
 
 Common words, which are in general use, must fit into the normal word structure,
-and they can include only the normal sounds of Panglobish.
+and they can include only the normal sounds of Panglo.
 
-Most Panglobish words are structurally simpler than the corresponding English words.
+Most Panglo words are structurally simpler than the corresponding English words.
 Difficult consonant groups are avoided in the beginning, middle and end of words,
-so _state_ becomes **estate**, _actor_ becomes **ater**, and _saint_ becomes **sante** in Panglobish.
-Also final stop consonants are avoided, so for example _good_ becomes **gude** in Panglobish.
+so _state_ becomes **estate**, _actor_ becomes **ater**, and _saint_ becomes **sante** in Panglo.
+Also final stop consonants are avoided, so for example _good_ becomes **gude** in Panglo.
 
-Panglobish doesn't have the TH sounds that exist in English,
+Panglo doesn't have the TH sounds that exist in English,
 so they are usually realized as T and D in words that are borrowed from English.
 For example **da** (_the_), **de** (_they_), **tri** (_three_), and **ting** (_thing_).
 
 ### Proper names
 
 Infrequently used common nouns and proper nouns can be more complex than ordinary words,
-and they can include external sounds that don't belong to the normal sound inventory of Panglobish.
+and they can include external sounds that don't belong to the normal sound inventory of Panglo.
 
-For example, family name _Smith_ may remain **Smith** in Panglobish,
-although it is structurally more complex than common Panglobish words, and
+For example, family name _Smith_ may remain **Smith** in Panglo,
+although it is structurally more complex than common Panglo words, and
 it has the external TH sound.
 
 
 ## Large and Small Letters
 
-Both large and small letters (i.e. upper-case and lower-case letters) are used in writing Panglobish.
+Both large and small letters (i.e. upper-case and lower-case letters) are used in writing Panglo.
 
 Large letters are used in two situations:
 to begin a proper name,
@@ -173,7 +173,7 @@ The first word of sentences is not capitalized.
 #### Proper names
 
 Personal names and other proper names are capitalized mostly in the same way as in English.
-For example _Thomas Stearns Eliot_ is written **Tomas Sternz Eliot** in Panglobish,
+For example _Thomas Stearns Eliot_ is written **Tomas Sternz Eliot** in Panglo,
 and it can be abbreviated to initial letters variously
 **Tomas S Eliot**, **TS Eliot** and **TSE**.
 

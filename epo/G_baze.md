@@ -1,13 +1,13 @@
-# La 10 reguloj de Panglobiŝo
+# La 10 reguloj de Panglo
 
-Panglobiŝo estas tiel simple ke ĝia baza gramatiko povas esti priskribita per nur dek reguloj,
+Panglo estas tiel simple ke ĝia baza gramatiko povas esti priskribita per nur dek reguloj,
 kiuj enhaviĝas en unu paĝo de papiro.
-Panglobiŝo ne enhavas esceptojn.
+Panglo ne enhavas esceptojn.
 
 1. **Mondaj vortoj:**
-   Panglobiŝo estas egale monda lingvo.
-   Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Panglobiŝo.
-   Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Panglobiŝo.
+   Panglo estas egale monda lingvo.
+   Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Panglo.
+   Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Panglo.
    Unu baza radiko estas prenita kaj aldonaj vortoj estas konstuitaj el ĝi laŭ regulo la 10a regulo.
 2. **Prononcado kaj skribado:**
    La skribsistemo estas simple kaj laŭregule.
@@ -51,6 +51,6 @@ Panglobiŝo ne enhavas esceptojn.
 9. **Vortordo:**
    La normala vortordo estas subjekto – verbo – objekto, kaj en deklaroj kaj demandoj ktp.
 10. **Vortokonstruado:**
-   En Panglobiŝo, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
+   En Panglo, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
    Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn.
 

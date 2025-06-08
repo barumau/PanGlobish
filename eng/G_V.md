@@ -1,6 +1,6 @@
 # Verbs
 
-Verbs are unchanging in Panglobish.
+Verbs are unchanging in Panglo.
 They don't change in person, number and time like in English.
 Verbs are not conjugated at all.
 
@@ -24,12 +24,12 @@ There is normally a particle of time before the verb, when the subject is a noun
 
 ## Time
 
-Panglobish does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
+Panglo does not have grammatical markers for tense i.e. a verb's position in time (past, present, or future).
 Ordinary expressions of time,
 such as **laste dei** (yesterday), **neste dei** (tomorrow), and **nau** (now),
 can be used for telling when exactly something happened.
 
-Panglobish does have grammatical words for expressing temporal aspects.
+Panglo does have grammatical words for expressing temporal aspects.
 Aspects describe how an event can be viewed in relation to other events in time.
 
 - The progressive aspect (**is**) indicates an event that is ongoing.
@@ -109,8 +109,8 @@ It is marked with **haf** before the verb.
 The future aspect describes that the situation will probably take place after the time under consideration.
 It is marked with **wil** before the verb.
 
-**wi wil toke da Panglobish.**
-– We will speak Panglobish.  
+**wi wil toke da Panglo.**
+– We will speak Panglo.  
 **mi wil bi yu's frende.**
 – I will be your friend.
 
@@ -121,7 +121,7 @@ identity or sameness (ex. "She _is_ Maria"),
 membership of a class (ex. "The cat _is_ an animal"),
 and properties (ex. "The sky _is_ blue").
 
-In Panglobish, **bi** is a normal, unchanging verb.
+In Panglo, **bi** is a normal, unchanging verb.
 The aspect markers can be used together with **bi**.
 
 **mi is bi hapi.**
@@ -171,7 +171,7 @@ The helping verb **du** marks the following verb as an infinitive.
 **du love**
 – to love
 
-![](http://www.kupsala.net/PanGlobish/grafe/du_bi_or_no_du_bi.png)  
+![](http://www.kupsala.net/Panglo/grafe/du_bi_or_no_du_bi.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 An infinitive verb can function as a subject or object.

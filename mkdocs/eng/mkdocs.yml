@@ -9,22 +9,22 @@ extra_css:
     - extra.css
 nav:
     - 'Grammar':
-        - 'The 10 rules': G_baze.md
-        - 'World Words': I_lexe.md
-        - 'Spelling and pronunciation': G_ABC.md
+        - 'The 10 rules': G-baze.md
+        - 'World Words': L-lexe.md
+        - 'Spelling and pronunciation': G-ABC.md
         - 'Regular Accent': 103_aksente.md
-        - Nouns : G_N.md
+        - Nouns : G-N.md
         - Numerals: G_NUM.md
-        - Modifiers: G_ADJ.md
-        - Pronouns: G_PRO.md
-        - Verbs: G_V.md
+        - Modifiers: G-ADJ.md
+        - Pronouns: G-PRN.md
+        - Verbs: G-V.md
         - 'Sentence Structure': 109_lexe_orde.md
-        - 'Word building': G_AFX.md
+        - 'Word building': G-AFX.md
     - Lessons:
         - 'Lesson 1': 201_lecion_1.md
         - 'Lesson 2': 202_lecion_2.md
     - 'About':
-        - 'The idea': I_idea.md
+        - 'The idea': I-idea.md
         - 'PanGlobish vs English': I_Panglo_vs_English.md
     - Vocabulary:
         - "PanGlobish–English" : panglobish-english.md

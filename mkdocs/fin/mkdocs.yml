@@ -9,19 +9,19 @@ extra_css:
     - extra.css
 nav:
     - 'Kielioppi':
-        - '10 sääntöä': G_baze.md
-        - 'Kansainväliset sanat': I_lexe.md
-        - 'Kirjoitus ja ääntäminen': G_ABC.md
+        - '10 sääntöä': G-baze.md
+        - 'Kansainväliset sanat': L-lexe.md
+        - 'Kirjoitus ja ääntäminen': G-ABC.md
         - 'Sanojen painotus': 103_aksente.md
-        - Substantiivit : G_N.md
+        - Substantiivit : G-N.md
         - Lukusanat: G_NUM.md
-        - Pronominit: G_PRO.md
-        - Verbit: G_V.md
-        - 'Sanojen johtaminen': G_AFX.md
+        - Pronominit: G-PRN.md
+        - Verbit: G-V.md
+        - 'Sanojen johtaminen': G-AFX.md
     - Oppitunteja:
         - '1. oppitunti': 201_lecion_1.md
     - 'Taustatietoja':
-        - 'Idea': I_idea.md
+        - 'Idea': I-idea.md
         - 'Panglobish vs. englanti': I_Panglo_vs_English.md
     - Sanasto:
         - "Panglobish–suomi" : panglobish-suomi.md

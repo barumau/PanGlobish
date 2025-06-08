@@ -9,19 +9,19 @@ extra_css:
     - extra.css
 nav:
     - 'Gramatiko':
-        - 'La 10 reguloj': G_baze.md
-#        - 'Mondaj vortoj': I_lexe.md
-#        - 'Prononcado kaj skribado': G_ABC.md
+        - 'La 10 reguloj': G-baze.md
+#        - 'Mondaj vortoj': L-lexe.md
+#        - 'Prononcado kaj skribado': G-ABC.md
 #        - 'Laŭregula akcento': 103_aksente.md
-#        - Substantivoj : G_N.md
+#        - Substantivoj : G-N.md
         - Nombrovortoj: G_NUM.md
-        - Pronomoj: G_PRO.md
-#        - Verboj: G_V.md
-#        - Vortfarado: G_AFX.md
+        - Pronomoj: G-PRN.md
+#        - Verboj: G-V.md
+#        - Vortfarado: G-AFX.md
 #    - Lecionoj:
 #        - '1a leciono': 201_lecion_1.md
 #    - 'Pri Panglo':
-#        - 'La ideo': I_idea.md
+#        - 'La ideo': I-idea.md
 #        - 'Panglo kontraŭ la angla': I_Panglo_vs_English.md
     - Vortaro:
         - "Panglobiŝo–Esperanto" : panglobish-esperanto.md

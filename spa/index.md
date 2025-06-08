@@ -4,41 +4,41 @@ hide:
   - toc
 ---
 
-# Pandunía
+# Panglo
 
 **sal, dunia!**
 – ¡Hola, mundo!
 
-¡Les damos la bienvenida a Pandunía, el idioma auxiliar que es equitativo a nivel global! 
+¡Les damos la bienvenida a Panglo, el idioma auxiliar que es equitativo a nivel global! 
 
-![](http://www.panglo.info/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
-## ¿Qué es Pandunía?
+## ¿Qué es Panglo?
 
-Pandunía es una lengua auxiliar internacional, es decir, es una lengua diseñada
+Panglo es una lengua auxiliar internacional, es decir, es una lengua diseñada
 para ser utilizada en la comunicación internacional, en cualquier lugar del
 mundo, como complemento a otros idiomas.
 
-Todas las palabras de Pandunía son internacionales.
+Todas las palabras de Panglo son internacionales.
 Las palabras básicas son parecidas a las inglesas
 y las demás provienen de otros idiomas importantes,
 como el Español, Chino, Francés, Japonés, Hindi, Ruso, Árabe y Swahili.
 
-Pandunía es compatible con el inglés en su parte básica. Por lo cual podemos utilizar el Pandunía en los lugares del mundo en donde entiendan el Inglés
+Panglo es compatible con el inglés en su parte básica. Por lo cual podemos utilizar el Panglo en los lugares del mundo en donde entiendan el Inglés
 para pedir una habitación de un hotel, para pedir un taxi, para comprar regalos o hacer muchas cosas similares.
 
 Panglo es regular y simple.
 Entonces podrá ser aprendido mucho más fácil y rápido que el Inglés u otros idiomas nacionales.
-No existen excepciones gramaticales ni reglas complicadas en Pandunía.
-Pandunía es tan simple que su gramática básica se puede describir en [tan solo diez reglas](B01_baze_kanun.md).
-¡Cualquiera puede aprender Pandunía en poco tiempo!
+No existen excepciones gramaticales ni reglas complicadas en Panglo.
+Panglo es tan simple que su gramática básica se puede describir en [tan solo diez reglas](G-baze.md).
+¡Cualquiera puede aprender Panglo en poco tiempo!
 Panglo puede ler una excelente elección como segundo lenguaje global
 porque esto podría mejorar la calidad de la comunicación internacional. 
 
 ## ¡Aprende ahora!
 
-Pandunía está escrito con el alfabeto latino (usado en Español e inglés)
+Panglo está escrito con el alfabeto latino (usado en Español e inglés)
 A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
 Las únicas letras que no son como en el español son:
@@ -53,7 +53,7 @@ Las vocales son estables.
 Se pronuncian igual que en:
 <i>s<u>o</u>n t<u>u</u>s t<u>i</u>j<u>e</u>r<u>a</u>s</i>.
 
-La pronunciación en pandunía es casi fonética
+La pronunciación en panglo es casi fonética
 Un sonido = una letra.
 
 El acento cae en la vocal que está antes de la última consonante de la palabra raíz.
@@ -61,7 +61,7 @@ Los prefijos y sufijos no llevan acento o a lo mucho llevan un pequeño acento s
 **méni jén kán báshe Englísh in Amérika.**
 – Mucha gente habla inglés en América.
 
-Las palabras en Pandunía se mantienen siempre estables.
+Las palabras en Panglo se mantienen siempre estables.
 No existen casos de formas _conjugadas_ para tiempos, modos, singulares o plurales, etc. 
 El orden de las oraciones normalmente es sujeto–verbo–objeto
 quien ejecuta la acción va primero, luego va lo que se realiza y finalmente quien la recibe. 
@@ -95,16 +95,16 @@ Las palabras de comparación:
 – más (mayor);
 **les**
 – menos (menor);
-**dan**
+**az**
 – que, como; y
 **sim**
 – lo mismo, igual, tanto.
 
-**mi es mor gud dan yu.**
+**mi es mor gud az yu.**
 – Soy mejor (_más bueno_) que ustedes.  
-**no, mi es sim gud dan yu.**
+**no, mi es sim gud az yu.**
 – No, soy tan bueno como ustedes.  
-**da bi tok mor rapid dan yu.**
+**da bi tok mor rapid az yu.**
 – Él/ella habla más rápido que ustedes.
 
 El tiempo se expresa con verbos auxiliares:
@@ -124,7 +124,7 @@ El tiempo se expresa con verbos auxiliares:
 **mi bi lese un buk.**
 – Estoy leyendo un libro.  
 **yu vil tok Panglo.**
-– Hablas Pandunía.
+– Hablas Panglo.
 
 La partícula al final de la oración expresa la finalidad con la que se dijo,
 por ejemplo si era una pregunta, una orden o una afirmación.  
@@ -134,53 +134,3 @@ por ejemplo si era una pregunta, una orden o una afirmación.
 – Verdaderammente, ustedes aman el café. (afirmación)  
 **yu love kafe, ne.**
 – ¿Aman el café?, o... (busca una respuesta)
-
-
-## ¿Cómo aprenderlo?
-
-- [Lecciones con diálogos](K00_kurse.md)
-- [Tarjetas y pruebas](https://lingopolo.org/panglo/) en Lingopolo
-- [Mini lecciones con gráficos](http://www.panglo.info/panglo/mini_xula.html)
-- [Guía de conversación](B03_baze_jumla.md)
-- [Gramática de Pandunía](pan.pdf) como PDF
-- [Dicionario que permite búsquedas](http://www.panglo.info/panglo/logia.html)
-- [Orígenes de las palabras(etimología de Pandunía)](leksaslia.md)
-
-
-## Textos
-
-- [Wiki de Fandom en Pandunía](https://panglo.fandom.com/)
-
-## Artículos
-
-- [La presentación (PDF en inglés)](http://www.panglo.info/engli/Panglo-presentation.pdf)
-- [Pandunía, que es un idioma para el contacto global (PDF en inglés)](http://www.panglo.info/makal/Panglo_in_Interlinguistica_Tartuensis_10.pdf),
-  un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
-- [¿Por qué me gusta pandunía? (PDF en inglés)](http://www.panglo.info/makal/Why_do_I_like_Panglo.pdf) - opinión de estudiantes
-
-## Aprende con otros
-
-Ya hay personas interesadas en Pandunía y lo están practicando.
-Puedes encontrarles en varios lugares de internet: 
-
-- [Chat en Discord](https://discord.gg/jf5GHcHXKk)
-- Salas de chat en Telegram:
-  [plurilingüe](https://t.me/panglo_grupe) y
-  [en panglo](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- Debates en [Reddit](https://www.reddit.com/r/panglo/)
-- [Grupo de Facebook](http://www.facebook.com/groups/panglo)
-- Canal QQ: 717549404
-
-![](http://www.panglo.info/grafe/mome_loga_panglo.png "mimen baxa panglo!")  
-<small>Imagen por [Freepik](http://www.freepik.com)</small>
-
-Puedes contactar mail al creador de Pandunía, Risto Kupsala, en al
-correo electrónico [risto@panglo.info](mailto:risto@panglo.info) y en los
-lugares anteriormente citados.
-
-## Pandunía
-
-![](http://www.panglo.info/grafe/bandera.png "La bandera de Panglo")
-
-**de pan dunia, to pan dunia**  
-– de todo el mundo para todo el mundo

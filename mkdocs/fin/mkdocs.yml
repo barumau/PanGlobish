@@ -14,8 +14,8 @@ nav:
         - 'Kirjoitus ja ääntäminen': G-ABC.md
         - 'Sanojen painotus': 103_aksente.md
         - Substantiivit : G-N.md
-        - Lukusanat: G_NUM.md
-        - Pronominit: G-PRN.md
+        - Lukusanat: G-NUM.md
+        - Pronominit: G-PRO.md
         - Verbit: G-V.md
         - 'Sanojen johtaminen': G-AFX.md
     - Oppitunteja:
@@ -23,9 +23,6 @@ nav:
     - 'Taustatietoja':
         - 'Idea': I-idea.md
         - 'Panglobish vs. englanti': I_Panglo_vs_English.md
-    - Sanasto:
-        - "Panglo–suomi" : panglo-suomi.md
-        - "Suomi–panglo" : suomi-panglo.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

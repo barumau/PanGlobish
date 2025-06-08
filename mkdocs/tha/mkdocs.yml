@@ -1,26 +1,12 @@
 site_name: Panglo
-site_url: https://www.kupsala.net/panglo/tai
+site_url: https://www.kupsala.net/panglo/tha
 repo_url: https://github.com/barumau/PanGlobish/
-docs_dir: ../../tai
-site_dir: ../../html/tai
+docs_dir: ../../tha
+site_dir: ../../html/tha
 theme: material
 nav:
     - Home: 'index.md'
-#    - 'Grammar and Rules':
     - 'กฎ 10 ข้อของ Panglo': G-baze.md
-#        - 'World Words': 101_dunia_worde.md
-#        - 'Spelling and pronunciation': G-ABC.md
-#        - 'Regular Accent': 103_aksente.md
-#        - Nouns : G-N.md
-#        - Numerals: G_NUM.md
-#        - Pronouns: G-PRN.md
-#        - Verbs: G-V.md
-#        - 'Word building': 110_worde_kostruktion.md
-#    - Lessons:
-#        - 'Lesson 1': 201_lecion_1.md
-#    - 'About PanGlobish':
-#        - 'The idea': 301_idea_of_PanGlobish.md
-#        - 'PanGlobish vs English': 302_PanGlobish_vs_English.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

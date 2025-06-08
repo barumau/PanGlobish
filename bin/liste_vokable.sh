@@ -1,7 +1,7 @@
-liste_di_worde_from_PanGlobish_to_X() {
+liste_di_worde_from_Panglo_to_X() {
     filename="$2/panglo-$2.md"
     echo "make da file $filename"
-    #PanGlobish unordi
+    #Panglo unordi
     cat vokable.csv | awk -F "|" "{print \$2 \" - \" \$$1 \"  \"}" > $filename
     #morta unordi linye
     sed -i '1d' $filename
@@ -21,14 +21,14 @@ liste_di_worde_from_PanGlobish_to_X() {
        first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
        second=`echo $2 | cut -c2-`
        otre="$first$second"
-       sed -i "1s/^/# PanGlobish-$otre\n/" $filename
+       sed -i "1s/^/# Panglo-$otre\n/" $filename
     fi
     #Delete empty translations
     sed -i '/^ - /d' $filename
     sed -i '/-...$/d' $filename
 }
 
-liste_di_worde_from_X_to_PanGlobish() {
+liste_di_worde_from_X_to_Panglo() {
     filename="$2/$2-panglo.md"
     echo "make da file $filename"
     #ali bax unordi
@@ -45,7 +45,7 @@ liste_di_worde_from_X_to_PanGlobish() {
     first=`echo $2 | cut -c1 | tr [a-z] [A-Z]`
     second=`echo $2 | cut -c2-`
     otre="$first$second"
-    sed -i "1s/^/# $otre-PanGlobish\n/" $filename
+    sed -i "1s/^/# $otre-Panglo\n/" $filename
     #Delete bullets
     sed 's/• //g' -i $filename
     #Delete empty translations
@@ -62,9 +62,9 @@ fata_leksasli_liste() {
     #Sort
 #    LC_ALL=C sort -f $filename --output $filename
     #Add header row
-    sed -i "1s/^/| Panglobish | $2 | orige |\n/" $filename
+    sed -i "1s/^/| Panglo | $2 | orige |\n/" $filename
     #Add header
-    sed -i "1s/^/# Panglobish–$2 en di orige of lexe\n\n/" $filename
+    sed -i "1s/^/# Panglo–$2 en di orige of lexe\n\n/" $filename
     #Delete empty translations
     sed -i '/||/d' $filename
     #xula linye 2
@@ -73,8 +73,8 @@ fata_leksasli_liste() {
 }
 
 make_di_liste() {
-    liste_di_worde_from_X_to_PanGlobish $1 $2
-    liste_di_worde_from_PanGlobish_to_X $1 $2
+    liste_di_worde_from_X_to_Panglo $1 $2
+    liste_di_worde_from_Panglo_to_X $1 $2
     fata_leksasli_liste $1 $2
 }
 
@@ -88,7 +88,7 @@ fata_lekse_asle() {
     cat temp/ABC.txt temp/temp.txt | sed 's/\t/@/g' | LC_ALL=C sort -f | sed 's/.00/##/g' | sed 's/@/ /g'> temp/lekse.txt
     #Add two spaces to line-ends
     sed 's/$/  /' -i temp/lekse.txt
-    cat PanGlobish/loge_asle_supre.md temp/lekse.txt > PanGlobish/loge_asle.md
+    cat Panglo/loge_asle_supre.md temp/lekse.txt > Panglo/loge_asle.md
 }
 
 tarja_leksaslia_pa_angli() {
@@ -257,16 +257,16 @@ tarja_leksaslia_pa_esperanti() {
 #dos2unix vokable.csv
 sed 's/\t/|/g' -i vokable.csv
 
-# English en PanGlobish
-make_di_liste 6 english
+# English en Panglo
+make_di_liste 6 eng
 #fata_leksasli_liste 6 English
 #tarja_leksaslia_pa_angli
 
-# Esperanto en PanGlobish
-make_di_liste 23 esperanto
+# Esperanto en Panglo
+make_di_liste 23 epo
 #tarja_leksaslia_pa_esperanti
 
-# Suomi en PanGlobish
-make_di_liste 24 suomi
+# Suomi en Panglo
+make_di_liste 24 fin
 #tarja_leksaslia_pa_suomi
 

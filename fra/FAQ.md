@@ -1,5 +1,5 @@
-Foire aux questions
-==========================
+
+# Foire aux questions
 
 ## Les plus courantes
 
@@ -11,24 +11,7 @@ Pour le moment les locuteurs du Panglo se comptent en dizaines, car la langue es
 
 Apprenez le Panglo ! Parlez-le avec d'autres ! Parlez-en autour de vous ! Ecrivez des récits ou des articles, faites des vidéos, enregistrez des podcasts, écrivez des chansons, etc.
 
-Vous pouvez également nous aider en traduisant le contenu de ce site et en corrigeant les erreurs qu'il pourrait contenir. Les contenus ("le code source") de ce site sont stockés sur [GitHub](https://github.com/barumau/panglo). Si vous ne connaissez pas les principes de fonctionnement de [Git](https://fr.wikipedia.org/wiki/Git), transmettez vos changements par mail à risto@panglo.info
-
-#### Quand le Panglo a-t-il été créé ?
-
-Les créateurs du Panglo ont commencé ensemble l'élaboration d'une langue en 2005. L'idée de base était de créer une langue auxiliaire à l'échelle mondiale et pour ce faire, de nombreuses pistes ont été étudiées afin de déterminer sa structure et son vocabulaire. Le nom Panglo existait déjà en 2007, mais c'est seulement en 2016 que la langue pris sa forme "finale" - bien que les langues évoluent tout le temps !
-
-#### Que représente le drapeau Panglo ?
-
-![](http://www.panglo.info/grafe/bandera.png "Le drapeau Panglo")
-
-Le drapeau Panglo représente l'égalité mondiale. On peut y distinguer une planète bleue sur fond spatial et un signe égal superposé à la terre.
-
-#### Pourquoi la mascotte de Panglo est un ornithorynque à bec de canard ?
-
-L’ornithorynque est un animal de l’est de l’Australie.
-Ses particularités anatomiques (bec de canard, queue de castor, pieds de loutre) font de ce mammifère une créature inhabituelle, tout comme l’est le Panglo avec un mélange de mots et de grammaires des quatre coins du globe.
-
-![](http://www.panglo.info/grafe/batokrote_tena_bandir.png "Nôtre platypus")
+Vous pouvez également nous aider en traduisant le contenu de ce site et en corrigeant les erreurs qu'il pourrait contenir. Les contenus ("le code source") de ce site sont stockés sur [GitHub](https://github.com/barumau/PanGlobish). Si vous ne connaissez pas les principes de fonctionnement de [Git](https://fr.wikipedia.org/wiki/Git), transmettez vos changements par mail à risto@panglo.info
 
 
 ## Passé, présent et futur
@@ -110,14 +93,8 @@ Le Panglo est une langue analytique avec un peu d'agglutination. Il utilise des 
 Pour voir la différence, comparons une même phrase en espéranto (langue agglutinante) et en Panglo.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Panglo:  mi vol     vide   tu su     du  mei        oke         a zai.
+    Panglo:    mi van     si     tu|'s     due bele       ain         nun.
     Français:  Je veux    voir   tes       deux beaux     yeux        maintenant.
-
-#### "Salam" ne devrait-il pas signifier "paix" ?
-
-Dans de nombreuses langues, les expressions de salutation ont un rapport avec la paix, la santé ou le bien-être. Les origines du mot **salam** en Panglo remonte à la racine trilitérale sémitique SLM qui couvre une variété de significations incluant la sécurité, la sécurité, la paix et la santé. De même, le mot anglais _salutation_ (et _salut_ en français) remonte au latin "salus", qui signifie sûreté, sécurité, santé et bien-être.
-
-Ainsi, la signification du mot **salam** est plus grande que celle de la paix ; cela signifie le bien-être en général. Vous pouvez donc l'utiliser pour souhaiter du bien dans toutes sortes de situations, pas seulement quand vous rencontrez quelqu'un. Vous trouverez de nombreux exemples dans la leçon sur les [phrases courantes](B03_baze_jumla.md). 
 
 #### Pourquoi le Panglo n'emprunte des mots qu'aux langues les plus répandues ?
 

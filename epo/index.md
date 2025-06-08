@@ -24,7 +24,7 @@ ekz. por rezervi hotelĉambron, akiri taksion, aĉeti memoraĵojn, kaj fari mult
 
 Panglo estas multe pli simpla por lerni ol la angla kaj aliaj naturaj lingvoj ĉar ĝi estas regula kaj simpla.
 Ĝi ne enhavas nenecesajn regulojn, _kiujn vi nur devus scii_.
-Panglo estas tiom simpla ke ĝi baze enhavas [nur dek regulojn](100_baze_regule.md).
+Panglo estas tiom simpla ke ĝi baze enhavas [nur dek regulojn](G-baze.md).
 Ĉiuj povas lerni Panglon al bona nivelo en mallonga periodo!
 Panglo estus bonega internacia lingvo ĉar ĝi povs plibonigi komunikadon tra la mondo.
 Estas pli bone paroli bonan Panglon ol malbonan anglan.
@@ -128,7 +128,7 @@ Uzu Panglon kun viaj amikoj en ĉiutaga vivo aŭ provu ĝin kun fremduloj dum vo
 Ĝi funkcias!
 
 Nun vi povas paroli en Panglo en niaj
-[Fejsbuka grupo](https://www.facebook.com/groups/PanglobishFB/),
+[Fejsbuka grupo](https://www.facebook.com/groups/Panglobish),
 [Redditforumo](https://www.reddit.com/r/panglobish/),
 kaj [Telegramokanalo](https://t.me/Panglobish1).
 

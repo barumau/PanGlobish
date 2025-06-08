@@ -5,7 +5,7 @@ Cette page se veut être un guide de base décrivant les traits principaux du Pa
 
 ### Alphabet et sons
 
-![](http://www.panglo.info/grafe/ABC.png "a b c d e f g h i j k l m n o p r s t u v z")
+![](http://www.kupsala.net/panglo/grafe/ABC.png "a b c d e f g h i j k l m n o p r s t u v z")
 
 Les voyelles **a, e, i, o, u** sont prononcées comme dans "bas pré si pot cou".
 

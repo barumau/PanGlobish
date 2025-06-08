@@ -39,7 +39,7 @@ Le lingue parlate all'interno di una certa sfera culturale condividono parole (p
 
 Le sfere culturali sono delineate approssimativamente nella figura qui sotto.
 
-![](http://www.panglo.info/grafe/linguisticspheres.gif "Mappa delle sfere culturali")
+![](http://www.kupsala.net/panglo/grafe/linguisticspheres.gif "Mappa delle sfere culturali")
 
 
 ## Lingue del mondo e lingue mondiali
@@ -154,7 +154,7 @@ No. → Si usa il seguente criterio di selezione.
     - Se non ci sono parole interculturali, si seleziona quella che è conosciuta dal maggior numero di parlanti nativi.
 4. Si seleziona una forma per la parola che rappresenti bene il gruppo e che si adatti bene al panglo.
     - Elimina prefissi e suffissi inutili.
-    - Usa [i suoni, lo spelling e la struttura lessicale normale](102_ABC.md) del panglo.
+    - Usa [i suoni, lo spelling e la struttura lessicale normale](G-ABC.md) del panglo.
     - Assicurati che la nuova parola non sia identica o troppo simile ad altre parole già esistenti in panglo.
 
 Normalmente una parola compare in almeno due fonti linguistiche.
@@ -164,13 +164,13 @@ Solo come ultima risorsa si può accettare una parola esistente in una sola ling
 
 ## Dati statistici delle parole
 
-![](http://www.panglo.info/grafe/logasle.png "Istogramma dell'affinità lessicale")  
+![](http://www.kupsala.net/panglo/grafe/logasle.png "Istogramma dell'affinità lessicale")  
 **Figura 1.** Questo istogramma mostra la percentuale delle parole base del panglo che sono simili alla fonte linguistica.
 
-![](http://www.panglo.info/grafe/logasar.png "Aerogramma della distribuzione dell'influenza linguistica")  
+![](http://www.kupsala.net/panglo/grafe/logasar.png "Aerogramma della distribuzione dell'influenza linguistica")  
 **Figura 2.** Questo aerogramma mostra l'influenza che ciascuna fonte linguistica esercita sul panglo.
 
-![](http://www.panglo.info/grafe/konnete.png "Diagramma reticolare delle etimologie")  
+![](http://www.kupsala.net/panglo/grafe/konnete.png "Diagramma reticolare delle etimologie")  
 **Figura 3.** Questo diagramma reticolare mostra quante parole del panglo hanno in comune tra loro le fonti linguistiche.
 
 La figura 3 è un diagramma reticolare delle 21 fonti linguistiche del panglo.

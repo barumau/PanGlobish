@@ -15,10 +15,14 @@ make_di_webe_paje() {
 }
 
 make_ale() {
-    make_di_webe_paje english
-    make_di_webe_paje suomi
-    make_di_webe_paje esperanto
-    make_di_webe_paje tai
+    make_di_webe_paje eng
+    make_di_webe_paje fin
+    make_di_webe_paje fra
+    make_di_webe_paje epo
+    make_di_webe_paje ita
+    make_di_webe_paje por
+    make_di_webe_paje spa
+    make_di_webe_paje tha
 }
 
 make_ale

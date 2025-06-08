@@ -1,11 +1,11 @@
 # Panglo
 
-**sal, dunia!**
+**halo, dunia!**
 – ¡Hola, mundo!
 
 ¡Les damos la bienvenida a Panglo, el idioma auxiliar que es equitativo a nivel global! 
 
-![](http://www.panglo.info/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 ## ¿Qué es Panglo?
@@ -26,9 +26,3 @@ Estas son algunas características notables de Panglo:
 
 La versión final de Panglo fue inaugurada en septiembre 2021.
 Tiene una gramática más sencilla, formas de palabras más internacionales, y muchas palabras nuevas.
-
-![](http://www.panglo.info/grafe/bandera.png "La bandera de Panglo")
-
-Puedes contactar mail al creador de Panglo, Risto Kupsala, en al
-correo electrónico [risto@panglo.info](mailto:risto@panglo.info) y en los
-lugares anteriormente citados.

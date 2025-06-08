@@ -9,7 +9,7 @@ Cet article décrit pourquoi et comment le Panglo a été créé pour être une 
 Beaucoup de gens sont habitués à voir ce genre de mappemonde. C'est la fameuse carte de projection Mercator.
 Malheureusement elle déforme la surface réelle des territoires.
 
-![](http://www.panglo.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
+![](http://www.kupsala.net/panglo/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
 Pourquoi cela ? Le monde est un globe 3D et le dessiner sous la forme d'une carte 2D n'est pas évident.
 Les projections aux justes proportions telles que celles de
@@ -18,17 +18,17 @@ affichent les surfaces terrestres telles qu'elles sont (ou du moins le plus fid�
 Comparez les tailles du Groenland et de l'Afrique sur ces deux cartes.
 Dans la projection Mercator, le Groenland semble plus grand, tandis que dans celle de Equal Earth c'est l'Afrique (14 fois la taille du Groenland).
 
-![](http://www.panglo.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
+![](http://www.kupsala.net/panglo/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
 C'est le monde naturel.
 Nous vivons également dans un monde d'humains divisé par des frontières entre les nations.
 Dans une représentation classique des pays du monde, la taille des pays est définie par leur zone géographique.
 
-![](http://www.panglo.info/grafe/metrograf_da_aria.png "Map by area")
+![](http://www.kupsala.net/panglo/grafe/metrograf_da_aria.png "Map by area")
 
 Cependant, la projection cartographique ci-dessous est basée sur la population des pays et non sur leur zone géographique.
 
-![](http://www.panglo.info/grafe/karte_da_insania.png "Map by Population 2002")
+![](http://www.kupsala.net/panglo/grafe/karte_da_insania.png "Map by Population 2002")
 
 À notre avis, une langue du monde devrait représenter le monde humain.
 Chaque partie du monde, chaque culture doit être traitée équitablement et démocratiquement.
@@ -375,9 +375,4 @@ est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êt
     Panglo:   de es aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
-    
-
-## Le Panglo - Une langue mondiale
-
-![](http://www.panglo.info/grafe/bandera.png "Panglo flag")
 

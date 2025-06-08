@@ -16,9 +16,6 @@ nav:
     - 'Pronomes': G-PRO.md
     - 'Frases básicas': B03_baze_jumla.md
     - 'Números': G-NUM.md
-    - 'Dicionarios':
-        - 'Panglo-Português': panglo-por.md
-        - 'Português-Panglo': por-panglo.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

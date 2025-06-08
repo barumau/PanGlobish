@@ -14,8 +14,8 @@ nav:
 #        - 'Prononcado kaj skribado': G-ABC.md
 #        - 'Laŭregula akcento': 103_aksente.md
 #        - Substantivoj : G-N.md
-        - Nombrovortoj: G_NUM.md
-        - Pronomoj: G-PRN.md
+        - Nombrovortoj: G-NUM.md
+        - Pronomoj: G-PRO.md
 #        - Verboj: G-V.md
 #        - Vortfarado: G-AFX.md
 #    - Lecionoj:
@@ -23,9 +23,6 @@ nav:
 #    - 'Pri Panglo':
 #        - 'La ideo': I-idea.md
 #        - 'Panglo kontraŭ la angla': I_Panglo_vs_English.md
-    - Vortaro:
-        - "Panglo–Esperanto" : panglo-esperanto.md
-        - "Esperanto–Panglo" : esperanto-panglo.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

@@ -3,9 +3,9 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _nove_ karo**
+**un _nuve_ kar**
 – une voiture nouvelle  
-**un _rapid_ karo**
+**un _rapid_ kar**
 – voiture(s) rapide(s)
 **meni _dai_ meza**
 – grande(s) table(s)  
@@ -16,20 +16,20 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un let nove karo**
+**un let nuve kar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**karo es nove.** 
+**kar es nuve.** 
 – La voiture est neuve.  
 **bagre es rapid.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**nove karo es rapid.** 
+**nuve kar es rapid.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -91,4 +91,3 @@ met en relation les adverbes de comparaison à l'élément comparé.
 = Je suis meilleur que toi.  
 **tu loga sim gud dan mi.**
 = Tu parles aussi bien que moi.
-

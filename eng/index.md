@@ -32,7 +32,7 @@ to get a hotel room, to order a taxi, to buy souvenirs and to do many other thin
 Panglo is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
 There aren't any grammatical exceptions or complex rules in Panglo.
-Panglo is so simple that its basic grammar can be described in [only ten rules](B01_baze_kanun.md).
+Panglo is so simple that its basic grammar can be described in [only ten rules](G-baze.md).
 Everybody can learn Panglo to a good level in a short period of time!
 Panglo would be an excellent choice for the global second language
 because it can improve the quality of international communication.

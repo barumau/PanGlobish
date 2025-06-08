@@ -15,7 +15,7 @@ nav:
     - 'Lingua ausiliaria globale': I-idea.md
     - I-filosofia.md
     - I-suma.md
-    - 'Regole basilari': B01_baze_kanun.md
+    - 'Regole basilari': G-baze.md
     - 'Ortografia e pronuncia': G-ABC.md
     - 'Classi di parole': G-PoS.md
     - 'Pronomi': G-PRO.md
@@ -23,9 +23,6 @@ nav:
     - 'Numerali': G-NUM.md
     - 'Modificatori': G-ADJ.md
     - 'Verbi': G-V.md
-    - 'Vocabolario':
-        - 'panglo → italiano': panglo-ita.md
-        - 'italiano → panglo': ita-panglo.md
     - 'Da dove vengono le parole': L-lexe.md
 extra:
   social:

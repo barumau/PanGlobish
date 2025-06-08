@@ -1,6 +1,6 @@
-# Panglobish–english en di orige of lexe
+# Panglo–eng en di orige of lexe
 
-| Panglobish | english | orige |
+| Panglo | eng | orige |
 |----------|----------|----------|
 |**achu**|sneeze (achoo)|eng:achoo, deu:hatschi, fra:atchoum, spa:achís, rus:апчхи, zho: 阿嚏 (ātì), kor:에취 (echwi), vie:hắt xì, hin:(achī), ben:হাঁচি (hąci)|
 |**acinium**|actinium|eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم|

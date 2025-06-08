@@ -31,9 +31,6 @@ nav:
     - 'Leçons':
         - 'Phrases courantes': B03_baze_jumla.md
         - 'Leçons': K-kurse.md
-    - 'Vocabulaire':
-        - 'Panglo → français': panglo-fra.md
-        - 'Français → panglo': fra-panglo.md
     - 'Appendix':
         - 'Questions et réponses': FAQ.md
         - 'Traduire ce site': tarja_netoloke.md

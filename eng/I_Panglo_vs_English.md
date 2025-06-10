@@ -1,3 +1,4 @@
+
 # Panglo vs English
 
 In this page Panglo is compared to English.
@@ -30,18 +31,51 @@ of the same sentence in English and other Germanic languages.
 | Norwegian    | Jeg er sønnen til faren min og moren min.        |
 | Swedish      | Jag är son till min far och min mor.             |
 | Icelandic    | Ég er sonur föður míns og móður minnar.          |
-|**Panglo**    | **mi is da boi of mi's patre en mi's matre.**    |
+|**Panglo**    | **mi es da boi of mi's patre en mi's matre.**    |
 
-The same sentence in Panglo is also somewhat similar with _all Germanic languages_.  
-So English is nothing special in this regard.
+Another example is the [Universal Germanic Dialog](https://www.youtube.com/watch?v=ryVG5LHRMJ4) by King Ming Lam.
+It is more or less recognizable in all Germanic languages.
+The Pandunia version is rather similar, too, because Pandunia borrows many basic words from Germanic languages.
+
+| Language     | "The Universal Germanic Dialog"                            |
+|:-------------|:-----------------------------------------------------------|
+| English      | Come in my house, my friend. Welcome! Come here, sing and dance, eat and drink. That is my plan. We have water, beer, milk and warm soup! |
+| German       | Komm in mein Haus, mein Freund. Willkommen! Komm her, sing und tanz, iss und trink. Das ist mein Plan. Wir haben Wasser, Bier, Milch und warme Suppe! |
+| Swedish      | Kom in i mitt hus, min vän. Välkommen! Kom hit, sjung och dansa, ät och drick. Det är min plan. Vi har vatten, öl, mjölk och varm soppa! |
+| Panglo       | Kom en mi's haus, mi's frende. Vel kom! Kom hir, gante e danse, yam e gul. Da es mi's plan. Vi hab sui, bir, milke e garme sup! |
+
+It is clear that Panglo bears reseblance to _all Germanic languages_.
+So English doesn't hold a special position in this regard.
 
 Panglo is an independent language that bears significant similarity to
 Germanic languages like English, German and Dutch
 but also to Romance languages like Italian, Spanish, Portuguese and French
 and, to a lesser degree, also to many other languages.
-It is an independent language in the great global network of languages.
 
-Now that this issue is settled, let's continue comparing Panglo, the challenger,
+Let's compare Panglo to some Indo-European languages.
+
+| Language    | Example phrase                   | Remarks                                           |
+|-------------|----------------------------------|---------------------------------------------------|
+| Panglo      | *tu es mi's nov frende.*         |                                                   |
+| English     | *You are my new friend.*         |                                                   |
+| German      | *Du bist mein neuer Freund.*     |                                                   |
+| French      | *Tu es mon nouvel ami*.          |                                                   |
+| Russian     | *Ty - moy novyy drug.*           | There's no *to be*.                               |
+| Hindi-Urdu  | *Tum - mere naye dost - ho.*     | *To be* is in the end.                            |
+| Bangla      | *Tumi - aamaar natun dost.*      | There's no *to be*.                               |
+| Persian     | *To - dost jadid man - (hasti).* | *To be* is optional and it is in the end.         |
+
+The phrase in Panglo resembles Germanic, Romance and Slavic languages in Europe.
+If one would substitute the word *frende* with its synonym  *doste*,
+the phrase could be understandable even to speakers of Asian Indo-European language
+– especially without the verb *to be*:
+**tu - mi's nov doste**.
+
+In summary, words and phrases in Panglo can resemble many languages but there are always also differences.
+Panglo is an independent language in the great global network of languages.
+
+Now that we have answered the question about Panglo imitating English,
+let's continue comparing Panglo, the challenger, 
 and English, the reigning world language.
 
 

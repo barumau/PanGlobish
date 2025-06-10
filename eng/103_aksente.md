@@ -6,19 +6,20 @@ If the base word has one or two syllables, the first syllable is accented, and s
 Ex. kómun, kómunìte.
 
 If the base word has three or more syllables, the second syllable is accented, and secondary accent falls on even-numbered syllables.
-Ex. matúre, matúritè.
+Ex. matúre, matúrità.
 
 When there is **i** or **u** and another vowel, the two vowels count as one syllable.
 Ex. páuze, dúnia, rádio, Rúsia, Arábia, Itália.
 
 The elements of compound words keep their original accent.
-Ex. télefóne, kílográme.
+Only the last element carries the primary accent.
+Ex. tèlefóne, kìlográme, dèmokrátia.
 
 Accented syllables are louder in general.
 If the accented syllable ends in a vowel, the vowel is pronounced longer.
 
 Unaccented **e** can be pronounced as a weak schwa sound /ə/.
-Ex. toke /tókə/, mature /matúrə/.
+Ex. bele /bélə/, mature /matúrə/.
 
 
 ## Tone and Intonation

@@ -1,3 +1,4 @@
+
 # Ideas of Panglo
 
 ## Principles of Panglo
@@ -97,7 +98,7 @@ It's more important to get to the restaurant than to speak perfect Panglo, isn't
 
 Panglo is not a secret language for a small club or a cult.
 It's more important to be able to communicate with everybody in practice
-than to protect "the purity of our language" on paper.
+than to protect "the purity of our language" in theory.
 
 
 
@@ -133,5 +134,60 @@ In this case Panglo brings the spelling and pronunciation back to their roots.
 ## Minimalism?
 
 One of the goals of Panglo is to have less words to be memorized than English and other natural languages,
-but it's not meant to be minimal.
+but it's not meant to be absolutely minimal.
+Therefore there can be some near-synonyms, like
+**frende**
+and
+**doste**,
+both of which mean 'friend'.
+
+
+## Easy sentences
+
+In this section we will compare the sentence structures of Panglo with English and Chinese,
+the two most widely spoken languages of the world.
+
+The normal sentence word order is subject–verb–object
+– just like in English and Chinese.
+
+    English:   I love you, and you love me.
+    Panglo:  mi love tu, tu love mi.
+    Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
+
+The auxiliary verb
+**ben**
+is used when the object of the action comes first in the sentence.
+(This is called the passive clause.)
+
+    English:   Apples were eaten.
+    Panglo:    aple ben yam.
+    Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
+
+**ben** is more or less similar to Standard Chinese *bèi*
+and English *be*, but it is never inflected like the latter one.
+
+    English:   It can not be eaten.
+    Panglo:    de no kan ben yam.
+    Chinese:   Tā bù néng bèi chī. (它不能被吃。)
+
+Like Chinese, Panglo doesn't mark verbs with a word like "to".
+
+    English:   I ask him to drink coffee.
+    Panglo:    mi ples hi yam kafe.
+    Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
+
+In Panglo and Chinese, nouns can be singular or plural depending on surrounding words.
+There's no plural ending like -*s* in English.
+Also verbs are not conjugated.
+In Panglo, one word,
+**es**,
+is used instead of _am, is, are, was, were_...
+
+    English:   It is an apple.
+    Panglo:    hi es aple.
+    Chinese:   Tā shì píngguǒ. (他是苹果。)
+
+    English:   They are apples.
+    Panglo:    de es aple.
+    Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

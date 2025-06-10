@@ -29,19 +29,50 @@ Katsokaamme esimerkiksi alla olevaa lausetta englanniksi ja muilla germaanisilla
 | Norja        | Jeg er sønnen til faren min og moren min.        |
 | Ruotsi       | Jag är son till min far och min mor.             |
 | Islanti      | Ég er sonur föður míns og móður minnar.          |
-|**Panglo**| **mi is da boi of mi's patre en mi's matre.**    |
+|**Panglo**    | **mi is da boi of mi's patre en mi's matre.**    |
 
-Panglon kielellä tämä sama lause muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
-Voisi jopa sanoa, että Panglo on lähempänä afrikaansia kuin englantia.
+Otetaan toisena esimerkkinä [universaali germaaninen dialogi](https://www.youtube.com/watch?v=ryVG5LHRMJ4), jonka on laatinut King Ming Lam.
+Kaikki germaanisten kielten puhujat voivat ymmärtää sen toisilla germaanisilla kielillä.
+Panglonkielinen versio muistuttaa niitä myös, koska panglon perussanat on lainattu germaanisista kielistä.
+
+| Kieli        | "Universaali germaaninen dialogi"                          |
+|:-------------|:-----------------------------------------------------------|
+| Englanti     | Come in my house, my friend. Welcome! Come here, sing and dance, eat and drink. That is my plan. We have water, beer, milk and warm soup! |
+| Saksa        | Komm in mein Haus, mein Freund. Willkommen! Komm her, sing und tanz, iss und trink. Das ist mein Plan. Wir haben Wasser, Bier, Milch und warme Suppe! |
+| Ruotsi       | Kom in i mitt hus, min vän. Välkommen! Kom hit, sjung och dansa, ät och drick. Det är min plan. Vi har vatten, öl, mjölk och varm soppa! |
+| Panglo       | Kom en mi's haus, mi's frende. Vel kom! Kom hir, gante e danse, yam e gul. Da es mi's plan. Vi hab sui, bir, milke e garme sup! |
+
+Panglo muistuttaa jossakin määrin _kaikkia _germaanisia kieliä_.
 Englanti ei siis ole erityisasemassa Pangloin nähden.
 
 Panglo on itsenäinen kieli, joka muistuttaa vahvasti germaanisia kieliä,
 kuten englantia, saksaa ja hollantia,
 mutta se muistuttaa myös romaanisia kieliä kuten italiaa, espanjaa, portugalia ja ranskaa,
 ja vähemmässä määrin myös muita kieliä.
-Se on siis itsenäinen kieli ja osa suurta maailmanlaajuista kielten verkostoa.
 
-Nyt kun tämä matkimisasia on selvitetty,
+Verrataan pangloa vielä laajemmin indo-eurooppalaisiin kieliin.
+
+| Kieli       | Esimerkkilause                   | Huomioita                                         |
+|-------------|----------------------------------|---------------------------------------------------|
+| Panglo      | *tu es mi's nov frende.*         |                                                   |
+| Englanti    | *You are my new friend.*         |                                                   |
+| Saksa       | *Du bist mein neuer Freund.*     |                                                   |
+| Ranska      | *Tu es mon nouvel ami*.          |                                                   |
+| Venäjä      | *Ty - moj novyj drug.*           | Ei *olla*-verbiä.                                 |
+| Hindi-urdu  | *Tum - mere naye dost - ho.*     | *Olla*-verbi viimeisenä.                          |
+| Bengali     | *Tumi - aamaar natun dost.*      | Ei *olla*-verbiä.                                 |
+| Persia      | *To - dost jadid man - (hasti).* | Valinnainen, painokas *olla*-verbi on viimeisenä. |
+
+Panglon lause muistuttaa niin germaanisia, romaanisia kuin slaavilaisia kieliä Euroopassa.
+Jos *frende*-sanan paikalle vaihdettaisiin sen synonyymi *doste*,
+lauseen merkitys saattaisi olla ymmärrettävä jopa indo-iranilaisten kielten puhujille
+– varsinkin *olla*-verbistä riisutussa muodossa:
+**tu - mi's nov doste**.
+
+Yhteenvetona, panglon sanat ja lauseet voivat muistuttaa monia kieliä mutta aina esiintyy myös eroavaisuuksia.
+Panglo on siis itsenäinen kieli ja osa maailmanlaajuista kielten verkostoa.
+
+Nyt kun olemme saaneet vastauksen kysymykseen englannin matkimisesta,
 jatkakaamme haastajan, Panglon, vertaamista tarkemmin maailman tämän hetken mahtavimpaan kieleen, englantiin.
 
 

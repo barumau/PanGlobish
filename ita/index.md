@@ -6,13 +6,13 @@ hide:
 
 # Panglo
 
-**halo, dunia!**
+**halo, globe!**
 – Ciao, mondo!
 
 Benvenuti nella pagina del panglo,
 una piccola lingua per aiutare il mondo intero!
 
-![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
 <small>Immagine di [Freepik](http://www.freepik.com)</small>
 
 ## Cos'è il panglo?

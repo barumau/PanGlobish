@@ -6,13 +6,13 @@ hide:
 
 # Panglo
 
-**halo, dunia!**
+**halo, globe!**
 – Hello, world!
 
 Welcome to learn about Panglo,
 the helping language for international interaction and friendship.
 
-![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Panglo?

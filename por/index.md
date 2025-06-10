@@ -6,8 +6,11 @@ hide:
 
 # panglo - una lingua igualmente mundial
 
-**halo, dunia!**
+**halo, globe!**
 – Olá, mundo!
+
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 A panglo é uma língua artificial multicultural.
 

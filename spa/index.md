@@ -6,12 +6,12 @@ hide:
 
 # Panglo
 
-**sal, dunia!**
+**halo, globe!**
 – ¡Hola, mundo!
 
 ¡Les damos la bienvenida a Panglo, el idioma auxiliar que es equitativo a nivel global! 
 
-![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 ## ¿Qué es Panglo?

@@ -12,7 +12,7 @@ hide:
 Welcome to learn about Panglo,
 the helping language for international interaction and friendship.
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Panglo?
@@ -69,7 +69,7 @@ so the doer comes first, then the action word and finally the object of the acti
 **mi love yu.**
 – I love you.
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
@@ -146,9 +146,10 @@ So don't wait!
 Use it with your friends in everyday life or try it with strangers when you are traveling.
 It works!
 
-At the moment you can speak Panglo in our [Facebook group](https://www.facebook.com/groups/panglobish),
-[Reddit forum](https://www.reddit.com/r/panglobish/)
-and [Telegram chat room](https://t.me/+1AzKvH6RjZhmZmIy).
+At the moment you can speak Panglo in our
+[bulletin board](https://pandunia.info/forum/viewforum.php?f=3),
+[Facebook group](https://www.facebook.com/groups/panglobish),
+and [Reddit forum](https://www.reddit.com/r/panglobish/).
 
 
 There aren't many speakers yet

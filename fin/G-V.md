@@ -50,16 +50,16 @@ eli kertomuksen "tähän hetkeen".
     Kaavio. Aspektit suhteessa puheena olevaan hetkeen.
     
          ┌─────────┐       │
-         │   was   │  ···  │
+         │   did   │  ···  │
          └─────────┘       │
          ┌─────────┐       │
-         │   haf   ├───────┤
+         │   hav   ├───────┤
          └─────────┘       │
                       ┌────┴────┐
-                      │   is    │
+                      │   bi    │
                       └────┬────┘
-                           │       ┌─────────┐   
-                           │       │   wil   │
+                           │       ┌─────────┐
+                           │       │   vil   │
                            │       └─────────┘
     ◀──────────────────────┼──────────────────────▶
     aiemmin          parhaillaan        myöhemmin
@@ -182,7 +182,7 @@ Apuverbi **du** merkitsee sitä seuraavan verbin infinitiiviksi.
 **du love**
 – rakastaa
 
-![](http://www.kupsala.net/PanGlobish/grafe/du_bi_or_no_du_bi.png)  
+![](http://www.pandunia.info/panglo/grafe/du_bi_or_no_du_bi.png)  
 Kuva: [Freepik](http://www.freepik.com)
 
 Infinitiivi voi toimia lauseen subjektina ja objektina.
@@ -236,4 +236,3 @@ jolloin ne muodostava yhden predikaatin, joka kertoo samasta subjektista.
 – Minä voin mennä syömään piirakkaa.  
 **mi wan kan gow yam un pay.**
 – Minä haluan voida mennä syömään piirakkaa.
-

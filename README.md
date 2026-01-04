@@ -8,7 +8,7 @@ evenly global.
 
 #### Locations
 
-This website is available online at http://www.kupsala.net/panglo
+This website is available online at https://www.pandunia.info/panglo
 
 All plain text files are stored in a Git version control repository in GitHub
 at https://github.com/barumau/PanGlobish
@@ -45,7 +45,7 @@ The documentation is in plain-text that uses Markdown formatting. Learn about
 Markdown [here](https://guides.github.com/features/mastering-markdown/).
 
 The easiest way to contribute for an average person is to download the files in
-a zip file, edit them and [send them to Rippe by email](mailto:risto@kupsala.net).
+a zip file, edit them and [send them to Risto by email](mailto:risto@pandunia.info).
 He will check the changes and upload the files to GitHub on your behalf.
 
 If you have more time, you can learn how to use GitHub. Create an account for

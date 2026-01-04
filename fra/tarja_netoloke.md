@@ -61,7 +61,7 @@ La meilleure façon de mettre à jour des traductions ainsi que de traduire des 
 
 Les mots et phrases en Panglo devraient être les mêmes dans les deux langues, de sorte à servir de points d'ancrage et ainsi garder les différentes versions sur les mêmes lignes.
 
-![](http://www.kupsala.net/panglo/grafe/kompar.png "Comparing two language versions")
+![](http://www.pandunia.info/panglo/grafe/kompar.png "Comparing two language versions")
 
 ### Recommandations
 

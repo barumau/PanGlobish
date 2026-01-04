@@ -39,7 +39,7 @@ Le lingue parlate all'interno di una certa sfera culturale condividono parole (p
 
 Le sfere culturali sono delineate approssimativamente nella figura qui sotto.
 
-![](http://www.kupsala.net/panglo/grafe/linguisticspheres.gif "Mappa delle sfere culturali")
+![](http://www.pandunia.info/panglo/grafe/linguisticspheres.gif "Mappa delle sfere culturali")
 
 
 ## Lingue del mondo e lingue mondiali
@@ -164,13 +164,13 @@ Solo come ultima risorsa si può accettare una parola esistente in una sola ling
 
 ## Dati statistici delle parole
 
-![](http://www.kupsala.net/panglo/grafe/logasle.png "Istogramma dell'affinità lessicale")  
+![](http://www.pandunia.info/panglo/grafe/logasle.png "Istogramma dell'affinità lessicale")  
 **Figura 1.** Questo istogramma mostra la percentuale delle parole base del panglo che sono simili alla fonte linguistica.
 
-![](http://www.kupsala.net/panglo/grafe/logasar.png "Aerogramma della distribuzione dell'influenza linguistica")  
+![](http://www.pandunia.info/panglo/grafe/logasar.png "Aerogramma della distribuzione dell'influenza linguistica")  
 **Figura 2.** Questo aerogramma mostra l'influenza che ciascuna fonte linguistica esercita sul panglo.
 
-![](http://www.kupsala.net/panglo/grafe/konnete.png "Diagramma reticolare delle etimologie")  
+![](http://www.pandunia.info/panglo/grafe/konnete.png "Diagramma reticolare delle etimologie")  
 **Figura 3.** Questo diagramma reticolare mostra quante parole del panglo hanno in comune tra loro le fonti linguistiche.
 
 La figura 3 è un diagramma reticolare delle 21 fonti linguistiche del panglo.

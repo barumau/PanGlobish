@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_halo_globe.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo_globe.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Saluton, mondo!
@@ -54,7 +54,7 @@ La normala vortordo estas subjekto–verbo–objekto.
 **mi love yu.**
 – Mi amas vin.
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Demandoj enhavas la saman vortordon.  
@@ -128,9 +128,9 @@ Uzu Panglon kun viaj amikoj en ĉiutaga vivo aŭ provu ĝin kun fremduloj dum vo
 Ĝi funkcias!
 
 Nun vi povas paroli en Panglo en niaj
-[Fejsbuka grupo](https://www.facebook.com/groups/Panglobish),
-[Redditforumo](https://www.reddit.com/r/panglobish/),
-kaj [Telegramokanalo](https://t.me/Panglobish1).
+[diskutgrupo](https://pandunia.info/forum/viewforum.php?f=3),
+[Fejsbuka grupo](https://www.facebook.com/groups/Panglobish)
+kaj [Redditforumo](https://www.reddit.com/r/panglobish/).
 
 Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Panglo estas bona ideo, ankaŭ _aliuloj_ pensus same.

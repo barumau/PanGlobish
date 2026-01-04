@@ -5,7 +5,7 @@
 
 Benvenuti a conoscere Panglo!
 
-![](http://www.kupsala.net/panglo/grafe/halo_dunia.png "sal dunia!")  
+![](http://www.pandunia.info/panglo/grafe/halo_dunia.png "sal dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 # Panglo - la lingua ausiliaria veramente globale
  
@@ -46,7 +46,7 @@ Molta gente è abituata a mappe del mondo come quella qui sotto.
 Si tratta della famosa _proiezione di Mercatore_.
 Sfortunatamente, questo tipo di mappa distorce enormemente le dimensioni dei vari stati.
 
-![](http://www.kupsala.net/panglo/grafe/metrograf_da_merkator.jpg "Proiezione di Mercatore")
+![](http://www.pandunia.info/panglo/grafe/metrograf_da_merkator.jpg "Proiezione di Mercatore")
 
 Perché avviene ciò? Il mondo è un globo tridimensionale e rappresentarlo con una mappa bidimensionale e piatta non è semplice.
 Le proiezioni equivalenti, come la _Proiezione equivalente della Terra_ qui sotto,
@@ -55,17 +55,17 @@ Confrontate le dimensioni della Groenlandia e dell'Africa in queste due mappe.
 Nella proiezione di Mercatore la Groenlandia appare più grande,
 ma la proiezione equivalente della Terra mostra che in realtà l'Africa è 14 volte più grande della Groenlandia.
 
-![](http://www.kupsala.net/panglo/grafe/metrograf_da_pari_gevia.jpg "Proiezione equivalente della Terra")
+![](http://www.pandunia.info/panglo/grafe/metrograf_da_pari_gevia.jpg "Proiezione equivalente della Terra")
 
 Questo è il mondo fisico.
 Noi viviamo anche in un mondo umano, che comprende nazioni divise da frontiere.
 In una mappa normale dei paesi del mondo, la grandezza delle nazioni è definita dalla loro area geografica.
 
-![](http://www.kupsala.net/panglo/grafe/metrograf_da_aria.png "Mappa per area")
+![](http://www.pandunia.info/panglo/grafe/metrograf_da_aria.png "Mappa per area")
 
 La mappa qui sotto si basa sulla popolazione dei diversi paesi, non sulla loro area geografica.
 
-![](http://www.kupsala.net/panglo/grafe/karte_da_insania.png "Mappa per popolazione 2018")
+![](http://www.pandunia.info/panglo/grafe/karte_da_insania.png "Mappa per popolazione 2018")
 
 Secondo noi una lingua mondiale dovrebbe rappresentare il mondo umano.
 Ogni parte del mondo e ogni cultura dovrebbero essere trattate equamente e democraticamente.
@@ -85,7 +85,7 @@ Sono incluse le altre lingue maggiori del Medio Oriente oltre all'arabo: turco e
 
 Nel complesso rappresentano un buon mix di culture e regioni del mondo.
 
-![](http://www.kupsala.net/panglo/grafe/baze_lingue.png "Mappa delle 21 fonti linguistiche")
+![](http://www.pandunia.info/panglo/grafe/baze_lingue.png "Mappa delle 21 fonti linguistiche")
 
 Solo due lingue hanno più di un miliardo di parlanti ciascuna: il mandarino e l'inglese.
 Il mandarino è in assoluto la lingua più estesa per numero di parlanti nativi,

@@ -11,7 +11,7 @@ hide:
 
 ¡Les damos la bienvenida a Panglo, el idioma auxiliar que es equitativo a nivel global! 
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo_globe.png "halo globe!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 ## ¿Qué es Panglo?
@@ -68,7 +68,7 @@ quien ejecuta la acción va primero, luego va lo que se realiza y finalmente qui
 **mi love yu.**
 – yo los amo a ustedes.
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 El orden también es el mismo en las preguntas

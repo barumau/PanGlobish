@@ -42,7 +42,7 @@ Le Panglo a été influencé à la fois par des langues naturelles et des langue
 
 #### Qu'est-ce qu'une "worldlang" ?
 
-Une worldlang est une langue construite qui emprunte son vocabulaire, sa prononciation et éventuellement sa grammaire à différentes familles de langue du monde. Il en existe de nombreuses et une partie d'entre-elles est listée [ici](http://www.kupsala.net/risto/tekokieli/worldlangs.html). 
+Une worldlang est une langue construite qui emprunte son vocabulaire, sa prononciation et éventuellement sa grammaire à différentes familles de langue du monde. Il en existe de nombreuses et une partie d'entre-elles est listée [ici](http://www.pandunia.info/risto/tekokieli/worldlangs.html). 
 
 #### En quoi le Panglo diffère-t-il des autres langues auxiliaires ?
 

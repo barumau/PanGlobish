@@ -4,7 +4,7 @@
 
 ### Diálogo
 
-![](http://www.kupsala.net/panglo/grafe/halo.png "halo!")
+![](http://www.pandunia.info/panglo/grafe/halo.png "halo!")
 
 <big>☺</big>
 **sal!**
@@ -234,7 +234,7 @@ jefe, patrón
 
 ### Diálogo
 
-![](http://www.kupsala.net/panglo/grafe/laupapa.png "chin pa e bacha")
+![](http://www.pandunia.info/panglo/grafe/laupapa.png "chin pa e bacha")
 
 <big>☻</big>
 **halo!**
@@ -393,7 +393,7 @@ algo
 
 ### Diálogo
 
-![](http://www.kupsala.net/panglo/grafe/kafekan.png "a kafe kan")  
+![](http://www.pandunia.info/panglo/grafe/kafekan.png "a kafe kan")  
 
 <big>☺</big>
 **sal! sual tu yam kafe o cha?**

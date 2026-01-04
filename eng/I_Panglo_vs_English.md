@@ -56,7 +56,7 @@ Let's compare Panglo to some Indo-European languages.
 
 | Language    | Example phrase                   | Remarks                                           |
 |-------------|----------------------------------|---------------------------------------------------|
-| Panglo      | *tu es mi's nov frende.*         |                                                   |
+| Panglo      | *tu es mi's nuve frende.*        |                                                   |
 | English     | *You are my new friend.*         |                                                   |
 | German      | *Du bist mein neuer Freund.*     |                                                   |
 | French      | *Tu es mon nouvel ami*.          |                                                   |
@@ -69,7 +69,7 @@ The phrase in Panglo resembles Germanic, Romance and Slavic languages in Europe.
 If one would substitute the word *frende* with its synonym  *doste*,
 the phrase could be understandable even to speakers of Asian Indo-European language
 – especially without the verb *to be*:
-**tu - mi's nov doste**.
+**tu - mi's nuve doste**.
 
 In summary, words and phrases in Panglo can resemble many languages but there are always also differences.
 Panglo is an independent language in the great global network of languages.

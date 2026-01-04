@@ -52,7 +52,7 @@ so a local word is most appropriate anyway.
 English words are only the tip of the iceberg in Panglo.
 Panglo is much more diverse than what one might see at first sight.
 
-![](http://www.kupsala.net/panglo/grafe/aismonte_eng.png "picture of an iceberg")
+![](http://www.pandunia.info/panglo/grafe/aismonte_eng.png "picture of an iceberg")
 
 
 ## International words

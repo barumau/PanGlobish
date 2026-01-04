@@ -1,10 +1,10 @@
-# Le basi del panglo
+# Le basi del pandunia
 
-Il panglo è una lingua artificiale che possiede una grammatica minimalista e un vocabolario globale.
+Il pandunia è una lingua artificiale che possiede una grammatica minimalista e un vocabolario globale.
 
 ### Lettere e suoni
 
-Il panglo usa uno spelling sistematico nel quale
+Il pandunia usa uno spelling sistematico nel quale
 ogni suono è rappresentato sempre dalla stessa lettera o - nel caso di _ch_ e _sh_ - dagli stessi gruppi di lettere.
 
 > A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
@@ -34,7 +34,7 @@ Le consonanti sono:
 
 ### Parole invariabili
 
-Le parole non cambiano e non si flettono mai in panglo
+Le parole non cambiano e non si flettono mai in pandunia
 – neanche quando passano da una categoria lessicale ad un'altra!
 La stessa parola, senza alcuna modifica della forma, può funzionare come sostantivo, aggettivo o verbo.
 
@@ -101,7 +101,7 @@ Non si può omettere quando è parte di una costruzione verbale in serie.
 
 ### Parole polivalenti
 
-Le parole del panglo possono essere ambigue, perché spesso hanno più significati rispetto a quanto succede in italiano.
+Le parole del pandunia possono essere ambigue, perché spesso hanno più significati rispetto a quanto succede in italiano.
 
 **da love mau.**
 – Lui ama i gatti. / Lei amava un gatto. / Lui/lei amerà il gatto.

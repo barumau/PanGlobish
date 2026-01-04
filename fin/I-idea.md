@@ -62,7 +62,7 @@ Korotus olisi vaivaiset 0,36 prosenttia!
 mutta loppujen kielten puhujat, joita olisi vielä muhkeat 24,24 % maailman väestöstä,
 eivät kostuisi siitä mitään.
 
-![](http://www.kupsala.net/panglo/grafe/kumule.png)  
+![](http://www.pandunia.info/panglo/grafe/kumule.png)  
 Kaavio. 50 puhutuimman kielen äidinkielisten puhujien osuus maailman väestöstä.
 
 

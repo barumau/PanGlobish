@@ -1,5 +1,5 @@
 site_name: língua Panglo
-site_url: https://www.kupsala.net/panglo/por
+site_url: https://www.pandunia.info/panglo/por
 repo_url: https://github.com/barumau/PanGlobish/
 docs_dir: ../../por
 site_dir: ../../html/por
@@ -18,12 +18,12 @@ nav:
     - 'Números': G-NUM.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/panglobish
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/+1AzKvH6RjZhmZmIy
 markdown_extensions:
   - toc:
       toc_depth: 2

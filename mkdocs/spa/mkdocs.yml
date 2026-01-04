@@ -1,5 +1,5 @@
 site_name: idioma Panglo
-site_url: https://www.kupsala.net/panglo/spa
+site_url: https://www.pandunia.info/panglo/spa
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto Kupsala
 docs_dir: ../../spa
@@ -32,12 +32,12 @@ nav:
         - 'Curso': K-kurse.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/panglobish
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/+1AzKvH6RjZhmZmIy
 markdown_extensions:
   - toc:
       toc_depth: 2

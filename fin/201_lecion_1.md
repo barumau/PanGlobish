@@ -2,7 +2,7 @@
 
 ## Dialogi 1
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo.png)  
 [Designed by pikisuperstar / Freepik](http://www.freepik.com)
 
 <big>👨🏾</big>

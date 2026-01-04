@@ -11,7 +11,7 @@ hide:
 
 Bienvenue pour apprendre Panglo, la langue auxiliaire également mondiale !
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png "halo dunia!")  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo_globe.png "halo dunia!")  
 <small>L'image par [Freepik](http://www.freepik.com)</small>
 
 ## Qu’est-ce que le panglo ?

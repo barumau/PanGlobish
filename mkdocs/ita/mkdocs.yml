@@ -1,5 +1,5 @@
 site_name: lingua Panglo
-site_url: https://www.kupsala.net/panglo/ita
+site_url: https://www.pandunia.info/panglo/ita
 repo_url: https://github.com/barumau/PanGlobish/
 docs_dir: ../../ita
 site_dir: ../../html/ita
@@ -26,12 +26,12 @@ nav:
     - 'Da dove vengono le parole': L-lexe.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/panglobish
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/+1AzKvH6RjZhmZmIy
 markdown_extensions:
   - toc:
       toc_depth: 2

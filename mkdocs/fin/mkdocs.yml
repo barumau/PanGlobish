@@ -1,9 +1,9 @@
 site_name: Panglo
-site_url: https://www.kupsala.net/panglo/fin
+site_url: https://www.pandunia.info/panglo/fin
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto Kupsala
-docs_dir: ../../suomi
-site_dir: ../../html/suomi
+docs_dir: ../../fin
+site_dir: ../../html/fin
 theme: material
 extra_css:
     - extra.css
@@ -19,15 +19,19 @@ nav:
         - Verbit: G-V.md
         - 'Sanojen johtaminen': G-AFX.md
     - Oppitunteja:
+        - 'Lauseita': K-fraze.md
         - '1. oppitunti': 201_lecion_1.md
     - 'Taustatietoja':
         - 'Idea': I-idea.md
-        - 'Panglobish vs. englanti': I_Panglo_vs_English.md
+        - 'Panglo vs. englanti': I_Panglo_vs_English.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/panglobish
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/+1AzKvH6RjZhmZmIy
+markdown_extensions:
+  - toc:
+      toc_depth: 2

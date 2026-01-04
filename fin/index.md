@@ -1,6 +1,6 @@
 # HALO DUNIA!  
 
-![](http://www.kupsala.net/panglo/grafe/Freepik_halo_globe.png)  
+![](http://www.pandunia.info/panglo/grafe/Freepik_halo_globe.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Terve, maailma!
@@ -26,7 +26,7 @@ sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaam
 Panglo on säännöllinen ja yksinkertainen.
 Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisiä kieliä.
 Panglossa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
-Panglo on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_regule.md).
+Panglo on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](G-baze.md).
 Kaikki voivat oppia panglon alkeet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää pangloa kuin huonoa englantia.
@@ -65,7 +65,7 @@ eli yleensä tekijä on lauseen alussa, sitten teonsana ja viimeisenä tekemisen
 **mi love yu.**
 – Minä rakastan sinua.
 
-![](http://www.kupsala.net/panglobish/grafe/Freepik_love.png)  
+![](http://www.pandunia.info/panglobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Samaa sanajärjestystä käytetään myös kysymyslauseissa.  
@@ -139,9 +139,9 @@ Kokeile pangloa kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaist
 Se toimii!
 
 Tällä hetkellä voit kokeilla pangloa ainakin meidän
-[Facebook-ryhmässämme](https://www.facebook.com/groups/panglobish),
-[Reddit-foorumillamme](https://www.reddit.com/r/panglobish/)
-ja [Telegram-keskustelukanavallamme](https://t.me/+1AzKvH6RjZhmZmIy).
+[omalla keskustelupalstalla](https://pandunia.info/forum/viewforum.php?f=3),
+[Facebook-ryhmässä](https://www.facebook.com/groups/panglobish)
+ja [Reddit-foorumilla](https://www.reddit.com/r/panglobish/).
 
 Pangloa ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät pangloa hyvänä ideana, niin myös _muut_ ajattelevat samoin.

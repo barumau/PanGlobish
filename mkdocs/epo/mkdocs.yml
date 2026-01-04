@@ -1,5 +1,5 @@
 site_name: Panglo
-site_url: http://www.kupsala.net/panglo/esperanto
+site_url: http://www.pandunia.info/panglo/esperanto
 repo_url: https://github.com/barumau/PanGlobish/
 site_author: Risto Kupsala
 docs_dir: ../../epo
@@ -25,9 +25,12 @@ nav:
 #        - 'Panglo kontraŭ la angla': I_Panglo_vs_English.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/panglobish/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/panglobish
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/+1AzKvH6RjZhmZmIy
+markdown_extensions:
+  - toc:
+      toc_depth: 2

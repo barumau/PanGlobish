@@ -54,7 +54,7 @@ Verrataan pangloa vielä laajemmin indo-eurooppalaisiin kieliin.
 
 | Kieli       | Esimerkkilause                   | Huomioita                                         |
 |-------------|----------------------------------|---------------------------------------------------|
-| Panglo      | *tu es mi's nov frende.*         |                                                   |
+| Panglo      | *tu es mi's nuve frende.*        |                                                   |
 | Englanti    | *You are my new friend.*         |                                                   |
 | Saksa       | *Du bist mein neuer Freund.*     |                                                   |
 | Ranska      | *Tu es mon nouvel ami*.          |                                                   |
@@ -67,7 +67,7 @@ Panglon lause muistuttaa niin germaanisia, romaanisia kuin slaavilaisia kieliä 
 Jos *frende*-sanan paikalle vaihdettaisiin sen synonyymi *doste*,
 lauseen merkitys saattaisi olla ymmärrettävä jopa indo-iranilaisten kielten puhujille
 – varsinkin *olla*-verbistä riisutussa muodossa:
-**tu - mi's nov doste**.
+**tu - mi's nuve doste**.
 
 Yhteenvetona, panglon sanat ja lauseet voivat muistuttaa monia kieliä mutta aina esiintyy myös eroavaisuuksia.
 Panglo on siis itsenäinen kieli ja osa maailmanlaajuista kielten verkostoa.

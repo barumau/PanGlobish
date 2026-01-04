@@ -44,7 +44,7 @@ but in fact the English words are only the tip of the iceberg.
 A lot more is hidden under the surface!
 Panglo is much more diverse than what one might see at first sight.
 
-![](http://www.kupsala.net/panglo/grafe/aismonte_eng.png "picture of an iceberg")
+![](http://www.pandunia.info/panglo/grafe/aismonte_eng.png "picture of an iceberg")
 
 The more you study Panglo, the more cosmopolitan it appears.
 
@@ -72,7 +72,7 @@ One can also question the practical implications of including 51 languages versu
 The increase in coverage would be marginal, only 0.36%,
 and it would not help the remaining 24.24% of the world who speak other, smaller languages!
 
-![](http://www.kupsala.net/panglo/grafe/kumule.png)  
+![](http://www.pandunia.info/panglo/grafe/kumule.png)  
 Figure. Percentage of world population by language by number of native speakers.
 
 The vocabulary of Panglo is based on the most spoken languages.

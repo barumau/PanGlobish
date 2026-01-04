@@ -22,7 +22,7 @@ Sen sijaan luku ilmaistaan lukusanoilla ja muilla määrää ilmaisevilla sanoil
 **for haus**
 – neljä taloa
 
-Muut perusluvut on lueteltu [lukusanoja käsittelevässä luvussa](105_numbe.md).
+Muut perusluvut on lueteltu [lukusanoja käsittelevässä luvussa](G-NUM.md).
 
 Muita yleisiä määrää ilmaisevia sanoja ovat **som** (_joitakin_), **meni** (_monta_) ja **muche** (_paljon_).
 
@@ -38,8 +38,7 @@ Muita yleisiä määrää ilmaisevia sanoja ovat **som** (_joitakin_), **meni** 
 
 Määräistä artikkelia käytetään
 viittaamaan tiettyyn eli määrättyyn asiaan, joka on jo mainittu tai joka tunnetaan muuten.
-Epämääräistä artikkelia käytetään 
-viittaamaan uuteen tai aiemmin mainitsemattomaan asiaan.
+Epämääräistä artikkelia käytetään viittaamaan uuteen tai aiemmin mainitsemattomaan asiaan.
 
 Nyrkkisääntö artikkelien käytöstä:
 Käytä määräistä artikkelia, kun tiedät täsmälleen mitä haluat,

@@ -1,0 +1,266 @@
+site_name: Panglo
+site_description: "Globally sourced international auxiliary language"
+site_url: https://www.pandunia.info/panglo
+site_author: Risto Kupsala et al.
+site_dir: ../html/panglo
+use_directory_urls: false
+
+theme:
+    name: material
+    include_sidebar: false
+    palette:
+      primary: plum
+nav:
+  - 'Grammar':
+    - 'The 10 rules': G-baze.md
+    - 'World Words': L-lexe.md
+    - 'Spelling and pronunciation': G-ABC.md
+    - 'Regular Accent': 103_aksente.md
+    - Nouns : G-N.md
+    - Numerals: G-NUM.md
+    - Modifiers: G-ADJ.md
+    - Pronouns: G-PRO.md
+    - Verbs: G-V.md
+    - 'Sentence Structure': 109_lexe_orde.md
+    - 'Word building': G-AFX.md
+  - Lessons:
+    - 'Lesson 1': 201_lecion_1.md
+    - 'Lesson 2': 202_lecion_2.md
+  - Vocabulary:
+    - "English–Panglo" : do_panglo.md
+    - "Panglo–English" : of_panglo.md
+  - 'About':
+    - 'The idea': I-idea.md
+    - 'Panglo vs English': I_Panglo_vs_English.md
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/viewforum.php?f=3
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/panglobish/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/panglobish
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+extra_css:
+    - extra.css
+
+plugins:
+  - search:
+      lang: fi
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      default_language: fi
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: eo
+          name: Esperanto
+          build: true
+          site_name: "Panglo lingvo"
+          site_description: "Internacia helpa lingvo el la tuta mondo"
+          nav_translations:
+            Introduction: Enkonduko
+            Grammar: Gramatiko
+            "The 10 rules": "10 reguloj"
+            "World Words": "Mondaj vortoj"
+            "Spelling and pronunciation": "Literumo kaj prononco"
+            "Regular Accent": "Regula akcento"
+            Nouns : Substantivoj
+            Numerals: Numeraloj
+            Modifiers: Adjektivoj
+            Pronouns: Pronomoj
+            Verbs: Verboj
+            "Sentence Structure": "Fraza strukturo"
+            "Word building": "Vortkonstruado"
+            Lessons: Lecionoj
+            "Lesson 1": "Leciono 1"
+            "Lesson 2": "Leciono 2"
+            Phrases: Frazoj
+            Vocabulary: Vortaro
+            "English–Panglo": "espranto–panglo"
+            "Panglo–English": "panglo–esperanto"
+            "About": Informoj
+            "The idea": Ideo
+            "Panglo vs English": "Panglo vs angla"
+        - locale: es
+          name: Español
+          build: true
+          site_name: "Idioma Panglo"
+          site_description: "Lengua auxiliar internacional de origen global"
+          nav_translations:
+            Introduction: Introducción
+            Grammar: Gramática
+            "The 10 rules": "10 reglas"
+            "World Words": "Palabras del mundo"
+            "Spelling and pronunciation": "Ortografía y pronunciación"
+            "Regular Accent": "Acento regular"
+            Nouns : Sustantivos
+            Numerals: Numerales
+            Modifiers: Adjetivos
+            Pronouns: Pronombres
+            Verbs: Verbos
+            "Sentence Structure": "Estructura de la oración"
+            "Word building": "Formación de palabras"
+            Lessons: Lecciones
+            "Lesson 1": "Lección 1"
+            "Lesson 2": "Lección 2"
+            Phrases: Frases
+            Vocabulary: Vocabulario
+            "English–Panglo": "español–panglo"
+            "Panglo–English": "panglo–español"
+            "About": "Acerca de"
+            "The idea": Idea
+            "Panglo vs English": "Panglo vs inglés"
+        - locale: fi
+          name: Suomi
+          build: true
+          site_name: "Panglon kieli"
+          site_description: "Finno-Ugric interlanguage"
+          nav_translations:
+            Introduction: Esittely
+            Grammar: Kielioppi
+            "The 10 rules": "10 sääntöä"
+            "World Words": "Maailman sanat"
+            "Spelling and pronunciation": "Äänne- ja kirjoitusasu"
+            "Regular Accent": "Painotus"
+            Nouns : Nimisant
+            Numerals: Lukusanat
+            Modifiers: Laatusanat
+            Pronouns: Viittaussanat
+            Verbs: Teonsanat
+            "Sentence Structure": Lauserakenne
+            "Word building": "Sanojen johtaminen"
+            Lessons: Oppitunnit
+            "Lesson 1": "Oppitunti 1"
+            "Lesson 2": "Oppitunti 2"
+            Phrases: Lauseita
+            Vocabulary: Sanasto
+            "English–Panglo": "suomi–panglo"
+            "Panglo–English": "panglo–suomi"
+            "About": Tietoja
+            "The idea": Idea
+            "Panglo vs English": "Panglo vs englanti"
+        - locale: fr
+          name: Français
+          build: true
+          site_name: "langue Panglo"
+          site_description: "langue auxiliaire internationale de source mondiale"
+          nav_translations:
+            Introduction: Introduction
+            Grammar: Grammaire
+            "The 10 rules": "10 règles"
+            "World Words": "Mots du monde"
+            "Spelling and pronunciation": "Orthographe et prononciation"
+            "Regular Accent": "Accent régulier"
+            Nouns : Noms
+            Numerals: Numéraux
+            Modifiers: Adjectifs
+            Pronouns: Pronoms
+            Verbs: Verbes
+            "Sentence Structure": "Structure de la phrase"
+            "Word building": "Formation des mots"
+            Lessons: Leçons
+            "Lesson 1": "Leçon 1"
+            "Lesson 2": "Leçon 2"
+            Phrases: Phrases
+            Vocabulary: Vocabulaire
+            "English–Panglo": "français–panglo"
+            "Panglo–English": "panglo–français"
+            "About": À propos
+            "The idea": Idée
+            "Panglo vs English": "Panglo vs anglais"
+        - locale: it
+          name: Italiano
+          build: true
+          site_name: "Lingua Panglo"
+          site_description: "Lingua ausiliaria internazionale di origine globale"
+          nav_translations:
+            Introduction: Introduzione
+            Grammar: Grammatica
+            "The 10 rules": "10 regole"
+            "World Words": "Parole del mondo"
+            "Spelling and pronunciation": "Ortografia e pronuncia"
+            "Regular Accent": "Accento regolare"
+            Nouns : Sostantivi
+            Numerals: Numerali
+            Modifiers: Aggettivi
+            Pronouns: Pronomi
+            Verbs: Verbi
+            "Sentence Structure": "Struttura della frase"
+            "Word building": "Formazione delle parole"
+            Lessons: Lezioni
+            "Lesson 1": "Lezione 1"
+            "Lesson 2": "Lezione 2"
+            Phrases: Frasi
+            Vocabulary: Vocabolario
+            "English–Panglo": "italiano–panglo"
+            "Panglo–English": "panglo–italiano"
+            "About": Informazioni
+            "The idea": Idea
+            "Panglo vs English": "Panglo vs inglese"
+        - locale: pt
+          name: Português
+          build: true
+          site_name: "Língua Panglo"
+          site_description: "Língua auxiliar internacional de origem global"
+          nav_translations:
+            Introduction: Introdução
+            Grammar: Gramática
+            "The 10 rules": "10 regras"
+            "World Words": "Palavras do mundo"
+            "Spelling and pronunciation": "Ortografia e pronúncia"
+            "Regular Accent": "Acento regular"
+            Nouns : Substantivos
+            Numerals: Numerais
+            Modifiers: Adjetivos
+            Pronouns: Pronomes
+            Verbs: Verbos
+            "Sentence Structure": "Estrutura da frases"
+            "Word building": "Formação de palavras"
+            Lessons: Lições
+            "Lesson 1": "Lição 1"
+            "Lesson 2": "Lição 2"
+            Phrases: Frases
+            Vocabulary: Vocabulário
+            "English–Panglo": "português–panglo"
+            "Panglo–English": "panglo–português"
+            "About": Sobre
+            "The idea": Ideia
+            "Panglo vs English": "Panglo vs inglês"
+        - locale: th
+          name: ไทย
+          build: true
+          site_name: "ภาษาแปงโล"
+          site_description: "ภาษาสากลเสริมระหว่างประเทศที่มีต้นกำเนิดทั่วโลก"
+          nav_translations:
+            Introduction: บทนำ
+            Grammar: ไวยากรณ์
+            "The 10 rules": "10 กฎ"
+            "World Words": "คำจากทั่วโลก"
+            "Spelling and pronunciation": "การสะกดคำและการออกเสียง"
+            "Regular Accent": "การเน้นเสียงปกติ"
+            Nouns : คำนาม
+            Numerals: ตัวเลข
+            Modifiers: คำคุณศัพท์
+            Pronouns: สรรพนาม
+            Verbs: คำกริยา
+            "Sentence Structure": "โครงสร้างประโยค"
+            "Word building": "การสร้างคำ"
+            Lessons: บทเรียน
+            "Lesson 1": "บทเรียน 1"
+            "Lesson 2": "บทเรียน 2"
+            Phrases: วลี
+            Vocabulary: คำศัพท์
+            "English–Panglo": "ไทย–แปงโล"
+            "Panglo–English": "แปงโล–ไทย"
+            "About": เกี่ยวกับ
+            "The idea": แนวคิด
+            "Panglo vs English": "แปงโล กับ อังกฤษ"
+

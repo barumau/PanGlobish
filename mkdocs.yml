@@ -6,10 +6,10 @@ site_dir: ../html/panglo
 use_directory_urls: false
 
 theme:
-    name: material
-    include_sidebar: false
-    palette:
-      primary: plum
+  name: material
+  include_sidebar: false
+  palette:
+    primary: plum
 nav:
   - 'Grammar':
     - 'The 10 rules': G-baze.md
@@ -44,7 +44,7 @@ markdown_extensions:
   - toc:
       toc_depth: 2
 extra_css:
-    - extra.css
+    - assets/stile.css
 
 plugins:
   - search:
@@ -234,6 +234,35 @@ plugins:
             "About": Sobre
             "The idea": Ideia
             "Panglo vs English": "Panglo vs inglês"
+        - locale: ru
+          name: Русский
+          build: true
+          site_name: "Язык Пангло"
+          site_description: "Международный вспомогательный язык глобального происхождения"
+          nav_translations:
+            Introduction: Введение
+            Grammar: Грамматика
+            "The 10 rules": "10 правил"
+            "World Words": "Мировые слова"
+            "Spelling and pronunciation": "Правописание и произношение"
+            "Regular Accent": "Регулярное ударение"
+            Nouns : Существительные
+            Numerals: Числительные
+            Modifiers: Прилагательные
+            Pronouns: Местоимения
+            Verbs: Глаголы
+            "Sentence Structure": "Структура предложения"
+            "Word building": "Словообразование"
+            Lessons: Уроки
+            "Lesson 1": "Урок 1"
+            "Lesson 2": "Урок 2"
+            Phrases: Фразы
+            Vocabulary: Словарь
+            "English–Panglo": "русский–пангло"
+            "Panglo–English": "пангло–русский"
+            "About": О языке
+            "The idea": Идея
+            "Panglo vs English": "Пангло против английского"
         - locale: th
           name: ไทย
           build: true
@@ -263,4 +292,3 @@ plugins:
             "About": เกี่ยวกับ
             "The idea": แนวคิด
             "Panglo vs English": "แปงโล กับ อังกฤษ"
-

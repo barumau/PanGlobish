@@ -1,3 +1,4 @@
+
 # Word Derivation
 
 Making new words from existing words is called word derivation.
@@ -74,29 +75,29 @@ including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
 in order to re-create many international words as native Panglo words.
 
              a-      'to, toward'
-       +    ses      'go, pass'
+       +   cese      'go, pass'
     ____________
-    =      ases      'get past to, access'
+    =     acese      'get past to, access'
 
            pro-      'forward, to the front'
-       +    ses      'go, pass'
+       +   cese      'go, pass'
     ____________
-    =    proses      'pass forward, process'
+    =   procese      'pass forward, process'
 
             re-      'back to'
-       +    ses      'go, pass'
+       +   cese      'go, pass'
     ____________
-    =     reses      'pass back, recede'
+    =    recese      'pass back, recede'
 
             de-      'away, off'
-       +    ses      'go, pass'
+       +   cese      'go, pass'
     ____________
-    =     deses      'pass away, die'
+    =    decese      'pass away, die'
 
             su-      'good, well'
-       +    ses      'go, pass'
+       +   cese      'go, pass'
     ____________
-    =     suses      'go well, succeed'
+    =    sucese      'go well, succeed'
 
 Note that these international prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
@@ -651,6 +652,32 @@ which are used before other suffixes.
 → **esentik**
 'essential'
 
+#### -enda
+
+Indicates 'what should be, or needs to be, done'.
+
+**age**
+'to do'
+→ **agenda**
+'agenda, list of things that need to be done'  
+**ade**
+'to add'
+→ **adenda**
+'addendum, something to be added'  
+**dele**
+'to delete'
+→ **delenda**
+'delenda, something to be deleted or removed'  
+**krede**
+'to believe'
+→ **kredenda**
+'credendum, something to be believed'  
+**korege**
+'to correct'
+→ **koregenda**
+'corrigendum, something to be corrected'
+
+
 #### -er ~ -ter
 
 The suffix
@@ -658,31 +685,27 @@ The suffix
 means 'a person who is occupied with the action of the base word'.
 It implies often but not always a professional occupation.
 
-**ate**
-'to do, to act'
-→ **ater**
-'doer, actor, one who does or acts'  
-**bak**
+**bake**
 'to bake'
 → **baker**
 'baker'  
-**lid**
+**lide**
 'to lead'
 → **lider**
 'leader, the one who leads'  
-**filsof**
+**filsofe**
 'to think deeply'
 → **filsofer**
 'philosopher'  
-**sapat**
+**sapate**
 'shoe'
 → **sapater**
 'shoemaker'  
-**musket**
+**muskete**
 'musket'
 → **musketer**
 'musketeer'  
-**kas**
+**kase**
 'box, cash box'
 → **kaser**
 'cashier'
@@ -770,7 +793,7 @@ The suffix
 **-(o)filia**
 means 'extraordinary or abnormal liking of something'.
 
-**bash**
+**bashe**
 'language'
 → **bashofilia**
 'glossophilia, linguaphilia, the love of language'  
@@ -810,7 +833,7 @@ The suffix
 has a variety of meanings,
 but fundamentally it means a collective of things or a community of people.
 
-**nes**
+**nese**
 'island'
 → **nesia**
 'archipelago'  
@@ -887,11 +910,11 @@ The suffix
 **-(t)ik**
 means something that is characterized by the thing or quality indicated by the base word.
 
-**baz**
+**baze**
 'base, basis'
 → **bazik**
 'basic'  
-**fiz**
+**fize**
 'body'
 → **fizik**
 'physical'  
@@ -932,15 +955,11 @@ means something that is in the position or rank that is indicated by the base wo
 The suffix
 **-(t)ion**
 means 'an action or process'.
-**ate**
-'act'
-→ **ation**
-'action'  
 **dit**
 'say'
 → **dition**
 'saying, diction'  
-**konsum**
+**konsume**
 'consume'
 → **konsumion**
 'consumption'  
@@ -959,9 +978,9 @@ means an ideology, a way of thinking or a way of life.
 'alcohol'
 → **alkolisme**
 'alcoholism'  
-**ativ**
+**agtiv**
 'active'
-→ **ativisme**
+→ **agtivisme**
 'activism'  
 **deo**
 'god'
@@ -978,14 +997,15 @@ means a person who tends to behave or think in a certain way or an adherent of a
 'alcohol'
 → **alkoliste**
 'alcoholic, alcoholist'  
-**ativ**
+**agtiv**
 'active',
-→ **ativiste**
+→ **agtiviste**
 'activist'  
 **deo**
 'god'
 → **deiste**
 'theist, one who believes in existence of a god or gods'
+
 #### -it ~ -lit
 
 The suffix
@@ -1011,9 +1031,9 @@ The suffix
 **-(i)ta**
 creates abstract nouns that represent a quality or a state.
 
-**nov**
+**nuve**
 'new, novel'
-→ **novita**
+→ **nuvita**
 'newness, novelty'  
 **un**
 'one'
@@ -1042,9 +1062,9 @@ means 'chemical element'.
 The suffix
 **-(t)iv**
 means someone who tends to do what the base word says.
-**ate**
+**age**
 'act, perform'
-→ **ativ**
+→ **agtiv**
 'active, inclined to act'  
 **exploz**
 'explode'
@@ -1180,6 +1200,13 @@ indicates intensification or concentration, frequently but not necessarily into 
 'small'
 → **litul**
 'little'
+
+#### -ura ~ -tura
+
+The suffix
+**-(t)ur**
+means something that is the result or product of the action that is indicated by the base word.
+
 **kulte**
 'cultivate a way of life'
 → **kultura**
@@ -1263,3 +1290,4 @@ indicates intensification or concentration, frequently but not necessarily into 
 'malt'
 → **maltos**
 'maltose'
+

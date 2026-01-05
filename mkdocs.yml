@@ -5,6 +5,15 @@ site_author: Risto Kupsala et al.
 site_dir: ../html/panglo
 use_directory_urls: false
 
+# Repository
+repo_name: 'panglo'
+repo_url: 'https://github.com/barumau/panglobish'
+edit_uri: 'edit/main/docs/'
+
+# Copyright
+copyright: CC-BY-SA-4.0
+
+# Configuration
 theme:
   name: material
   include_sidebar: false
@@ -21,7 +30,7 @@ nav:
     - Modifiers: G-ADJ.md
     - Pronouns: G-PRO.md
     - Verbs: G-V.md
-    - 'Sentence Structure': 109_lexe_orde.md
+    - 'Sentence structure': G-P.md
     - 'Word building': G-AFX.md
   - Lessons:
     - 'Lesson 1': 201_lecion_1.md
@@ -48,17 +57,17 @@ extra_css:
 
 plugins:
   - search:
-      lang: fi
+      lang: en
   - i18n:
       docs_structure: folder
       fallback_to_default: true
       reconfigure_material: true
       reconfigure_search: true
-      default_language: fi
+      default_language: en
       languages:
         - locale: en
-          default: true
           name: English
+          default: true
           build: true
         - locale: eo
           name: Esperanto
@@ -84,7 +93,7 @@ plugins:
             "Lesson 2": "Leciono 2"
             Phrases: Frazoj
             Vocabulary: Vortaro
-            "English–Panglo": "espranto–panglo"
+            "English–Panglo": "esperanto–panglo"
             "Panglo–English": "panglo–esperanto"
             "About": Informoj
             "The idea": Ideo

@@ -1,170 +1,223 @@
-# The 10 Rules of Panglo
 
-Panglo is so simple that its basic grammar can be described in only ten rules,
+# The 12 basic rules of Panglo
+
+Panglo is so simple that its basic grammar can be described in only twelve rules,
 all of which can fit on a sheet of paper.
 There are no exceptions.
 
-### (1) World words
+1.  **World words**
 
-Panglo is an evenly global language.
-International words are borrowed from all parts of the world to Panglo.
-They are adapted to the pronunciation and orthography of Panglo.
-One basic word is admitted and additional words are built from it according to rule 10.
+    Panglo is an evenly global language.
+    International words are borrowed from all parts of the world to Panglo.
+    They are adapted to the pronunciation and orthography of Panglo.
+    One basic word is admitted and additional words are built from it according to rule 12.
 
+    [Read more!](L-lexe.md)
 
-### (2) Spelling and pronunciation
+2.  **Spelling and pronunciation**
 
-Spelling is simple and regular.
-Every word is pronounced exactly as it is written.
-Almost every letter and letter-combination indicates always the same sound.
+    Spelling is simple and regular.
+    Every word is pronounced exactly as it is written.
+    Almost every letter and letter-combination indicates always the same sound.
 
+    [Read more!](G-ABC.md)
 
-### (3) Regular stress accent
+3.  **Regular stress accent**
 
-Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-**háu** ('nice'), **dúnia** ('world'), **básh** ('language'), **amén** ('amen').
-Derived words and compound words are stressed according to their components so that the main component carries the primary stress
-and other components may carry secondary stress, f.ex.
-**trabásh** ('translate'), **dúnialìsme** ('globalism'), **bàsh skóla** ('language school').
-Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
+    Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
+    *háo* ('nice'), *dúnia* ('world'), *báshe* ('language'), *amén* ('amen').
+    Derived words and compound words are stressed according to their components so that the main component carries the primary stress
+    and other components may carry secondary stress, f.ex.
+    *trabáshe* ('translate'), *dúnialìsme* ('globalism'), *bàshe skóle* ('language school').
+    Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
+4.  **Word classes**
 
-### (4) Pronouns
+    Panglo is an analytical language.
+    It means that its words do not inflect or change their form because of grammar.
+    Therefore the same word can function in different grammatical roles,
+    for example as noun, verb, adjective or adverb,
+    without any change in form.
+    Word forms change only when the word's meaning changes.
 
-The personal pronouns are:  
-**mi**
-'I',
-**tu**
-'you' (singular),
-**hi**
-'he, she, it',
-**vi**
-'we',
-**yu**
-'you' (plural),
-**de**
-'they'.
+    This consistent system is a key factor for Panglo's grammatical simplicity
+    as it allows for direct communication without formal grammatical errors.
 
-The possessive pronouns are:  
-**mi's**
-'my',
-**tu's**
-'your',
-**hi's**
-'his or her',
-**vi's**
-'our',
-**yu's**
-'your',
-**de's**
-'their'.
+    [Read more!](G-PoS.md)
 
-The interrogative pronouns are:
-**vat**
-'what',
-**hu**
-'who',
-**hu's**
-'whose'.
+5.  **Pronouns**
 
+    The personal pronouns are:  
+    *mi*
+    'I',
+    *tu*
+    'you' (singular),
+    *hi*
+    'he, she, it',
+    *vi*
+    'we',
+    *yu*
+    'you' (plural),
+    *de*
+    'they'.
 
-### (5) Nouns
+    The possessive pronouns are:  
+    *mi's*
+    'my',
+    *tu's*
+    'your',
+    *hi's*
+    'his or her',
+    *vi's*
+    'our',
+    *yu's*
+    'your',
+    *de's*
+    'their'.
 
-Nouns have only one form, always the same.
-Their form is not affected by number, gender or case.
-Number is indicated by number and quantity words.
-Their role is indicated by word order or by a preposition.
+    The interrogative pronouns are:
+    *vat*
+    'what',
+    *hu*
+    'who',
+    *hu's*
+    'whose'.
 
-### (6) Numerals
+    [Read more!](G-PRO.md)
 
-The cardinal numbers are:  
-0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
-7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
-Greater than ten:
-11 **ten un**, 12 **ten du**, 13 **ten tri**,
-etc.  
-Tens:
-20 **du ten**, 30 **tri ten**, 40 **for ten**,
-etc.  
-Hundreds:
-100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
-etc.  
-Thousands:
-1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
-etc.
+6.  **Nouns**
 
-When a number is put after the noun, it becomes the corresponding ordinal number:  
-**parte un**
-– part one, the first part  
-**parte du**
-– part two, the second part  
-**parte tri**
-– part three, the third part
+    Nouns have only one form, always the same.
+    Their form is not affected by number, gender or case.
+    Number is indicated by number and quantity words.
+    Their role is indicated by word order or by a preposition.
 
+    [Read more!](G-N.md)
 
-### (7) Modifiers
+7.  **Numerals**
 
-The adjective and the adverb have the same form.
-The adjective modifier is before the noun that it modifies,
-and the adverb modifier is before the verb that it modifies.
+    The cardinal numbers are:  
+    0 *siro*, 1 *un*, 2 *du*, 3 *tri*, 4 *for*, 5 *faif*, 6 *sixe*,
+    7 *seven*, 8 *eit*, 9 *nain*, 10 *ten*.  
+    Greater than ten:
+    11 *ten un*, 12 *ten du*, 13 *ten tri*,
+    etc.  
+    Tens:
+    20 *du ten*, 30 *tri ten*, 40 *for ten*,
+    etc.  
+    Hundreds:
+    100 *un hunde*, 200 *du hunde*, 300 *tri hunde*,
+    etc.  
+    Thousands:
+    1000 *un tauzen*, 2000 *du tauzen*, 3000 *tri tauzen*,
+    etc.
 
-**un rapid logu**
-– A fast speech.  
-**tu rapid logu.**
-– You speak fast.
+    When a number is put after the noun, it becomes the corresponding ordinal number:  
+    *parte un*
+    – part one, the first part  
+    *parte du*
+    – part two, the second part  
+    *parte tri*
+    – part three, the third part
 
+    [Read more!](G-NUM.md)
 
-### (8) Verbs
+8.  **Adjectives**
 
-The verb does not change in person, number and tense.
-Auxiliary verbs indicate time.
+    Adjectives modify nouns.
+    The adjective modifier is before the noun that it modifies.
 
-- **bi**
-  indicates an ongoing event.
-- **hav**
-  indicates a completed event, which has an effect on the present situation.
-- **did**
-  indicates a past event.
-- **vil**
-  indicates a future event.
+    *un rapid logu*  
+    'a fast speech'
 
+    [Read more!](G-ADJ.md)
 
-### (9) Word order
+9.  **Adverbs**
 
-The word order is subject–verb–object.
-The same order is used in declarations and questions.
+    Adverbs modify verbs, adjectives, other adverbs and complete sentences.
+    They come before the word that they modify or very last in the sentence.
 
-A passive sentence is created with the help of the passive auxiliary verb
-**ben**.
-A similar effect can also be reached with the impersonal pronoun
-**von**.
+    *un ver long logu*
+    – a very long talk  
+    *tu long logu.*
+    – You talk long.
 
-**Panglo ben logu.**
-– Panglo is spoken.  
-**von logu Panglo.**
-– One speaks Panglo.
+    [Read more!](G-ADV.md)
 
-In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
-**mi ples tu logu Panglo.**
-– I ask you to speak Panglo.
+10. **Verbs**
 
-Pronouns can be left out when they are obvious and redundant.  
-**_mi_ ples _tu_ logu Panglo.**
-→ **ples logu Panglo.**  
-– Please speak Panglo.
+    Panglo verbs do not change in person, number, tense or any other grammatical category.
+    Therefore a plain verb can be understood in many ways
+    (though usually only one interpretation is fitting in the context of the discussion).
 
+    *mi stude panglo.*  
+    'I study ~ studied ~ will study Panglo.'
 
-### (10) Word building
+    Auxiliary verbs can be used to indicate the moment, the duration and the lasting impact of an action.
 
-In Panglo, words change only when their actual meaning changes.
-Words don't ever change only to serve in a different grammatical role.
-Compound words are made by combining the elements that form them.
-The main word stands at the end.
+    -   *bi*
+        indicates an ongoing event.
+    -   *hav*
+        indicates a completed event, which has an effect on the present situation.
+    -   *did*
+        indicates a past event.
+    -   *vil*
+        indicates a future event.
 
-**poste**
-('mail') +
-**kase**
-('box') =
-**poste kase**
-('mailbox')
+    *mi hav stude panglo.*  
+    'I have studied Panglo.'
+
+    [Read more!](G-V.md)
+
+11. **Word order in clauses**
+
+    The word order is subject–verb–object.
+    The same order is used in declarations and questions.
+
+    A passive sentence is created with the help of the passive auxiliary verb
+    *ben*.
+    A similar effect can also be reached with the impersonal pronoun
+    *von*.
+
+    *Panglo ben logu.*
+    – Panglo is spoken.  
+    *von logu Panglo.*
+    – One speaks Panglo.
+
+    In the **pivot construction**, the object of the transitive verb functions as the subject of the following verb.
+
+    *mi ples tu logu Panglo.*
+    – I ask you to speak Panglo.
+
+    Pronouns can be left out when they are obvious and redundant.
+    *_mi_ ples _tu_ logu Panglo.*
+    → *ples logu Panglo.*  
+    – Please speak Panglo.
+
+    [Read more!](G-P.md)
+
+12. **Word building**
+
+    In Panglo, words change only when their actual meaning changes.
+    Words don't ever change only to serve in a different grammatical role.
+    Compound words are made by combining the elements that form them by putting one element after another
+    so that the main element stands at the end.
+
+    *poste*
+    ('mail') +
+    *kase*
+    ('box') =
+    *postekase*
+    ('mailbox')
+
+    The linking vowel, *-o-*, can be inserted between the elements especially in compound words that stem from the Greek language.
+
+    *dem*
+    ('people') +
+    *kratia*
+    ('government, rule') =
+    *demokratia*
+    ('democracy, rule by the people')
+
+    [Read more!](G-AFX.md)
 

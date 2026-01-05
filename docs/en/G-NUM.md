@@ -11,7 +11,7 @@ However, greater numbers are arranged more logically in Panglo.
 | 2 due   | 12 ten due   | 22 due ten due   | 32 tri ten due   |
 | 3 tri   | 13 ten tri   | 23 due ten tri   | 33 tri ten tri   |
 | 4 for   | 14 ten for   | 24 due ten for   | 34 tri ten for   |
-| 5 faif  | 15 ten faif  | 25 du ten faif   | 35 tri ten faif  |
+| 5 faif  | 15 ten faif  | 25 due ten faif  | 35 tri ten faif  |
 | 6 sixe  | 16 ten sixe  | 26 due ten sixe  | 36 tri ten sixe  |
 | 7 seven | 17 ten seven | 27 due ten seven | 37 tri ten seven |
 | 8 eite  | 18 ten eite  | 28 due ten eite  | 38 tri ten eite  |
@@ -70,7 +70,7 @@ They are put before the word or phrase that they qualify.
 
 **un star**
 – one star  
-**du star**
+**due star**
 – two stars  
 **tri star**
 – three stars  
@@ -81,7 +81,7 @@ They are put before the word or phrase that they qualify.
 
 **un dai kursi**
 – one big chair  
-**du dai kursi**
+**due dai kursi**
 – two big chairs  
 **tri dai kursi**
 – three big chairs
@@ -94,7 +94,7 @@ but they are placed after the noun that they modify.
 
 **parte un**
 – part one (the first part)  
-**parte du**
+**parte due**
 – part two (the second part)  
 **parte tri**
 – part three (the third part)
@@ -110,7 +110,7 @@ which includes, among many others,
 'liter',
 **mitre**
 'meter',
-**botle**
+**botil**
 'bottle',
 **kupa**
 'cup, mug',
@@ -128,13 +128,13 @@ which includes, among many others,
 Measure words are used in this simple structure:
 number + measure word + **se** + noun.
 
-**du litre se jus**
+**due litre se jus**
 – two liters of juice  
 **tri metre se kable**
 – three meters of wire  
 **un kupa se kafe**
 – a cup of cofee  
-**du botle se vin**
+**due botle se vin**
 – two bottles of wine  
 **tri sake se patato**
 – three sacks of potatoes  
@@ -153,18 +153,18 @@ Firstly, the word
 **parte**
 can be interpreted as a classifier of measurement.
 Then, for example,
-**du parte tri**
+**due parte tri**
 is interpreted as 'two parts of three (parts)'.
 Secondly, the last numeral can be understood as an ordinal number that modifies
 **parte**.
 Then, for example,
-**du parte tri**
+**due parte tri**
 is interpreted as 'two thirds'.
 Both interpretations lead to the same result that
-**du parte tri**
+**due parte tri**
 stands for '2/3' in mathematical symbols.
 
-**un parte du**
+**un parte due**
 – a half (½)  
 **un parte for**
 – one fourth, one quarter (¼)  
@@ -178,11 +178,11 @@ stands for '2/3' in mathematical symbols.
 Fractions are connected to their noun head with
 **se**.
 
-**un parte du se haur**
+**un parte due se haur**
 – a half (of an) hour  
 **faif ten parte hunde se jen**
 – fifty percent of people  
-**du parte tri se keke**
+**due parte tri se keke**
 – two thirds of a cake  
 
 
@@ -191,7 +191,7 @@ It uses the pattern
 **X of Y parte**
 ('X of Y parts').
 
-**un of du parte**
+**un of due parte**
 – one of two parts, a half (½)  
 **un of for parte**
 – one of four parts, a quarter (¼)  
@@ -257,7 +257,7 @@ Alternatively there is also a number-based system of naming.
   – October
 11. **mes ten un**
   – November
-12. **mes ten du**
+12. **mes ten due**
   – December
 
 
